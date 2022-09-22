@@ -1,0 +1,96 @@
+EVERYTHING IS LITTLE-ENDIAN
+
+When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
+beginning of it.
+
+For moves, the status seems to be in two different places (and notably unrelated to description text).
+If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes
+are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second is percent (e.g. 0x64 is
+100%).
+
+If a chunk is longer than 0x30, the secondary stuff will be that many bytes later than what is said here.
+Hopefully.
+
+The first two bytes of a chunk represent what I call the Primary Status, the thing that actually has an
+icon in the game. If you change this, the icon near the move will change, but not the description text
+(that can be edited elsewhere). The first byte is the status ID, while the second is the percent to
+trigger.
+
+The table for this can be found below:
+- 01: nothing
+- 02: Normal Poison
+- 03: Gold Poison
+- 04: Venom (U-Raptor)
+- 05: Normal Sleep
+- 06: Gold Sleep
+- 07: Normal Scare
+- 08: Gold Scare
+- 09: Normal Enrage
+- 0A: Gold Enrage
+- 0B: Normal Confusion
+- 0C: Gold Confusion
+- 0D: Normal Excite
+- 0E: Gold Excite
+- 0F: Counter (Percent is for whether it is applied, 70% chance to counter is hardcoded)
+- 10: Super Counter (Percent is for whether it is applied, 100% chance to counter is hardcoded)
+- 11: Enflame
+- 12: Super Enflame
+- 13: Harden
+- 14: Super Harden
+- 15: Quicken
+- 16: Super Quicken
+- 17: Charge
+- 18: Super Charge (unused)
+
+If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
+
+Move FP/damage can (usually) be found at 0x18 to 0x1F. It's also usually reduplicated, so you get two
+bytes of FP, then two bytes of damage, then two bytes of FP, and then two bytes of damage. The damage 
+is BASE damage, i.e. Wiki Damage - Wiki Attack Stat.
+
+To make a move have --- and deal no damage, literally set the damage values to 0.
+
+The values for what I call the Secondary Status--so healing, FP steal, etc., really any effect that does
+not have an icon--can be found at 0x20 to 0x21. Again, the first byte is the ID, and the second is the
+percent to hit.
+
+Here is the table for those:
+- 01: nothing (everything is 00)
+- 02: Transformation (bytes after percent are 07 00, extra value is always 01 00, vivosaur IDs start
+  at 0x30 and are each one byte. Once again ID = vivoFiles file number. Also 0x28 is the number of
+  possible vivos to transform into)
+- 03: All-zone attack (always 0%, bytes after percent are 07 00, no extra value. Can hit your team if
+  used with a support effect like Harden, and can actually deal damage unlike with single-targeting.)
+- 04: Steal LP Equal to Damage (bytes after percent are 07 00, no extra value)
+- 05: Steal FP (bytes after percent are 07 00, extra value is stealing amount)
+- 06: Spite Blast (bytes after pecent are 07 00, extra value is damage amount)
+- 07: Power Scale (bytes after percent are 07 00, no extra value)
+- 08: Rotate (bytes after percent are 07 00, no extra value)
+- 09: Unused, it heals youself only (bytes after percent are unknown, extra value is healing amount)
+- 0A: Heal whole team (bytes after pecent are 05 00, extra value is healing amount)
+- 0B: Sacrifice (bytes after percent are 07 00, no extra value)
+- 0C: Law of the Jungle (bytes after percent are 07 00, no extra value)
+- 0D: Healing one ally (bytes after percent are 01 00, extra value is healing amount)
+- 0E: Unused, it heals one other ally only (bytes after percent are unknown, extra value is healing amount)
+- 0F: Cure all statuses (bytes after percent are 07 00, no extra value)
+- 10: Unused, it's Rotate except it deals no damage even with a damage value assigned (bytes after percent
+  are unknown, no extra value). This may be how Slippery Ice is implemented.
+- 11: Randomly attack enemy team (bytes after percent are 07 00, no extra value)
+- 12: Infection (bytes after percent are 07 00, extra value is 04 00, and since the wiki says it's
+  five turns to death I wager this controls that)
+- 13: Heal and cure statuses (bytes after percent are 01 00, extra value is healing amount)
+- 14: Heal and cure statuses for whole team (bytes after percent are 05 00, extra value is healing amount)
+- 15: Fickle Goddess [boost a stat randomly] (bytes after percent are 07 00, no extra value)
+- 16: Inflict effects randomly (bytes after percent are 07 00, no extra value)
+- 17: Instant KO (bytes after percent are 07 00, extra value is chance out of 256)
+- 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
+
+WARNING: For certain vivosaurs that are palette swaps of other ones [e.g. T-Rex Lord and Mapo King], the
+wrong model and sprite may be shown when you Transform into them. This has no effect on gameplay since the
+moves are all correct; this is just a cosmetic issue. It is believed that this is caused by transformation
+ignoring Silver Fossil recolorings, and such super evolvers being all internally considered recolors
+of the same model.
+
+Moves with an Extra Value, like healing, have theirs on the third and fourth bytes after the percent,
+as a two-byter. If there is no value, it's just 00 00 there. What exactly the Bytes After Percent do
+is currently unknown, so just stick with the numbers I pulled from vanilla moves.

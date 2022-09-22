@@ -1,0 +1,94 @@
+EVERYTHING IS LITTLE-ENDIAN
+
+When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
+beginning of it.
+
+The first four bytes are just the ID of the move. Then there's some random stuff no-one knows, probably to
+do with animations and stuff.
+
+0x1C tells you whether a move is "counter proof" or not. It is 00 if the move cannot be countered, and
+03 if it can.
+
+0x20-0x27 tell you the damage and cost of a move. The first two bytes are the FP cost, then there are two
+bytes of Base Damage (Wiki Damage - Wiki Attack Stat), and then it all repeats (although sometimes it does
+not repeat for unknown reasons).
+
+The Primary Status (the one that has an icon in the in-battle stats menu) is much less hardcoded than in
+FFC, taking up 0x28-0x2D (six bytes). The first byte is the effect, the second is the chance for it to hit,
+the third is how many turns it lasts, the fourth is its icon, and the fifth and sixth are values whose
+meaning depends on the effect. Note that changing this does not in any way change the moves' descriptions;
+there is one hardcoded description for each move.
+
+Here is the table for Primary Status effects:
+- 01: nothing
+- 02: Poison
+- 03: Sleep
+- 04: Scare
+- 05: Excite
+- 06: Confusion
+- 07: Enrage
+- 08: Counter
+- 09: Enflame
+- 0A: Harden
+- 0B: Quicken
+
+The icons go in order, with Normal Poison being 02, then Gold Poison being 03, then Normal Sleep being
+04, etc. Nothing moves have a turn count of 00, and an icon of 01.
+
+As stated previously, the values in 0x2C-0x2D have context-dependent meanings. So here is another table for
+them:
+- Nothing: 01 00
+- Poison: Percent of max LP damaged, then 00
+- Sleep: 00 00
+- Scare: Number of moves made unusable, then 00
+- Excite: 00 00
+- Confusion: 00 00
+- Enrage: Amount Attack is raised, then amount Accuracy is lowered
+- Counter: Percent chance a move will be countered, then 00
+- Enflame: Amount Attack is raised, then amount Defense is lowered
+- Harden: Amount Defense is raised, then 00
+- Quicken: Amount Evasion is raised, then 00
+
+Next up is what I call the Secondary Status (the non-icon effects), which take up much less space. The ID
+is at 0x30, then the percent to it, and then immediately after we have the secondary value (which can be
+assumed to be a single two-byte number).
+
+Here is another table for Secondary IDs:
+- 01: nothing
+- 02: Transformation
+- 03: All-zone attack
+- 04: Steal LP Equal to Damage
+- 05: Steal FP
+- 06: Spite Blast
+- 07: Power Scale
+- 08: Unused, based on FFC it probably swaps zones and deals damage too
+- 09: Unused, based on FFC it heals youself only
+- 0A: Heal whole team
+- 0B: Sacrifice
+- 0C: Law of the Jungle
+- 0D: Healing one ally
+- 0E: Unused, based on FFC it heals one other ally only
+- 0F: Cure all statuses
+- 10: Swap Zones
+
+And here is a table for secondary values:
+- Nothing: 00 00
+- Transformation: 01 00
+- All-Zone Attack: 00 00
+- Steal LP: 00 00
+- Steal FP: Amount of FP to steal
+- Spite Blast: Amount of damage dealt
+- Power Scale: 00 00
+- Unused 08: Presumably 00 00
+- Unused 09: Presumably the healing amount
+- Heal whole team: The healing amount
+- Sacrifice: 00 00
+- Law of the Jungle: 00 00
+- Healing one ally: The healing amount
+- Unused 0E: Presumably the healing amount
+- Cure all Statuses: 00 00
+- Swap Zones: 00 00
+
+If this is a transforming move, after the Secondary value you have one byte of "number of vivosaur's you
+can transform into," then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one
+byte each), and then some number of 00's

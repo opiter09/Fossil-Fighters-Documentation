@@ -1,0 +1,19 @@
+Unique to FF1 is a folder named "battle." Within this folder is a variety of small files, each given the
+cryptic name of simply a number. However, I was able to ascetain that these files actually store the definition
+for the teams of the various NPCs, and work out the three most important value (vivosaur IDs, levels, and
+numbers of moves).
+
+If you would just like to see all of that information, I have made a human-readable collection of it in the
+form of the file "Battle Files Teams.txt." I have also included the python script I used to generate it,
+namely ff1_teamsOutput.py. However, if you would like to actually edit that file, here is what I found:
+
+
+The vivosaurs start at 0x94. We get four bytes of ID, then four bytes of Level, and then four bytes that are
+always 00 00 00 00. If there are less than three vivosaurs on the team, their bytes simply do not exist, and
+we skip on to the next bit.
+
+After the vivosaur/level data is four bytes per vivosaur whose purpose is unknown; the values often increment,
+though. Then we have another set of four bytes per vivosaur, which are completely unknown to me.
+
+Finally, after 8-24 bytes, we get to the number of moves. These are, again, four per vivosaur on the team.
+You know you're here when you get one to three four-byte integers in a row that are between 1 and 4.
