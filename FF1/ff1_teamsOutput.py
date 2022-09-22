@@ -16,7 +16,7 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
         for file2 in files:
             if (int(file2[0:4]) == nameID):
                 nameF = open("./bin/japanese/textFiles/" + file2, "rb")
-                text = "Name: " + nameF.read().decode("UTF-8", errors = "ignore").replace("\0", "\n")
+                text = "Name: " + nameF.read().decode("UTF-8", errors = "ignore").replace("\0", "") + " (" + str(nameID) + ")\n"
                 newFile.write(text.encode("UTF-8", errors = "ignore"))
                 nameF.close()
     newFile.close()
