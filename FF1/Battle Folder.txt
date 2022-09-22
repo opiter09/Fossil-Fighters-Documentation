@@ -9,8 +9,7 @@ namely ff1_teamsOutput.py. However, if you would like to actually edit that file
 
 0x64-0x65 are the name of the fighter in question. This value corresponds to a certain chunk in
 text/japanese; if you split it apart with my editor, you can simply look for the file whose name begins
-with (this number + 1) in textFiles. The plus one is presumably due to the text files being 0-indexed
-internally.
+with this number in textFiles.
 
 The vivosaurs start at 0x94. We get four bytes of ID, then four bytes of Level, and then four bytes that are
 always 00 00 00 00. If there are less than three vivosaurs on the team, their bytes simply do not exist, and
