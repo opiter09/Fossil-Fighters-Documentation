@@ -54,7 +54,7 @@ to use the other ones though, there's no reason they would not work.
 
 0x30 to 0x33 is the ID for the team skill of the vivosaur. All skill IDs can be found by looking at the
 number at the end of their file in vivoFiles, or their line number in ff1_vivoNames.txt (both of which are in
-my Chunks Editor). An important difference to note here between FF1 and FFc is that FF1 uses four bytes for
+my Chunk Editor). An important difference to note here between FF1 and FFc is that FF1 uses four bytes for
 skill IDs (with the last two always being 00 00), while FFC only uses two.
 
 0x34 to 0x37 is the skill used for Link. Unlike in FFC, animations are still played for Link triggers in FF1,
