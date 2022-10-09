@@ -7,6 +7,8 @@ form of the file "Battle Files Teams.txt." I have also included the python scrip
 namely ff1_teamsOutput.py. However, if you would like to actually edit that file, here is what I found:
 
 
+0x54-0x57 represent the BP you get for winning the fight (as, per usual, a 4-byte little-endian integer).
+
 0x64-0x65 are the name of the fighter in question. This value corresponds to a certain chunk in
 text/japanese; if you split it apart with my editor, you can simply look for the file whose name begins
 with this number in textFiles.
