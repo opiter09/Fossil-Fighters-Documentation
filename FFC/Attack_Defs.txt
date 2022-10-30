@@ -3,14 +3,6 @@ EVERYTHING IS LITTLE-ENDIAN
 When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
 beginning of it.
 
-For moves, the status seems to be in two different places (and notably unrelated to description text).
-If its a damage status like Poison, it's the very first two bytes of the chunk; if not, those two bytes
-are 01 00, and 0x20-0x21 are used. The first byte is the status, and the second is percent (e.g. 0x64 is
-100%).
-
-If a chunk is longer than 0x30, the secondary stuff will be that many bytes later than what is said here.
-Hopefully.
-
 The first two bytes of a chunk represent what I call the Primary Status, the thing that actually has an
 icon in the game. If you change this, the icon near the move will change, but not the description text
 (that can be edited elsewhere). The first byte is the status ID, while the second is the percent to
@@ -53,6 +45,10 @@ To make a move have --- and deal no damage, literally set the damage values to 0
 The values for what I call the Secondary Status--so healing, FP steal, etc., really any effect that does
 not have an icon--can be found at 0x20 to 0x21. Again, the first byte is the ID, and the second is the
 percent to hit.
+
+If the chunk is longer than 48/0x30 bytes, then the secondary value and all others after it will be
+that many bytes later. Hopefully. The one to really watch out for is Transformation moves, but those
+always have a secondary value of 02 64.
 
 Here is the table for those:
 - 01: nothing (everything is 00)
