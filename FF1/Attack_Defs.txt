@@ -92,3 +92,7 @@ And here is a table for secondary values:
 If this is a transforming move, after the Secondary value you have one byte of "number of vivosaur's you
 can transform into," then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one
 byte each), and then some number of 00's
+
+NOTE: if the move file has more than 60/0x3C bytes, then every value listed here after counterability
+will come a number of bytes later equal to the extra size. The exception, of course, is transforming moves;
+for those you should use the 02 64 as a guide.
