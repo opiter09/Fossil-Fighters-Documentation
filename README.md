@@ -13,3 +13,6 @@ A note on general terminology (since I have nowhere else to put it):
   column represents all digits except the last one, while the topmost row is for the last digit. So to find
   location 0x28, head to row 00000020 and column 08.
 
+Finally, here's a spot to credit those other than I who have figured stuff out:
+- APOPHENIA worked out the hit-based damage and FP values
+
