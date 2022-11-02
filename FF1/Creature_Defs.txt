@@ -12,9 +12,9 @@ At 0x0D is a vivosaur's Element. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water
 At 0x0E-0x0F is the vivosaur's Rank 12 Health divided by 2. It has been suggested that this is used for
 U-Raptor's "ultimate poison" skill. Make sure to change this if you change the value it's based on.
 
-For main four stats, the Rank 1 and Rank 12 amounts are just next to each other. 0x012 and 0x013 are Attack,
-then 0x16 and 0x17 are Defense, then 0x1A to 0x1B are Accuracy, and then 0x1E and 0x1F are Speed. The
-values between are presumably some sort of growth rate indicator.
+For the main four stats, each gets four bytes starting at 0x10. The first byte is some sort of growth rate,
+seemingly always from 01 to 04. Then we have the Rank 6 value, then the Rank 1 value, and then the Rank
+12 value. The order is the usual Attack, Defense, Accuracy, and Evasion.
 
 A vivosaur's crit can be found at 0x20 and 0x21. For reasons unknown, it is always the same value twice in
 a row.

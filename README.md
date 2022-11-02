@@ -14,5 +14,6 @@ A note on general terminology (since I have nowhere else to put it):
   location 0x28, head to row 00000020 and column 08.
 
 Finally, here's a spot to credit those other than I who have figured stuff out:
-- APOPHENIA worked out the hit-based damage and FP values
+- APOPHENIA worked out the hit-based damage and FP values, and the use of rank 6/10 values in the
+  stats section
 

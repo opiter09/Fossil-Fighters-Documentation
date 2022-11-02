@@ -6,9 +6,9 @@ beginning of it.
 A vivosaur's element is at 0x01. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water, 05 is Neutral, and
 06 is Legendary.
 
-For main four stats, the Rank 1 and Rank 20 amounts are just next to each other. 0x04 and 0x05 are Attack,
-then 0x08 and 0x09 are Defense, then 0x0C to 0x0D are Accuracy, and then 0x10 and 0x11 are Speed. The
-values between are presumably some sort of growth rate indicator.
+For the main four stats, each gets four bytes starting at 0x02. The first byte is some sort of growth rate,
+seemingly always from 01 to 04. Then we have the Rank 10 value, then the Rank 1 value, and then the Rank
+20 value. The order is the usual Attack, Defense, Accuracy, and Speed.
 
 Crit rate is always at 0x12, and reduplicated at 0x13 for some reason. Link chance is at 0x14; both
 are out of 100.
