@@ -62,16 +62,16 @@ Here is another table for Secondary IDs:
 - 01: nothing
 - 02: Transformation
 - 03: All-zone attack
-- 04: Steal LP Equal to Damage
+- 04: Steal LP equal to damage
 - 05: Steal FP
 - 06: Spite Blast
 - 07: Power Scale
-- 08: Unused, based on FFC it probably swaps zones and deals damage too
+- 08: Knock to EZ
 - 09: Unused, based on FFC it heals youself only
 - 0A: Heal whole team
 - 0B: Sacrifice
 - 0C: Law of the Jungle
-- 0D: Healing one ally
+- 0D: Heal one ally
 - 0E: Unused, based on FFC it heals one other ally only
 - 0F: Cure all statuses
 - 10: Swap Zones
