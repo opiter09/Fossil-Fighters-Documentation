@@ -9,9 +9,14 @@ do with animations and stuff.
 0x1C tells you whether a move is "counter proof" or not. It is 00 if the move cannot be countered, and
 03 if it can.
 
-0x20-0x27 tell you the damage and cost of a move. The first two bytes are the FP cost, then there are two
-bytes of Base Damage (Wiki Damage - Wiki Attack Stat), and then it all repeats (although sometimes it does
-not repeat for unknown reasons).
+The damage and cost of a move begin at 0x20, but where it ends depends on how many "hits" the move has.
+For each hit, you get four bytes--two of FP, and two of damage. After all these, you get two bytes of
+total FP (the actual FP cost of the move) and total damage (base, so Wiki Damage - Wiki Attack Stat).
+As a result of this, the locations of values below may be later than what is listed, since the listed
+locations are for one-hit moves. Also, what happens if you try to use values that do not add up is
+currently unknown.
+
+To make a move have --- and deal no damage, literally set the damage values to 0.
 
 The Primary Status (the one that has an icon in the in-battle stats menu) is much less hardcoded than in
 FFC, taking up 0x28-0x2D (six bytes). The first byte is the effect, the second is the chance for it to hit,

@@ -36,9 +36,12 @@ The table for this can be found below:
 
 If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
 
-Move FP/damage can (usually) be found at 0x18 to 0x1F. It's also usually reduplicated, so you get two
-bytes of FP, then two bytes of damage, then two bytes of FP, and then two bytes of damage. The damage 
-is BASE damage, i.e. Wiki Damage - Wiki Attack Stat.
+The damage and cost of a move begin at 0x18, but where it ends depends on how many "hits" the move has.
+For each hit, you get four bytes--two of FP, and two of damage. After all these, you get two bytes of
+total FP (the actual FP cost of the move) and total damage (base, so Wiki Damage - Wiki Attack Stat).
+As a result of this, the locations of values below may be later than what is listed, since the listed
+locations are for one-hit moves. Also, what happens if you try to use values that do not add up is
+currently unknown.
 
 To make a move have --- and deal no damage, literally set the damage values to 0.
 
