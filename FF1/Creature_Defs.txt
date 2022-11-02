@@ -13,7 +13,7 @@ At 0x0E-0x0F is the vivosaur's Rank 12 Health divided by 2. It has been suggeste
 U-Raptor's "ultimate poison" skill. Make sure to change this if you change the value it's based on.
 
 For the main four stats, each gets four bytes starting at 0x10. The first byte is some sort of growth rate,
-seemingly always from 01 to 04. Then we have the Rank 6 value, then the Rank 1 value, and then the Rank
+seemingly always from 01 to 04. Then we have the Rank 8 value, then the Rank 1 value, and then the Rank
 12 value. The order is the usual Attack, Defense, Accuracy, and Evasion.
 
 A vivosaur's crit can be found at 0x20 and 0x21. For reasons unknown, it is always the same value twice in
