@@ -90,6 +90,10 @@ but it's always 00 so who cares). We thus are in need of another table for those
 Over at 0x6C is the multiplier for your damage to and from the SZ. Unusually for Fossil Fighters, this value is
 the multiplier times 100, not times 10. For example, the default one is 0x32 -> 50 -> 0.5.
 
+0x80 represents what Number a vivo has, which is just their ID (except for postgame Frigi and Igno). 0x84
+is what position a vivo is at when you sort by alphabetical order (which is related since you can sort by
+Number).
+
 Now we finally come to the normal four (or three) skill IDs. These are from 0x8C to 0x9B. Directly after that
 are 1, 2, 3, 4 each as four byte numbers. Both of these show off an important property of FF1: if a vivosaur
 has three moves, its four bytes of ID and 04 00 00 00 literally just don't exist. This means you have to be
