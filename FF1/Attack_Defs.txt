@@ -84,7 +84,7 @@ And here is a table for secondary values:
 - Steal FP: Amount of FP to steal
 - Spite Blast: Amount of damage dealt
 - Power Scale: 00 00
-- Unused 08: Presumably 00 00
+- Knock to EZ: 00 00
 - Unused 09: Presumably the healing amount
 - Heal whole team: The healing amount
 - Sacrifice: 00 00
