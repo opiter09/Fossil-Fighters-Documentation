@@ -1,0 +1,12 @@
+This file determines the data for the various fossils. For you see, "kaseki" is Japanese for
+"fossil."
+
+0x08 is the part of the fossil: 01 = Head, 02 = Body, 03 = Arms, 04 = Legs, and 05 = Single
+(Egg, Curious, etc.).
+
+0x10 is the ID of the vivosaur this fossil matches up with. Every vivosaur needs to be matched to
+no fossils, one of all four parts, or a Single one, or the game will break.
+
+0x18 is the ID of the rock. This is often the number in the file name, but as we go through the
+list it gets more and more untethered from that.
+
