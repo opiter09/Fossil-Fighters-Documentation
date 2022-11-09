@@ -15,5 +15,6 @@ A note on general terminology (since I have nowhere else to put it):
 
 Finally, here's a spot to credit those other than I who have figured stuff out:
 - APOPHENIA worked out the hit-based damage and FP values, the use of rank 8/10 values in the
-  stats section, and the existence of a value for alphabetical order
+  stats section, the existence of a value for alphabetical order, and the secrets behind FF1's
+  kaseki_defs file.
 
