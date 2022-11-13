@@ -8,3 +8,8 @@ the appropriate number, which can be found at 0x0C, then 0x24, then 0x3C, then 0
 bytes long; it is the last 12 bytes that are useful to us. The first four of those 12 are the recharge
 per turn, then we have four bytes of the maximum, and then we have four bytes of the recharge. It could be
 there twice due to one being for allies and one being for enemies; feel free to test that out on your own.
+
+The file episode/e0047 is what controls your first tutorial cleaning. The value at 0x8B4-0x8B5 controls
+the fossil ID used, and the value at 0x9D0 controls the ID of the vivosaur revived at the end (weirdly
+enough, this is scripted and not related to the fossil). Therefore, by changing the fossil to a different
+head, you can have a new starter in FF1!
