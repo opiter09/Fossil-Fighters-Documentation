@@ -14,4 +14,5 @@ the fossil ID used, and the value at 0x9D0 controls the ID of the vivosaur reviv
 enough, this is scripted and not related to the fossil). Therefore, by changing the fossil to a different
 head, you can have a new starter in FF1! The vivosaur ID is just their Number, but the Fossil ID is
 actually formulaic as well: ((Number - 1) * 4) + 1. The exception is the chickens, which have fossil IDs
-of 425 (Squik), 429 (Squirk), 433 (Squirth), 437 (Squilk), and 441 (Squiro).
+of 425 (Squik), 429 (Squirk), 433 (Squirth), 437 (Squilk), and 441 (Squiro). Also, recall that the brains
+and other unlockables do not have fossils.
