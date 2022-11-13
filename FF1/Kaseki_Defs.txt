@@ -7,3 +7,6 @@ The only information we have on these chunks is that 0x08-0x09 is the ID of the 
 This ID corresponds to the name of certain files inside the image folder, namely ones that begin with
 "kaseki." The format is kaseki_*ID*_XXX. Within that ID, there is itself a logic, in that the 0XX's are
 heads, the 1XX's are bodies, the 2XX's are arms, the 3XX's are legs, etc.
+
+Also, I have found that 0x34 is the number of points you need to get for the cleaning to be a success.
+Thus, this is 50 for all the normal fossils.
