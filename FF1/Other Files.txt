@@ -13,6 +13,7 @@ The file episode/e0047 is what controls your first tutorial cleaning. The value 
 the fossil ID used, and the value at 0x9D0 controls the ID of the vivosaur revived at the end (weirdly
 enough, this is scripted and not related to the fossil). Therefore, by changing the fossil to a different
 head, you can have a new starter in FF1! The vivosaur ID is just their Number, but the head Fossil ID is
-actually formulaic as well: ((Number - 1) * 4) + 1. The exception is the chickens, which have fossil IDs
-of 425 (Squik), 429 (Squirk), 433 (Squirth), 437 (Squilk), and 441 (Squiro). Also, recall that the brains
-and other unlockables do not have fossils.
+actually formulaic as well: ((Number - 1) * 4) + 1. Do note that for vivosaurs that normally do not have
+fossils, you will need to set the vivosaur ID to someone who does, or else the game will freeze upon
+revival. This will make it appear that you revived the wrong person, but trust me, it actually gives
+you what you cleaned.
