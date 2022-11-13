@@ -96,9 +96,9 @@ Number).
 
 Now we finally come to the normal four (or three) skill IDs. These are from 0x8C to 0x9B. Directly after that
 are 1, 2, 3, 4 each as four byte numbers. Both of these show off an important property of FF1: if a vivosaur
-has three moves, its four bytes of ID and 04 00 00 00 literally just don't exist. This means you have to be
-careful when using any offsets given after this point on, say, Zino (for simplicity they will be given for
-four-movers).
+has three moves, the fourth move's ID bytes and 04 00 00 00 literally just don't exist. This means you have
+to be careful when using any offsets given after this point on, say, Zino (for simplicity they will be given
+for four-movers).
 
 From 0xAC to 0xB3 are a vivosaur's support effects. The first four bytes are for your AZ, and the second four
 are for theirs. The stats go in order: Attack, Defense, Accuracy, and then Evasion. Also, if you see some
@@ -113,8 +113,10 @@ every single status that hit them. That's right folks, almost all the vivosaurs 
 the order of the Primary Statuses over in the attack_defs documentation.
 
 0xC0 to 0xC3 are another set of 1, 2, 3, 4, with each being one byte each. Vivosaurs with three moves have a
-00 instead of a 04, but are not missing it entirely this time. My guess is that this controls move order, but
-who knows?
+00 instead of a 04, but are not missing it entirely this time. I believe that this controls move order,
+while the long ones control which fossils you learn a move at. My evidence for this is that the Chickens
+have all 1's in the long section (since they learn all their moves with their "first" egg fossil), but
+have the usual 1-2-3-4 in this short section.
 
 Finally, like with FFC, the last 24 bytes of a chunk is devoted to the health of a vivosaur at each Rank,
 1 through 12. Specifically, thats offsets 0xC4 to DB.
