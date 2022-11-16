@@ -11,7 +11,7 @@ inside the image folder, namely ones that begin with "kaseki." The format is kas
 ID, there is itself a logic, in that the 0XX's are heads, the 1XX's are bodies, the 2XX's are arms,
 the 3XX's are legs, etc.
 
-0x18-0x1C is the buying price of the fossil in the store, and 0x1C-0x20 is the selling price.
+0x18-0x1B is the buying price of the fossil in the store, and 0x1C-0x1F is the selling price.
 
 I have found that 0x34 is the number of points you need to get for the cleaning to be a success.
 Thus, this is 50 for all the normal fossils.
