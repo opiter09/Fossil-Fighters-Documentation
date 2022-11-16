@@ -7,6 +7,5 @@ This file determines the data for the various fossils. For you see, "kaseki" is 
 0x10 is the ID of the vivosaur this fossil matches up with. Every vivosaur needs to be matched to
 no fossils, one of all four parts, or a Single one, or the game will break.
 
-Although 0x18 may look like an ID or something at first, do note that the Donation Mask file at least uses
-the actual number in the name of the file as the ID.
+0x1C-0x1F is the buying price of the fossil, while 0x20-0x23 is the selling price.
 

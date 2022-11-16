@@ -1,12 +1,17 @@
+This file determines the data for the various fossils. For you see, "kaseki" is Japanese for
+"fossil."
+
 FF1's Kaseki_Defs are far less useful than FFC's. For the normal 100 vivosaurs, their fossils are
 completely hardcoded by location, from chunks 1 to 400. That is, Daspleto's head is at chunk 5 simply
 because Daspleto is the second vivosaur (by Number), and its Head is the first part (coming after T-Rex's
 four).
 
-The only information we have on these chunks is that 0x08-0x09 is the ID of the image used by the fossil.
-This ID corresponds to the name of certain files inside the image folder, namely ones that begin with
-"kaseki." The format is kaseki_*ID*_XXX. Within that ID, there is itself a logic, in that the 0XX's are
-heads, the 1XX's are bodies, the 2XX's are arms, the 3XX's are legs, etc.
+0x08-0x09 is the ID of the image used by the fossil. This ID corresponds to the name of certain files
+inside the image folder, namely ones that begin with "kaseki." The format is kaseki_*ID*_XXX. Within that
+ID, there is itself a logic, in that the 0XX's are heads, the 1XX's are bodies, the 2XX's are arms,
+the 3XX's are legs, etc.
 
-Also, I have found that 0x34 is the number of points you need to get for the cleaning to be a success.
+0x18-0x1C is the buying price of the fossil in the store, and 0x1C-0x20 is the selling price.
+
+I have found that 0x34 is the number of points you need to get for the cleaning to be a success.
 Thus, this is 50 for all the normal fossils.
