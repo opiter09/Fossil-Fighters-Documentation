@@ -36,6 +36,13 @@ The table for this can be found below:
 
 If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
 
+0x08 tells you how many "hits" a move has. That is, it says how many separate damage values will appear
+on screen if you let the animation play out.
+
+0x0C is a pointer to where the damage of the first hit begins, while 0x10 is a pointer to where the
+total damage begins (see below). 0x14 is then a pointer to where the Secondary Status data begins (see
+further below).
+
 The damage and cost of a move begin at 0x18, but where it ends depends on how many "hits" the move has.
 For each hit, you get four bytes--two of FP, and two of damage. After all these, you get two bytes of
 total FP (the actual FP cost of the move) and total damage (base, so Wiki Damage - Wiki Attack Stat).

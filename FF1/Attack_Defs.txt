@@ -3,8 +3,12 @@ EVERYTHING IS LITTLE-ENDIAN
 When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
 beginning of it.
 
-The first four bytes are just the ID of the move. Then there's some random stuff no-one knows, probably to
-do with animations and stuff.
+The first four bytes are just the ID of the move. Then 0x04-0x07 is the number of "hits" a move has.
+That is, it says how many separate damage values will appear on screen if you let the animation play out.
+
+0x08 is a pointer to where the damage of the first hit begins, while 0x0C is a pointer to where the
+total damage begins (see below). Then 0x10 is a pointer to the beginning of the Primary Status data,
+and 0x14 is a pointer to the beginning of the Secondary Status data (see further below).
 
 0x1C tells you whether a move is "counter proof" or not. It is 00 if the move cannot be countered, and
 03 if it can.
