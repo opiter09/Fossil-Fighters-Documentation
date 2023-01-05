@@ -81,8 +81,8 @@ that another table is in order:
 - FP Absorb: Percent of incoming move's FP cost gained
 - Solo Power: Always 00
 - Berserker: This is the only ability where 0x55 may be something other than 00, since this is what move
-- Hopter always uses when woozy. By default, it is E7 01, i.e. Beak Stab.
-  Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
+  Hopter always uses when woozy. By default, it is E7 01, i.e. Beak Stab.
+- Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
   effect table given below.
 - Resurrect: Z-Rex has a 02 here, even though this ability activates after three turns. However, this is
   similar to how Infection has a 04 despite it taking 5 turns to kill (see below), so we can safely say
