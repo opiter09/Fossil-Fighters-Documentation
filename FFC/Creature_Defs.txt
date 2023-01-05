@@ -61,11 +61,24 @@ The "Japanese for" effects are, of course, unused, and they also seem to not do 
 anything at all. Some may have only worked on debug builds, while others may only have worked in
 FF1 (looking at you, 09).
 
-The move IDs are from 0xBC to 0xC3 for the normal four (or three), and 0x4E to 0x4F for the Team Skill.
-The values are the hex versions of that move's line number in names.text, aka their file's number in
-moveFiles. All values are two bytes here.
+0x23 to 0x2B are a series of "flag" bytes that determine immunity--01 means the vivo is immune to that
+status and will never receive it, and 00 means it is not. The order of statuses roughy corresponds to
+the orders found in Attack_Defs, but with the Silver and Gold versions combined together:
+- Poison
+- Sleep
+- Scare
+- Enrage
+- Confusion
+- Excite
+- Infection
+- Venom
+- ????? (Always 00 in vanilla)
 
-0x50-0x51 are always the same value as that vivosaur's first move in vanilla, and has been shown to be the
+0x4E to 0x4F is the move ID of the Team Skill. All skill IDs can be found by looking at the
+number at the end of their file in vivoFiles, or their line number in FFC files' vivoNames.txt (both of
+which are in my Chunk Editor).
+
+0x50 to 0x51 are always the same value as that vivosaur's first move in vanilla, and has been shown to be the
 move a vivosaur uses with Link. Since Link always skips move animations in FFC, you can put anything you
 want in here without fear of it looking weird.
 
@@ -145,6 +158,10 @@ support effects at all. Why CC? Tonzilla was able to help me figure that one out
 beginning of the support effects block. So if you happen to be editing Tonzilla and add whatever it is he
 is missing, then make sure to change the C4 in this area to CC.
 
+0xBC to 0xC3 are the move IDs of the normal four (or three) moves, each two bytes. Do note that if a
+vivosaur in FFC has only three moves, they will have a 00 00 here, so you don't have to worry about
+adjusting locations based on that.
+
 0xC4 to 0xCB are the levels each move is learned at (two bytes each).
 
 Rank 20 support effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
@@ -154,7 +171,6 @@ how many moves a vivo has.
 
 On that point: after support effects if they are there is usually 01 02 03 04. This means that a vivosaur
 has four non-team skills. For vivosaurs like Cheirus with only three, there is 01 02 03 00 there instead.
-To be clear, to make a skill "no skill" in the ID area, use 00 00.
 
 That block mostly seems redundant to me, especially since 0x94, 0x9C, AND 0xAC also contain the number of
 moves (so make sure to change all of these when appropriate). However, it is important for one thing and
