@@ -22,6 +22,8 @@ currently unknown.
 
 To make a move have --- and deal no damage, literally set the damage values to 0.
 
+Note: all locations shown below are for single-hit moves; add to them for multihit moves as appropriate.
+
 The Primary Status (the one that has an icon in the in-battle stats menu) is much less hardcoded than in
 FFC, taking up 0x28-0x2D (six bytes). The first byte is the effect, the second is the chance for it to hit,
 the third is how many turns it lasts, the fourth is its icon, and the fifth and sixth are values whose

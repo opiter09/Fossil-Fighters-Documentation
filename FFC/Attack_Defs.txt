@@ -52,13 +52,11 @@ currently unknown.
 
 To make a move have --- and deal no damage, literally set the damage values to 0.
 
+Note: all locations shown below are for single-hit moves; add to them for multihit moves as appropriate.
+
 The values for what I call the Secondary Status--so healing, FP steal, etc., really any effect that does
 not have an icon--can be found at 0x20 to 0x21. Again, the first byte is the ID, and the second is the
 percent to hit.
-
-If the chunk is longer than 48/0x30 bytes, then the secondary value and all others after it will be
-that many bytes later. Hopefully. The one to really watch out for is Transformation moves, but those
-always have a secondary value of 02 64.
 
 Here is the table for those:
 - 01: nothing (everything is 00)
