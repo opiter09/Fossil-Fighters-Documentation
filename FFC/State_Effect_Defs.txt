@@ -1,0 +1,53 @@
+This file defines the various values hardcoded for each status effect (which are assigned to each
+individual move in FF1). 0x08-0x0B tells you how many statuses there are (24 in vanilla), and then
+0x0C-0x0F is an unknown value (since each chunk is 12 bytes long, not 16).
+
+Since it seems to line up nicely, here is the Status Effect table from Attack_Defs, along with each one's starting byte:
+- 01: nothing [0x10]
+- 02: Normal Poison [0x1C]
+- 03: Gold Poison [0x28]
+- 04: Venom (U-Raptor) [0x34]
+- 05: Normal Sleep [0x40]
+- 06: Gold Sleep [0x4C]
+- 07: Normal Scare [0x58]
+- 08: Gold Scare [0x64]
+- 09: Normal Enrage [0x70]
+- 0A: Gold Enrage [0x7C]
+- 0B: Normal Confusion [0x88]
+- 0C: Gold Confusion [0x94]
+- 0D: Normal Excite [0xA0]
+- 0E: Gold Excite [0xAC]
+- 0F: Counter [0xB8]
+- 10: Super Counter [0xC4] 
+- 11: Enflame [0xD0]
+- 12: Super Enflame [0xDC]
+- 13: Harden [0xE8]
+- 14: Super Harden [0xF4]
+- 15: Quicken [0x100]
+- 16: Super Quicken [0x10C]
+- 17: Charge [0x118]
+- 18: Super Charge (unused) [0x124]
+
+On to the bytes, then (for each chunk, naturally). 0x00 and 0x04 are just the ID, incrementing for each one. 0x01 refers to the "group" of statuses it is in, e.g. Poison or 
+Enflame as a whole. It goes how you'd expect: 01 is nothing, 02 is Poison (including Venom), 03 is Sleep, etc.
+
+0x02 tells you the icon color. A value of 02 means silver, 03 means gold, and 04 means purple (for Venom). 01 presumably means no icon, or something like that.
+
+0x03 is the duration of the status, in terms of turns. Do note that statuses do not tick down on the turn they are applied.
+
+0x05 and 0x06 are the two values for each status. They seem to work the same as in FF1, so I've copied the table over:
+- Nothing: 01 00
+- Poison: Percent of max LP damaged, then 00
+- Sleep: 00 00
+- Scare: Number of moves made unusable, then 00
+- Excite: 00 00
+- Confusion: 00 00
+- Enrage: Amount Attack is raised, then amount Accuracy is lowered
+- Counter: Percent chance a move will be countered, then 00
+- Enflame: Amount Attack is raised, then amount Defense is lowered
+- Harden: Amount Defense is raised, then 00
+- Quicken: Amount Evasion is raised, then 00
+- Charge: Damage Multiplier * 10, then 00
+
+The remaining bytes are unknown, although it should be noted that negative statuses all have 03 02 01 00 00 here, positive statuses except the Charges have 02 04 00 00 00, and the
+Charges have 02 03 00 00 00.
