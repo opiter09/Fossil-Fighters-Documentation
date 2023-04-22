@@ -12,6 +12,10 @@ A note on general terminology (since I have nowhere else to put it):
 - In order to interpret all my locations, you need to be able to read a hex editor's layout. The leftmost
   column represents all digits except the last one, while the topmost row is for the last digit. So to find
   location 0x28, head to row 00000020 and column 08.
+- A "chunk" refers to a subset of a file's data which go together, e.g. by all being the data for a single
+  vivosaur. For most files, each chunk's start and end can be found at the beginning of the file, in the
+  list of locations which are called "pointers." Sometimes, however, chunks each have a fixed length,
+  and so such locations are not given.
 
 Finally, here's a spot to credit those other than I who have figured stuff out:
 - APOPHENIA worked out the hit-based damage and FP values, the use of rank 8/10 values in the

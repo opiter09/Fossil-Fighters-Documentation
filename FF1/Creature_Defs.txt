@@ -1,8 +1,5 @@
 EVERYTHING IS LITTLE-ENDIAN
 
-When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
-beginning of it.
-
 For whatever reason, vivosaur chunks have 12 extra bytes of padding at the beginning compared to FFC: two for
 their ID, then literally just ten 00's.
 

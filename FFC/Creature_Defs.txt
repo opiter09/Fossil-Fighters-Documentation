@@ -1,8 +1,5 @@
 EVERYTHING IS LITTLE-ENDIAN
 
-When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
-beginning of it.
-
 A vivosaur's element is at 0x01. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water, 05 is Neutral, and
 06 is Legendary.
 

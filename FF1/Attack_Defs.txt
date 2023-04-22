@@ -1,8 +1,5 @@
 EVERYTHING IS LITTLE-ENDIAN
 
-When I say "chunk," I mean a portion of this file determined by the location of two adjacent pointers at the
-beginning of it.
-
 The first four bytes are just the ID of the move. Then 0x04-0x07 is the number of "hits" a move has.
 That is, it says how many separate damage values will appear on screen if you let the animation play out.
 
