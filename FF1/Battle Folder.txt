@@ -1,6 +1,8 @@
 Unique to FF1 is a folder named "battle." Within this folder is a variety of small files, each given the
-cryptic name of simply a number. However, I was able to ascetain that these files actually store the definition
-for the teams of the various NPCs, and from there I have been working out many things about the files.
+cryptic name of simply a number. However, I was able to ascertain that these files actually store the
+definition for the teams of the various NPCs, and from there I have been working out many things about
+the files. Also, to be clear, these files do need to be decompressed and recompressed, despite their
+small size.
 
 If you would just like to see all of that information, I have made a human-readable collection of it in the
 form of the file "Battle Files Teams.txt." I have also included the python script I used to generate it,
