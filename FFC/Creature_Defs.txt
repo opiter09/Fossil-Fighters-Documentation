@@ -30,6 +30,7 @@ backwards through time:
 - 0C = Paleozoic Cambrian
 
 A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, and 03 being Long-Range.
+Again, the text for this is stored separately, in text/text_dino_kind.
 
 A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
 non-zero chance. Here's the table for this:

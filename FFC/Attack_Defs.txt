@@ -2,8 +2,8 @@ EVERYTHING IS LITTLE-ENDIAN
 
 The first two bytes of a chunk represent what I call the Primary Status, the thing that actually has an
 icon in the game. If you change this, the icon near the move will change, but not the description text
-(that can be edited elsewhere). The first byte is the status ID, while the second is the percent to
-trigger.
+(you can edit that in text/text_attack_info and text/text_attack_information). The first byte is the
+status ID, while the second is the percent to trigger.
 
 The table for this can be found below:
 - 01: nothing
