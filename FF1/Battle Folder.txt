@@ -1,4 +1,4 @@
-Unique to FF1 is a folder named "battle." Within this folder is a variety of small files, each given the
+FF1 contains a folder named "battle." Within this folder is a variety of small files, each given the
 cryptic name of simply a number. However, I was able to ascertain that these files actually store the
 definition for the teams of the various NPCs, and from there I have been working out many things about
 the files. Also, to be clear, these files do need to be decompressed and recompressed, despite their
