@@ -1,3 +1,5 @@
+EVERYTHING IS LITTLE-ENDIAN
+
 FF1 contains a folder named "battle." Within this folder is a variety of small files, each given the
 cryptic name of simply a number. However, I was able to ascertain that these files actually store the
 definition for the teams of the various NPCs, and from there I have been working out many things about
@@ -34,10 +36,11 @@ After that, we get eight useless bytes, which are the always same four bytes rep
 This is all well and good if you just want to change a vivosaur, but what if you want to add or remove the
 total number of them? Well, that involves an entire process:
 - Change the number of vivosaurs values at 0x5C, 0x6C, 0x74, and 0x7C
-- Change the unknown values at 0x70, 0x78, and 0x80 to the right ones for how many vivosaurs you want:
-	- One: 44, 48, 4C
-	- Two: 50, 58, 60
-	- Three: 5C, 68, 74
+- Change the unknown values at 0x70, 0x78, 0x80, and 0x88 to the right ones for how many vivosaurs you
+want:
+	- One: 44, 48, 4C, 50
+	- Two: 50, 58, 60, 68
+	- Three: 5C, 68, 74, 80
 - Add or remove data where it needs to be, as described above. The only advice I can give regarding
 the unknown values is that making one vivo have 00 08 00 00 and the others all 00's or
 vice versa will make that one always start in the AZ. Honestly though, all 00's should always

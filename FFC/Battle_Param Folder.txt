@@ -1,0 +1,43 @@
+EVERYTHING IS LITTLE-ENDIAN
+
+FFC's Battle_Param folder is the equivalent of FF1's Battle folder: it holds data for each enemy team
+in the game. The format is also pretty similar, although in my opinion much easier to work with.
+
+The very first thing of note is the amount of BP won, from 0x30 to 0x31. Like in FF1, if this value
+is FF FF, you get nothing.
+
+The size of the file is at 0x40. Unlike FF1, it only appears once.
+
+Next we have the fighter name at 0x46. You have to take that value and subtract 0x4D, then
+match it to a file in enemyNameFiles (the folder from splitting text_battle_enemy_name).
+
+Vivosaur data starts at 0x70, and is always 12 bytes long per vivo. We have two bytes
+of ID, then four of rank, then two of Super Fossil fossil ID (based on kaseki_defs),
+then two of Super Fossil points, then four of Super Fossil cleaning points. If there
+are less than three vivosaurs, then their data will simply not exist, and we move on.
+
+After the vivosaur data is four bytes per vivo which I know nothing about. Thankfully, unlike FF1 these
+always seem to be the same as each other, so you should be able to just add more of them and be fine.
+After that, there are two bytes per vivo which should be the number of fossils they have (not that
+you can see this in-game).
+
+Finally, the last six bytes (or sometimes four, without the 00 00 after the fossil numbers) are entirely
+unknown. Don't even look at them, honestly.
+
+
+Now we come to the fun part, all the things you have to change to add (or remove) a vivosaur:
+- Change the number of vivos values at 0x50, 0x58, and 0x60
+- Change the unknown values at 0x54, 0x5C, 0x64, and 0x6C to the right ones for how many vivosaurs you want:
+	- One: 2C, 38, 3C, 40
+	- Two: 2C, 44, 4C, 50
+	- Three: 2C, 50, 5C, 64
+- Add or remove data where it needs to be, as described above
+- Finally change 0x40 to match the new file size
+
+
+However! All of this is complicated by weird files with extra data in them. The classic example is the
+first four param files, which represent the Allosaurus fight with each different starter. In these
+cases, first look for the name, which always comes before a 0x10. Then everything after it proceeds
+as normal. If you want to add or a remove a vivo, the new unknown values listed above may need to be
+augmented: the 2C stays the same, but if the other two are shifted by some amount, make sure to retain
+that shift.
