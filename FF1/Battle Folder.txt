@@ -42,4 +42,4 @@ total number of them? Well, that involves an entire process:
 the unknown values is that making one vivo have 00 08 00 00 and the others all 00's or
 vice versa will make that one always start in the AZ. Honestly though, all 00's should always
 work fine
-- Finally, change the values at 0x3C and 0x50 to match the new file size
+- Finally, change the values at 0x38 and 0x40 to match the new file size
