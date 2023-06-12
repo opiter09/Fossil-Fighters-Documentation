@@ -39,5 +39,5 @@ However! All of this is complicated by weird files with extra data in them. The 
 first four param files, which represent the Allosaurus fight with each different starter. In these
 cases, first look for the name, which always comes before a 0x10. Then everything after it proceeds
 as normal. If you want to add or a remove a vivo, the new unknown values listed above may need to be
-augmented: the 2C stays the same, but if the other two are shifted by some amount, make sure to retain
+augmented: the 2C stays the same, but if the other ones are shifted by some amount, make sure to retain
 that shift.
