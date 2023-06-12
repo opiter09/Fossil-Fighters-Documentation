@@ -1,6 +1,9 @@
 import glob
 import os
-newFile = open("Battle Files Teams.txt", "at")
+
+newFile = open("FF1 Teams.txt", "wt")
+newFile.close()
+newFile = open("FF1 Teams.txt", "at")
 names = open("ff1_vivoNames.txt", "rt").read()
 
 for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
@@ -11,7 +14,7 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
     newFile.write("\n" + file[-10:-6] + ":" + "\n")
 
     newFile.close()
-    newFile = open("Battle Files Teams.txt", "ab")   
+    newFile = open("FF1 Teams.txt", "ab")   
     for root, dirs, files in os.walk("./bin/japanese/textFiles"):
         for file2 in files:
             if (int(file2[0:4]) == nameID):
@@ -20,20 +23,14 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
                 newFile.write(text.encode("UTF-8", errors = "ignore"))
                 nameF.close()
     newFile.close()
-    newFile = open("Battle Files Teams.txt", "at")
+    newFile = open("FF1 Teams.txt", "at")
     
-    maxi = 0
-    for i in [2, 1, 0]:
+    maxi = full[0x5C]
+    for i in range(maxi):
         vivo = int.from_bytes(reading[(i * 12):(i * 12 + 4)], "little")
         level = int.from_bytes(reading[(i * 12 + 4):(i * 12 + 8)], "little")
         padding = int.from_bytes(reading[(i * 12 + 8):(i * 12 + 12)], "little")
-        if (vivo > 0) and (vivo < 116):
-            if (level > 0) and (level < 13):
-                if (padding <= 2):
-                    if (maxi == 0):
-                        maxi = i + 1
-                    finalPad = (maxi - 1) * 12 + 8
-                    newFile.write(names.split("\n")[vivo - 1] + ": Level = " + str(level) + ", Moves = " + str(reading[finalPad + 4 + 8 * maxi + 4 * i]))
-                    newFile.write("\n")
+        newFile.write(names.split("\n")[vivo - 1] + ": Level = " + str(level) + ", Moves = " + str(reading[20 * maxi + 4 * i]))
+        newFile.write("\n")
     data.close()
     

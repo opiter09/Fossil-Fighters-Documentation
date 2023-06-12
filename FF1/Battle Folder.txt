@@ -19,8 +19,26 @@ The vivosaurs start at 0x94. We get four bytes of ID, then four bytes of Level, 
 always 00 00 00 00. If there are less than three vivosaurs on the team, their bytes simply do not exist, and
 we skip on to the next bit.
 
-After the vivosaur/level data is four bytes per vivosaur whose purpose is unknown; the values often increment,
-though. Then we have another set of four bytes per vivosaur, which are completely unknown to me.
+After the vivosaur/level data is four bytes per vivosaur which represent how many level points (is that
+what they're called?) the vivosaur has. The reason this is a thing is to control their exact LP.
+Then we have another set of four bytes per vivosaur, which are completely unknown to me, other than that
+00 08 00 00 shows up a lot here.
 
 Finally, after 8-24 bytes, we get to the number of moves. These are, again, four per vivosaur on the team.
 You know you're here when you get one to three four-byte integers in a row that are between 1 and 4.
+
+After that, we get eight useless bytes, which are the always same four bytes repeated twice for some reason.
+
+
+This is all well and good if you just want to change a vivosaur, but what if you want to add or remove the
+total number of them? Well, that involves an entire process:
+- Change the number of vivosaurs values at 0x5C, 0x6C, 0x74, and 0x7C
+- Change the unknown values at 0x70, 0x78, and 0x80 to the right ones for how many vivosaurs you want:
+	- One: 44, 48, 4C
+	- Two: 50, 58, 60
+	- Three: 5C, 68, 74
+- Add or remove data where it needs to be, as described above. The only advice I can give regarding
+the unknown values is that making one vivo have 00 08 00 00 and the others all 00's or
+vice versa will make that one always start in the AZ. Honestly though, all 00's should always
+work fine
+- Finally, change the values at 0x3C and 0x50 to match the new file size
