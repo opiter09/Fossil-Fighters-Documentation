@@ -3,8 +3,8 @@ The documentation stuff in Chunk Editor was getting kind of unwieldy, and I disc
 which is very important but also very much not chunked. So I decided to make a new repo with all my
 documentation in it, and take the opportunity to clean some stuff up too.
 
-If you somehow got here without going through Chunk Editor, please do check it out! It can be found at
-https://github.com/opiter09/FF1-FFC-Chunk-Editor.
+If you somehow got here without going through Chunk Manager, please do check it out! It can be found at
+https://github.com/opiter09/FF1-FFC-Chunk-Manager.
 
 A note on general terminology (since I have nowhere else to put it):
 - When I say that everything everywhere is little-endian, I mean that you have to reverse the bytes before
