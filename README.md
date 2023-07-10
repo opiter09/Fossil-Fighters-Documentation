@@ -21,5 +21,5 @@ Finally, here's a spot to credit those other than I who have figured stuff out:
 - APOPHENIA worked out the hit-based damage and FP values, the use of rank 8/10 values in the
   stats section, the existence of a value for alphabetical order, the secrets behind FF1's
   kaseki_defs file, and the location and general structure of FFC status data.
-- aquaanimo for finding out that FFC vivosaurs' range text is not tied to their data.
+- aquaanimo found out that FFC vivosaurs' range text is not tied to their data.
 
