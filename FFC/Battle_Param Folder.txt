@@ -15,9 +15,9 @@ Right after it, at 0x48, is the enemy's fighter rank. You can go check btl_kp_de
 FP values for that rank.
 
 Vivosaur data starts at 0x70, and is always 12 bytes long per vivo. We have two bytes
-of ID, then four of rank, then two of Super Fossil fossil ID (based on kaseki_defs),
-then two of Super Fossil points, then four of Super Fossil cleaning points. If there
-are less than three vivosaurs, then their data will simply not exist, and we move on.
+of ID, then four of rank, then two of Super Fossil fossil ID (based on kaseki_defs), then
+four of Super Fossil cleaning points. If there are less than three vivosaurs, then their data will
+simply not exist, and we move on.
 
 After the vivosaur data is four bytes per vivo which I know nothing about. Thankfully, unlike FF1 these
 always seem to be the same as each other, so you should be able to just add more of them and be fine.
