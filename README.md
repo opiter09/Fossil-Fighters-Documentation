@@ -22,4 +22,6 @@ Finally, here's a spot to credit those other than I who have figured stuff out:
   stats section, the existence of a value for alphabetical order, the secrets behind FF1's
   kaseki_defs file, and the location and general structure of FFC status data.
 - aquaanimo found out that FFC vivosaurs' range text is not tied to their data.
+- Megalo-vania used memory editing to painstakingly document all of the vivosaurs' Silver Fossil
+  palettes, allowing me to easily correlate them with the files.
 
