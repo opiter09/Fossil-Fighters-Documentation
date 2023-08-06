@@ -11,7 +11,7 @@ The size of the file is at 0x40. Unlike FF1, it only appears once.
 Next we have the fighter name at 0x46. You have to take that value and subtract 0x4D, then
 match it to a file in enemyNameFiles (the folder from splitting text_battle_enemy_name).
 
-Right after it, at 0x48, is the enemy's fighter rank. You can go check btl_kp_defs to get the
+Right after it, at 0x48, is the enemy's fighter rank. You can go check etc/btl_kp_defs to get the
 FP values for that rank.
 
 Vivosaur data starts at 0x70, and is always 12 bytes long per vivo. We have two bytes

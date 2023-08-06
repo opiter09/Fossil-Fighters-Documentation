@@ -20,3 +20,10 @@ next two bytes are its DP cost. The next three bytes are flags (i.e. always 0 or
 to whether the rock is Dark or not, but for some reason in Vanilla the non-Dark legs have all three set
 to one, the same as the Dark fossils. However, it is known that if you set the first two to 0 and the
 third to 1, it is guaranteed not to be Dark.
+
+
+etc/creature_palet_defs defines each of the Silver Fossil color sets. Starting from 0x0C, each ID is
+12 bytes long, consisting of two bytes of incrementing index, two bytes of the palette, and then
+two bytes each for the seldom-used Red, Green, and Blue modifiers. The default for those is, as you'll
+quickly notice, 0x64. See also:
+https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
