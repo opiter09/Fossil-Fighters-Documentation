@@ -131,5 +131,5 @@ few things you will need to change in order to make that happen:
 - 0x80: location of the beginning of the health data
 Good luck!
 
-Finally, due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and
+Also, due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and
 Diet are not definied within these chunks.
