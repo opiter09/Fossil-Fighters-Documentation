@@ -7,6 +7,8 @@ If you somehow got here without going through Chunk Manager, please do check it 
 https://github.com/opiter09/FF1-FFC-Chunk-Manager.
 
 A note on general terminology (since I have nowhere else to put it):
+- The prefix "0x" means that it is a value in hexadecimal notation, i.e in base 16 instead of base 10.
+  For example, 0x100 is not 100, but rather (1 * 256) + (0 * 16) + (0 * 1) = 256.
 - When I say that everything everywhere is little-endian, I mean that you have to reverse the bytes before
   converting to get the correct value. For example, 2C 01 --> 0x12C --> 300.
 - In order to interpret all my locations, you need to be able to read a hex editor's layout. The leftmost
