@@ -1,0 +1,1547 @@
+0033 [greenhorn plains]:
+Zone 01:
+	Max Spawns: 2
+	V-Raptor: 50%
+	Shanshan: 50%
+Zone 02:
+	Max Spawns: 3
+	Spinax: 50%
+	Goyle: 50%
+Zone 03:
+	Max Spawns: 3
+	Goyle: 50%
+	V-Raptor: 50%
+Zone 04:
+	Max Spawns: 4
+	V-Raptor: 25%
+	Shanshan: 25%
+	Goyle: 25%
+	Spinax: 25%
+Zone 05:
+	Max Spawns: 1
+	V-Raptor: 50%
+	Shanshan: 50%
+Zone 06:
+	Max Spawns: 1
+	Spinax: 50%
+	Goyle: 50%
+Zone 01:
+	Max Spawns: 3
+	V-Raptor: 30%
+	Shanshan: 30%
+	Goyle: 40%
+Zone 02:
+	Max Spawns: 4
+	V-Raptor: 35%
+	Shanshan: 35%
+	Spinax: 30%
+Zone 03:
+	Max Spawns: 4
+	Goyle: 30%
+	Spinax: 70%
+Zone 04:
+	Max Spawns: 5
+	V-Raptor: 25%
+	Shanshan: 25%
+	Goyle: 25%
+	Spinax: 25%
+Zone 05:
+	Max Spawns: 1
+	V-Raptor: 50%
+	Shanshan: 50%
+Zone 06:
+	Max Spawns: 1
+	Spinax: 50%
+	Goyle: 50%
+Zone 01:
+	Max Spawns: 4
+	V-Raptor: 35%
+	Shanshan: 35%
+	Goyle: 30%
+Zone 02:
+	Max Spawns: 5
+	V-Raptor: 30%
+	Shanshan: 30%
+	Spinax: 40%
+Zone 03:
+	Max Spawns: 5
+	Goyle: 70%
+	Spinax: 30%
+Zone 04:
+	Max Spawns: 6
+	V-Raptor: 25%
+	Shanshan: 25%
+	Goyle: 25%
+	Spinax: 25%
+Zone 05:
+	Max Spawns: 1
+	V-Raptor: 50%
+	Shanshan: 50%
+Zone 06:
+	Max Spawns: 1
+	Spinax: 45%
+	Goyle: 45%
+	Tarbo: 10%
+Zone 07:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+Zone 08:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+Zone 07:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+Zone 08:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+Zone 07:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+Zone 08:
+	Max Spawns: 15
+	Carchar: 20%
+	Neo: 20%
+	Carno: 20%
+	Centro: 20%
+	Andrarch: 20%
+
+0034 [beta knotwood forest]:
+Zone 01:
+	Max Spawns: 2
+	Siamo: 25%
+	Nychus: 25%
+	Andrarch: 25%
+	Goyle: 25%
+Zone 02:
+	Max Spawns: 3
+	Siamo: 20%
+	Nychus: 20%
+	Andrarch: 20%
+	Goyle: 20%
+	Lexo: 20%
+Zone 03:
+	Max Spawns: 3
+	Siamo: 15%
+	Nychus: 15%
+	Andrarch: 15%
+	Goyle: 20%
+	Lexo: 20%
+	Alectro: 15%
+
+0036 [digadiagamid floors]:
+Zone 01:
+	Max Spawns: 4
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 5
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 6
+	Lexo: 50%
+	Pachy: 50%
+
+0037 [keymonite room]:
+Zone 01:
+	Max Spawns: 0
+	Nasaur: 20%
+	Ourano: 15%
+	V-Raptor: 15%
+	Pachy: 15%
+	Centro: 20%
+	Alectro: 5%
+	Coatlus: 5%
+	M-Raptor: 5%
+
+0038 [digadiagamid floors]:
+Zone 01:
+	Max Spawns: 3
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 4
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 5
+	Lexo: 50%
+	Pachy: 50%
+
+0039 [digadiagamid floors]:
+Zone 01:
+	Max Spawns: 3
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 3
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 3
+	Lexo: 50%
+	Pachy: 50%
+
+0040 [digadiagamid floors]:
+Zone 01:
+	Max Spawns: 3
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 4
+	Lexo: 50%
+	Pachy: 50%
+Zone 01:
+	Max Spawns: 5
+	Lexo: 50%
+	Pachy: 50%
+
+0042 [rivet ravine]:
+Zone 01:
+	Max Spawns: 4
+	Alectro: 33%
+	Megalo: 34%
+	Coatlus: 33%
+Zone 02:
+	Max Spawns: 5
+	Alectro: 34%
+	Megalo: 33%
+	Coatlus: 33%
+Zone 03:
+	Max Spawns: 8
+	Siamo: 25%
+	Metria: 25%
+	Hypsi: 25%
+	Goyo: 25%
+Zone 04:
+	Max Spawns: 5
+	Alectro: 33%
+	Megalo: 33%
+	Coatlus: 34%
+Zone 05:
+	Max Spawns: 8
+	Alio: 25%
+	Cerato: 25%
+	Igua: 25%
+	Lambeo: 25%
+Zone 01:
+	Max Spawns: 4
+	Alectro: 33%
+	Megalo: 34%
+	Coatlus: 33%
+Zone 02:
+	Max Spawns: 5
+	Alectro: 34%
+	Megalo: 33%
+	Coatlus: 33%
+Zone 03:
+	Max Spawns: 10
+	Siamo: 25%
+	Metria: 25%
+	Hypsi: 25%
+	Goyo: 25%
+Zone 04:
+	Max Spawns: 5
+	Alectro: 33%
+	Megalo: 33%
+	Coatlus: 34%
+Zone 05:
+	Max Spawns: 10
+	Alio: 25%
+	Cerato: 25%
+	Igua: 25%
+	Lambeo: 25%
+Zone 01:
+	Max Spawns: 5
+	Alectro: 34%
+	Megalo: 33%
+	Coatlus: 33%
+Zone 02:
+	Max Spawns: 6
+	Alectro: 33%
+	Megalo: 34%
+	Coatlus: 33%
+Zone 03:
+	Max Spawns: 12
+	Siamo: 25%
+	Metria: 25%
+	Hypsi: 25%
+	Goyo: 25%
+Zone 04:
+	Max Spawns: 6
+	Alectro: 33%
+	Megalo: 33%
+	Coatlus: 34%
+Zone 05:
+	Max Spawns: 12
+	Alio: 25%
+	Cerato: 25%
+	Igua: 25%
+	Lambeo: 25%
+
+0043 [RR tunnel 1 (ptd area)]:
+Zone 01:
+	Max Spawns: 20
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+Zone 01:
+	Max Spawns: 20
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+Zone 01:
+	Max Spawns: 20
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+	Acro: 10%
+	Angato: 10%
+	Paraloph: 10%
+	Pachrino: 10%
+	Dimorph: 10%
+
+0044 [RR tunnels 2-4]:
+Zone 01:
+	Max Spawns: 5
+	Nasaur: 40%
+	Stygi: 20%
+	Coatlus: 40%
+Zone 02:
+	Max Spawns: 1
+	Alectro: 33%
+	Nasaur: 34%
+	Stygi: 33%
+Zone 01:
+	Max Spawns: 5
+	Nasaur: 30%
+	Stygi: 30%
+	Coatlus: 40%
+Zone 02:
+	Max Spawns: 1
+	Alectro: 34%
+	Nasaur: 33%
+	Stygi: 33%
+Zone 01:
+	Max Spawns: 6
+	Nasaur: 40%
+	Stygi: 20%
+	Coatlus: 30%
+	Sucho: 10%
+Zone 02:
+	Max Spawns: 2
+	Alectro: 30%
+	Nasaur: 30%
+	Stygi: 30%
+	Sucho: 10%
+
+0045 [RR tunnels 2-4]:
+Zone 01:
+	Max Spawns: 4
+	Nasaur: 30%
+	Stygi: 30%
+	Elasmoth: 40%
+Zone 01:
+	Max Spawns: 4
+	Nasaur: 30%
+	Stygi: 30%
+	Elasmoth: 40%
+Zone 01:
+	Max Spawns: 5
+	Nasaur: 30%
+	Stygi: 30%
+	Elasmoth: 40%
+
+0046 [RR tunnels 2-4]:
+Zone 01:
+	Max Spawns: 6
+	Stygi: 20%
+	Coatlus: 40%
+	Elasmoth: 40%
+Zone 02:
+	Max Spawns: 1
+	Alectro: 25%
+	Megalo: 25%
+	Coatlus: 25%
+	Elasmoth: 25%
+Zone 03:
+	Max Spawns: 1
+	Megalo: 33%
+	Nasaur: 33%
+	Stygi: 34%
+Zone 01:
+	Max Spawns: 6
+	Stygi: 40%
+	Coatlus: 30%
+	Elasmoth: 30%
+Zone 02:
+	Max Spawns: 1
+	Alectro: 25%
+	Megalo: 25%
+	Coatlus: 25%
+	Elasmoth: 25%
+Zone 03:
+	Max Spawns: 1
+	Megalo: 33%
+	Nasaur: 33%
+	Stygi: 34%
+Zone 01:
+	Max Spawns: 7
+	Stygi: 20%
+	Coatlus: 30%
+	Elasmoth: 40%
+	Giganto: 10%
+Zone 02:
+	Max Spawns: 2
+	Alectro: 25%
+	Megalo: 25%
+	Coatlus: 25%
+	Elasmoth: 25%
+Zone 03:
+	Max Spawns: 2
+	Megalo: 30%
+	Nasaur: 30%
+	Stygi: 30%
+	Giganto: 10%
+
+0047 [RR tunnels 2-4]:
+Zone 01:
+	Max Spawns: 4
+	U-Raptor: 25%
+	U-Raptor: 25%
+	Ourano: 25%
+	Ourano: 25%
+Zone 01:
+	Max Spawns: 6
+	U-Raptor: 15%
+	U-Raptor: 15%
+	U-Raptor: 20%
+	Ourano: 15%
+	Ourano: 15%
+	Ourano: 20%
+Zone 01:
+	Max Spawns: 8
+	U-Raptor: 25%
+	U-Raptor: 15%
+	U-Raptor: 10%
+	Ourano: 25%
+	Ourano: 15%
+	Ourano: 10%
+
+0049 [parchment desert]:
+Zone 01:
+	Max Spawns: 5
+	Gorgo: 20%
+	Giganto: 20%
+	Arsith: 20%
+	Smilo: 20%
+	Orno: 20%
+Zone 02:
+	Max Spawns: 5
+	Gorgo: 14%
+	Allo: 15%
+	Giganto: 14%
+	Aopteryx: 15%
+	Arsith: 14%
+	Smilo: 14%
+	Orno: 14%
+Zone 03:
+	Max Spawns: 5
+	Gorgo: 12%
+	Allo: 12%
+	Giganto: 12%
+	Aopteryx: 13%
+	Perso: 15%
+	Arsith: 12%
+	Smilo: 12%
+	Orno: 12%
+Zone 04:
+	Max Spawns: 5
+	T-Rex: 10%
+	Gorgo: 10%
+	Allo: 10%
+	Giganto: 10%
+	Aopteryx: 10%
+	Perso: 10%
+	Mihu: 10%
+	Arsith: 10%
+	Smilo: 10%
+	Orno: 10%
+Zone 01:
+	Max Spawns: 6
+	Gorgo: 20%
+	Giganto: 20%
+	Arsith: 20%
+	Smilo: 20%
+	Orno: 20%
+Zone 02:
+	Max Spawns: 6
+	Gorgo: 14%
+	Allo: 15%
+	Giganto: 14%
+	Aopteryx: 15%
+	Arsith: 14%
+	Smilo: 14%
+	Orno: 14%
+Zone 03:
+	Max Spawns: 6
+	Gorgo: 12%
+	Allo: 12%
+	Giganto: 12%
+	Aopteryx: 13%
+	Perso: 15%
+	Arsith: 12%
+	Smilo: 12%
+	Orno: 12%
+Zone 04:
+	Max Spawns: 6
+	T-Rex: 10%
+	Gorgo: 10%
+	Allo: 10%
+	Giganto: 10%
+	Aopteryx: 10%
+	Perso: 10%
+	Mihu: 10%
+	Arsith: 10%
+	Smilo: 10%
+	Orno: 10%
+Zone 01:
+	Max Spawns: 6
+	Gorgo: 20%
+	Giganto: 20%
+	Arsith: 20%
+	Smilo: 20%
+	Orno: 20%
+Zone 02:
+	Max Spawns: 6
+	Gorgo: 14%
+	Allo: 15%
+	Giganto: 14%
+	Aopteryx: 15%
+	Arsith: 14%
+	Smilo: 14%
+	Orno: 14%
+Zone 03:
+	Max Spawns: 6
+	Gorgo: 12%
+	Allo: 12%
+	Giganto: 12%
+	Aopteryx: 13%
+	Perso: 15%
+	Arsith: 12%
+	Smilo: 12%
+	Orno: 12%
+Zone 04:
+	Max Spawns: 6
+	T-Rex: 10%
+	Gorgo: 10%
+	Allo: 10%
+	Giganto: 10%
+	Aopteryx: 10%
+	Perso: 10%
+	Mihu: 10%
+	Arsith: 10%
+	Smilo: 10%
+	Orno: 10%
+
+0050 [bottomsup bay]:
+Zone 01:
+	Max Spawns: 5
+	Krona: 10%
+	Elasmo: 30%
+	Plesio: 30%
+	Shoni: 30%
+Zone 02:
+	Max Spawns: 5
+	Krona: 10%
+	Elasmo: 30%
+	Plesio: 30%
+	Shoni: 30%
+Zone 01:
+	Max Spawns: 6
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 02:
+	Max Spawns: 6
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 01:
+	Max Spawns: 6
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 02:
+	Max Spawns: 6
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+
+0051 [woolbeards room]:
+Zone 01:
+	Max Spawns: 0
+	Futabi: 34%
+	Elasmo: 33%
+	Plesio: 33%
+
+0052 [outside pirate ship]:
+Zone 01:
+	Max Spawns: 3
+	Krona: 10%
+	Elasmo: 30%
+	Plesio: 30%
+	Shoni: 30%
+Zone 01:
+	Max Spawns: 4
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 01:
+	Max Spawns: 4
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+
+0053 [BBay misc. holes]:
+Zone 01:
+	Max Spawns: 3
+	Krona: 10%
+	Elasmo: 30%
+	Plesio: 30%
+	Shoni: 30%
+Zone 01:
+	Max Spawns: 4
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 01:
+	Max Spawns: 4
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+
+0054 [BBay misc. holes]:
+Zone 01:
+	Max Spawns: 3
+	Krona: 25%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 25%
+Zone 01:
+	Max Spawns: 4
+	Krona: 20%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 20%
+	Delta: 10%
+Zone 01:
+	Max Spawns: 4
+	Krona: 20%
+	Elasmo: 25%
+	Plesio: 25%
+	Shoni: 20%
+	Delta: 10%
+
+0055 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0056 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0057 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 4
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0058 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 1
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0059 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 20%
+	Onyx: 20%
+	Jiango: 25%
+	Futabi: 25%
+	Seismo: 10%
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 20%
+	Onyx: 20%
+	Jiango: 25%
+	Futabi: 25%
+	Seismo: 10%
+
+0060 [bb base (outside/1F)]:
+Zone 01:
+	Max Spawns: 4
+	Daspleto: 5%
+	Delta: 5%
+	Coelo: 5%
+	Salto: 30%
+	Kentro: 30%
+	Pelto: 25%
+Zone 01:
+	Max Spawns: 5
+	Daspleto: 10%
+	Delta: 10%
+	Coelo: 15%
+	Salto: 15%
+	Kentro: 15%
+	Pelto: 15%
+	Styraco: 20%
+Zone 01:
+	Max Spawns: 6
+	Daspleto: 10%
+	Delta: 10%
+	Coelo: 15%
+	Salto: 15%
+	Kentro: 15%
+	Pelto: 15%
+	Styraco: 20%
+
+0061 [bb base floors 2F-5F]:
+Zone 01:
+	Max Spawns: 3
+	Daspleto: 10%
+	Delta: 10%
+	Salto: 25%
+	Kentro: 25%
+	Pelto: 30%
+Zone 01:
+	Max Spawns: 4
+	Daspleto: 15%
+	Salto: 20%
+	Kentro: 20%
+	Pelto: 20%
+	Styraco: 25%
+Zone 01:
+	Max Spawns: 5
+	Daspleto: 15%
+	Salto: 20%
+	Kentro: 20%
+	Pelto: 20%
+	Styraco: 25%
+
+0063 [coldfeet glacier]:
+Zone 01:
+	Max Spawns: 4
+	Cryo: 20%
+	Spino: 20%
+	Sucho: 20%
+	Apato: 20%
+	Guera: 20%
+Zone 02:
+	Max Spawns: 4
+	Sucho: 25%
+	Apato: 25%
+	Guera: 25%
+	Paki: 25%
+Zone 03:
+	Max Spawns: 4
+	Tarbo: 25%
+	Ankylo: 25%
+	Brontoth: 25%
+	Mammoth: 25%
+Zone 01:
+	Max Spawns: 5
+	Cryo: 20%
+	Spino: 20%
+	Sucho: 20%
+	Apato: 20%
+	Guera: 20%
+Zone 02:
+	Max Spawns: 5
+	Cryo: 20%
+	Spino: 20%
+	Ankylo: 20%
+	Brontoth: 20%
+	Paki: 20%
+Zone 03:
+	Max Spawns: 5
+	Tarbo: 25%
+	Ankylo: 25%
+	Brontoth: 25%
+	Mammoth: 25%
+Zone 01:
+	Max Spawns: 7
+	Cryo: 20%
+	Spino: 20%
+	Sucho: 20%
+	Apato: 20%
+	Guera: 20%
+Zone 02:
+	Max Spawns: 7
+	Tarbo: 11%
+	Cryo: 11%
+	Spino: 11%
+	Sucho: 11%
+	Apato: 11%
+	Ankylo: 11%
+	Guera: 12%
+	Brontoth: 11%
+	Paki: 11%
+Zone 03:
+	Max Spawns: 7
+	Tarbo: 25%
+	Ankylo: 25%
+	Brontoth: 25%
+	Mammoth: 25%
+
+0064 [ML main room, lava raised]:
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 5
+	Shuno: 25%
+	Amargo: 25%
+	Saichan: 25%
+	Jara: 25%
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 6
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 6
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+
+0065 [ML north room, lava raised]:
+Zone 01:
+	Max Spawns: 2
+	Shuno: 40%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 20%
+Zone 01:
+	Max Spawns: 2
+	Shuno: 20%
+	Amargo: 30%
+	Saichan: 30%
+	Jara: 20%
+Zone 01:
+	Max Spawns: 2
+	Shuno: 20%
+	Amargo: 30%
+	Saichan: 30%
+	Jara: 20%
+
+0066 [ML northeast room]:
+Zone 01:
+	Max Spawns: 3
+	Shuno: 20%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 40%
+Zone 02:
+	Max Spawns: 3
+	Tro: 5%
+	Shuno: 20%
+	Amargo: 20%
+	Yango: 5%
+	Saichan: 20%
+	Einio: 5%
+	Penta: 5%
+	Jara: 20%
+Zone 01:
+	Max Spawns: 3
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+Zone 02:
+	Max Spawns: 4
+	Tro: 10%
+	Shuno: 15%
+	Amargo: 15%
+	Yango: 10%
+	Saichan: 15%
+	Einio: 10%
+	Penta: 10%
+	Jara: 15%
+Zone 01:
+	Max Spawns: 4
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+Zone 02:
+	Max Spawns: 4
+	Tro: 10%
+	Shuno: 15%
+	Amargo: 15%
+	Yango: 10%
+	Saichan: 15%
+	Einio: 10%
+	Penta: 10%
+	Jara: 15%
+
+0067 [ML main room, no lava]:
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 5
+	Shuno: 25%
+	Amargo: 25%
+	Saichan: 25%
+	Jara: 25%
+Zone 03:
+	Max Spawns: 7
+	Tro: 25%
+	Yango: 25%
+	Einio: 25%
+	Penta: 25%
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 6
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+Zone 03:
+	Max Spawns: 7
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+Zone 01:
+	Max Spawns: 2
+	Amargo: 50%
+	Saichan: 50%
+Zone 02:
+	Max Spawns: 6
+	Shuno: 30%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 30%
+Zone 03:
+	Max Spawns: 7
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+
+0068 [ML north room, no lava]:
+Zone 01:
+	Max Spawns: 2
+	Shuno: 40%
+	Amargo: 20%
+	Saichan: 20%
+	Jara: 20%
+Zone 02:
+	Max Spawns: 3
+	Tro: 25%
+	Yango: 25%
+	Einio: 25%
+	Penta: 25%
+Zone 01:
+	Max Spawns: 2
+	Shuno: 20%
+	Amargo: 30%
+	Saichan: 30%
+	Jara: 20%
+Zone 02:
+	Max Spawns: 3
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+Zone 01:
+	Max Spawns: 2
+	Shuno: 20%
+	Amargo: 30%
+	Saichan: 30%
+	Jara: 20%
+Zone 02:
+	Max Spawns: 4
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+
+0069 [ML northwest room]:
+Zone 01:
+	Max Spawns: 4
+	Tro: 25%
+	Yango: 25%
+	Einio: 25%
+	Penta: 25%
+Zone 01:
+	Max Spawns: 5
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+Zone 01:
+	Max Spawns: 5
+	Guan: 20%
+	Tro: 20%
+	Yango: 20%
+	Einio: 20%
+	Penta: 20%
+
+0075 [secret island/crashed starship]:
+Zone 01:
+	Max Spawns: 0
+	Compso: 10%
+	Sopteryx: 10%
+	Breme: 10%
+	Cheirus: 10%
+	O-Raptor: 10%
+	Seismo: 10%
+	Nodo: 10%
+	Saichan: 10%
+	Maia: 10%
+	Proto: 10%
+
+0076 [SI misc. hallways]:
+Zone 01:
+	Max Spawns: 3
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+Zone 01:
+	Max Spawns: 4
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+Zone 01:
+	Max Spawns: 5
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+
+0077 [SI misc. hallways]:
+Zone 01:
+	Max Spawns: 3
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+Zone 01:
+	Max Spawns: 4
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+Zone 01:
+	Max Spawns: 5
+	Cheirus: 20%
+	Seismo: 20%
+	Maia: 20%
+	Anato: 20%
+	Hoplo: 20%
+
+0078 [SI misc. hallways]:
+Zone 01:
+	Max Spawns: 4
+	Sopteryx: 10%
+	Breme: 12%
+	Cheirus: 10%
+	O-Raptor: 10%
+	Seismo: 12%
+	Maia: 12%
+	Anato: 12%
+	Proto: 12%
+	Hoplo: 10%
+Zone 01:
+	Max Spawns: 5
+	Sopteryx: 10%
+	Breme: 12%
+	Cheirus: 10%
+	O-Raptor: 10%
+	Seismo: 12%
+	Maia: 12%
+	Anato: 12%
+	Proto: 12%
+	Hoplo: 10%
+Zone 01:
+	Max Spawns: 6
+	Sopteryx: 10%
+	Breme: 12%
+	Cheirus: 10%
+	O-Raptor: 10%
+	Seismo: 12%
+	Maia: 12%
+	Anato: 12%
+	Proto: 12%
+	Hoplo: 10%
+
+0079 [SI misc. hallways]:
+Zone 01:
+	Max Spawns: 3
+	Sopteryx: 20%
+	Breme: 20%
+	O-Raptor: 30%
+	Proto: 30%
+Zone 01:
+	Max Spawns: 4
+	Sopteryx: 20%
+	Breme: 20%
+	O-Raptor: 30%
+	Proto: 30%
+Zone 01:
+	Max Spawns: 5
+	Sopteryx: 20%
+	Breme: 20%
+	O-Raptor: 30%
+	Proto: 30%
+
+0080 [raptin battle room]:
+Zone 01:
+	Max Spawns: 4
+	Sopteryx: 12%
+	Breme: 10%
+	Cheirus: 12%
+	O-Raptor: 12%
+	Seismo: 10%
+	Maia: 10%
+	Anato: 12%
+	Proto: 10%
+	Hoplo: 12%
+Zone 01:
+	Max Spawns: 5
+	Sopteryx: 12%
+	Breme: 10%
+	Cheirus: 12%
+	O-Raptor: 12%
+	Seismo: 10%
+	Maia: 10%
+	Anato: 12%
+	Proto: 10%
+	Hoplo: 12%
+Zone 01:
+	Max Spawns: 6
+	Sopteryx: 12%
+	Breme: 10%
+	Cheirus: 12%
+	O-Raptor: 12%
+	Seismo: 10%
+	Maia: 10%
+	Anato: 12%
+	Proto: 10%
+	Hoplo: 12%
+
+0086 [bb base floors 2F-5F]:
+Zone 01:
+	Max Spawns: 3
+	Daspleto: 15%
+	Coelo: 10%
+	Salto: 25%
+	Kentro: 25%
+	Pelto: 25%
+Zone 01:
+	Max Spawns: 4
+	Daspleto: 15%
+	Coelo: 10%
+	Salto: 25%
+	Kentro: 25%
+	Pelto: 25%
+Zone 01:
+	Max Spawns: 5
+	Coelo: 10%
+	Salto: 25%
+	Kentro: 25%
+	Pelto: 25%
+	Styraco: 20%
+
+0087 [bb base floors 2F-5F]:
+Zone 01:
+	Max Spawns: 3
+	Delta: 15%
+	Coelo: 10%
+	Salto: 25%
+	Kentro: 25%
+	Pelto: 25%
+Zone 01:
+	Max Spawns: 4
+	Delta: 15%
+	Coelo: 15%
+	Salto: 15%
+	Kentro: 20%
+	Pelto: 15%
+	Dilopho: 20%
+Zone 01:
+	Max Spawns: 5
+	Delta: 15%
+	Coelo: 15%
+	Salto: 15%
+	Kentro: 20%
+	Pelto: 15%
+	Dilopho: 20%
+
+0088 [bb base floors 2F-5F]:
+Zone 01:
+	Max Spawns: 2
+	Daspleto: 30%
+	Delta: 30%
+	Coelo: 30%
+	Dilopho: 10%
+Zone 01:
+	Max Spawns: 3
+	Daspleto: 20%
+	Delta: 20%
+	Coelo: 25%
+	Dilopho: 25%
+	Saichan: 10%
+Zone 01:
+	Max Spawns: 4
+	Daspleto: 20%
+	Delta: 20%
+	Coelo: 25%
+	Dilopho: 25%
+	Saichan: 10%
+
+0089 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 1
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0090 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 1
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0091 [pirate ship misc. rooms]:
+Zone 01:
+	Max Spawns: 2
+	M-Raptor: 10%
+	Onyx: 30%
+	Jiango: 30%
+	Futabi: 30%
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+Zone 01:
+	Max Spawns: 3
+	M-Raptor: 25%
+	Onyx: 25%
+	Jiango: 25%
+	Futabi: 25%
+
+0093 [SI misc. hallways]:
+Zone 01:
+	Max Spawns: 3
+	Sopteryx: 30%
+	Breme: 30%
+	O-Raptor: 20%
+	Proto: 20%
+Zone 01:
+	Max Spawns: 4
+	Sopteryx: 30%
+	Breme: 30%
+	O-Raptor: 20%
+	Proto: 20%
+Zone 01:
+	Max Spawns: 5
+	Sopteryx: 30%
+	Breme: 30%
+	O-Raptor: 20%
+	Proto: 20%
+
+0103 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+Zone 01:
+	Max Spawns: 2
+	Nodo: 50%
+	Megath: 50%
+Zone 01:
+	Max Spawns: 4
+	Nodo: 20%
+	Nodo: 30%
+	Megath: 20%
+	Megath: 30%
+Zone 01:
+	Max Spawns: 6
+	Nodo: 20%
+	Nodo: 15%
+	Nodo: 15%
+	Megath: 20%
+	Megath: 15%
+	Megath: 15%
+
+0105 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+Zone 01:
+	Max Spawns: 2
+	Zino: 50%
+	Chelon: 50%
+Zone 01:
+	Max Spawns: 4
+	Zino: 20%
+	Zino: 30%
+	Chelon: 20%
+	Chelon: 30%
+Zone 01:
+	Max Spawns: 6
+	Zino: 20%
+	Zino: 15%
+	Zino: 15%
+	Chelon: 20%
+	Chelon: 15%
+	Chelon: 15%
+
+0106 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+Zone 01:
+	Max Spawns: 2
+	Brachio: 50%
+	Tricera: 50%
+Zone 01:
+	Max Spawns: 4
+	Brachio: 20%
+	Brachio: 30%
+	Tricera: 20%
+	Tricera: 30%
+Zone 01:
+	Max Spawns: 6
+	Brachio: 20%
+	Brachio: 15%
+	Brachio: 15%
+	Tricera: 20%
+	Tricera: 15%
+	Tricera: 15%
+
+0116 [real knotwood forest]:
+Zone 01:
+	Max Spawns: 3
+	Venator: 34%
+	S-Raptor: 33%
+	Nychus: 33%
+Zone 02:
+	Max Spawns: 3
+	Venator: 33%
+	S-Raptor: 34%
+	Nychus: 33%
+Zone 03:
+	Max Spawns: 4
+	Venator: 33%
+	S-Raptor: 33%
+	Nychus: 34%
+Zone 01:
+	Max Spawns: 4
+	Venator: 34%
+	S-Raptor: 33%
+	Nychus: 33%
+Zone 02:
+	Max Spawns: 4
+	Venator: 33%
+	S-Raptor: 34%
+	Nychus: 33%
+Zone 03:
+	Max Spawns: 5
+	Venator: 33%
+	S-Raptor: 33%
+	Nychus: 34%
+Zone 01:
+	Max Spawns: 4
+	Venator: 34%
+	S-Raptor: 33%
+	Nychus: 33%
+Zone 02:
+	Max Spawns: 5
+	Venator: 33%
+	S-Raptor: 34%
+	Nychus: 33%
+Zone 03:
+	Max Spawns: 6
+	Venator: 33%
+	S-Raptor: 33%
+	Nychus: 34%
+
+0121 [trial dig site]:
+Zone 01:
+	Max Spawns: 3
+	Shanshan: 100%
+Zone 01:
+	Max Spawns: 3
+	Spinax: 20%
+	Spinax: 30%
+	Shanshan: 30%
+	Shanshan: 20%
+Zone 01:
+	Max Spawns: 4
+	Spinax: 20%
+	Spinax: 30%
+	Shanshan: 30%
+	Shanshan: 20%
+

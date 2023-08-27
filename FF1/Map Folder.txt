@@ -1,0 +1,29 @@
+EVERYTHING IS LITTLE-ENDIAN
+
+The Map folder is split into five sub-folders:
+	- c's use is unknown, but speculated to involve the Camera
+	- e sets out the various Excavation zones in each digsite
+	- g's use is unknown
+	- m defines various parameters for the map, along with saying which vivosaurs can be found in each numbered zone
+	- r contains all NPCs, loading zones, etc.
+
+All the folders except m are of the type GRD, i.e. "grid." Thus, if you remove the first 20 bytes of the file, then set HxD to display a number of bytes per row equal to
+bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, E-Maps-Color.zip in this folder shows renditions of that
+made using Python.
+
+M is a little different, and its full purpose has not yet been divined. However, for fossils specifically, the following set-up is known:
+- At 0x54 to 0x58, there is a pointer
+- At that pointer, there is a list of pointers, ending in a 00 00 00 00
+- Each of that list goes to a fossil table. All information about it will be given in relative addresses:
+	- The zone the table is for is at 0x04; if you see the same zone multiple times, that is for when it changes during
+	  the course of the story, controlled by unknown information in the file
+	- 0x0C-0x10 is the maximum number of spawns of this zone that can occur in this map
+	- The number of vivosaur entries is given at 0x28-0x2C. This also serves as the number of (relative) pointers coming up
+	- Because there can be unknown data between here and the pointers, the location of the beginning of those pointers can be found at 0x2C-0x30
+	- Heading there, each pointer is four bytes. As far as the author can tell, however, all vivosaur entries seem to be 32 bytes long, so why
+          there are pointers for it is unknown
+	- After that, we finally get the vivosaur entries. For each entry, the first four bytes is the vivosaur ID, then the next four are the chance
+          of the spawn being that entry. Everything else is unknown
+
+If you find all that confusing, not to fear. There is a file named ff1_digsiteOutput.txt in this folder that dumps all that data from every digsite. Additionally, the
+Python source code is provided, if that helps you understand it better.
