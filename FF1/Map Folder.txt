@@ -7,8 +7,11 @@ The Map folder is split into five sub-folders:
 	- m defines various parameters for the map, along with saying which vivosaurs can be found in each numbered zone
 	- r contains all NPCs, loading zones, etc.
 
+Within them, all files are numbered, according to map ID. In this folder is a file named Map IDs.txt, which shows you which maps are which (thanks to Megalo-Vania for
+documenting that).
+
 All the folders except m are of the type GRD, i.e. "grid." Thus, if you remove the first 20 bytes of the file, then set HxD to display a number of bytes per row equal to
-bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, E-Maps-Color.zip in this folder shows renditions of that
+bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, FF1-E-Maps-Color.zip in this folder shows renditions of that
 made using Python.
 
 M is a little different, and its full purpose has not yet been divined. However, for fossils specifically, the following set-up is known:
