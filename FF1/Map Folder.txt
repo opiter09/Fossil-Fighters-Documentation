@@ -16,7 +16,7 @@ made using Python.
 
 M is a little different, and its full purpose has not yet been divined. However, for fossils specifically, the following set-up is known:
 - At 0x54 to 0x58, there is a pointer
-- At that pointer, there is a list of pointers, ending in a 00 00 00 00
+- At that pointer, there is a list of pointers, the number of which can be found at 0x50-0x53
 - Each of that list goes to a fossil table. All information about it will be given in relative addresses:
 	- The zone the table is for is at 0x04; if you see the same zone multiple times, that is for when it changes during
 	  the course of the story, controlled by unknown information in the file
