@@ -440,7 +440,7 @@ Zone 03:
 	Stygi: 30%
 	Giganto: 10%
 
-0047 [RR tunnels 2-4]:
+0047 [RR tunnel 5]:
 Zone 01:
 	Max Spawns: 4
 	U-Raptor: 25%
@@ -1421,7 +1421,7 @@ Zone 01:
 	O-Raptor: 20%
 	Proto: 20%
 
-0103 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+0103 [moles secret tunnel]:
 Zone 01:
 	Max Spawns: 2
 	Nodo: 50%
@@ -1441,7 +1441,7 @@ Zone 01:
 	Megath: 15%
 	Megath: 15%
 
-0105 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+0105 [moles secret tunnel]:
 Zone 01:
 	Max Spawns: 2
 	Zino: 50%
@@ -1461,7 +1461,7 @@ Zone 01:
 	Chelon: 15%
 	Chelon: 15%
 
-0106 [all slight variations on the same tunnel map used for cutscenes involving minecarts]:
+0106 [moles secret tunnel]:
 Zone 01:
 	Max Spawns: 2
 	Brachio: 50%
