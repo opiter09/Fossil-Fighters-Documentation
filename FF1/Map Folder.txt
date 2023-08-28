@@ -21,7 +21,8 @@ M is a little different, and its full purpose has not yet been divined. However,
 	- The zone the table is for is at 0x04; if you see the same zone multiple times, that is for when it changes during
 	  the course of the story, controlled by unknown information in the file
 	- 0x0C-0x10 is the maximum number of spawns of this zone that can occur in this map
-	- The number of vivosaur entries is given at 0x28-0x2C. This also serves as the number of (relative) pointers coming up
+	- The number of vivosaur entries is given at 0x28-0x2C. This also serves as the number of pointers coming up (all of which are relative to the beginning of this
+          particular fossil table)
 	- Because there can be unknown data between here and the pointers, the location of the beginning of those pointers can be found at 0x2C-0x30
 	- Heading there, each pointer is four bytes. As far as the author can tell, however, all vivosaur entries seem to be 32 bytes long, so why
           there are pointers for it is unknown
