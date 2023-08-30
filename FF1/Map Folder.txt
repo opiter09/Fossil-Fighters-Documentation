@@ -30,5 +30,4 @@ M is a little different, and its full purpose has not yet been divined. However,
           of the spawn being that entry. Everything else is unknown
 
 If you find all that confusing, not to fear. There is a file named ff1_digsiteOutput.txt in this folder that dumps all that data from every digsite. Additionally, the
-Python source code is provided, if that helps you understand it better. Do note that if you try to run this code, the resulting text file will have different names for
-a few areas, since the update for said names only was provided in the form of a fixed output file.
+Python source code is provided, if that helps you understand it better.

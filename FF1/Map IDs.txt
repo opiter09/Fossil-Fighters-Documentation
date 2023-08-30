@@ -38,7 +38,8 @@
 
 42: rivet ravine
 43: RR tunnel 1 (ptd area)
-44, 45, 46, 47: RR tunnels 2-4
+44, 45, 46: RR tunnels 2-4
+47: RR tunnel 5
 48: RR tunnel entrance
 
 49: parchment desert
@@ -79,6 +80,6 @@
 96: opening boat ride area
 98, 99: (relatively) small guhnash
 100: crash
-101, 102, 103, 104, 105, 106: all slight variations on the same tunnel map used for cutscenes involving minecarts
+101, 102, 103, 104, 105, 106: RR mole tunnels
 107, 108, 109, 110, 111, 112, 113, 114, 115: a buggy version of the fossil stadium with no collision or loading zones, presumably by the name used solely for the sequence after a chapter is completed, when the player has the option to save and return to the title screen so that the map location will say "x chapter complete", because just saying "hotel" is very boring, go figure
 123: another buggy fossil stadium, possibly just used for testing
