@@ -1421,7 +1421,7 @@ Zone 01:
 	O-Raptor: 20%
 	Proto: 20%
 
-0103 [moles secret tunnel]:
+0103 [RR mole tunnels]:
 Zone 01:
 	Max Spawns: 2
 	Nodo: 50%
@@ -1441,7 +1441,7 @@ Zone 01:
 	Megath: 15%
 	Megath: 15%
 
-0105 [moles secret tunnel]:
+0105 [RR mole tunnels]:
 Zone 01:
 	Max Spawns: 2
 	Zino: 50%
@@ -1461,7 +1461,7 @@ Zone 01:
 	Chelon: 15%
 	Chelon: 15%
 
-0106 [moles secret tunnel]:
+0106 [RR mole tunnels]:
 Zone 01:
 	Max Spawns: 2
 	Brachio: 50%
