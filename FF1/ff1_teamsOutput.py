@@ -30,7 +30,9 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
         vivo = int.from_bytes(reading[(i * 12):(i * 12 + 4)], "little")
         level = int.from_bytes(reading[(i * 12 + 4):(i * 12 + 8)], "little")
         padding = int.from_bytes(reading[(i * 12 + 8):(i * 12 + 12)], "little")
-        newFile.write(names.split("\n")[vivo - 1] + ": Level = " + str(level) + ", Moves = " + str(reading[20 * maxi + 4 * i]))
+        res = names.split("\n")[vivo - 1] + ": Level = " + str(level) + ", Moves = " + str(reading[20 * maxi + 4 * i])
+        res = res + ", AI = " + str(int.from_bytes(reading[(12 * maxi + 4 * i):(12 * maxi + 4 * i + 4)], "little"))
+        newFile.write(res)
         newFile.write("\n")
     data.close()
     
