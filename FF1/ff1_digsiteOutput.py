@@ -52,7 +52,7 @@ for root, dirs, files in os.walk("m/bin"):
                     point4 = int.from_bytes(r[(val + point3 + (i * 4)):(val + point3 + (i * 4) + 4)], "little")
                     vivoNum = int.from_bytes(r[(val + point4):(val + point4 + 4)], "little")
                     chance = int.from_bytes(r[(val + point4 + 4):(val + point4 + 8)], "little")
-                    text.write("\t"+ vivoNames[vivoNum] + ": " + str(chance) + "%\n")
+                    text.write("\t" + "[0x" + hex(val + point4).upper()[2:] + "] " + vivoNames[vivoNum] + ": " + str(chance) + "%\n")
             if (check == 1):
                 text.write("\n")
 text.close()
