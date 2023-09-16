@@ -20,6 +20,7 @@ M is a little different, and its full purpose has not yet been divined. However,
 - Each of that list goes to a fossil table. All information about it will be given in relative addresses:
 	- The zone the table is for is at 0x04; if you see the same zone multiple times, that is for when it changes during
 	  the course of the story, controlled by unknown information in the file
+	- 0x08 is a value relating to what sonar upgrades you need for these to show up. 0x6F is nothing, and 0x71 is two fossil chips; ergo, we can assmue 0x70 is one chip
 	- 0x0C-0x10 is the maximum number of spawns of this zone that can occur in this map
 	- The number of vivosaur entries is given at 0x28-0x2C. This also serves as the number of pointers coming up (all of which are relative to the beginning of this
           particular fossil table)
