@@ -1,6 +1,6 @@
 3000:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x22E] Pacro Head
 		[0x236] Pacro Head
 		[0x23E] Pacro Body
@@ -37,7 +37,7 @@ Zone 01:
 		[0x336] Other2
 		[0x33E] Silver Head
 		[0x346] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x392] Pacro Head
 		[0x39A] Pacro Head
 		[0x3A2] Pacro Body
@@ -76,7 +76,7 @@ Zone 01:
 		[0x4AA] Other2
 		[0x4B2] Silver Head
 		[0x4BA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x506] Unused
 		[0x50E] Unused
 		[0x516] Unused
@@ -112,7 +112,7 @@ Zone 01:
 		[0x606] Silver Head
 		[0x60E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x67E] Goyle Head
 		[0x686] Goyle Head
 		[0x68E] Goyle Body
@@ -149,7 +149,7 @@ Zone 02:
 		[0x786] Other2
 		[0x78E] Silver Head
 		[0x796] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7DE] Goyle Head
 		[0x7E6] Goyle Head
 		[0x7EE] Goyle Body
@@ -188,7 +188,7 @@ Zone 02:
 		[0x8F6] Other2
 		[0x8FE] Silver Head
 		[0x906] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x94E] Pacro Head
 		[0x956] Pacro Body
 		[0x95E] Pacro Arms
@@ -236,7 +236,7 @@ Zone 02:
 		[0xAAE] Silver Head
 		[0xAB6] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xB26] Tricera Head
 		[0xB2E] Tricera Head
 		[0xB36] Tricera Body
@@ -274,7 +274,7 @@ Zone 03:
 		[0xC36] Other2
 		[0xC3E] Silver Head
 		[0xC46] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC8E] Tricera Head
 		[0xC96] Tricera Head
 		[0xC9E] Tricera Body
@@ -314,7 +314,7 @@ Zone 03:
 		[0xDAE] Other2
 		[0xDB6] Silver Head
 		[0xDBE] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xE06] Tricera Head
 		[0xE0E] Tricera Body
 		[0xE16] Tricera Arms
@@ -367,7 +367,7 @@ Zone 03:
 		[0xF8E] Silver Head
 		[0xF96] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x1006] Unused
 		[0x100E] Unused
 		[0x1016] Unused
@@ -405,7 +405,7 @@ Zone 04:
 		[0x1116] Other2
 		[0x111E] Silver Head
 		[0x1126] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x116E] Unused
 		[0x1176] Unused
 		[0x117E] Unused
@@ -445,7 +445,7 @@ Zone 04:
 		[0x128E] Other2
 		[0x1296] Silver Head
 		[0x129E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x12E6] Unused
 		[0x12EE] Unused
 		[0x12F6] Unused
@@ -507,7 +507,7 @@ Zone 04:
 		[0x14B6] Silver Head
 		[0x14BE] Gold Head
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x152E] Menchi Head
 		[0x1536] Menchi Head
 		[0x153E] Menchi Body
@@ -545,7 +545,7 @@ Zone 05:
 		[0x163E] Other2
 		[0x1646] Silver Head
 		[0x164E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x1696] Menchi Head
 		[0x169E] Menchi Head
 		[0x16A6] Menchi Body
@@ -585,7 +585,7 @@ Zone 05:
 		[0x17B6] Other2
 		[0x17BE] Silver Head
 		[0x17C6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x180E] Menchi Head
 		[0x1816] Menchi Body
 		[0x181E] Menchi Arms
@@ -625,7 +625,7 @@ Zone 05:
 
 3001:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1BA] Perso Head
 		[0x1C2] Perso Head
 		[0x1CA] Perso Body
@@ -680,7 +680,7 @@ Zone 01:
 		[0x352] Other2
 		[0x35A] Silver Arms
 		[0x362] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x396] Perso Head
 		[0x39E] Perso Head
 		[0x3A6] Perso Body
@@ -738,7 +738,7 @@ Zone 01:
 		[0x546] Other2
 		[0x54E] Silver Arms
 		[0x556] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x58A] Perso Head
 		[0x592] Perso Body
 		[0x59A] Perso Arms
@@ -787,37 +787,37 @@ Zone 01:
 		[0x6F2] Silver Arms
 		[0x6FA] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x756] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x78A] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x7BE] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x81A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x84E] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x882] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x8DE] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x912] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x946] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x9A2] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9D6] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA0A] Sucho Arms
 
 3002:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] Radox Single
 		[0x1CE] Tarbo Head
 		[0x1D6] Tarbo Body
@@ -888,7 +888,7 @@ Zone 01:
 		[0x3DE] Other2
 		[0x3E6] Silver Legs
 		[0x3EE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x422] Radox Single
 		[0x42A] Tarbo Head
 		[0x432] Tarbo Body
@@ -959,7 +959,7 @@ Zone 01:
 		[0x63A] Other2
 		[0x642] Silver Legs
 		[0x64A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x67E] Radox Single
 		[0x686] Tarbo Head
 		[0x68E] Tarbo Body
@@ -1032,34 +1032,34 @@ Zone 01:
 		[0x8A6] Silver Legs
 		[0x8AE] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x90A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x93E] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x972] Siamo Arms
 Zone 03:
-	Table 01:
-	Table 02:
-	Table 03:
+	Fossil Chip 0:
+	Fossil Chip 1:
+	Fossil Chip 2:
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA7A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xAAE] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xAE2] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xB3E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB72] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xBA6] Sucho Arms
 
 3003:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1CE] Chasmo Head
 		[0x1D6] Chasmo Body
 		[0x1DE] Chasmo Arms
@@ -1086,7 +1086,7 @@ Zone 01:
 		[0x286] Other2
 		[0x28E] Silver Head
 		[0x296] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2DE] Chasmo Head
 		[0x2E6] Chasmo Body
 		[0x2EE] Chasmo Arms
@@ -1113,7 +1113,7 @@ Zone 01:
 		[0x396] Other2
 		[0x39E] Silver Head
 		[0x3A6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x3EE] Cryo Head
 		[0x3F6] Goyo Head
 		[0x3FE] Cryo Head
@@ -1137,37 +1137,37 @@ Zone 01:
 		[0x48E] Silver Head
 		[0x496] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x506] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x54E] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x596] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x606] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x64E] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x696] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x706] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x74E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x796] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x806] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x84E] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x896] Sucho Arms
 
 3100:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x20A] Krypto Head
 		[0x212] Krypto Head
 		[0x21A] Krypto Body
@@ -1195,7 +1195,7 @@ Zone 01:
 		[0x2CA] Other2
 		[0x2D2] Silver Body
 		[0x2DA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x322] Krypto Head
 		[0x32A] Krypto Head
 		[0x332] Krypto Body
@@ -1224,7 +1224,7 @@ Zone 01:
 		[0x3EA] Other2
 		[0x3F2] Silver Body
 		[0x3FA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x442] Krypto Head
 		[0x44A] Krypto Body
 		[0x452] Krypto Arms
@@ -1249,37 +1249,37 @@ Zone 01:
 		[0x4EA] Silver Body
 		[0x4F2] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x562] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5AA] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x5F2] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x662] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6AA] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x6F2] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x762] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7AA] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x7F2] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x862] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8AA] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x8F2] Sucho Arms
 
 3101:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F6] Coatlus Head
 		[0x1FE] Coatlus Head
 		[0x206] Coatlus Body
@@ -1330,7 +1330,7 @@ Zone 01:
 		[0x36E] Other2
 		[0x376] Silver Body
 		[0x37E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3C6] Coatlus Head
 		[0x3CE] Coatlus Head
 		[0x3D6] Coatlus Body
@@ -1384,7 +1384,7 @@ Zone 01:
 		[0x556] Other2
 		[0x55E] Silver Body
 		[0x566] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x5AE] Coatlus Head
 		[0x5B6] Coatlus Body
 		[0x5BE] Coatlus Arms
@@ -1429,37 +1429,37 @@ Zone 01:
 		[0x6F6] Silver Body
 		[0x6FE] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x76E] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7B6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x7FE] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x86E] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8B6] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x8FE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x96E] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9B6] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9FE] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xA6E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xAB6] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xAFE] Sucho Arms
 
 3102:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F6] Parapu Single
 		[0x1FE] Parapu Single
 		[0x206] Nycto Head
@@ -1501,7 +1501,7 @@ Zone 01:
 		[0x326] Other2
 		[0x32E] Silver Body
 		[0x336] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x37E] Parapu Single
 		[0x386] Parapu Single
 		[0x38E] Nycto Head
@@ -1545,7 +1545,7 @@ Zone 01:
 		[0x4BE] Other2
 		[0x4C6] Silver Body
 		[0x4CE] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x516] Parapu Single
 		[0x51E] Nycto Head
 		[0x526] Nycto Body
@@ -1582,37 +1582,37 @@ Zone 01:
 		[0x61E] Silver Body
 		[0x626] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x696] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6DE] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x726] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x796] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7DE] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x826] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x896] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8DE] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x926] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x996] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9DE] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA26] Sucho Arms
 
 3103:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F6] Nycto Head
 		[0x1FE] Nycto Head
 		[0x206] Nycto Body
@@ -1649,7 +1649,7 @@ Zone 01:
 		[0x2FE] Other2
 		[0x306] Silver Body
 		[0x30E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x356] Nycto Head
 		[0x35E] Nycto Head
 		[0x366] Nycto Body
@@ -1688,7 +1688,7 @@ Zone 01:
 		[0x46E] Other2
 		[0x476] Silver Body
 		[0x47E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x4C6] Nycto Head
 		[0x4CE] Nycto Body
 		[0x4D6] Nycto Arms
@@ -1721,37 +1721,37 @@ Zone 01:
 		[0x5AE] Silver Body
 		[0x5B6] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x626] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x66E] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x6B6] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x726] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x76E] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x7B6] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x826] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x86E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x8B6] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x926] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x96E] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9B6] Sucho Arms
 
 3104:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x206] Delta Head
 		[0x20E] Delta Body
 		[0x216] Delta Arms
@@ -1781,7 +1781,7 @@ Zone 01:
 		[0x2D6] Other2
 		[0x2DE] Silver Body
 		[0x2E6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x32E] Delta Head
 		[0x336] Delta Body
 		[0x33E] Delta Arms
@@ -1811,7 +1811,7 @@ Zone 01:
 		[0x3FE] Other2
 		[0x406] Silver Body
 		[0x40E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x456] Delta Head
 		[0x45E] Delta Body
 		[0x466] Delta Arms
@@ -1842,37 +1842,37 @@ Zone 01:
 		[0x52E] Silver Body
 		[0x536] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x5A6] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5EE] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x636] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x6A6] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6EE] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x736] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x7A6] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7EE] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x836] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A6] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8EE] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x936] Sucho Arms
 
 3200:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x2A2] Hypsi Head
 		[0x2AA] Hypsi Head
 		[0x2B2] Hypsi Body
@@ -1924,7 +1924,7 @@ Zone 01:
 		[0x422] Other2
 		[0x42A] Silver Body
 		[0x432] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x47A] Hypsi Head
 		[0x482] Hypsi Head
 		[0x48A] Hypsi Body
@@ -1979,7 +1979,7 @@ Zone 01:
 		[0x612] Other2
 		[0x61A] Silver Body
 		[0x622] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x66A] Hypsi Head
 		[0x672] Hypsi Body
 		[0x67A] Hypsi Arms
@@ -2026,7 +2026,7 @@ Zone 01:
 		[0x7C2] Silver Body
 		[0x7CA] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x83A] Ceros Single
 		[0x842] Ceros Single
 		[0x84A] Nodo Head
@@ -2069,7 +2069,7 @@ Zone 02:
 		[0x972] Other2
 		[0x97A] Silver Body
 		[0x982] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9CA] Ceros Single
 		[0x9D2] Ceros Single
 		[0x9DA] Nodo Head
@@ -2114,7 +2114,7 @@ Zone 02:
 		[0xB12] Other2
 		[0xB1A] Silver Body
 		[0xB22] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xB6A] Ceros Single
 		[0xB72] Nodo Head
 		[0xB7A] Nodo Body
@@ -2153,7 +2153,7 @@ Zone 02:
 		[0xC82] Silver Body
 		[0xC8A] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xCFA] Megath Head
 		[0xD02] Megath Head
 		[0xD0A] Megath Body
@@ -2182,7 +2182,7 @@ Zone 03:
 		[0xDC2] Other2
 		[0xDCA] Silver Body
 		[0xDD2] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xE1A] Megath Head
 		[0xE22] Megath Head
 		[0xE2A] Megath Body
@@ -2212,7 +2212,7 @@ Zone 03:
 		[0xEEA] Other2
 		[0xEF2] Silver Body
 		[0xEFA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xF42] Tarbo Head
 		[0xF4A] Megath Head
 		[0xF52] Megath Body
@@ -2240,23 +2240,23 @@ Zone 03:
 		[0x1002] Silver Body
 		[0x100A] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x107A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x10C2] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x110A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x117A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x11C2] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x120A] Sucho Arms
 
 3201:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Other1
 		[0x1EA] Other1
 		[0x1F2] Other1
@@ -2266,7 +2266,7 @@ Zone 01:
 		[0x212] Other2
 		[0x21A] Silver Arms
 		[0x222] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x26A] Other1
 		[0x272] Other1
 		[0x27A] Other1
@@ -2276,7 +2276,7 @@ Zone 01:
 		[0x29A] Other2
 		[0x2A2] Silver Arms
 		[0x2AA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x2F2] Other1
 		[0x2FA] Other1
 		[0x302] Other1
@@ -2287,37 +2287,37 @@ Zone 01:
 		[0x32A] Silver Arms
 		[0x332] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x3A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3EA] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x432] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x4A2] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x4EA] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x532] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x5A2] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5EA] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x632] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x6A2] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6EA] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x732] Sucho Arms
 
 3202:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Aopteryx Head
 		[0x1EA] Aopteryx Body
 		[0x1F2] Aopteryx Arms
@@ -2411,7 +2411,7 @@ Zone 01:
 		[0x4B2] Other2
 		[0x4BA] Silver Legs
 		[0x4C2] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x50A] Aopteryx Head
 		[0x512] Aopteryx Body
 		[0x51A] Aopteryx Arms
@@ -2505,7 +2505,7 @@ Zone 01:
 		[0x7DA] Other2
 		[0x7E2] Silver Legs
 		[0x7EA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x832] Shanshan Head
 		[0x83A] Aopteryx Head
 		[0x842] Aopteryx Body
@@ -2601,37 +2601,37 @@ Zone 01:
 		[0xB12] Silver Legs
 		[0xB1A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0xB8A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xBD2] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xC1A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xC8A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0xCD2] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0xD1A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xD8A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xDD2] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xE1A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xE8A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xED2] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xF1A] Sucho Arms
 
 3400:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Breme Head
 		[0x1EA] Breme Body
 		[0x1F2] Breme Arms
@@ -2650,7 +2650,7 @@ Zone 01:
 		[0x25A] Other2
 		[0x262] Silver Head
 		[0x26A] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2B2] Breme Head
 		[0x2BA] Breme Body
 		[0x2C2] Breme Arms
@@ -2669,7 +2669,7 @@ Zone 01:
 		[0x32A] Other2
 		[0x332] Silver Head
 		[0x33A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x382] Breme Head
 		[0x38A] Breme Body
 		[0x392] Breme Arms
@@ -2689,37 +2689,37 @@ Zone 01:
 		[0x402] Silver Head
 		[0x40A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x47A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x4C2] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x50A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x57A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5C2] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x60A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x67A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6C2] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x70A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x77A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7C2] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x80A] Sucho Arms
 
 3401:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1CE] Breme Head
 		[0x1D6] Breme Body
 		[0x1DE] Breme Arms
@@ -2750,7 +2750,7 @@ Zone 01:
 		[0x2A6] Other2
 		[0x2AE] Silver Head
 		[0x2B6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2FE] Breme Head
 		[0x306] Breme Body
 		[0x30E] Breme Arms
@@ -2781,7 +2781,7 @@ Zone 01:
 		[0x3D6] Other2
 		[0x3DE] Silver Head
 		[0x3E6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x42E] Breme Head
 		[0x436] Breme Body
 		[0x43E] Breme Arms
@@ -2813,37 +2813,37 @@ Zone 01:
 		[0x50E] Silver Head
 		[0x516] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x586] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5CE] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x616] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x686] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6CE] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x716] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x786] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7CE] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x816] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x886] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8CE] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x916] Sucho Arms
 
 4000:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1EE] Tryma Head
 		[0x1F6] Tryma Body
 		[0x1FE] Tryma Arms
@@ -2874,7 +2874,7 @@ Zone 01:
 		[0x2C6] Other2
 		[0x2CE] Silver Arms
 		[0x2D6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x31E] Tryma Head
 		[0x326] Tryma Body
 		[0x32E] Tryma Arms
@@ -2905,7 +2905,7 @@ Zone 01:
 		[0x3F6] Other2
 		[0x3FE] Silver Arms
 		[0x406] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x44E] Tryma Head
 		[0x456] Tryma Body
 		[0x45E] Tryma Arms
@@ -2936,7 +2936,7 @@ Zone 01:
 		[0x526] Silver Arms
 		[0x52E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x59E] Sungari Head
 		[0x5A6] Sungari Head
 		[0x5AE] Sungari Body
@@ -2985,7 +2985,7 @@ Zone 02:
 		[0x706] Other2
 		[0x70E] Silver Arms
 		[0x716] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x75E] Sungari Head
 		[0x766] Sungari Head
 		[0x76E] Sungari Body
@@ -3037,7 +3037,7 @@ Zone 02:
 		[0x8DE] Other2
 		[0x8E6] Silver Arms
 		[0x8EE] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x936] Siamo Head
 		[0x93E] Sungari Head
 		[0x946] Sungari Body
@@ -3081,30 +3081,30 @@ Zone 02:
 		[0xA76] Silver Arms
 		[0xA7E] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB36] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB7E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xBEE] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC36] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xC7E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xCEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xD36] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xD7E] Sucho Arms
 
 4001:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Machai Head
 		[0x1EA] Machai Head
 		[0x1F2] Machai Body
@@ -3130,7 +3130,7 @@ Zone 01:
 		[0x292] Other2
 		[0x29A] Silver Arms
 		[0x2A2] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2EA] Machai Head
 		[0x2F2] Machai Head
 		[0x2FA] Machai Body
@@ -3157,7 +3157,7 @@ Zone 01:
 		[0x3A2] Other2
 		[0x3AA] Silver Arms
 		[0x3B2] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x3FA] Machai Head
 		[0x402] Machai Body
 		[0x40A] Machai Arms
@@ -3180,7 +3180,7 @@ Zone 01:
 		[0x492] Silver Arms
 		[0x49A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x50A] Compso Head
 		[0x512] Compso Head
 		[0x51A] Compso Body
@@ -3206,7 +3206,7 @@ Zone 02:
 		[0x5BA] Other2
 		[0x5C2] Silver Arms
 		[0x5CA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x612] Compso Head
 		[0x61A] Compso Head
 		[0x622] Compso Body
@@ -3233,7 +3233,7 @@ Zone 02:
 		[0x6CA] Other2
 		[0x6D2] Silver Arms
 		[0x6DA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x722] Compso Head
 		[0x72A] Compso Body
 		[0x732] Compso Arms
@@ -3256,7 +3256,7 @@ Zone 02:
 		[0x7BA] Silver Arms
 		[0x7C2] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x832] Yango Head
 		[0x83A] Yango Head
 		[0x842] Yango Body
@@ -3292,7 +3292,7 @@ Zone 03:
 		[0x932] Other2
 		[0x93A] Silver Arms
 		[0x942] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x98A] Yango Head
 		[0x992] Yango Head
 		[0x99A] Yango Body
@@ -3330,7 +3330,7 @@ Zone 03:
 		[0xA9A] Other2
 		[0xAA2] Silver Arms
 		[0xAAA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xAF2] Yango Head
 		[0xAFA] Yango Body
 		[0xB02] Yango Arms
@@ -3362,23 +3362,23 @@ Zone 03:
 		[0xBD2] Silver Arms
 		[0xBDA] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xC4A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC92] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xCDA] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xD4A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xD92] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xDDA] Sucho Arms
 
 4002:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1EE] Shuno Head
 		[0x1F6] Shuno Head
 		[0x1FE] Shuno Body
@@ -3414,7 +3414,7 @@ Zone 01:
 		[0x2EE] Other2
 		[0x2F6] Silver Legs
 		[0x2FE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x346] Shuno Head
 		[0x34E] Shuno Head
 		[0x356] Shuno Body
@@ -3452,7 +3452,7 @@ Zone 01:
 		[0x456] Other2
 		[0x45E] Silver Legs
 		[0x466] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x4AE] Shuno Head
 		[0x4B6] Shuno Body
 		[0x4BE] Shuno Arms
@@ -3485,37 +3485,37 @@ Zone 01:
 		[0x596] Silver Legs
 		[0x59E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x60E] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x656] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x69E] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x70E] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x756] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x79E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x80E] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x856] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x89E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x90E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x956] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x99E] Sucho Arms
 
 4003:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F2] T-Rex Head
 		[0x1FA] T-Rex Head
 		[0x202] T-Rex Body
@@ -3551,7 +3551,7 @@ Zone 01:
 		[0x2F2] Other2
 		[0x2FA] Silver Legs
 		[0x302] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x34A] T-Rex Head
 		[0x352] T-Rex Head
 		[0x35A] T-Rex Body
@@ -3589,7 +3589,7 @@ Zone 01:
 		[0x45A] Other2
 		[0x462] Silver Legs
 		[0x46A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x4B2] T-Rex Head
 		[0x4BA] T-Rex Body
 		[0x4C2] T-Rex Arms
@@ -3622,7 +3622,7 @@ Zone 01:
 		[0x59A] Silver Legs
 		[0x5A2] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x612] Dacerus Head
 		[0x61A] Dacerus Head
 		[0x622] Dacerus Body
@@ -3649,7 +3649,7 @@ Zone 02:
 		[0x6CA] Other2
 		[0x6D2] Silver Legs
 		[0x6DA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x722] Dacerus Head
 		[0x72A] Dacerus Head
 		[0x732] Dacerus Body
@@ -3677,7 +3677,7 @@ Zone 02:
 		[0x7E2] Other2
 		[0x7EA] Silver Legs
 		[0x7F2] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x83A] Andrarch Head
 		[0x842] Dacerus Head
 		[0x84A] Dacerus Body
@@ -3703,7 +3703,7 @@ Zone 02:
 		[0x8EA] Silver Legs
 		[0x8F2] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x962] Shuno Head
 		[0x96A] Shuno Head
 		[0x972] Shuno Body
@@ -3744,7 +3744,7 @@ Zone 03:
 		[0xA8A] Other2
 		[0xA92] Silver Legs
 		[0xA9A] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xAE2] Shuno Head
 		[0xAEA] Shuno Head
 		[0xAF2] Shuno Body
@@ -3787,7 +3787,7 @@ Zone 03:
 		[0xC1A] Other2
 		[0xC22] Silver Legs
 		[0xC2A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xC72] Shuno Head
 		[0xC7A] Shuno Body
 		[0xC82] Shuno Arms
@@ -3824,23 +3824,23 @@ Zone 03:
 		[0xD7A] Silver Legs
 		[0xD82] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xDF2] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xE3A] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xE82] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xEF2] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xF3A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xF82] Sucho Arms
 
 4100:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x23A] Hopter Head
 		[0x242] Hopter Head
 		[0x24A] Hopter Body
@@ -3863,7 +3863,7 @@ Zone 01:
 		[0x2D2] Other2
 		[0x2DA] Silver Head
 		[0x2E2] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x32A] Hopter Head
 		[0x332] Hopter Head
 		[0x33A] Hopter Body
@@ -3886,7 +3886,7 @@ Zone 01:
 		[0x3C2] Other2
 		[0x3CA] Silver Head
 		[0x3D2] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x41A] Hopter Head
 		[0x422] Hopter Body
 		[0x42A] Hopter Arms
@@ -3908,7 +3908,7 @@ Zone 01:
 		[0x4AA] Silver Head
 		[0x4B2] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x522] Cerato Head
 		[0x52A] Cerato Head
 		[0x532] Cerato Body
@@ -3931,7 +3931,7 @@ Zone 02:
 		[0x5BA] Other2
 		[0x5C2] Silver Head
 		[0x5CA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x612] Cerato Head
 		[0x61A] Cerato Head
 		[0x622] Cerato Body
@@ -3954,7 +3954,7 @@ Zone 02:
 		[0x6AA] Other2
 		[0x6B2] Silver Head
 		[0x6BA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x702] Cerato Head
 		[0x70A] Cerato Body
 		[0x712] Cerato Arms
@@ -3976,30 +3976,30 @@ Zone 02:
 		[0x792] Silver Head
 		[0x79A] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x80A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x852] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x89A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x90A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x952] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x99A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xA0A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA52] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA9A] Sucho Arms
 
 4101:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1EE] Carchar Head
 		[0x1F6] Carchar Head
 		[0x1FE] Carchar Body
@@ -4055,7 +4055,7 @@ Zone 01:
 		[0x38E] Other2
 		[0x396] Silver Body
 		[0x39E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3E6] Carchar Head
 		[0x3EE] Carchar Head
 		[0x3F6] Carchar Body
@@ -4113,7 +4113,7 @@ Zone 01:
 		[0x596] Other2
 		[0x59E] Silver Body
 		[0x5A6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x5EE] Kentro Head
 		[0x5F6] Carchar Head
 		[0x5FE] Carchar Body
@@ -4164,37 +4164,37 @@ Zone 01:
 		[0x766] Silver Body
 		[0x76E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x7DE] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x826] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x86E] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x8DE] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x926] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x96E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x9DE] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA26] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA6E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xADE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB26] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB6E] Sucho Arms
 
 4102:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1CE] Giganto Head
 		[0x1D6] Giganto Head
 		[0x1DE] Giganto Body
@@ -4231,7 +4231,7 @@ Zone 01:
 		[0x2D6] Other2
 		[0x2DE] Silver Arms
 		[0x2E6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x32E] Giganto Head
 		[0x336] Giganto Head
 		[0x33E] Giganto Body
@@ -4269,7 +4269,7 @@ Zone 01:
 		[0x43E] Other2
 		[0x446] Silver Arms
 		[0x44E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x496] Giganto Head
 		[0x49E] Giganto Body
 		[0x4A6] Giganto Arms
@@ -4303,37 +4303,37 @@ Zone 01:
 		[0x586] Silver Arms
 		[0x58E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x5FE] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x646] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x68E] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x6FE] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x746] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x78E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x7FE] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x846] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x88E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x8FE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x946] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x98E] Sucho Arms
 
 4103:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x20A] Allo Head
 		[0x212] Allo Head
 		[0x21A] Allo Body
@@ -4372,7 +4372,7 @@ Zone 01:
 		[0x322] Other2
 		[0x32A] Silver Legs
 		[0x332] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x37A] Allo Head
 		[0x382] Allo Head
 		[0x38A] Allo Body
@@ -4412,7 +4412,7 @@ Zone 01:
 		[0x49A] Other2
 		[0x4A2] Silver Legs
 		[0x4AA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x4F2] E-Raptor Head
 		[0x4FA] Allo Head
 		[0x502] Allo Body
@@ -4448,37 +4448,37 @@ Zone 01:
 		[0x5F2] Silver Legs
 		[0x5FA] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x66A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6B2] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x6FA] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x76A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7B2] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x7FA] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x86A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8B2] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x8FA] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x96A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9B2] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9FA] Sucho Arms
 
 4104:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] Gorgo Head
 		[0x1CE] Gorgo Body
 		[0x1D6] Gorgo Arms
@@ -4545,7 +4545,7 @@ Zone 01:
 		[0x3BE] Other2
 		[0x3C6] Silver Head
 		[0x3CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] Gorgo Head
 		[0x40A] Gorgo Body
 		[0x412] Gorgo Arms
@@ -4612,7 +4612,7 @@ Zone 01:
 		[0x5FA] Other2
 		[0x602] Silver Head
 		[0x60A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] Gorgo Head
 		[0x646] Gorgo Body
 		[0x64E] Gorgo Arms
@@ -4680,37 +4680,37 @@ Zone 01:
 		[0x83E] Silver Head
 		[0x846] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x90A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x966] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x99A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9CE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA2A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA5E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA92] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB56] Sucho Arms
 
 4105:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] Alio Head
 		[0x1CE] Alio Body
 		[0x1D6] Alio Arms
@@ -4777,7 +4777,7 @@ Zone 01:
 		[0x3BE] Other2
 		[0x3C6] Silver Body
 		[0x3CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] Alio Head
 		[0x40A] Alio Body
 		[0x412] Alio Arms
@@ -4844,7 +4844,7 @@ Zone 01:
 		[0x5FA] Other2
 		[0x602] Silver Body
 		[0x60A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] Alio Head
 		[0x646] Alio Body
 		[0x64E] Alio Arms
@@ -4912,37 +4912,37 @@ Zone 01:
 		[0x83E] Silver Body
 		[0x846] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x90A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x966] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x99A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9CE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA2A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA5E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA92] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB56] Sucho Arms
 
 4106:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] M-Raptor Head
 		[0x1CE] M-Raptor Body
 		[0x1D6] M-Raptor Arms
@@ -5009,7 +5009,7 @@ Zone 01:
 		[0x3BE] Other2
 		[0x3C6] Silver Arms
 		[0x3CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] M-Raptor Head
 		[0x40A] M-Raptor Body
 		[0x412] M-Raptor Arms
@@ -5076,7 +5076,7 @@ Zone 01:
 		[0x5FA] Other2
 		[0x602] Silver Arms
 		[0x60A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] M-Raptor Head
 		[0x646] M-Raptor Body
 		[0x64E] M-Raptor Arms
@@ -5144,37 +5144,37 @@ Zone 01:
 		[0x83E] Silver Arms
 		[0x846] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x90A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x966] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x99A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9CE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA2A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA5E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA92] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB56] Sucho Arms
 
 4107:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] Salto Head
 		[0x1CE] Salto Body
 		[0x1D6] Salto Arms
@@ -5241,7 +5241,7 @@ Zone 01:
 		[0x3BE] Other2
 		[0x3C6] Silver Legs
 		[0x3CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] Salto Head
 		[0x40A] Salto Body
 		[0x412] Salto Arms
@@ -5308,7 +5308,7 @@ Zone 01:
 		[0x5FA] Other2
 		[0x602] Silver Legs
 		[0x60A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] Salto Head
 		[0x646] Salto Body
 		[0x64E] Salto Arms
@@ -5376,37 +5376,37 @@ Zone 01:
 		[0x83E] Silver Legs
 		[0x846] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x90A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x966] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x99A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9CE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA2A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA5E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA92] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB56] Sucho Arms
 
 4108:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1C6] Neo Head
 		[0x1CE] Neo Body
 		[0x1D6] Neo Arms
@@ -5473,7 +5473,7 @@ Zone 01:
 		[0x3BE] Other2
 		[0x3C6] Silver Legs
 		[0x3CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] Neo Head
 		[0x40A] Neo Body
 		[0x412] Neo Arms
@@ -5540,7 +5540,7 @@ Zone 01:
 		[0x5FA] Other2
 		[0x602] Silver Legs
 		[0x60A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] Neo Head
 		[0x646] Neo Body
 		[0x64E] Neo Arms
@@ -5608,37 +5608,37 @@ Zone 01:
 		[0x83E] Silver Legs
 		[0x846] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x8A2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x90A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x966] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x99A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9CE] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA2A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA5E] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA92] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xAEE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB56] Sucho Arms
 
 4300:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1EE] Venator Head
 		[0x1F6] Venator Head
 		[0x1FE] Venator Body
@@ -5690,7 +5690,7 @@ Zone 01:
 		[0x36E] Other2
 		[0x376] Silver Head
 		[0x37E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3C6] Venator Head
 		[0x3CE] Venator Head
 		[0x3D6] Venator Body
@@ -5745,7 +5745,7 @@ Zone 01:
 		[0x55E] Other2
 		[0x566] Silver Head
 		[0x56E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x5B6] Guan Head
 		[0x5BE] Venator Head
 		[0x5C6] Venator Body
@@ -5793,7 +5793,7 @@ Zone 01:
 		[0x716] Silver Head
 		[0x71E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x78E] Dikelo Single
 		[0x796] Dikelo Single
 		[0x79E] S-Raptor Head
@@ -5835,7 +5835,7 @@ Zone 02:
 		[0x8BE] Other2
 		[0x8C6] Silver Head
 		[0x8CE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x916] Dikelo Single
 		[0x91E] Dikelo Single
 		[0x926] S-Raptor Head
@@ -5879,7 +5879,7 @@ Zone 02:
 		[0xA56] Other2
 		[0xA5E] Silver Head
 		[0xA66] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xAAE] Argento Head
 		[0xAB6] Dikelo Single
 		[0xABE] S-Raptor Head
@@ -5918,7 +5918,7 @@ Zone 02:
 		[0xBC6] Silver Head
 		[0xBCE] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xC3E] Stygi Head
 		[0xC46] Stygi Head
 		[0xC4E] Stygi Body
@@ -5970,7 +5970,7 @@ Zone 03:
 		[0xDBE] Other2
 		[0xDC6] Silver Head
 		[0xDCE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xE16] Stygi Head
 		[0xE1E] Stygi Head
 		[0xE26] Stygi Body
@@ -6025,7 +6025,7 @@ Zone 03:
 		[0xFAE] Other2
 		[0xFB6] Silver Head
 		[0xFBE] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x1006] Centro Head
 		[0x100E] Stygi Head
 		[0x1016] Stygi Body
@@ -6073,23 +6073,23 @@ Zone 03:
 		[0x1166] Silver Head
 		[0x116E] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x11DE] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x1226] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x126E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x12DE] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x1326] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x136E] Sucho Arms
 
 4301:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1DA] Siamo Head
 		[0x1E2] Siamo Body
 		[0x1EA] Siamo Arms
@@ -6170,7 +6170,7 @@ Zone 01:
 		[0x442] Other2
 		[0x44A] Silver Arms
 		[0x452] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x49A] Siamo Head
 		[0x4A2] Siamo Body
 		[0x4AA] Siamo Arms
@@ -6251,7 +6251,7 @@ Zone 01:
 		[0x702] Other2
 		[0x70A] Silver Arms
 		[0x712] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x75A] Siamo Head
 		[0x762] Siamo Body
 		[0x76A] Siamo Arms
@@ -6333,37 +6333,37 @@ Zone 01:
 		[0x9CA] Silver Arms
 		[0x9D2] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0xA42] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA8A] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xAD2] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xB42] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB8A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0xBD2] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xC42] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC8A] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xCD2] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xD42] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xD8A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xDD2] Sucho Arms
 
 5000:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x26E] Dimetro Head
 		[0x276] Dimetro Head
 		[0x27E] Dimetro Body
@@ -6400,7 +6400,7 @@ Zone 01:
 		[0x376] Other2
 		[0x37E] Silver Head
 		[0x386] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3CE] Dimetro Head
 		[0x3D6] Dimetro Head
 		[0x3DE] Dimetro Body
@@ -6439,7 +6439,7 @@ Zone 01:
 		[0x4E6] Other2
 		[0x4EE] Silver Head
 		[0x4F6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x53E] Smilo Head
 		[0x546] Dimetro Head
 		[0x54E] Dimetro Body
@@ -6474,7 +6474,7 @@ Zone 01:
 		[0x636] Silver Head
 		[0x63E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x6AE] Seismo Head
 		[0x6B6] Seismo Head
 		[0x6BE] Seismo Body
@@ -6511,7 +6511,7 @@ Zone 02:
 		[0x7B6] Other2
 		[0x7BE] Silver Body
 		[0x7C6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x80E] Seismo Head
 		[0x816] Seismo Head
 		[0x81E] Seismo Body
@@ -6550,7 +6550,7 @@ Zone 02:
 		[0x926] Other2
 		[0x92E] Silver Body
 		[0x936] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x97E] Seismo Head
 		[0x986] Seismo Body
 		[0x98E] Seismo Arms
@@ -6584,7 +6584,7 @@ Zone 02:
 		[0xA6E] Silver Body
 		[0xA76] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xAE6] Toba Head
 		[0xAEE] Toba Head
 		[0xAF6] Toba Body
@@ -6621,7 +6621,7 @@ Zone 03:
 		[0xBEE] Other2
 		[0xBF6] Silver Arms
 		[0xBFE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC46] Toba Head
 		[0xC4E] Toba Head
 		[0xC56] Toba Body
@@ -6660,7 +6660,7 @@ Zone 03:
 		[0xD5E] Other2
 		[0xD66] Silver Arms
 		[0xD6E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xDB6] Toba Head
 		[0xDBE] Toba Body
 		[0xDC6] Toba Arms
@@ -6694,7 +6694,7 @@ Zone 03:
 		[0xEA6] Silver Arms
 		[0xEAE] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xF1E] Dacerus Head
 		[0xF26] Dacerus Head
 		[0xF2E] Dacerus Body
@@ -6731,7 +6731,7 @@ Zone 04:
 		[0x1026] Other2
 		[0x102E] Silver Head
 		[0x1036] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x107E] Dacerus Head
 		[0x1086] Dacerus Head
 		[0x108E] Dacerus Body
@@ -6770,7 +6770,7 @@ Zone 04:
 		[0x1196] Other2
 		[0x119E] Silver Head
 		[0x11A6] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x11EE] Dacerus Head
 		[0x11F6] Dacerus Body
 		[0x11FE] Dacerus Arms
@@ -6804,16 +6804,16 @@ Zone 04:
 		[0x12DE] Silver Head
 		[0x12E6] Gold Head
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x1356] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x139E] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x13E6] Sucho Arms
 
 5001:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Coelo Head
 		[0x1EA] Coelo Head
 		[0x1F2] Coelo Body
@@ -6835,7 +6835,7 @@ Zone 01:
 		[0x272] Other2
 		[0x27A] Silver Head
 		[0x282] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2CA] Coelo Head
 		[0x2D2] Coelo Head
 		[0x2DA] Coelo Body
@@ -6858,7 +6858,7 @@ Zone 01:
 		[0x362] Other2
 		[0x36A] Silver Head
 		[0x372] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x3BA] Terata Single
 		[0x3C2] Coelo Head
 		[0x3CA] Coelo Body
@@ -6880,37 +6880,37 @@ Zone 01:
 		[0x44A] Silver Head
 		[0x452] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x4C2] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x50A] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x552] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x5C2] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x60A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x652] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x6C2] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x70A] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x752] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x7C2] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x80A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x852] Sucho Arms
 
 5002:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x216] Alectro Head
 		[0x21E] Alectro Head
 		[0x226] Alectro Body
@@ -6945,7 +6945,7 @@ Zone 01:
 		[0x30E] Other2
 		[0x316] Silver Legs
 		[0x31E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x366] Alectro Head
 		[0x36E] Alectro Head
 		[0x376] Alectro Body
@@ -6982,7 +6982,7 @@ Zone 01:
 		[0x46E] Other2
 		[0x476] Silver Legs
 		[0x47E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x4C6] Alectro Head
 		[0x4CE] Alectro Body
 		[0x4D6] Alectro Arms
@@ -7014,7 +7014,7 @@ Zone 01:
 		[0x5A6] Silver Legs
 		[0x5AE] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x60A] Metria Head
 		[0x612] Metria Body
 		[0x61A] Metria Arms
@@ -7069,7 +7069,7 @@ Zone 02:
 		[0x7A2] Other2
 		[0x7AA] Silver Body
 		[0x7B2] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7E6] Metria Head
 		[0x7EE] Metria Body
 		[0x7F6] Metria Arms
@@ -7124,7 +7124,7 @@ Zone 02:
 		[0x97E] Other2
 		[0x986] Silver Body
 		[0x98E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x9C2] Radox Single
 		[0x9CA] Metria Head
 		[0x9D2] Metria Body
@@ -7181,30 +7181,30 @@ Zone 02:
 		[0xB6A] Silver Body
 		[0xB72] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xBCE] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC02] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0xC36] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xC92] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xCC6] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xCFA] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xD56] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xD8A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xDBE] Sucho Arms
 
 5003:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1DE] Siamo Head
 		[0x1E6] Siamo Head
 		[0x1EE] Siamo Body
@@ -7213,7 +7213,7 @@ Zone 01:
 		[0x206] Siamo Arms
 		[0x20E] Siamo Legs
 		[0x216] Siamo Legs
-	Table 02:
+	Fossil Chip 1:
 		[0x24A] Cryo Head
 		[0x252] Cryo Head
 		[0x25A] Cryo Body
@@ -7222,7 +7222,7 @@ Zone 01:
 		[0x272] Cryo Arms
 		[0x27A] Cryo Legs
 		[0x282] Cryo Legs
-	Table 03:
+	Fossil Chip 2:
 		[0x2B6] Nychus Head
 		[0x2BE] Nychus Head
 		[0x2C6] Nychus Body
@@ -7240,37 +7240,37 @@ Zone 01:
 		[0x326] Sucho Legs
 		[0x32E] Sucho Legs
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x38A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3BE] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x3F2] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x44E] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x482] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x4B6] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x512] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x546] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x57A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x5D6] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x60A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x63E] Sucho Arms
 
 5100:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x226] Futabi Head
 		[0x22E] Futabi Head
 		[0x236] Futabi Body
@@ -7319,7 +7319,7 @@ Zone 01:
 		[0x38E] Other2
 		[0x396] Silver Head
 		[0x39E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3E6] Futabi Head
 		[0x3EE] Futabi Head
 		[0x3F6] Futabi Body
@@ -7371,7 +7371,7 @@ Zone 01:
 		[0x566] Other2
 		[0x56E] Silver Head
 		[0x576] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x5BE] Angato Head
 		[0x5C6] Futabi Head
 		[0x5CE] Futabi Body
@@ -7416,7 +7416,7 @@ Zone 01:
 		[0x706] Silver Head
 		[0x70E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x77E] Krona Head
 		[0x786] Krona Head
 		[0x78E] Krona Body
@@ -7456,7 +7456,7 @@ Zone 02:
 		[0x89E] Other2
 		[0x8A6] Silver Body
 		[0x8AE] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8F6] Krona Head
 		[0x8FE] Krona Head
 		[0x906] Krona Body
@@ -7498,7 +7498,7 @@ Zone 02:
 		[0xA26] Other2
 		[0xA2E] Silver Body
 		[0xA36] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xA7E] Krona Head
 		[0xA86] Krona Body
 		[0xA8E] Krona Arms
@@ -7534,7 +7534,7 @@ Zone 02:
 		[0xB7E] Silver Body
 		[0xB86] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0xBF6] Pachy Head
 		[0xBFE] Pachy Head
 		[0xC06] Pachy Body
@@ -7583,7 +7583,7 @@ Zone 03:
 		[0xD5E] Other2
 		[0xD66] Silver Arms
 		[0xD6E] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0xDB6] Pachy Head
 		[0xDBE] Pachy Head
 		[0xDC6] Pachy Body
@@ -7635,7 +7635,7 @@ Zone 03:
 		[0xF36] Other2
 		[0xF3E] Silver Arms
 		[0xF46] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xF8E] Igua Head
 		[0xF96] Pachy Head
 		[0xF9E] Pachy Body
@@ -7680,7 +7680,7 @@ Zone 03:
 		[0x10D6] Silver Arms
 		[0x10DE] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x114E] F-Raptor Head
 		[0x1156] F-Raptor Head
 		[0x115E] F-Raptor Body
@@ -7729,7 +7729,7 @@ Zone 04:
 		[0x12B6] Other2
 		[0x12BE] Silver Legs
 		[0x12C6] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x130E] F-Raptor Head
 		[0x1316] F-Raptor Head
 		[0x131E] F-Raptor Body
@@ -7781,7 +7781,7 @@ Zone 04:
 		[0x148E] Other2
 		[0x1496] Silver Legs
 		[0x149E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x14E6] F-Raptor Head
 		[0x14EE] F-Raptor Body
 		[0x14F6] F-Raptor Arms
@@ -7825,16 +7825,16 @@ Zone 04:
 		[0x1626] Silver Legs
 		[0x162E] Gold Head
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x169E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x16E6] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x172E] Sucho Arms
 
 5101:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1CE] Mihu Head
 		[0x1D6] Mihu Head
 		[0x1DE] Mihu Body
@@ -7855,7 +7855,7 @@ Zone 01:
 		[0x256] Other2
 		[0x25E] Silver Head
 		[0x266] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2AE] Mihu Head
 		[0x2B6] Mihu Head
 		[0x2BE] Mihu Body
@@ -7877,7 +7877,7 @@ Zone 01:
 		[0x33E] Other2
 		[0x346] Silver Head
 		[0x34E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x396] Megalo Head
 		[0x39E] Megalo Body
 		[0x3A6] Megalo Arms
@@ -7901,7 +7901,7 @@ Zone 01:
 		[0x436] Silver Head
 		[0x43E] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x4AE] Seidon Head
 		[0x4B6] Seidon Head
 		[0x4BE] Seidon Body
@@ -7922,7 +7922,7 @@ Zone 02:
 		[0x536] Other2
 		[0x53E] Silver Body
 		[0x546] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x58E] Seidon Head
 		[0x596] Seidon Head
 		[0x59E] Seidon Body
@@ -7944,7 +7944,7 @@ Zone 02:
 		[0x61E] Other2
 		[0x626] Silver Body
 		[0x62E] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x676] Megalo Head
 		[0x67E] Megalo Body
 		[0x686] Megalo Arms
@@ -7968,30 +7968,30 @@ Zone 02:
 		[0x716] Silver Body
 		[0x71E] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x78E] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x7D6] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x81E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x88E] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x8D6] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x91E] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x98E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x9D6] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA1E] Sucho Arms
 
 6000:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x212] Tro Head
 		[0x21A] Tro Head
 		[0x222] Tro Body
@@ -8044,7 +8044,7 @@ Zone 01:
 		[0x39A] Other2
 		[0x3A2] Silver Head
 		[0x3AA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3F2] Tro Head
 		[0x3FA] Tro Head
 		[0x402] Tro Body
@@ -8100,7 +8100,7 @@ Zone 01:
 		[0x592] Other2
 		[0x59A] Silver Head
 		[0x5A2] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x5EA] Archaeo Head
 		[0x5F2] Tro Head
 		[0x5FA] Tro Body
@@ -8149,37 +8149,37 @@ Zone 01:
 		[0x752] Silver Head
 		[0x75A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x7CA] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x812] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x85A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x8CA] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x912] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x95A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x9CA] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA12] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA5A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xACA] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB12] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB5A] Sucho Arms
 
 6100:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F2] Cryo Head
 		[0x1FA] Cryo Body
 		[0x202] Cryo Arms
@@ -8238,7 +8238,7 @@ Zone 01:
 		[0x3AA] Other2
 		[0x3B2] Silver Head
 		[0x3BA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x402] Cryo Head
 		[0x40A] Cryo Body
 		[0x412] Cryo Arms
@@ -8297,7 +8297,7 @@ Zone 01:
 		[0x5BA] Other2
 		[0x5C2] Silver Head
 		[0x5CA] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x612] Cryo Head
 		[0x61A] Cryo Body
 		[0x622] Cryo Arms
@@ -8356,37 +8356,37 @@ Zone 01:
 		[0x7CA] Silver Head
 		[0x7D2] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x842] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x88A] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x8D2] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x942] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x98A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x9D2] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA42] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA8A] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xAD2] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xB42] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB8A] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xBD2] Sucho Arms
 
 6200:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x212] Chasmo Head
 		[0x21A] Chasmo Body
 		[0x222] Chasmo Arms
@@ -8407,7 +8407,7 @@ Zone 01:
 		[0x29A] Other2
 		[0x2A2] Silver Arms
 		[0x2AA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2F2] Chasmo Head
 		[0x2FA] Chasmo Body
 		[0x302] Chasmo Arms
@@ -8428,7 +8428,7 @@ Zone 01:
 		[0x37A] Other2
 		[0x382] Silver Arms
 		[0x38A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x3D2] Chasmo Head
 		[0x3DA] Chasmo Body
 		[0x3E2] Chasmo Arms
@@ -8450,7 +8450,7 @@ Zone 01:
 		[0x462] Silver Arms
 		[0x46A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x4DA] Chelon Head
 		[0x4E2] Chelon Body
 		[0x4EA] Chelon Arms
@@ -8474,7 +8474,7 @@ Zone 02:
 		[0x57A] Other2
 		[0x582] Silver Arms
 		[0x58A] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5D2] Chelon Head
 		[0x5DA] Chelon Body
 		[0x5E2] Chelon Arms
@@ -8498,7 +8498,7 @@ Zone 02:
 		[0x672] Other2
 		[0x67A] Silver Arms
 		[0x682] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x6CA] Chelon Head
 		[0x6D2] Chelon Body
 		[0x6DA] Chelon Arms
@@ -8523,7 +8523,7 @@ Zone 02:
 		[0x772] Silver Arms
 		[0x77A] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x7EA] Chasmo Head
 		[0x7F2] Chasmo Body
 		[0x7FA] Chasmo Arms
@@ -8557,7 +8557,7 @@ Zone 03:
 		[0x8DA] Other2
 		[0x8E2] Silver Arms
 		[0x8EA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x932] Chasmo Head
 		[0x93A] Chasmo Body
 		[0x942] Chasmo Arms
@@ -8591,7 +8591,7 @@ Zone 03:
 		[0xA22] Other2
 		[0xA2A] Silver Arms
 		[0xA32] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0xA7A] Chasmo Head
 		[0xA82] Chasmo Body
 		[0xA8A] Chasmo Arms
@@ -8626,23 +8626,23 @@ Zone 03:
 		[0xB72] Silver Arms
 		[0xB7A] Gold Head
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xBEA] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xC32] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xC7A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xCEA] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xD32] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xD7A] Sucho Arms
 
 6201:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1E2] Nychus Head
 		[0x1EA] Nychus Body
 		[0x1F2] Nychus Arms
@@ -8666,7 +8666,7 @@ Zone 01:
 		[0x282] Other2
 		[0x28A] Silver Legs
 		[0x292] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x2DA] Nychus Head
 		[0x2E2] Nychus Body
 		[0x2EA] Nychus Arms
@@ -8690,7 +8690,7 @@ Zone 01:
 		[0x37A] Other2
 		[0x382] Silver Legs
 		[0x38A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x3D2] Nychus Head
 		[0x3DA] Nychus Body
 		[0x3E2] Nychus Arms
@@ -8715,7 +8715,7 @@ Zone 01:
 		[0x47A] Silver Legs
 		[0x482] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x4F2] Gaudry Single
 		[0x4FA] Gaudry Single
 		[0x502] Gaudry Single
@@ -8748,7 +8748,7 @@ Zone 02:
 		[0x5DA] Other2
 		[0x5E2] Silver Legs
 		[0x5EA] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x632] Gaudry Single
 		[0x63A] Gaudry Single
 		[0x642] Gaudry Single
@@ -8781,7 +8781,7 @@ Zone 02:
 		[0x71A] Other2
 		[0x722] Silver Legs
 		[0x72A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x772] Gaudry Single
 		[0x77A] Gaudry Single
 		[0x782] Gaudry Single
@@ -8815,30 +8815,30 @@ Zone 02:
 		[0x862] Silver Legs
 		[0x86A] Gold Head
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x8DA] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x922] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x96A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x9DA] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA22] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA6A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xADA] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB22] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB6A] Sucho Arms
 
 6202:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1F2] Other1
 		[0x1FA] Other1
 		[0x202] Other1
@@ -8846,7 +8846,7 @@ Zone 01:
 		[0x212] Other2
 		[0x21A] Silver Legs
 		[0x222] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x26A] Other1
 		[0x272] Other1
 		[0x27A] Other1
@@ -8854,7 +8854,7 @@ Zone 01:
 		[0x28A] Other2
 		[0x292] Silver Legs
 		[0x29A] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x2E2] Other1
 		[0x2EA] Other1
 		[0x2F2] Other1
@@ -8866,37 +8866,37 @@ Zone 01:
 		[0x322] Silver Legs
 		[0x32A] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x39A] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x3E2] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x42A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x49A] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0x4E2] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0x52A] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0x59A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x5E2] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x62A] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0x69A] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0x6E2] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0x72A] Sucho Arms
 
 6400:
 Zone 01:
-	Table 01:
+	Fossil Chip 0:
 		[0x1DE] Cryo Head
 		[0x1E6] Cryo Body
 		[0x1EE] Cryo Arms
@@ -8967,7 +8967,7 @@ Zone 01:
 		[0x3F6] Other2
 		[0x3FE] Silver Head
 		[0x406] Gold Head
-	Table 02:
+	Fossil Chip 1:
 		[0x43A] Cryo Head
 		[0x442] Cryo Body
 		[0x44A] Cryo Arms
@@ -9038,7 +9038,7 @@ Zone 01:
 		[0x652] Other2
 		[0x65A] Silver Head
 		[0x662] Gold Head
-	Table 03:
+	Fossil Chip 2:
 		[0x696] Cryo Head
 		[0x69E] Cryo Body
 		[0x6A6] Cryo Arms
@@ -9109,31 +9109,31 @@ Zone 01:
 		[0x8AE] Silver Head
 		[0x8B6] Gold Head
 Zone 02:
-	Table 01:
+	Fossil Chip 0:
 		[0x912] Siamo Head
-	Table 02:
+	Fossil Chip 1:
 		[0x946] Siamo Body
-	Table 03:
+	Fossil Chip 2:
 		[0x97A] Siamo Arms
 Zone 03:
-	Table 01:
+	Fossil Chip 0:
 		[0x9D6] Nychus Head
-	Table 02:
+	Fossil Chip 1:
 		[0xA0A] Nychus Body
-	Table 03:
+	Fossil Chip 2:
 		[0xA3E] Nychus Arms
 Zone 04:
-	Table 01:
+	Fossil Chip 0:
 		[0xA9A] Cryo Head
-	Table 02:
+	Fossil Chip 1:
 		[0xACE] Cryo Body
-	Table 03:
+	Fossil Chip 2:
 		[0xB02] Cryo Arms
 Zone 05:
-	Table 01:
+	Fossil Chip 0:
 		[0xB5E] Sucho Head
-	Table 02:
+	Fossil Chip 1:
 		[0xB92] Sucho Body
-	Table 03:
+	Fossil Chip 2:
 		[0xBC6] Sucho Arms
 

@@ -35,7 +35,7 @@ for root, dirs, files in os.walk("m/bin"):
                 numTables = int.from_bytes(r[(val + 12):(val + 16)], "little")
                 point3 = int.from_bytes(r[(val + 16):(val + 20)], "little")
                 for i in range(numTables):
-                    text.write("\tTable " + str(i + 1).zfill(2) + ":\n")
+                    text.write("\tFossil Chip " + str(i) + ":\n")
                     point4 = int.from_bytes(r[(val + point3 + (i * 4)):(val + point3 + (i * 4) + 4)], "little")
                     point5 = int.from_bytes(r[(val + point4 + 12):(val + point4 + 16)], "little")
                     numWeird = int.from_bytes(r[(val + point4 + point5 + 8):(val + point4 + point5 + 12)], "little")
