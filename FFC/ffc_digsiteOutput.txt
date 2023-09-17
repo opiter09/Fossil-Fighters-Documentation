@@ -1,0 +1,9139 @@
+3000:
+Zone 01:
+	Table 01:
+		[0x22E] Pacro Head
+		[0x236] Pacro Head
+		[0x23E] Pacro Body
+		[0x246] Pacro Body
+		[0x24E] Pacro Arms
+		[0x256] Pacro Legs
+		[0x25E] Unused
+		[0x266] Unused
+		[0x26E] Unused
+		[0x276] Unused
+		[0x27E] Unused
+		[0x286] Unused
+		[0x28E] Pacro Head
+		[0x296] Pacro Body
+		[0x29E] Pacro Arms
+		[0x2A6] Pacro Legs
+		[0x2AE] Unused
+		[0x2B6] Unused
+		[0x2BE] Unused
+		[0x2C6] Unused
+		[0x2CE] Pacro Head
+		[0x2D6] Pacro Body
+		[0x2DE] Pacro Arms
+		[0x2E6] Pacro Legs
+		[0x2EE] Unused
+		[0x2F6] Unused
+		[0x2FE] Unused
+		[0x306] Unused
+		[0x30E] Other1
+		[0x316] Other1
+		[0x31E] Other1
+		[0x326] Other2
+		[0x32E] Other2
+		[0x336] Other2
+		[0x33E] Silver Head
+		[0x346] Gold Head
+	Table 02:
+		[0x392] Pacro Head
+		[0x39A] Pacro Head
+		[0x3A2] Pacro Body
+		[0x3AA] Pacro Body
+		[0x3B2] Pacro Arms
+		[0x3BA] Pacro Arms
+		[0x3C2] Pacro Legs
+		[0x3CA] Unused
+		[0x3D2] Unused
+		[0x3DA] Unused
+		[0x3E2] Unused
+		[0x3EA] Unused
+		[0x3F2] Unused
+		[0x3FA] Unused
+		[0x402] Pacro Head
+		[0x40A] Pacro Body
+		[0x412] Pacro Arms
+		[0x41A] Pacro Legs
+		[0x422] Unused
+		[0x42A] Unused
+		[0x432] Unused
+		[0x43A] Unused
+		[0x442] Pacro Head
+		[0x44A] Pacro Body
+		[0x452] Pacro Arms
+		[0x45A] Pacro Legs
+		[0x462] Unused
+		[0x46A] Unused
+		[0x472] Unused
+		[0x47A] Unused
+		[0x482] Other1
+		[0x48A] Other1
+		[0x492] Other1
+		[0x49A] Other2
+		[0x4A2] Other2
+		[0x4AA] Other2
+		[0x4B2] Silver Head
+		[0x4BA] Gold Head
+	Table 03:
+		[0x506] Unused
+		[0x50E] Unused
+		[0x516] Unused
+		[0x51E] Unused
+		[0x526] Pacro Head
+		[0x52E] Pacro Body
+		[0x536] Pacro Arms
+		[0x53E] Pacro Legs
+		[0x546] Unused
+		[0x54E] Unused
+		[0x556] Unused
+		[0x55E] Unused
+		[0x566] Pacro Head
+		[0x56E] Pacro Body
+		[0x576] Pacro Arms
+		[0x57E] Pacro Legs
+		[0x586] Unused
+		[0x58E] Unused
+		[0x596] Unused
+		[0x59E] Unused
+		[0x5A6] Pacro Head
+		[0x5AE] Pacro Body
+		[0x5B6] Pacro Arms
+		[0x5BE] Pacro Legs
+		[0x5C6] Other1
+		[0x5CE] Other1
+		[0x5D6] Other1
+		[0x5DE] Other1
+		[0x5E6] Other1
+		[0x5EE] Other2
+		[0x5F6] Other2
+		[0x5FE] Other2
+		[0x606] Silver Head
+		[0x60E] Gold Head
+Zone 02:
+	Table 01:
+		[0x67E] Goyle Head
+		[0x686] Goyle Head
+		[0x68E] Goyle Body
+		[0x696] Goyle Body
+		[0x69E] Goyle Arms
+		[0x6A6] Goyle Legs
+		[0x6AE] Raja Head
+		[0x6B6] Raja Head
+		[0x6BE] Raja Body
+		[0x6C6] Raja Body
+		[0x6CE] Raja Arms
+		[0x6D6] Raja Legs
+		[0x6DE] Goyle Head
+		[0x6E6] Goyle Body
+		[0x6EE] Goyle Arms
+		[0x6F6] Goyle Legs
+		[0x6FE] Raja Head
+		[0x706] Raja Body
+		[0x70E] Raja Arms
+		[0x716] Raja Legs
+		[0x71E] Goyle Head
+		[0x726] Goyle Body
+		[0x72E] Goyle Arms
+		[0x736] Goyle Legs
+		[0x73E] Raja Head
+		[0x746] Raja Body
+		[0x74E] Raja Arms
+		[0x756] Raja Legs
+		[0x75E] Other1
+		[0x766] Other1
+		[0x76E] Other1
+		[0x776] Other2
+		[0x77E] Other2
+		[0x786] Other2
+		[0x78E] Silver Head
+		[0x796] Gold Head
+	Table 02:
+		[0x7DE] Goyle Head
+		[0x7E6] Goyle Head
+		[0x7EE] Goyle Body
+		[0x7F6] Goyle Body
+		[0x7FE] Goyle Arms
+		[0x806] Goyle Arms
+		[0x80E] Goyle Legs
+		[0x816] Raja Head
+		[0x81E] Raja Head
+		[0x826] Raja Body
+		[0x82E] Raja Body
+		[0x836] Raja Arms
+		[0x83E] Raja Arms
+		[0x846] Raja Legs
+		[0x84E] Goyle Head
+		[0x856] Goyle Body
+		[0x85E] Goyle Arms
+		[0x866] Goyle Legs
+		[0x86E] Raja Head
+		[0x876] Raja Body
+		[0x87E] Raja Arms
+		[0x886] Raja Legs
+		[0x88E] Goyle Head
+		[0x896] Goyle Body
+		[0x89E] Goyle Arms
+		[0x8A6] Goyle Legs
+		[0x8AE] Raja Head
+		[0x8B6] Raja Body
+		[0x8BE] Raja Arms
+		[0x8C6] Raja Legs
+		[0x8CE] Other1
+		[0x8D6] Other1
+		[0x8DE] Other1
+		[0x8E6] Other2
+		[0x8EE] Other2
+		[0x8F6] Other2
+		[0x8FE] Silver Head
+		[0x906] Gold Head
+	Table 03:
+		[0x94E] Pacro Head
+		[0x956] Pacro Body
+		[0x95E] Pacro Arms
+		[0x966] Pacro Legs
+		[0x96E] Goyle Head
+		[0x976] Goyle Body
+		[0x97E] Goyle Arms
+		[0x986] Goyle Legs
+		[0x98E] Raja Head
+		[0x996] Raja Body
+		[0x99E] Raja Arms
+		[0x9A6] Raja Legs
+		[0x9AE] Pacro Head
+		[0x9B6] Pacro Body
+		[0x9BE] Pacro Arms
+		[0x9C6] Pacro Legs
+		[0x9CE] Goyle Head
+		[0x9D6] Goyle Body
+		[0x9DE] Goyle Arms
+		[0x9E6] Goyle Legs
+		[0x9EE] Raja Head
+		[0x9F6] Raja Body
+		[0x9FE] Raja Arms
+		[0xA06] Raja Legs
+		[0xA0E] Pacro Head
+		[0xA16] Pacro Body
+		[0xA1E] Pacro Arms
+		[0xA26] Pacro Legs
+		[0xA2E] Goyle Head
+		[0xA36] Goyle Body
+		[0xA3E] Goyle Arms
+		[0xA46] Goyle Legs
+		[0xA4E] Raja Head
+		[0xA56] Raja Body
+		[0xA5E] Raja Arms
+		[0xA66] Raja Legs
+		[0xA6E] Other1
+		[0xA76] Other1
+		[0xA7E] Other1
+		[0xA86] Other1
+		[0xA8E] Other1
+		[0xA96] Other2
+		[0xA9E] Other2
+		[0xAA6] Other2
+		[0xAAE] Silver Head
+		[0xAB6] Gold Head
+Zone 03:
+	Table 01:
+		[0xB26] Tricera Head
+		[0xB2E] Tricera Head
+		[0xB36] Tricera Body
+		[0xB3E] Tricera Body
+		[0xB46] Tricera Arms
+		[0xB4E] Tricera Legs
+		[0xB56] Thalasso Head
+		[0xB5E] Thalasso Head
+		[0xB66] Thalasso Body
+		[0xB6E] Thalasso Body
+		[0xB76] Thalasso Arms
+		[0xB7E] Thalasso Legs
+		[0xB86] Tricera Head
+		[0xB8E] Tricera Body
+		[0xB96] Tricera Arms
+		[0xB9E] Tricera Legs
+		[0xBA6] Thalasso Head
+		[0xBAE] Thalasso Body
+		[0xBB6] Thalasso Arms
+		[0xBBE] Thalasso Legs
+		[0xBC6] Tricera Head
+		[0xBCE] Tricera Body
+		[0xBD6] Tricera Arms
+		[0xBDE] Tricera Legs
+		[0xBE6] Thalasso Head
+		[0xBEE] Thalasso Body
+		[0xBF6] Thalasso Arms
+		[0xBFE] Thalasso Legs
+		[0xC06] Other1
+		[0xC0E] Other1
+		[0xC16] Other1
+		[0xC1E] Other1
+		[0xC26] Other2
+		[0xC2E] Other2
+		[0xC36] Other2
+		[0xC3E] Silver Head
+		[0xC46] Gold Head
+	Table 02:
+		[0xC8E] Tricera Head
+		[0xC96] Tricera Head
+		[0xC9E] Tricera Body
+		[0xCA6] Tricera Body
+		[0xCAE] Tricera Arms
+		[0xCB6] Tricera Arms
+		[0xCBE] Tricera Legs
+		[0xCC6] Thalasso Head
+		[0xCCE] Thalasso Head
+		[0xCD6] Thalasso Body
+		[0xCDE] Thalasso Body
+		[0xCE6] Thalasso Arms
+		[0xCEE] Thalasso Arms
+		[0xCF6] Thalasso Legs
+		[0xCFE] Tricera Head
+		[0xD06] Tricera Body
+		[0xD0E] Tricera Arms
+		[0xD16] Tricera Legs
+		[0xD1E] Thalasso Head
+		[0xD26] Thalasso Body
+		[0xD2E] Thalasso Arms
+		[0xD36] Thalasso Legs
+		[0xD3E] Tricera Head
+		[0xD46] Tricera Body
+		[0xD4E] Tricera Arms
+		[0xD56] Tricera Legs
+		[0xD5E] Thalasso Head
+		[0xD66] Thalasso Body
+		[0xD6E] Thalasso Arms
+		[0xD76] Thalasso Legs
+		[0xD7E] Other1
+		[0xD86] Other1
+		[0xD8E] Other1
+		[0xD96] Other1
+		[0xD9E] Other2
+		[0xDA6] Other2
+		[0xDAE] Other2
+		[0xDB6] Silver Head
+		[0xDBE] Gold Head
+	Table 03:
+		[0xE06] Tricera Head
+		[0xE0E] Tricera Body
+		[0xE16] Tricera Arms
+		[0xE1E] Tricera Legs
+		[0xE26] Thalasso Head
+		[0xE2E] Thalasso Body
+		[0xE36] Thalasso Arms
+		[0xE3E] Thalasso Legs
+		[0xE46] Tanstro Single
+		[0xE4E] Proto Head
+		[0xE56] Proto Body
+		[0xE5E] Proto Arms
+		[0xE66] Proto Legs
+		[0xE6E] Tricera Head
+		[0xE76] Tricera Body
+		[0xE7E] Tricera Arms
+		[0xE86] Tricera Legs
+		[0xE8E] Thalasso Head
+		[0xE96] Thalasso Body
+		[0xE9E] Thalasso Arms
+		[0xEA6] Thalasso Legs
+		[0xEAE] Tanstro Single
+		[0xEB6] Proto Head
+		[0xEBE] Proto Body
+		[0xEC6] Proto Arms
+		[0xECE] Proto Legs
+		[0xED6] Tricera Head
+		[0xEDE] Tricera Body
+		[0xEE6] Tricera Arms
+		[0xEEE] Tricera Legs
+		[0xEF6] Thalasso Head
+		[0xEFE] Thalasso Body
+		[0xF06] Thalasso Arms
+		[0xF0E] Thalasso Legs
+		[0xF16] Tanstro Single
+		[0xF1E] Proto Head
+		[0xF26] Proto Body
+		[0xF2E] Proto Arms
+		[0xF36] Proto Legs
+		[0xF3E] Other1
+		[0xF46] Other1
+		[0xF4E] Other1
+		[0xF56] Other1
+		[0xF5E] Other1
+		[0xF66] Other1
+		[0xF6E] Other1
+		[0xF76] Other2
+		[0xF7E] Other2
+		[0xF86] Other2
+		[0xF8E] Silver Head
+		[0xF96] Gold Head
+Zone 04:
+	Table 01:
+		[0x1006] Unused
+		[0x100E] Unused
+		[0x1016] Unused
+		[0x101E] Unused
+		[0x1026] Unused
+		[0x102E] Unused
+		[0x1036] Thalasso Head
+		[0x103E] Thalasso Head
+		[0x1046] Thalasso Body
+		[0x104E] Thalasso Body
+		[0x1056] Thalasso Arms
+		[0x105E] Thalasso Legs
+		[0x1066] Unused
+		[0x106E] Unused
+		[0x1076] Unused
+		[0x107E] Unused
+		[0x1086] Thalasso Head
+		[0x108E] Thalasso Body
+		[0x1096] Thalasso Arms
+		[0x109E] Thalasso Legs
+		[0x10A6] Unused
+		[0x10AE] Unused
+		[0x10B6] Unused
+		[0x10BE] Unused
+		[0x10C6] Thalasso Head
+		[0x10CE] Thalasso Body
+		[0x10D6] Thalasso Arms
+		[0x10DE] Thalasso Legs
+		[0x10E6] Other1
+		[0x10EE] Other1
+		[0x10F6] Other1
+		[0x10FE] Other1
+		[0x1106] Other2
+		[0x110E] Other2
+		[0x1116] Other2
+		[0x111E] Silver Head
+		[0x1126] Gold Head
+	Table 02:
+		[0x116E] Unused
+		[0x1176] Unused
+		[0x117E] Unused
+		[0x1186] Unused
+		[0x118E] Unused
+		[0x1196] Unused
+		[0x119E] Unused
+		[0x11A6] Thalasso Head
+		[0x11AE] Thalasso Head
+		[0x11B6] Thalasso Body
+		[0x11BE] Thalasso Body
+		[0x11C6] Thalasso Arms
+		[0x11CE] Thalasso Arms
+		[0x11D6] Thalasso Legs
+		[0x11DE] Unused
+		[0x11E6] Unused
+		[0x11EE] Unused
+		[0x11F6] Unused
+		[0x11FE] Thalasso Head
+		[0x1206] Thalasso Body
+		[0x120E] Thalasso Arms
+		[0x1216] Thalasso Legs
+		[0x121E] Unused
+		[0x1226] Unused
+		[0x122E] Unused
+		[0x1236] Unused
+		[0x123E] Thalasso Head
+		[0x1246] Thalasso Body
+		[0x124E] Thalasso Arms
+		[0x1256] Thalasso Legs
+		[0x125E] Other1
+		[0x1266] Other1
+		[0x126E] Other1
+		[0x1276] Other1
+		[0x127E] Other2
+		[0x1286] Other2
+		[0x128E] Other2
+		[0x1296] Silver Head
+		[0x129E] Gold Head
+	Table 03:
+		[0x12E6] Unused
+		[0x12EE] Unused
+		[0x12F6] Unused
+		[0x12FE] Unused
+		[0x1306] Thalasso Head
+		[0x130E] Thalasso Body
+		[0x1316] Thalasso Arms
+		[0x131E] Thalasso Legs
+		[0x1326] Sucho Head
+		[0x132E] Sucho Body
+		[0x1336] Sucho Arms
+		[0x133E] Sucho Legs
+		[0x1346] Shoni Head
+		[0x134E] Shoni Body
+		[0x1356] Shoni Arms
+		[0x135E] Shoni Legs
+		[0x1366] Unused
+		[0x136E] Unused
+		[0x1376] Unused
+		[0x137E] Unused
+		[0x1386] Thalasso Head
+		[0x138E] Thalasso Body
+		[0x1396] Thalasso Arms
+		[0x139E] Thalasso Legs
+		[0x13A6] Sucho Head
+		[0x13AE] Sucho Body
+		[0x13B6] Sucho Arms
+		[0x13BE] Sucho Legs
+		[0x13C6] Shoni Head
+		[0x13CE] Shoni Body
+		[0x13D6] Shoni Arms
+		[0x13DE] Shoni Legs
+		[0x13E6] Unused
+		[0x13EE] Unused
+		[0x13F6] Unused
+		[0x13FE] Unused
+		[0x1406] Thalasso Head
+		[0x140E] Thalasso Body
+		[0x1416] Thalasso Arms
+		[0x141E] Thalasso Legs
+		[0x1426] Sucho Head
+		[0x142E] Sucho Body
+		[0x1436] Sucho Arms
+		[0x143E] Sucho Legs
+		[0x1446] Shoni Head
+		[0x144E] Shoni Body
+		[0x1456] Shoni Arms
+		[0x145E] Shoni Legs
+		[0x1466] Other1
+		[0x146E] Other1
+		[0x1476] Other1
+		[0x147E] Other1
+		[0x1486] Other1
+		[0x148E] Other1
+		[0x1496] Other1
+		[0x149E] Other2
+		[0x14A6] Other2
+		[0x14AE] Other2
+		[0x14B6] Silver Head
+		[0x14BE] Gold Head
+Zone 05:
+	Table 01:
+		[0x152E] Menchi Head
+		[0x1536] Menchi Head
+		[0x153E] Menchi Body
+		[0x1546] Menchi Body
+		[0x154E] Menchi Arms
+		[0x1556] Menchi Legs
+		[0x155E] Raja Head
+		[0x1566] Raja Head
+		[0x156E] Raja Body
+		[0x1576] Raja Body
+		[0x157E] Raja Arms
+		[0x1586] Raja Legs
+		[0x158E] Menchi Head
+		[0x1596] Menchi Body
+		[0x159E] Menchi Arms
+		[0x15A6] Menchi Legs
+		[0x15AE] Raja Head
+		[0x15B6] Raja Body
+		[0x15BE] Raja Arms
+		[0x15C6] Raja Legs
+		[0x15CE] Menchi Head
+		[0x15D6] Menchi Body
+		[0x15DE] Menchi Arms
+		[0x15E6] Menchi Legs
+		[0x15EE] Raja Head
+		[0x15F6] Raja Body
+		[0x15FE] Raja Arms
+		[0x1606] Raja Legs
+		[0x160E] Other1
+		[0x1616] Other1
+		[0x161E] Other1
+		[0x1626] Other1
+		[0x162E] Other2
+		[0x1636] Other2
+		[0x163E] Other2
+		[0x1646] Silver Head
+		[0x164E] Gold Head
+	Table 02:
+		[0x1696] Menchi Head
+		[0x169E] Menchi Head
+		[0x16A6] Menchi Body
+		[0x16AE] Menchi Body
+		[0x16B6] Menchi Arms
+		[0x16BE] Menchi Arms
+		[0x16C6] Menchi Legs
+		[0x16CE] Raja Head
+		[0x16D6] Raja Head
+		[0x16DE] Raja Body
+		[0x16E6] Raja Body
+		[0x16EE] Raja Arms
+		[0x16F6] Raja Arms
+		[0x16FE] Raja Legs
+		[0x1706] Menchi Head
+		[0x170E] Menchi Body
+		[0x1716] Menchi Arms
+		[0x171E] Menchi Legs
+		[0x1726] Raja Head
+		[0x172E] Raja Body
+		[0x1736] Raja Arms
+		[0x173E] Raja Legs
+		[0x1746] Menchi Head
+		[0x174E] Menchi Body
+		[0x1756] Menchi Arms
+		[0x175E] Menchi Legs
+		[0x1766] Raja Head
+		[0x176E] Raja Body
+		[0x1776] Raja Arms
+		[0x177E] Raja Legs
+		[0x1786] Other1
+		[0x178E] Other1
+		[0x1796] Other1
+		[0x179E] Other1
+		[0x17A6] Other2
+		[0x17AE] Other2
+		[0x17B6] Other2
+		[0x17BE] Silver Head
+		[0x17C6] Gold Head
+	Table 03:
+		[0x180E] Menchi Head
+		[0x1816] Menchi Body
+		[0x181E] Menchi Arms
+		[0x1826] Menchi Legs
+		[0x182E] Raja Head
+		[0x1836] Raja Body
+		[0x183E] Raja Arms
+		[0x1846] Raja Legs
+		[0x184E] Menchi Head
+		[0x1856] Menchi Body
+		[0x185E] Menchi Arms
+		[0x1866] Menchi Legs
+		[0x186E] Raja Head
+		[0x1876] Raja Body
+		[0x187E] Raja Arms
+		[0x1886] Raja Legs
+		[0x188E] Menchi Head
+		[0x1896] Menchi Body
+		[0x189E] Menchi Arms
+		[0x18A6] Menchi Legs
+		[0x18AE] Raja Head
+		[0x18B6] Raja Body
+		[0x18BE] Raja Arms
+		[0x18C6] Raja Legs
+		[0x18CE] Other1
+		[0x18D6] Other1
+		[0x18DE] Other1
+		[0x18E6] Other1
+		[0x18EE] Other1
+		[0x18F6] Other1
+		[0x18FE] Other1
+		[0x1906] Other2
+		[0x190E] Other2
+		[0x1916] Other2
+		[0x191E] Silver Head
+		[0x1926] Gold Head
+
+3001:
+Zone 01:
+	Table 01:
+		[0x1BA] Perso Head
+		[0x1C2] Perso Head
+		[0x1CA] Perso Body
+		[0x1D2] Perso Body
+		[0x1DA] Perso Arms
+		[0x1E2] Perso Legs
+		[0x1EA] Elasmoth Head
+		[0x1F2] Elasmoth Head
+		[0x1FA] Elasmoth Body
+		[0x202] Elasmoth Body
+		[0x20A] Elasmoth Arms
+		[0x212] Elasmoth Legs
+		[0x21A] Hoplo Head
+		[0x222] Hoplo Head
+		[0x22A] Hoplo Body
+		[0x232] Hoplo Body
+		[0x23A] Hoplo Arms
+		[0x242] Hoplo Legs
+		[0x24A] Pendem Single
+		[0x252] Pendem Single
+		[0x25A] Perso Head
+		[0x262] Perso Body
+		[0x26A] Perso Arms
+		[0x272] Perso Legs
+		[0x27A] Elasmoth Head
+		[0x282] Elasmoth Body
+		[0x28A] Elasmoth Arms
+		[0x292] Elasmoth Legs
+		[0x29A] Hoplo Head
+		[0x2A2] Hoplo Body
+		[0x2AA] Hoplo Arms
+		[0x2B2] Hoplo Legs
+		[0x2BA] Pendem Single
+		[0x2C2] Perso Head
+		[0x2CA] Perso Body
+		[0x2D2] Perso Arms
+		[0x2DA] Perso Legs
+		[0x2E2] Elasmoth Head
+		[0x2EA] Elasmoth Body
+		[0x2F2] Elasmoth Arms
+		[0x2FA] Elasmoth Legs
+		[0x302] Hoplo Head
+		[0x30A] Hoplo Body
+		[0x312] Hoplo Arms
+		[0x31A] Hoplo Legs
+		[0x322] Pendem Single
+		[0x32A] Other1
+		[0x332] Other1
+		[0x33A] Other1
+		[0x342] Other1
+		[0x34A] Other2
+		[0x352] Other2
+		[0x35A] Silver Arms
+		[0x362] Gold Head
+	Table 02:
+		[0x396] Perso Head
+		[0x39E] Perso Head
+		[0x3A6] Perso Body
+		[0x3AE] Perso Body
+		[0x3B6] Perso Arms
+		[0x3BE] Perso Arms
+		[0x3C6] Perso Legs
+		[0x3CE] Elasmoth Head
+		[0x3D6] Elasmoth Head
+		[0x3DE] Elasmoth Body
+		[0x3E6] Elasmoth Body
+		[0x3EE] Elasmoth Arms
+		[0x3F6] Elasmoth Arms
+		[0x3FE] Elasmoth Legs
+		[0x406] Hoplo Head
+		[0x40E] Hoplo Head
+		[0x416] Hoplo Body
+		[0x41E] Hoplo Body
+		[0x426] Hoplo Arms
+		[0x42E] Hoplo Arms
+		[0x436] Hoplo Legs
+		[0x43E] Pendem Single
+		[0x446] Pendem Single
+		[0x44E] Perso Head
+		[0x456] Perso Body
+		[0x45E] Perso Arms
+		[0x466] Perso Legs
+		[0x46E] Elasmoth Head
+		[0x476] Elasmoth Body
+		[0x47E] Elasmoth Arms
+		[0x486] Elasmoth Legs
+		[0x48E] Hoplo Head
+		[0x496] Hoplo Body
+		[0x49E] Hoplo Arms
+		[0x4A6] Hoplo Legs
+		[0x4AE] Pendem Single
+		[0x4B6] Perso Head
+		[0x4BE] Perso Body
+		[0x4C6] Perso Arms
+		[0x4CE] Perso Legs
+		[0x4D6] Elasmoth Head
+		[0x4DE] Elasmoth Body
+		[0x4E6] Elasmoth Arms
+		[0x4EE] Elasmoth Legs
+		[0x4F6] Hoplo Head
+		[0x4FE] Hoplo Body
+		[0x506] Hoplo Arms
+		[0x50E] Hoplo Legs
+		[0x516] Pendem Single
+		[0x51E] Other1
+		[0x526] Other1
+		[0x52E] Other1
+		[0x536] Other1
+		[0x53E] Other2
+		[0x546] Other2
+		[0x54E] Silver Arms
+		[0x556] Gold Head
+	Table 03:
+		[0x58A] Perso Head
+		[0x592] Perso Body
+		[0x59A] Perso Arms
+		[0x5A2] Perso Legs
+		[0x5AA] Elasmoth Head
+		[0x5B2] Elasmoth Body
+		[0x5BA] Elasmoth Arms
+		[0x5C2] Elasmoth Legs
+		[0x5CA] Hoplo Head
+		[0x5D2] Hoplo Body
+		[0x5DA] Hoplo Arms
+		[0x5E2] Hoplo Legs
+		[0x5EA] Pendem Single
+		[0x5F2] Perso Head
+		[0x5FA] Perso Body
+		[0x602] Perso Arms
+		[0x60A] Perso Legs
+		[0x612] Elasmoth Head
+		[0x61A] Elasmoth Body
+		[0x622] Elasmoth Arms
+		[0x62A] Elasmoth Legs
+		[0x632] Hoplo Head
+		[0x63A] Hoplo Body
+		[0x642] Hoplo Arms
+		[0x64A] Hoplo Legs
+		[0x652] Pendem Single
+		[0x65A] Perso Head
+		[0x662] Perso Body
+		[0x66A] Perso Arms
+		[0x672] Perso Legs
+		[0x67A] Elasmoth Head
+		[0x682] Elasmoth Body
+		[0x68A] Elasmoth Arms
+		[0x692] Elasmoth Legs
+		[0x69A] Hoplo Head
+		[0x6A2] Hoplo Body
+		[0x6AA] Hoplo Arms
+		[0x6B2] Hoplo Legs
+		[0x6BA] Pendem Single
+		[0x6C2] Other1
+		[0x6CA] Other1
+		[0x6D2] Other1
+		[0x6DA] Other1
+		[0x6E2] Other2
+		[0x6EA] Other2
+		[0x6F2] Silver Arms
+		[0x6FA] Gold Head
+Zone 02:
+	Table 01:
+		[0x756] Siamo Head
+	Table 02:
+		[0x78A] Siamo Body
+	Table 03:
+		[0x7BE] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x81A] Nychus Head
+	Table 02:
+		[0x84E] Nychus Body
+	Table 03:
+		[0x882] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x8DE] Cryo Head
+	Table 02:
+		[0x912] Cryo Body
+	Table 03:
+		[0x946] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x9A2] Sucho Head
+	Table 02:
+		[0x9D6] Sucho Body
+	Table 03:
+		[0xA0A] Sucho Arms
+
+3002:
+Zone 01:
+	Table 01:
+		[0x1C6] Radox Single
+		[0x1CE] Tarbo Head
+		[0x1D6] Tarbo Body
+		[0x1DE] Tarbo Arms
+		[0x1E6] Tarbo Legs
+		[0x1EE] Shanshan Head
+		[0x1F6] Shanshan Body
+		[0x1FE] Shanshan Arms
+		[0x206] Shanshan Legs
+		[0x20E] Kentro Head
+		[0x216] Kentro Body
+		[0x21E] Kentro Arms
+		[0x226] Kentro Legs
+		[0x22E] Igua Head
+		[0x236] Igua Body
+		[0x23E] Igua Arms
+		[0x246] Igua Legs
+		[0x24E] Goyo Head
+		[0x256] Goyo Body
+		[0x25E] Goyo Arms
+		[0x266] Goyo Legs
+		[0x26E] Tarbo Head
+		[0x276] Tarbo Body
+		[0x27E] Tarbo Arms
+		[0x286] Tarbo Legs
+		[0x28E] Shanshan Head
+		[0x296] Shanshan Body
+		[0x29E] Shanshan Arms
+		[0x2A6] Shanshan Legs
+		[0x2AE] Kentro Head
+		[0x2B6] Kentro Body
+		[0x2BE] Kentro Arms
+		[0x2C6] Kentro Legs
+		[0x2CE] Igua Head
+		[0x2D6] Igua Body
+		[0x2DE] Igua Arms
+		[0x2E6] Igua Legs
+		[0x2EE] Goyo Head
+		[0x2F6] Goyo Body
+		[0x2FE] Goyo Arms
+		[0x306] Goyo Legs
+		[0x30E] Radox Single
+		[0x316] Tarbo Head
+		[0x31E] Tarbo Body
+		[0x326] Tarbo Arms
+		[0x32E] Tarbo Legs
+		[0x336] Shanshan Head
+		[0x33E] Shanshan Body
+		[0x346] Shanshan Arms
+		[0x34E] Shanshan Legs
+		[0x356] Kentro Head
+		[0x35E] Kentro Body
+		[0x366] Kentro Arms
+		[0x36E] Kentro Legs
+		[0x376] Igua Head
+		[0x37E] Igua Body
+		[0x386] Igua Arms
+		[0x38E] Igua Legs
+		[0x396] Goyo Head
+		[0x39E] Goyo Body
+		[0x3A6] Goyo Arms
+		[0x3AE] Goyo Legs
+		[0x3B6] Other1
+		[0x3BE] Other1
+		[0x3C6] Other1
+		[0x3CE] Other1
+		[0x3D6] Other2
+		[0x3DE] Other2
+		[0x3E6] Silver Legs
+		[0x3EE] Gold Head
+	Table 02:
+		[0x422] Radox Single
+		[0x42A] Tarbo Head
+		[0x432] Tarbo Body
+		[0x43A] Tarbo Arms
+		[0x442] Tarbo Legs
+		[0x44A] Shanshan Head
+		[0x452] Shanshan Body
+		[0x45A] Shanshan Arms
+		[0x462] Shanshan Legs
+		[0x46A] Kentro Head
+		[0x472] Kentro Body
+		[0x47A] Kentro Arms
+		[0x482] Kentro Legs
+		[0x48A] Igua Head
+		[0x492] Igua Body
+		[0x49A] Igua Arms
+		[0x4A2] Igua Legs
+		[0x4AA] Goyo Head
+		[0x4B2] Goyo Body
+		[0x4BA] Goyo Arms
+		[0x4C2] Goyo Legs
+		[0x4CA] Tarbo Head
+		[0x4D2] Tarbo Body
+		[0x4DA] Tarbo Arms
+		[0x4E2] Tarbo Legs
+		[0x4EA] Shanshan Head
+		[0x4F2] Shanshan Body
+		[0x4FA] Shanshan Arms
+		[0x502] Shanshan Legs
+		[0x50A] Kentro Head
+		[0x512] Kentro Body
+		[0x51A] Kentro Arms
+		[0x522] Kentro Legs
+		[0x52A] Igua Head
+		[0x532] Igua Body
+		[0x53A] Igua Arms
+		[0x542] Igua Legs
+		[0x54A] Goyo Head
+		[0x552] Goyo Body
+		[0x55A] Goyo Arms
+		[0x562] Goyo Legs
+		[0x56A] Radox Single
+		[0x572] Tarbo Head
+		[0x57A] Tarbo Body
+		[0x582] Tarbo Arms
+		[0x58A] Tarbo Legs
+		[0x592] Shanshan Head
+		[0x59A] Shanshan Body
+		[0x5A2] Shanshan Arms
+		[0x5AA] Shanshan Legs
+		[0x5B2] Kentro Head
+		[0x5BA] Kentro Body
+		[0x5C2] Kentro Arms
+		[0x5CA] Kentro Legs
+		[0x5D2] Igua Head
+		[0x5DA] Igua Body
+		[0x5E2] Igua Arms
+		[0x5EA] Igua Legs
+		[0x5F2] Goyo Head
+		[0x5FA] Goyo Body
+		[0x602] Goyo Arms
+		[0x60A] Goyo Legs
+		[0x612] Other1
+		[0x61A] Other1
+		[0x622] Other1
+		[0x62A] Other1
+		[0x632] Other2
+		[0x63A] Other2
+		[0x642] Silver Legs
+		[0x64A] Gold Head
+	Table 03:
+		[0x67E] Radox Single
+		[0x686] Tarbo Head
+		[0x68E] Tarbo Body
+		[0x696] Tarbo Arms
+		[0x69E] Tarbo Legs
+		[0x6A6] Shanshan Head
+		[0x6AE] Shanshan Body
+		[0x6B6] Shanshan Arms
+		[0x6BE] Shanshan Legs
+		[0x6C6] Kentro Head
+		[0x6CE] Kentro Body
+		[0x6D6] Kentro Arms
+		[0x6DE] Kentro Legs
+		[0x6E6] Igua Head
+		[0x6EE] Igua Body
+		[0x6F6] Igua Arms
+		[0x6FE] Igua Legs
+		[0x706] Goyo Head
+		[0x70E] Goyo Body
+		[0x716] Goyo Arms
+		[0x71E] Goyo Legs
+		[0x726] Radox Single
+		[0x72E] Tarbo Head
+		[0x736] Tarbo Body
+		[0x73E] Tarbo Arms
+		[0x746] Tarbo Legs
+		[0x74E] Shanshan Head
+		[0x756] Shanshan Body
+		[0x75E] Shanshan Arms
+		[0x766] Shanshan Legs
+		[0x76E] Kentro Head
+		[0x776] Kentro Body
+		[0x77E] Kentro Arms
+		[0x786] Kentro Legs
+		[0x78E] Igua Head
+		[0x796] Igua Body
+		[0x79E] Igua Arms
+		[0x7A6] Igua Legs
+		[0x7AE] Goyo Head
+		[0x7B6] Goyo Body
+		[0x7BE] Goyo Arms
+		[0x7C6] Goyo Legs
+		[0x7CE] Radox Single
+		[0x7D6] Tarbo Head
+		[0x7DE] Tarbo Body
+		[0x7E6] Tarbo Arms
+		[0x7EE] Tarbo Legs
+		[0x7F6] Shanshan Head
+		[0x7FE] Shanshan Body
+		[0x806] Shanshan Arms
+		[0x80E] Shanshan Legs
+		[0x816] Kentro Head
+		[0x81E] Kentro Body
+		[0x826] Kentro Arms
+		[0x82E] Kentro Legs
+		[0x836] Igua Head
+		[0x83E] Igua Body
+		[0x846] Igua Arms
+		[0x84E] Igua Legs
+		[0x856] Goyo Head
+		[0x85E] Goyo Body
+		[0x866] Goyo Arms
+		[0x86E] Goyo Legs
+		[0x876] Other1
+		[0x87E] Other1
+		[0x886] Other1
+		[0x88E] Other1
+		[0x896] Other2
+		[0x89E] Other2
+		[0x8A6] Silver Legs
+		[0x8AE] Gold Head
+Zone 02:
+	Table 01:
+		[0x90A] Siamo Head
+	Table 02:
+		[0x93E] Siamo Body
+	Table 03:
+		[0x972] Siamo Arms
+Zone 03:
+	Table 01:
+	Table 02:
+	Table 03:
+Zone 04:
+	Table 01:
+		[0xA7A] Cryo Head
+	Table 02:
+		[0xAAE] Cryo Body
+	Table 03:
+		[0xAE2] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xB3E] Sucho Head
+	Table 02:
+		[0xB72] Sucho Body
+	Table 03:
+		[0xBA6] Sucho Arms
+
+3003:
+Zone 01:
+	Table 01:
+		[0x1CE] Chasmo Head
+		[0x1D6] Chasmo Body
+		[0x1DE] Chasmo Arms
+		[0x1E6] Chasmo Legs
+		[0x1EE] Chasmo Head
+		[0x1F6] Chasmo Body
+		[0x1FE] Chasmo Arms
+		[0x206] Chasmo Legs
+		[0x20E] Chasmo Head
+		[0x216] Chasmo Body
+		[0x21E] Chasmo Arms
+		[0x226] Chasmo Legs
+		[0x22E] Other1
+		[0x236] Other1
+		[0x23E] Other2
+		[0x246] Other2
+		[0x24E] Other2
+		[0x256] Other2
+		[0x25E] Other2
+		[0x266] Other2
+		[0x26E] Other2
+		[0x276] Other2
+		[0x27E] Other2
+		[0x286] Other2
+		[0x28E] Silver Head
+		[0x296] Gold Head
+	Table 02:
+		[0x2DE] Chasmo Head
+		[0x2E6] Chasmo Body
+		[0x2EE] Chasmo Arms
+		[0x2F6] Chasmo Legs
+		[0x2FE] Chasmo Head
+		[0x306] Chasmo Body
+		[0x30E] Chasmo Arms
+		[0x316] Chasmo Legs
+		[0x31E] Chasmo Head
+		[0x326] Chasmo Body
+		[0x32E] Chasmo Arms
+		[0x336] Chasmo Legs
+		[0x33E] Other1
+		[0x346] Other1
+		[0x34E] Other2
+		[0x356] Other2
+		[0x35E] Other2
+		[0x366] Other2
+		[0x36E] Other2
+		[0x376] Other2
+		[0x37E] Other2
+		[0x386] Other2
+		[0x38E] Other2
+		[0x396] Other2
+		[0x39E] Silver Head
+		[0x3A6] Gold Head
+	Table 03:
+		[0x3EE] Cryo Head
+		[0x3F6] Goyo Head
+		[0x3FE] Cryo Head
+		[0x406] Goyo Head
+		[0x40E] Cryo Head
+		[0x416] Goyo Head
+		[0x41E] Other1
+		[0x426] Other1
+		[0x42E] Other1
+		[0x436] Other1
+		[0x43E] Other2
+		[0x446] Other2
+		[0x44E] Other2
+		[0x456] Other2
+		[0x45E] Other2
+		[0x466] Other2
+		[0x46E] Other2
+		[0x476] Other2
+		[0x47E] Other2
+		[0x486] Other2
+		[0x48E] Silver Head
+		[0x496] Gold Head
+Zone 02:
+	Table 01:
+		[0x506] Siamo Head
+	Table 02:
+		[0x54E] Siamo Body
+	Table 03:
+		[0x596] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x606] Nychus Head
+	Table 02:
+		[0x64E] Nychus Body
+	Table 03:
+		[0x696] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x706] Cryo Head
+	Table 02:
+		[0x74E] Cryo Body
+	Table 03:
+		[0x796] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x806] Sucho Head
+	Table 02:
+		[0x84E] Sucho Body
+	Table 03:
+		[0x896] Sucho Arms
+
+3100:
+Zone 01:
+	Table 01:
+		[0x20A] Krypto Head
+		[0x212] Krypto Head
+		[0x21A] Krypto Body
+		[0x222] Krypto Body
+		[0x22A] Krypto Arms
+		[0x232] Krypto Legs
+		[0x23A] Anomalo Single
+		[0x242] Anomalo Single
+		[0x24A] Krypto Head
+		[0x252] Krypto Body
+		[0x25A] Krypto Arms
+		[0x262] Krypto Legs
+		[0x26A] Anomalo Single
+		[0x272] Krypto Head
+		[0x27A] Krypto Body
+		[0x282] Krypto Arms
+		[0x28A] Krypto Legs
+		[0x292] Anomalo Single
+		[0x29A] Other1
+		[0x2A2] Other1
+		[0x2AA] Other1
+		[0x2B2] Other2
+		[0x2BA] Other2
+		[0x2C2] Other2
+		[0x2CA] Other2
+		[0x2D2] Silver Body
+		[0x2DA] Gold Head
+	Table 02:
+		[0x322] Krypto Head
+		[0x32A] Krypto Head
+		[0x332] Krypto Body
+		[0x33A] Krypto Body
+		[0x342] Krypto Arms
+		[0x34A] Krypto Arms
+		[0x352] Krypto Legs
+		[0x35A] Anomalo Single
+		[0x362] Anomalo Single
+		[0x36A] Krypto Head
+		[0x372] Krypto Body
+		[0x37A] Krypto Arms
+		[0x382] Krypto Legs
+		[0x38A] Anomalo Single
+		[0x392] Krypto Head
+		[0x39A] Krypto Body
+		[0x3A2] Krypto Arms
+		[0x3AA] Krypto Legs
+		[0x3B2] Anomalo Single
+		[0x3BA] Other1
+		[0x3C2] Other1
+		[0x3CA] Other1
+		[0x3D2] Other2
+		[0x3DA] Other2
+		[0x3E2] Other2
+		[0x3EA] Other2
+		[0x3F2] Silver Body
+		[0x3FA] Gold Head
+	Table 03:
+		[0x442] Krypto Head
+		[0x44A] Krypto Body
+		[0x452] Krypto Arms
+		[0x45A] Krypto Legs
+		[0x462] Anomalo Single
+		[0x46A] Krypto Head
+		[0x472] Krypto Body
+		[0x47A] Krypto Arms
+		[0x482] Krypto Legs
+		[0x48A] Anomalo Single
+		[0x492] Krypto Head
+		[0x49A] Krypto Body
+		[0x4A2] Krypto Arms
+		[0x4AA] Krypto Legs
+		[0x4B2] Anomalo Single
+		[0x4BA] Other1
+		[0x4C2] Other1
+		[0x4CA] Other2
+		[0x4D2] Other2
+		[0x4DA] Other2
+		[0x4E2] Other2
+		[0x4EA] Silver Body
+		[0x4F2] Gold Head
+Zone 02:
+	Table 01:
+		[0x562] Siamo Head
+	Table 02:
+		[0x5AA] Siamo Body
+	Table 03:
+		[0x5F2] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x662] Nychus Head
+	Table 02:
+		[0x6AA] Nychus Body
+	Table 03:
+		[0x6F2] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x762] Cryo Head
+	Table 02:
+		[0x7AA] Cryo Body
+	Table 03:
+		[0x7F2] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x862] Sucho Head
+	Table 02:
+		[0x8AA] Sucho Body
+	Table 03:
+		[0x8F2] Sucho Arms
+
+3101:
+Zone 01:
+	Table 01:
+		[0x1F6] Coatlus Head
+		[0x1FE] Coatlus Head
+		[0x206] Coatlus Body
+		[0x20E] Coatlus Body
+		[0x216] Coatlus Arms
+		[0x21E] Coatlus Legs
+		[0x226] Krypto Head
+		[0x22E] Krypto Head
+		[0x236] Krypto Body
+		[0x23E] Krypto Body
+		[0x246] Krypto Arms
+		[0x24E] Krypto Legs
+		[0x256] Nigo Head
+		[0x25E] Nigo Head
+		[0x266] Nigo Body
+		[0x26E] Nigo Body
+		[0x276] Nigo Arms
+		[0x27E] Nigo Legs
+		[0x286] Coatlus Head
+		[0x28E] Coatlus Body
+		[0x296] Coatlus Arms
+		[0x29E] Coatlus Legs
+		[0x2A6] Krypto Head
+		[0x2AE] Krypto Body
+		[0x2B6] Krypto Arms
+		[0x2BE] Krypto Legs
+		[0x2C6] Nigo Head
+		[0x2CE] Nigo Body
+		[0x2D6] Nigo Arms
+		[0x2DE] Nigo Legs
+		[0x2E6] Coatlus Head
+		[0x2EE] Coatlus Body
+		[0x2F6] Coatlus Arms
+		[0x2FE] Coatlus Legs
+		[0x306] Krypto Head
+		[0x30E] Krypto Body
+		[0x316] Krypto Arms
+		[0x31E] Krypto Legs
+		[0x326] Nigo Head
+		[0x32E] Nigo Body
+		[0x336] Nigo Arms
+		[0x33E] Nigo Legs
+		[0x346] Other1
+		[0x34E] Other1
+		[0x356] Other1
+		[0x35E] Other2
+		[0x366] Other2
+		[0x36E] Other2
+		[0x376] Silver Body
+		[0x37E] Gold Head
+	Table 02:
+		[0x3C6] Coatlus Head
+		[0x3CE] Coatlus Head
+		[0x3D6] Coatlus Body
+		[0x3DE] Coatlus Body
+		[0x3E6] Coatlus Arms
+		[0x3EE] Coatlus Arms
+		[0x3F6] Coatlus Legs
+		[0x3FE] Krypto Head
+		[0x406] Krypto Head
+		[0x40E] Krypto Body
+		[0x416] Krypto Body
+		[0x41E] Krypto Arms
+		[0x426] Krypto Arms
+		[0x42E] Krypto Legs
+		[0x436] Nigo Head
+		[0x43E] Nigo Head
+		[0x446] Nigo Body
+		[0x44E] Nigo Body
+		[0x456] Nigo Arms
+		[0x45E] Nigo Arms
+		[0x466] Nigo Legs
+		[0x46E] Coatlus Head
+		[0x476] Coatlus Body
+		[0x47E] Coatlus Arms
+		[0x486] Coatlus Legs
+		[0x48E] Krypto Head
+		[0x496] Krypto Body
+		[0x49E] Krypto Arms
+		[0x4A6] Krypto Legs
+		[0x4AE] Nigo Head
+		[0x4B6] Nigo Body
+		[0x4BE] Nigo Arms
+		[0x4C6] Nigo Legs
+		[0x4CE] Coatlus Head
+		[0x4D6] Coatlus Body
+		[0x4DE] Coatlus Arms
+		[0x4E6] Coatlus Legs
+		[0x4EE] Krypto Head
+		[0x4F6] Krypto Body
+		[0x4FE] Krypto Arms
+		[0x506] Krypto Legs
+		[0x50E] Nigo Head
+		[0x516] Nigo Body
+		[0x51E] Nigo Arms
+		[0x526] Nigo Legs
+		[0x52E] Other1
+		[0x536] Other1
+		[0x53E] Other1
+		[0x546] Other2
+		[0x54E] Other2
+		[0x556] Other2
+		[0x55E] Silver Body
+		[0x566] Gold Head
+	Table 03:
+		[0x5AE] Coatlus Head
+		[0x5B6] Coatlus Body
+		[0x5BE] Coatlus Arms
+		[0x5C6] Coatlus Legs
+		[0x5CE] Krypto Head
+		[0x5D6] Krypto Body
+		[0x5DE] Krypto Arms
+		[0x5E6] Krypto Legs
+		[0x5EE] Nigo Head
+		[0x5F6] Nigo Body
+		[0x5FE] Nigo Arms
+		[0x606] Nigo Legs
+		[0x60E] Coatlus Head
+		[0x616] Coatlus Body
+		[0x61E] Coatlus Arms
+		[0x626] Coatlus Legs
+		[0x62E] Krypto Head
+		[0x636] Krypto Body
+		[0x63E] Krypto Arms
+		[0x646] Krypto Legs
+		[0x64E] Nigo Head
+		[0x656] Nigo Body
+		[0x65E] Nigo Arms
+		[0x666] Nigo Legs
+		[0x66E] Coatlus Head
+		[0x676] Coatlus Body
+		[0x67E] Coatlus Arms
+		[0x686] Coatlus Legs
+		[0x68E] Krypto Head
+		[0x696] Krypto Body
+		[0x69E] Krypto Arms
+		[0x6A6] Krypto Legs
+		[0x6AE] Nigo Head
+		[0x6B6] Nigo Body
+		[0x6BE] Nigo Arms
+		[0x6C6] Nigo Legs
+		[0x6CE] Other1
+		[0x6D6] Other1
+		[0x6DE] Other2
+		[0x6E6] Other2
+		[0x6EE] Other2
+		[0x6F6] Silver Body
+		[0x6FE] Gold Head
+Zone 02:
+	Table 01:
+		[0x76E] Siamo Head
+	Table 02:
+		[0x7B6] Siamo Body
+	Table 03:
+		[0x7FE] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x86E] Nychus Head
+	Table 02:
+		[0x8B6] Nychus Body
+	Table 03:
+		[0x8FE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x96E] Cryo Head
+	Table 02:
+		[0x9B6] Cryo Body
+	Table 03:
+		[0x9FE] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xA6E] Sucho Head
+	Table 02:
+		[0xAB6] Sucho Body
+	Table 03:
+		[0xAFE] Sucho Arms
+
+3102:
+Zone 01:
+	Table 01:
+		[0x1F6] Parapu Single
+		[0x1FE] Parapu Single
+		[0x206] Nycto Head
+		[0x20E] Nycto Head
+		[0x216] Nycto Body
+		[0x21E] Nycto Body
+		[0x226] Nycto Arms
+		[0x22E] Nycto Legs
+		[0x236] Nigo Head
+		[0x23E] Nigo Head
+		[0x246] Nigo Body
+		[0x24E] Nigo Body
+		[0x256] Nigo Arms
+		[0x25E] Nigo Legs
+		[0x266] Parapu Single
+		[0x26E] Nycto Head
+		[0x276] Nycto Body
+		[0x27E] Nycto Arms
+		[0x286] Nycto Legs
+		[0x28E] Nigo Head
+		[0x296] Nigo Body
+		[0x29E] Nigo Arms
+		[0x2A6] Nigo Legs
+		[0x2AE] Parapu Single
+		[0x2B6] Nycto Head
+		[0x2BE] Nycto Body
+		[0x2C6] Nycto Arms
+		[0x2CE] Nycto Legs
+		[0x2D6] Nigo Head
+		[0x2DE] Nigo Body
+		[0x2E6] Nigo Arms
+		[0x2EE] Nigo Legs
+		[0x2F6] Other1
+		[0x2FE] Other1
+		[0x306] Other1
+		[0x30E] Other2
+		[0x316] Other2
+		[0x31E] Other2
+		[0x326] Other2
+		[0x32E] Silver Body
+		[0x336] Gold Head
+	Table 02:
+		[0x37E] Parapu Single
+		[0x386] Parapu Single
+		[0x38E] Nycto Head
+		[0x396] Nycto Head
+		[0x39E] Nycto Body
+		[0x3A6] Nycto Body
+		[0x3AE] Nycto Arms
+		[0x3B6] Nycto Arms
+		[0x3BE] Nycto Legs
+		[0x3C6] Nigo Head
+		[0x3CE] Nigo Head
+		[0x3D6] Nigo Body
+		[0x3DE] Nigo Body
+		[0x3E6] Nigo Arms
+		[0x3EE] Nigo Arms
+		[0x3F6] Nigo Legs
+		[0x3FE] Parapu Single
+		[0x406] Nycto Head
+		[0x40E] Nycto Body
+		[0x416] Nycto Arms
+		[0x41E] Nycto Legs
+		[0x426] Nigo Head
+		[0x42E] Nigo Body
+		[0x436] Nigo Arms
+		[0x43E] Nigo Legs
+		[0x446] Parapu Single
+		[0x44E] Nycto Head
+		[0x456] Nycto Body
+		[0x45E] Nycto Arms
+		[0x466] Nycto Legs
+		[0x46E] Nigo Head
+		[0x476] Nigo Body
+		[0x47E] Nigo Arms
+		[0x486] Nigo Legs
+		[0x48E] Other1
+		[0x496] Other1
+		[0x49E] Other1
+		[0x4A6] Other2
+		[0x4AE] Other2
+		[0x4B6] Other2
+		[0x4BE] Other2
+		[0x4C6] Silver Body
+		[0x4CE] Gold Head
+	Table 03:
+		[0x516] Parapu Single
+		[0x51E] Nycto Head
+		[0x526] Nycto Body
+		[0x52E] Nycto Arms
+		[0x536] Nycto Legs
+		[0x53E] Nigo Head
+		[0x546] Nigo Body
+		[0x54E] Nigo Arms
+		[0x556] Nigo Legs
+		[0x55E] Parapu Single
+		[0x566] Nycto Head
+		[0x56E] Nycto Body
+		[0x576] Nycto Arms
+		[0x57E] Nycto Legs
+		[0x586] Nigo Head
+		[0x58E] Nigo Body
+		[0x596] Nigo Arms
+		[0x59E] Nigo Legs
+		[0x5A6] Parapu Single
+		[0x5AE] Nycto Head
+		[0x5B6] Nycto Body
+		[0x5BE] Nycto Arms
+		[0x5C6] Nycto Legs
+		[0x5CE] Nigo Head
+		[0x5D6] Nigo Body
+		[0x5DE] Nigo Arms
+		[0x5E6] Nigo Legs
+		[0x5EE] Other1
+		[0x5F6] Other1
+		[0x5FE] Other2
+		[0x606] Other2
+		[0x60E] Other2
+		[0x616] Other2
+		[0x61E] Silver Body
+		[0x626] Gold Head
+Zone 02:
+	Table 01:
+		[0x696] Siamo Head
+	Table 02:
+		[0x6DE] Siamo Body
+	Table 03:
+		[0x726] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x796] Nychus Head
+	Table 02:
+		[0x7DE] Nychus Body
+	Table 03:
+		[0x826] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x896] Cryo Head
+	Table 02:
+		[0x8DE] Cryo Body
+	Table 03:
+		[0x926] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x996] Sucho Head
+	Table 02:
+		[0x9DE] Sucho Body
+	Table 03:
+		[0xA26] Sucho Arms
+
+3103:
+Zone 01:
+	Table 01:
+		[0x1F6] Nycto Head
+		[0x1FE] Nycto Head
+		[0x206] Nycto Body
+		[0x20E] Nycto Body
+		[0x216] Nycto Arms
+		[0x21E] Nycto Legs
+		[0x226] Stego Head
+		[0x22E] Stego Head
+		[0x236] Stego Body
+		[0x23E] Stego Body
+		[0x246] Stego Arms
+		[0x24E] Stego Legs
+		[0x256] Nycto Head
+		[0x25E] Nycto Body
+		[0x266] Nycto Arms
+		[0x26E] Nycto Legs
+		[0x276] Stego Head
+		[0x27E] Stego Body
+		[0x286] Stego Arms
+		[0x28E] Stego Legs
+		[0x296] Nycto Head
+		[0x29E] Nycto Body
+		[0x2A6] Nycto Arms
+		[0x2AE] Nycto Legs
+		[0x2B6] Stego Head
+		[0x2BE] Stego Body
+		[0x2C6] Stego Arms
+		[0x2CE] Stego Legs
+		[0x2D6] Other1
+		[0x2DE] Other1
+		[0x2E6] Other1
+		[0x2EE] Other2
+		[0x2F6] Other2
+		[0x2FE] Other2
+		[0x306] Silver Body
+		[0x30E] Gold Head
+	Table 02:
+		[0x356] Nycto Head
+		[0x35E] Nycto Head
+		[0x366] Nycto Body
+		[0x36E] Nycto Body
+		[0x376] Nycto Arms
+		[0x37E] Nycto Arms
+		[0x386] Nycto Legs
+		[0x38E] Stego Head
+		[0x396] Stego Head
+		[0x39E] Stego Body
+		[0x3A6] Stego Body
+		[0x3AE] Stego Arms
+		[0x3B6] Stego Arms
+		[0x3BE] Stego Legs
+		[0x3C6] Nycto Head
+		[0x3CE] Nycto Body
+		[0x3D6] Nycto Arms
+		[0x3DE] Nycto Legs
+		[0x3E6] Stego Head
+		[0x3EE] Stego Body
+		[0x3F6] Stego Arms
+		[0x3FE] Stego Legs
+		[0x406] Nycto Head
+		[0x40E] Nycto Body
+		[0x416] Nycto Arms
+		[0x41E] Nycto Legs
+		[0x426] Stego Head
+		[0x42E] Stego Body
+		[0x436] Stego Arms
+		[0x43E] Stego Legs
+		[0x446] Other1
+		[0x44E] Other1
+		[0x456] Other1
+		[0x45E] Other2
+		[0x466] Other2
+		[0x46E] Other2
+		[0x476] Silver Body
+		[0x47E] Gold Head
+	Table 03:
+		[0x4C6] Nycto Head
+		[0x4CE] Nycto Body
+		[0x4D6] Nycto Arms
+		[0x4DE] Nycto Legs
+		[0x4E6] Stego Head
+		[0x4EE] Stego Body
+		[0x4F6] Stego Arms
+		[0x4FE] Stego Legs
+		[0x506] Nycto Head
+		[0x50E] Nycto Body
+		[0x516] Nycto Arms
+		[0x51E] Nycto Legs
+		[0x526] Stego Head
+		[0x52E] Stego Body
+		[0x536] Stego Arms
+		[0x53E] Stego Legs
+		[0x546] Nycto Head
+		[0x54E] Nycto Body
+		[0x556] Nycto Arms
+		[0x55E] Nycto Legs
+		[0x566] Stego Head
+		[0x56E] Stego Body
+		[0x576] Stego Arms
+		[0x57E] Stego Legs
+		[0x586] Other1
+		[0x58E] Other1
+		[0x596] Other2
+		[0x59E] Other2
+		[0x5A6] Other2
+		[0x5AE] Silver Body
+		[0x5B6] Gold Head
+Zone 02:
+	Table 01:
+		[0x626] Siamo Head
+	Table 02:
+		[0x66E] Siamo Body
+	Table 03:
+		[0x6B6] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x726] Nychus Head
+	Table 02:
+		[0x76E] Nychus Body
+	Table 03:
+		[0x7B6] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x826] Cryo Head
+	Table 02:
+		[0x86E] Cryo Body
+	Table 03:
+		[0x8B6] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x926] Sucho Head
+	Table 02:
+		[0x96E] Sucho Body
+	Table 03:
+		[0x9B6] Sucho Arms
+
+3104:
+Zone 01:
+	Table 01:
+		[0x206] Delta Head
+		[0x20E] Delta Body
+		[0x216] Delta Arms
+		[0x21E] Delta Legs
+		[0x226] Dilopho Head
+		[0x22E] Dilopho Body
+		[0x236] Dilopho Arms
+		[0x23E] Dilopho Legs
+		[0x246] Delta Head
+		[0x24E] Delta Body
+		[0x256] Delta Arms
+		[0x25E] Delta Legs
+		[0x266] Dilopho Head
+		[0x26E] Dilopho Body
+		[0x276] Dilopho Arms
+		[0x27E] Dilopho Legs
+		[0x286] Delta Head
+		[0x28E] Delta Body
+		[0x296] Delta Arms
+		[0x29E] Delta Legs
+		[0x2A6] Dilopho Head
+		[0x2AE] Dilopho Body
+		[0x2B6] Dilopho Arms
+		[0x2BE] Dilopho Legs
+		[0x2C6] Other1
+		[0x2CE] Other1
+		[0x2D6] Other2
+		[0x2DE] Silver Body
+		[0x2E6] Gold Head
+	Table 02:
+		[0x32E] Delta Head
+		[0x336] Delta Body
+		[0x33E] Delta Arms
+		[0x346] Delta Legs
+		[0x34E] Dilopho Head
+		[0x356] Dilopho Body
+		[0x35E] Dilopho Arms
+		[0x366] Dilopho Legs
+		[0x36E] Delta Head
+		[0x376] Delta Body
+		[0x37E] Delta Arms
+		[0x386] Delta Legs
+		[0x38E] Dilopho Head
+		[0x396] Dilopho Body
+		[0x39E] Dilopho Arms
+		[0x3A6] Dilopho Legs
+		[0x3AE] Delta Head
+		[0x3B6] Delta Body
+		[0x3BE] Delta Arms
+		[0x3C6] Delta Legs
+		[0x3CE] Dilopho Head
+		[0x3D6] Dilopho Body
+		[0x3DE] Dilopho Arms
+		[0x3E6] Dilopho Legs
+		[0x3EE] Other1
+		[0x3F6] Other1
+		[0x3FE] Other2
+		[0x406] Silver Body
+		[0x40E] Gold Head
+	Table 03:
+		[0x456] Delta Head
+		[0x45E] Delta Body
+		[0x466] Delta Arms
+		[0x46E] Delta Legs
+		[0x476] Dilopho Head
+		[0x47E] Dilopho Body
+		[0x486] Dilopho Arms
+		[0x48E] Dilopho Legs
+		[0x496] Delta Head
+		[0x49E] Delta Body
+		[0x4A6] Delta Arms
+		[0x4AE] Delta Legs
+		[0x4B6] Dilopho Head
+		[0x4BE] Dilopho Body
+		[0x4C6] Dilopho Arms
+		[0x4CE] Dilopho Legs
+		[0x4D6] Delta Head
+		[0x4DE] Delta Body
+		[0x4E6] Delta Arms
+		[0x4EE] Delta Legs
+		[0x4F6] Dilopho Head
+		[0x4FE] Dilopho Body
+		[0x506] Dilopho Arms
+		[0x50E] Dilopho Legs
+		[0x516] Other1
+		[0x51E] Other1
+		[0x526] Other2
+		[0x52E] Silver Body
+		[0x536] Gold Head
+Zone 02:
+	Table 01:
+		[0x5A6] Siamo Head
+	Table 02:
+		[0x5EE] Siamo Body
+	Table 03:
+		[0x636] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x6A6] Nychus Head
+	Table 02:
+		[0x6EE] Nychus Body
+	Table 03:
+		[0x736] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x7A6] Cryo Head
+	Table 02:
+		[0x7EE] Cryo Body
+	Table 03:
+		[0x836] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x8A6] Sucho Head
+	Table 02:
+		[0x8EE] Sucho Body
+	Table 03:
+		[0x936] Sucho Arms
+
+3200:
+Zone 01:
+	Table 01:
+		[0x2A2] Hypsi Head
+		[0x2AA] Hypsi Head
+		[0x2B2] Hypsi Body
+		[0x2BA] Hypsi Body
+		[0x2C2] Hypsi Arms
+		[0x2CA] Hypsi Legs
+		[0x2D2] Pachrino Head
+		[0x2DA] Pachrino Head
+		[0x2E2] Pachrino Body
+		[0x2EA] Pachrino Body
+		[0x2F2] Pachrino Arms
+		[0x2FA] Pachrino Legs
+		[0x302] Edapho Head
+		[0x30A] Edapho Head
+		[0x312] Edapho Body
+		[0x31A] Edapho Body
+		[0x322] Edapho Arms
+		[0x32A] Edapho Legs
+		[0x332] Hypsi Head
+		[0x33A] Hypsi Body
+		[0x342] Hypsi Arms
+		[0x34A] Hypsi Legs
+		[0x352] Pachrino Head
+		[0x35A] Pachrino Body
+		[0x362] Pachrino Arms
+		[0x36A] Pachrino Legs
+		[0x372] Edapho Head
+		[0x37A] Edapho Body
+		[0x382] Edapho Arms
+		[0x38A] Edapho Legs
+		[0x392] Hypsi Head
+		[0x39A] Hypsi Body
+		[0x3A2] Hypsi Arms
+		[0x3AA] Hypsi Legs
+		[0x3B2] Pachrino Head
+		[0x3BA] Pachrino Body
+		[0x3C2] Pachrino Arms
+		[0x3CA] Pachrino Legs
+		[0x3D2] Edapho Head
+		[0x3DA] Edapho Body
+		[0x3E2] Edapho Arms
+		[0x3EA] Edapho Legs
+		[0x3F2] Other1
+		[0x3FA] Other1
+		[0x402] Other1
+		[0x40A] Other1
+		[0x412] Other2
+		[0x41A] Other2
+		[0x422] Other2
+		[0x42A] Silver Body
+		[0x432] Gold Head
+	Table 02:
+		[0x47A] Hypsi Head
+		[0x482] Hypsi Head
+		[0x48A] Hypsi Body
+		[0x492] Hypsi Body
+		[0x49A] Hypsi Arms
+		[0x4A2] Hypsi Arms
+		[0x4AA] Hypsi Legs
+		[0x4B2] Pachrino Head
+		[0x4BA] Pachrino Head
+		[0x4C2] Pachrino Body
+		[0x4CA] Pachrino Body
+		[0x4D2] Pachrino Arms
+		[0x4DA] Pachrino Arms
+		[0x4E2] Pachrino Legs
+		[0x4EA] Edapho Head
+		[0x4F2] Edapho Head
+		[0x4FA] Edapho Body
+		[0x502] Edapho Body
+		[0x50A] Edapho Arms
+		[0x512] Edapho Arms
+		[0x51A] Edapho Legs
+		[0x522] Hypsi Head
+		[0x52A] Hypsi Body
+		[0x532] Hypsi Arms
+		[0x53A] Hypsi Legs
+		[0x542] Pachrino Head
+		[0x54A] Pachrino Body
+		[0x552] Pachrino Arms
+		[0x55A] Pachrino Legs
+		[0x562] Edapho Head
+		[0x56A] Edapho Body
+		[0x572] Edapho Arms
+		[0x57A] Edapho Legs
+		[0x582] Hypsi Head
+		[0x58A] Hypsi Body
+		[0x592] Hypsi Arms
+		[0x59A] Hypsi Legs
+		[0x5A2] Pachrino Head
+		[0x5AA] Pachrino Body
+		[0x5B2] Pachrino Arms
+		[0x5BA] Pachrino Legs
+		[0x5C2] Edapho Head
+		[0x5CA] Edapho Body
+		[0x5D2] Edapho Arms
+		[0x5DA] Edapho Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other1
+		[0x602] Other2
+		[0x60A] Other2
+		[0x612] Other2
+		[0x61A] Silver Body
+		[0x622] Gold Head
+	Table 03:
+		[0x66A] Hypsi Head
+		[0x672] Hypsi Body
+		[0x67A] Hypsi Arms
+		[0x682] Hypsi Legs
+		[0x68A] Pachrino Head
+		[0x692] Pachrino Body
+		[0x69A] Pachrino Arms
+		[0x6A2] Pachrino Legs
+		[0x6AA] Edapho Head
+		[0x6B2] Edapho Body
+		[0x6BA] Edapho Arms
+		[0x6C2] Edapho Legs
+		[0x6CA] Hypsi Head
+		[0x6D2] Hypsi Body
+		[0x6DA] Hypsi Arms
+		[0x6E2] Hypsi Legs
+		[0x6EA] Pachrino Head
+		[0x6F2] Pachrino Body
+		[0x6FA] Pachrino Arms
+		[0x702] Pachrino Legs
+		[0x70A] Edapho Head
+		[0x712] Edapho Body
+		[0x71A] Edapho Arms
+		[0x722] Edapho Legs
+		[0x72A] Hypsi Head
+		[0x732] Hypsi Body
+		[0x73A] Hypsi Arms
+		[0x742] Hypsi Legs
+		[0x74A] Pachrino Head
+		[0x752] Pachrino Body
+		[0x75A] Pachrino Arms
+		[0x762] Pachrino Legs
+		[0x76A] Edapho Head
+		[0x772] Edapho Body
+		[0x77A] Edapho Arms
+		[0x782] Edapho Legs
+		[0x78A] Other1
+		[0x792] Other1
+		[0x79A] Other1
+		[0x7A2] Other1
+		[0x7AA] Other2
+		[0x7B2] Other2
+		[0x7BA] Other2
+		[0x7C2] Silver Body
+		[0x7CA] Gold Head
+Zone 02:
+	Table 01:
+		[0x83A] Ceros Single
+		[0x842] Ceros Single
+		[0x84A] Nodo Head
+		[0x852] Nodo Head
+		[0x85A] Nodo Body
+		[0x862] Nodo Body
+		[0x86A] Nodo Arms
+		[0x872] Nodo Legs
+		[0x87A] Jara Head
+		[0x882] Jara Head
+		[0x88A] Jara Body
+		[0x892] Jara Body
+		[0x89A] Jara Arms
+		[0x8A2] Jara Legs
+		[0x8AA] Ceros Single
+		[0x8B2] Nodo Head
+		[0x8BA] Nodo Body
+		[0x8C2] Nodo Arms
+		[0x8CA] Nodo Legs
+		[0x8D2] Jara Head
+		[0x8DA] Jara Body
+		[0x8E2] Jara Arms
+		[0x8EA] Jara Legs
+		[0x8F2] Ceros Single
+		[0x8FA] Nodo Head
+		[0x902] Nodo Body
+		[0x90A] Nodo Arms
+		[0x912] Nodo Legs
+		[0x91A] Jara Head
+		[0x922] Jara Body
+		[0x92A] Jara Arms
+		[0x932] Jara Legs
+		[0x93A] Other1
+		[0x942] Other1
+		[0x94A] Other1
+		[0x952] Other1
+		[0x95A] Other2
+		[0x962] Other2
+		[0x96A] Other2
+		[0x972] Other2
+		[0x97A] Silver Body
+		[0x982] Gold Head
+	Table 02:
+		[0x9CA] Ceros Single
+		[0x9D2] Ceros Single
+		[0x9DA] Nodo Head
+		[0x9E2] Nodo Head
+		[0x9EA] Nodo Body
+		[0x9F2] Nodo Body
+		[0x9FA] Nodo Arms
+		[0xA02] Nodo Arms
+		[0xA0A] Nodo Legs
+		[0xA12] Jara Head
+		[0xA1A] Jara Head
+		[0xA22] Jara Body
+		[0xA2A] Jara Body
+		[0xA32] Jara Arms
+		[0xA3A] Jara Arms
+		[0xA42] Jara Legs
+		[0xA4A] Ceros Single
+		[0xA52] Nodo Head
+		[0xA5A] Nodo Body
+		[0xA62] Nodo Arms
+		[0xA6A] Nodo Legs
+		[0xA72] Jara Head
+		[0xA7A] Jara Body
+		[0xA82] Jara Arms
+		[0xA8A] Jara Legs
+		[0xA92] Ceros Single
+		[0xA9A] Nodo Head
+		[0xAA2] Nodo Body
+		[0xAAA] Nodo Arms
+		[0xAB2] Nodo Legs
+		[0xABA] Jara Head
+		[0xAC2] Jara Body
+		[0xACA] Jara Arms
+		[0xAD2] Jara Legs
+		[0xADA] Other1
+		[0xAE2] Other1
+		[0xAEA] Other1
+		[0xAF2] Other1
+		[0xAFA] Other2
+		[0xB02] Other2
+		[0xB0A] Other2
+		[0xB12] Other2
+		[0xB1A] Silver Body
+		[0xB22] Gold Head
+	Table 03:
+		[0xB6A] Ceros Single
+		[0xB72] Nodo Head
+		[0xB7A] Nodo Body
+		[0xB82] Nodo Arms
+		[0xB8A] Nodo Legs
+		[0xB92] Jara Head
+		[0xB9A] Jara Body
+		[0xBA2] Jara Arms
+		[0xBAA] Jara Legs
+		[0xBB2] Ceros Single
+		[0xBBA] Nodo Head
+		[0xBC2] Nodo Body
+		[0xBCA] Nodo Arms
+		[0xBD2] Nodo Legs
+		[0xBDA] Jara Head
+		[0xBE2] Jara Body
+		[0xBEA] Jara Arms
+		[0xBF2] Jara Legs
+		[0xBFA] Ceros Single
+		[0xC02] Nodo Head
+		[0xC0A] Nodo Body
+		[0xC12] Nodo Arms
+		[0xC1A] Nodo Legs
+		[0xC22] Jara Head
+		[0xC2A] Jara Body
+		[0xC32] Jara Arms
+		[0xC3A] Jara Legs
+		[0xC42] Other1
+		[0xC4A] Other1
+		[0xC52] Other1
+		[0xC5A] Other1
+		[0xC62] Other2
+		[0xC6A] Other2
+		[0xC72] Other2
+		[0xC7A] Other2
+		[0xC82] Silver Body
+		[0xC8A] Gold Head
+Zone 03:
+	Table 01:
+		[0xCFA] Megath Head
+		[0xD02] Megath Head
+		[0xD0A] Megath Body
+		[0xD12] Megath Body
+		[0xD1A] Megath Arms
+		[0xD22] Megath Legs
+		[0xD2A] Parium Single
+		[0xD32] Parium Single
+		[0xD3A] Megath Head
+		[0xD42] Megath Body
+		[0xD4A] Megath Arms
+		[0xD52] Megath Legs
+		[0xD5A] Parium Single
+		[0xD62] Megath Head
+		[0xD6A] Megath Body
+		[0xD72] Megath Arms
+		[0xD7A] Megath Legs
+		[0xD82] Parium Single
+		[0xD8A] Other1
+		[0xD92] Other1
+		[0xD9A] Other1
+		[0xDA2] Other1
+		[0xDAA] Other2
+		[0xDB2] Other2
+		[0xDBA] Other2
+		[0xDC2] Other2
+		[0xDCA] Silver Body
+		[0xDD2] Gold Head
+	Table 02:
+		[0xE1A] Megath Head
+		[0xE22] Megath Head
+		[0xE2A] Megath Body
+		[0xE32] Megath Body
+		[0xE3A] Megath Arms
+		[0xE42] Megath Arms
+		[0xE4A] Megath Legs
+		[0xE52] Parium Single
+		[0xE5A] Parium Single
+		[0xE62] Megath Head
+		[0xE6A] Megath Body
+		[0xE72] Megath Arms
+		[0xE7A] Megath Legs
+		[0xE82] Parium Single
+		[0xE8A] Megath Head
+		[0xE92] Megath Body
+		[0xE9A] Megath Arms
+		[0xEA2] Megath Legs
+		[0xEAA] Parium Single
+		[0xEB2] Other1
+		[0xEBA] Other1
+		[0xEC2] Other1
+		[0xECA] Other1
+		[0xED2] Other2
+		[0xEDA] Other2
+		[0xEE2] Other2
+		[0xEEA] Other2
+		[0xEF2] Silver Body
+		[0xEFA] Gold Head
+	Table 03:
+		[0xF42] Tarbo Head
+		[0xF4A] Megath Head
+		[0xF52] Megath Body
+		[0xF5A] Megath Arms
+		[0xF62] Megath Legs
+		[0xF6A] Parium Single
+		[0xF72] Megath Head
+		[0xF7A] Megath Body
+		[0xF82] Megath Arms
+		[0xF8A] Megath Legs
+		[0xF92] Parium Single
+		[0xF9A] Megath Head
+		[0xFA2] Megath Body
+		[0xFAA] Megath Arms
+		[0xFB2] Megath Legs
+		[0xFBA] Parium Single
+		[0xFC2] Other1
+		[0xFCA] Other1
+		[0xFD2] Other1
+		[0xFDA] Other1
+		[0xFE2] Other2
+		[0xFEA] Other2
+		[0xFF2] Other2
+		[0xFFA] Other2
+		[0x1002] Silver Body
+		[0x100A] Gold Head
+Zone 04:
+	Table 01:
+		[0x107A] Cryo Head
+	Table 02:
+		[0x10C2] Cryo Body
+	Table 03:
+		[0x110A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x117A] Sucho Head
+	Table 02:
+		[0x11C2] Sucho Body
+	Table 03:
+		[0x120A] Sucho Arms
+
+3201:
+Zone 01:
+	Table 01:
+		[0x1E2] Other1
+		[0x1EA] Other1
+		[0x1F2] Other1
+		[0x1FA] Other1
+		[0x202] Other2
+		[0x20A] Other2
+		[0x212] Other2
+		[0x21A] Silver Arms
+		[0x222] Gold Head
+	Table 02:
+		[0x26A] Other1
+		[0x272] Other1
+		[0x27A] Other1
+		[0x282] Other1
+		[0x28A] Other2
+		[0x292] Other2
+		[0x29A] Other2
+		[0x2A2] Silver Arms
+		[0x2AA] Gold Head
+	Table 03:
+		[0x2F2] Other1
+		[0x2FA] Other1
+		[0x302] Other1
+		[0x30A] Other1
+		[0x312] Other2
+		[0x31A] Other2
+		[0x322] Other2
+		[0x32A] Silver Arms
+		[0x332] Gold Head
+Zone 02:
+	Table 01:
+		[0x3A2] Siamo Head
+	Table 02:
+		[0x3EA] Siamo Body
+	Table 03:
+		[0x432] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x4A2] Nychus Head
+	Table 02:
+		[0x4EA] Nychus Body
+	Table 03:
+		[0x532] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x5A2] Cryo Head
+	Table 02:
+		[0x5EA] Cryo Body
+	Table 03:
+		[0x632] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x6A2] Sucho Head
+	Table 02:
+		[0x6EA] Sucho Body
+	Table 03:
+		[0x732] Sucho Arms
+
+3202:
+Zone 01:
+	Table 01:
+		[0x1E2] Aopteryx Head
+		[0x1EA] Aopteryx Body
+		[0x1F2] Aopteryx Arms
+		[0x1FA] Aopteryx Legs
+		[0x202] Coatlus Head
+		[0x20A] Coatlus Body
+		[0x212] Coatlus Arms
+		[0x21A] Coatlus Legs
+		[0x222] Jara Head
+		[0x22A] Jara Body
+		[0x232] Jara Arms
+		[0x23A] Jara Legs
+		[0x242] Sungari Head
+		[0x24A] Sungari Body
+		[0x252] Sungari Arms
+		[0x25A] Sungari Legs
+		[0x262] Thalasso Head
+		[0x26A] Thalasso Body
+		[0x272] Thalasso Arms
+		[0x27A] Thalasso Legs
+		[0x282] Nycto Head
+		[0x28A] Nycto Body
+		[0x292] Nycto Arms
+		[0x29A] Nycto Legs
+		[0x2A2] Hopter Head
+		[0x2AA] Hopter Body
+		[0x2B2] Hopter Arms
+		[0x2BA] Hopter Legs
+		[0x2C2] Aopteryx Head
+		[0x2CA] Aopteryx Body
+		[0x2D2] Aopteryx Arms
+		[0x2DA] Aopteryx Legs
+		[0x2E2] Coatlus Head
+		[0x2EA] Coatlus Body
+		[0x2F2] Coatlus Arms
+		[0x2FA] Coatlus Legs
+		[0x302] Jara Head
+		[0x30A] Jara Body
+		[0x312] Jara Arms
+		[0x31A] Jara Legs
+		[0x322] Sungari Head
+		[0x32A] Sungari Body
+		[0x332] Sungari Arms
+		[0x33A] Sungari Legs
+		[0x342] Thalasso Head
+		[0x34A] Thalasso Body
+		[0x352] Thalasso Arms
+		[0x35A] Thalasso Legs
+		[0x362] Nycto Head
+		[0x36A] Nycto Body
+		[0x372] Nycto Arms
+		[0x37A] Nycto Legs
+		[0x382] Hopter Head
+		[0x38A] Hopter Body
+		[0x392] Hopter Arms
+		[0x39A] Hopter Legs
+		[0x3A2] Aopteryx Head
+		[0x3AA] Aopteryx Body
+		[0x3B2] Aopteryx Arms
+		[0x3BA] Aopteryx Legs
+		[0x3C2] Coatlus Head
+		[0x3CA] Coatlus Body
+		[0x3D2] Coatlus Arms
+		[0x3DA] Coatlus Legs
+		[0x3E2] Jara Head
+		[0x3EA] Jara Body
+		[0x3F2] Jara Arms
+		[0x3FA] Jara Legs
+		[0x402] Sungari Head
+		[0x40A] Sungari Body
+		[0x412] Sungari Arms
+		[0x41A] Sungari Legs
+		[0x422] Thalasso Head
+		[0x42A] Thalasso Body
+		[0x432] Thalasso Arms
+		[0x43A] Thalasso Legs
+		[0x442] Nycto Head
+		[0x44A] Nycto Body
+		[0x452] Nycto Arms
+		[0x45A] Nycto Legs
+		[0x462] Hopter Head
+		[0x46A] Hopter Body
+		[0x472] Hopter Arms
+		[0x47A] Hopter Legs
+		[0x482] Other1
+		[0x48A] Other1
+		[0x492] Other1
+		[0x49A] Other1
+		[0x4A2] Other2
+		[0x4AA] Other2
+		[0x4B2] Other2
+		[0x4BA] Silver Legs
+		[0x4C2] Gold Head
+	Table 02:
+		[0x50A] Aopteryx Head
+		[0x512] Aopteryx Body
+		[0x51A] Aopteryx Arms
+		[0x522] Aopteryx Legs
+		[0x52A] Coatlus Head
+		[0x532] Coatlus Body
+		[0x53A] Coatlus Arms
+		[0x542] Coatlus Legs
+		[0x54A] Jara Head
+		[0x552] Jara Body
+		[0x55A] Jara Arms
+		[0x562] Jara Legs
+		[0x56A] Sungari Head
+		[0x572] Sungari Body
+		[0x57A] Sungari Arms
+		[0x582] Sungari Legs
+		[0x58A] Thalasso Head
+		[0x592] Thalasso Body
+		[0x59A] Thalasso Arms
+		[0x5A2] Thalasso Legs
+		[0x5AA] Nycto Head
+		[0x5B2] Nycto Body
+		[0x5BA] Nycto Arms
+		[0x5C2] Nycto Legs
+		[0x5CA] Hopter Head
+		[0x5D2] Hopter Body
+		[0x5DA] Hopter Arms
+		[0x5E2] Hopter Legs
+		[0x5EA] Aopteryx Head
+		[0x5F2] Aopteryx Body
+		[0x5FA] Aopteryx Arms
+		[0x602] Aopteryx Legs
+		[0x60A] Coatlus Head
+		[0x612] Coatlus Body
+		[0x61A] Coatlus Arms
+		[0x622] Coatlus Legs
+		[0x62A] Jara Head
+		[0x632] Jara Body
+		[0x63A] Jara Arms
+		[0x642] Jara Legs
+		[0x64A] Sungari Head
+		[0x652] Sungari Body
+		[0x65A] Sungari Arms
+		[0x662] Sungari Legs
+		[0x66A] Thalasso Head
+		[0x672] Thalasso Body
+		[0x67A] Thalasso Arms
+		[0x682] Thalasso Legs
+		[0x68A] Nycto Head
+		[0x692] Nycto Body
+		[0x69A] Nycto Arms
+		[0x6A2] Nycto Legs
+		[0x6AA] Hopter Head
+		[0x6B2] Hopter Body
+		[0x6BA] Hopter Arms
+		[0x6C2] Hopter Legs
+		[0x6CA] Aopteryx Head
+		[0x6D2] Aopteryx Body
+		[0x6DA] Aopteryx Arms
+		[0x6E2] Aopteryx Legs
+		[0x6EA] Coatlus Head
+		[0x6F2] Coatlus Body
+		[0x6FA] Coatlus Arms
+		[0x702] Coatlus Legs
+		[0x70A] Jara Head
+		[0x712] Jara Body
+		[0x71A] Jara Arms
+		[0x722] Jara Legs
+		[0x72A] Sungari Head
+		[0x732] Sungari Body
+		[0x73A] Sungari Arms
+		[0x742] Sungari Legs
+		[0x74A] Thalasso Head
+		[0x752] Thalasso Body
+		[0x75A] Thalasso Arms
+		[0x762] Thalasso Legs
+		[0x76A] Nycto Head
+		[0x772] Nycto Body
+		[0x77A] Nycto Arms
+		[0x782] Nycto Legs
+		[0x78A] Hopter Head
+		[0x792] Hopter Body
+		[0x79A] Hopter Arms
+		[0x7A2] Hopter Legs
+		[0x7AA] Other1
+		[0x7B2] Other1
+		[0x7BA] Other1
+		[0x7C2] Other1
+		[0x7CA] Other2
+		[0x7D2] Other2
+		[0x7DA] Other2
+		[0x7E2] Silver Legs
+		[0x7EA] Gold Head
+	Table 03:
+		[0x832] Shanshan Head
+		[0x83A] Aopteryx Head
+		[0x842] Aopteryx Body
+		[0x84A] Aopteryx Arms
+		[0x852] Aopteryx Legs
+		[0x85A] Coatlus Head
+		[0x862] Coatlus Body
+		[0x86A] Coatlus Arms
+		[0x872] Coatlus Legs
+		[0x87A] Jara Head
+		[0x882] Jara Body
+		[0x88A] Jara Arms
+		[0x892] Jara Legs
+		[0x89A] Sungari Head
+		[0x8A2] Sungari Body
+		[0x8AA] Sungari Arms
+		[0x8B2] Sungari Legs
+		[0x8BA] Thalasso Head
+		[0x8C2] Thalasso Body
+		[0x8CA] Thalasso Arms
+		[0x8D2] Thalasso Legs
+		[0x8DA] Nycto Head
+		[0x8E2] Nycto Body
+		[0x8EA] Nycto Arms
+		[0x8F2] Nycto Legs
+		[0x8FA] Hopter Head
+		[0x902] Hopter Body
+		[0x90A] Hopter Arms
+		[0x912] Hopter Legs
+		[0x91A] Aopteryx Head
+		[0x922] Aopteryx Body
+		[0x92A] Aopteryx Arms
+		[0x932] Aopteryx Legs
+		[0x93A] Coatlus Head
+		[0x942] Coatlus Body
+		[0x94A] Coatlus Arms
+		[0x952] Coatlus Legs
+		[0x95A] Jara Head
+		[0x962] Jara Body
+		[0x96A] Jara Arms
+		[0x972] Jara Legs
+		[0x97A] Sungari Head
+		[0x982] Sungari Body
+		[0x98A] Sungari Arms
+		[0x992] Sungari Legs
+		[0x99A] Thalasso Head
+		[0x9A2] Thalasso Body
+		[0x9AA] Thalasso Arms
+		[0x9B2] Thalasso Legs
+		[0x9BA] Nycto Head
+		[0x9C2] Nycto Body
+		[0x9CA] Nycto Arms
+		[0x9D2] Nycto Legs
+		[0x9DA] Hopter Head
+		[0x9E2] Hopter Body
+		[0x9EA] Hopter Arms
+		[0x9F2] Hopter Legs
+		[0x9FA] Aopteryx Head
+		[0xA02] Aopteryx Body
+		[0xA0A] Aopteryx Arms
+		[0xA12] Aopteryx Legs
+		[0xA1A] Coatlus Head
+		[0xA22] Coatlus Body
+		[0xA2A] Coatlus Arms
+		[0xA32] Coatlus Legs
+		[0xA3A] Jara Head
+		[0xA42] Jara Body
+		[0xA4A] Jara Arms
+		[0xA52] Jara Legs
+		[0xA5A] Sungari Head
+		[0xA62] Sungari Body
+		[0xA6A] Sungari Arms
+		[0xA72] Sungari Legs
+		[0xA7A] Thalasso Head
+		[0xA82] Thalasso Body
+		[0xA8A] Thalasso Arms
+		[0xA92] Thalasso Legs
+		[0xA9A] Nycto Head
+		[0xAA2] Nycto Body
+		[0xAAA] Nycto Arms
+		[0xAB2] Nycto Legs
+		[0xABA] Hopter Head
+		[0xAC2] Hopter Body
+		[0xACA] Hopter Arms
+		[0xAD2] Hopter Legs
+		[0xADA] Other1
+		[0xAE2] Other1
+		[0xAEA] Other1
+		[0xAF2] Other1
+		[0xAFA] Other2
+		[0xB02] Other2
+		[0xB0A] Other2
+		[0xB12] Silver Legs
+		[0xB1A] Gold Head
+Zone 02:
+	Table 01:
+		[0xB8A] Siamo Head
+	Table 02:
+		[0xBD2] Siamo Body
+	Table 03:
+		[0xC1A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0xC8A] Nychus Head
+	Table 02:
+		[0xCD2] Nychus Body
+	Table 03:
+		[0xD1A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xD8A] Cryo Head
+	Table 02:
+		[0xDD2] Cryo Body
+	Table 03:
+		[0xE1A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xE8A] Sucho Head
+	Table 02:
+		[0xED2] Sucho Body
+	Table 03:
+		[0xF1A] Sucho Arms
+
+3400:
+Zone 01:
+	Table 01:
+		[0x1E2] Breme Head
+		[0x1EA] Breme Body
+		[0x1F2] Breme Arms
+		[0x1FA] Breme Legs
+		[0x202] Breme Head
+		[0x20A] Breme Body
+		[0x212] Breme Arms
+		[0x21A] Breme Legs
+		[0x222] Breme Head
+		[0x22A] Breme Body
+		[0x232] Breme Arms
+		[0x23A] Breme Legs
+		[0x242] Other1
+		[0x24A] Other1
+		[0x252] Other1
+		[0x25A] Other2
+		[0x262] Silver Head
+		[0x26A] Gold Head
+	Table 02:
+		[0x2B2] Breme Head
+		[0x2BA] Breme Body
+		[0x2C2] Breme Arms
+		[0x2CA] Breme Legs
+		[0x2D2] Breme Head
+		[0x2DA] Breme Body
+		[0x2E2] Breme Arms
+		[0x2EA] Breme Legs
+		[0x2F2] Breme Head
+		[0x2FA] Breme Body
+		[0x302] Breme Arms
+		[0x30A] Breme Legs
+		[0x312] Other1
+		[0x31A] Other1
+		[0x322] Other1
+		[0x32A] Other2
+		[0x332] Silver Head
+		[0x33A] Gold Head
+	Table 03:
+		[0x382] Breme Head
+		[0x38A] Breme Body
+		[0x392] Breme Arms
+		[0x39A] Breme Legs
+		[0x3A2] Breme Head
+		[0x3AA] Breme Body
+		[0x3B2] Breme Arms
+		[0x3BA] Breme Legs
+		[0x3C2] Breme Head
+		[0x3CA] Breme Body
+		[0x3D2] Breme Arms
+		[0x3DA] Breme Legs
+		[0x3E2] Other1
+		[0x3EA] Other1
+		[0x3F2] Other1
+		[0x3FA] Other2
+		[0x402] Silver Head
+		[0x40A] Gold Head
+Zone 02:
+	Table 01:
+		[0x47A] Siamo Head
+	Table 02:
+		[0x4C2] Siamo Body
+	Table 03:
+		[0x50A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x57A] Nychus Head
+	Table 02:
+		[0x5C2] Nychus Body
+	Table 03:
+		[0x60A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x67A] Cryo Head
+	Table 02:
+		[0x6C2] Cryo Body
+	Table 03:
+		[0x70A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x77A] Sucho Head
+	Table 02:
+		[0x7C2] Sucho Body
+	Table 03:
+		[0x80A] Sucho Arms
+
+3401:
+Zone 01:
+	Table 01:
+		[0x1CE] Breme Head
+		[0x1D6] Breme Body
+		[0x1DE] Breme Arms
+		[0x1E6] Breme Legs
+		[0x1EE] Epidex Head
+		[0x1F6] Epidex Body
+		[0x1FE] Epidex Arms
+		[0x206] Epidex Legs
+		[0x20E] Breme Head
+		[0x216] Breme Body
+		[0x21E] Breme Arms
+		[0x226] Breme Legs
+		[0x22E] Epidex Head
+		[0x236] Epidex Body
+		[0x23E] Epidex Arms
+		[0x246] Epidex Legs
+		[0x24E] Breme Head
+		[0x256] Breme Body
+		[0x25E] Breme Arms
+		[0x266] Breme Legs
+		[0x26E] Epidex Head
+		[0x276] Epidex Body
+		[0x27E] Epidex Arms
+		[0x286] Epidex Legs
+		[0x28E] Other1
+		[0x296] Other1
+		[0x29E] Other1
+		[0x2A6] Other2
+		[0x2AE] Silver Head
+		[0x2B6] Gold Head
+	Table 02:
+		[0x2FE] Breme Head
+		[0x306] Breme Body
+		[0x30E] Breme Arms
+		[0x316] Breme Legs
+		[0x31E] Epidex Head
+		[0x326] Epidex Body
+		[0x32E] Epidex Arms
+		[0x336] Epidex Legs
+		[0x33E] Breme Head
+		[0x346] Breme Body
+		[0x34E] Breme Arms
+		[0x356] Breme Legs
+		[0x35E] Epidex Head
+		[0x366] Epidex Body
+		[0x36E] Epidex Arms
+		[0x376] Epidex Legs
+		[0x37E] Breme Head
+		[0x386] Breme Body
+		[0x38E] Breme Arms
+		[0x396] Breme Legs
+		[0x39E] Epidex Head
+		[0x3A6] Epidex Body
+		[0x3AE] Epidex Arms
+		[0x3B6] Epidex Legs
+		[0x3BE] Other1
+		[0x3C6] Other1
+		[0x3CE] Other1
+		[0x3D6] Other2
+		[0x3DE] Silver Head
+		[0x3E6] Gold Head
+	Table 03:
+		[0x42E] Breme Head
+		[0x436] Breme Body
+		[0x43E] Breme Arms
+		[0x446] Breme Legs
+		[0x44E] Epidex Head
+		[0x456] Epidex Body
+		[0x45E] Epidex Arms
+		[0x466] Epidex Legs
+		[0x46E] Breme Head
+		[0x476] Breme Body
+		[0x47E] Breme Arms
+		[0x486] Breme Legs
+		[0x48E] Epidex Head
+		[0x496] Epidex Body
+		[0x49E] Epidex Arms
+		[0x4A6] Epidex Legs
+		[0x4AE] Breme Head
+		[0x4B6] Breme Body
+		[0x4BE] Breme Arms
+		[0x4C6] Breme Legs
+		[0x4CE] Epidex Head
+		[0x4D6] Epidex Body
+		[0x4DE] Epidex Arms
+		[0x4E6] Epidex Legs
+		[0x4EE] Other1
+		[0x4F6] Other1
+		[0x4FE] Other1
+		[0x506] Other2
+		[0x50E] Silver Head
+		[0x516] Gold Head
+Zone 02:
+	Table 01:
+		[0x586] Siamo Head
+	Table 02:
+		[0x5CE] Siamo Body
+	Table 03:
+		[0x616] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x686] Nychus Head
+	Table 02:
+		[0x6CE] Nychus Body
+	Table 03:
+		[0x716] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x786] Cryo Head
+	Table 02:
+		[0x7CE] Cryo Body
+	Table 03:
+		[0x816] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x886] Sucho Head
+	Table 02:
+		[0x8CE] Sucho Body
+	Table 03:
+		[0x916] Sucho Arms
+
+4000:
+Zone 01:
+	Table 01:
+		[0x1EE] Tryma Head
+		[0x1F6] Tryma Body
+		[0x1FE] Tryma Arms
+		[0x206] Tryma Legs
+		[0x20E] Sungari Head
+		[0x216] Sungari Body
+		[0x21E] Sungari Arms
+		[0x226] Sungari Legs
+		[0x22E] Tryma Head
+		[0x236] Tryma Body
+		[0x23E] Tryma Arms
+		[0x246] Tryma Legs
+		[0x24E] Sungari Head
+		[0x256] Sungari Body
+		[0x25E] Sungari Arms
+		[0x266] Sungari Legs
+		[0x26E] Tryma Head
+		[0x276] Tryma Body
+		[0x27E] Tryma Arms
+		[0x286] Tryma Legs
+		[0x28E] Sungari Head
+		[0x296] Sungari Body
+		[0x29E] Sungari Arms
+		[0x2A6] Sungari Legs
+		[0x2AE] Other1
+		[0x2B6] Other1
+		[0x2BE] Other1
+		[0x2C6] Other2
+		[0x2CE] Silver Arms
+		[0x2D6] Gold Head
+	Table 02:
+		[0x31E] Tryma Head
+		[0x326] Tryma Body
+		[0x32E] Tryma Arms
+		[0x336] Tryma Legs
+		[0x33E] Sungari Head
+		[0x346] Sungari Body
+		[0x34E] Sungari Arms
+		[0x356] Sungari Legs
+		[0x35E] Tryma Head
+		[0x366] Tryma Body
+		[0x36E] Tryma Arms
+		[0x376] Tryma Legs
+		[0x37E] Sungari Head
+		[0x386] Sungari Body
+		[0x38E] Sungari Arms
+		[0x396] Sungari Legs
+		[0x39E] Tryma Head
+		[0x3A6] Tryma Body
+		[0x3AE] Tryma Arms
+		[0x3B6] Tryma Legs
+		[0x3BE] Sungari Head
+		[0x3C6] Sungari Body
+		[0x3CE] Sungari Arms
+		[0x3D6] Sungari Legs
+		[0x3DE] Other1
+		[0x3E6] Other1
+		[0x3EE] Other1
+		[0x3F6] Other2
+		[0x3FE] Silver Arms
+		[0x406] Gold Head
+	Table 03:
+		[0x44E] Tryma Head
+		[0x456] Tryma Body
+		[0x45E] Tryma Arms
+		[0x466] Tryma Legs
+		[0x46E] Sungari Head
+		[0x476] Sungari Body
+		[0x47E] Sungari Arms
+		[0x486] Sungari Legs
+		[0x48E] Tryma Head
+		[0x496] Tryma Body
+		[0x49E] Tryma Arms
+		[0x4A6] Tryma Legs
+		[0x4AE] Sungari Head
+		[0x4B6] Sungari Body
+		[0x4BE] Sungari Arms
+		[0x4C6] Sungari Legs
+		[0x4CE] Tryma Head
+		[0x4D6] Tryma Body
+		[0x4DE] Tryma Arms
+		[0x4E6] Tryma Legs
+		[0x4EE] Sungari Head
+		[0x4F6] Sungari Body
+		[0x4FE] Sungari Arms
+		[0x506] Sungari Legs
+		[0x50E] Other1
+		[0x516] Other1
+		[0x51E] Other2
+		[0x526] Silver Arms
+		[0x52E] Gold Head
+Zone 02:
+	Table 01:
+		[0x59E] Sungari Head
+		[0x5A6] Sungari Head
+		[0x5AE] Sungari Body
+		[0x5B6] Sungari Body
+		[0x5BE] Sungari Arms
+		[0x5C6] Sungari Legs
+		[0x5CE] Brachio Head
+		[0x5D6] Brachio Head
+		[0x5DE] Brachio Body
+		[0x5E6] Brachio Body
+		[0x5EE] Brachio Arms
+		[0x5F6] Brachio Legs
+		[0x5FE] Anato Head
+		[0x606] Anato Head
+		[0x60E] Anato Body
+		[0x616] Anato Body
+		[0x61E] Anato Arms
+		[0x626] Anato Legs
+		[0x62E] Sungari Head
+		[0x636] Sungari Body
+		[0x63E] Sungari Arms
+		[0x646] Sungari Legs
+		[0x64E] Brachio Head
+		[0x656] Brachio Body
+		[0x65E] Brachio Arms
+		[0x666] Brachio Legs
+		[0x66E] Anato Head
+		[0x676] Anato Body
+		[0x67E] Anato Arms
+		[0x686] Anato Legs
+		[0x68E] Sungari Head
+		[0x696] Sungari Body
+		[0x69E] Sungari Arms
+		[0x6A6] Sungari Legs
+		[0x6AE] Brachio Head
+		[0x6B6] Brachio Body
+		[0x6BE] Brachio Arms
+		[0x6C6] Brachio Legs
+		[0x6CE] Anato Head
+		[0x6D6] Anato Body
+		[0x6DE] Anato Arms
+		[0x6E6] Anato Legs
+		[0x6EE] Other1
+		[0x6F6] Other1
+		[0x6FE] Other1
+		[0x706] Other2
+		[0x70E] Silver Arms
+		[0x716] Gold Head
+	Table 02:
+		[0x75E] Sungari Head
+		[0x766] Sungari Head
+		[0x76E] Sungari Body
+		[0x776] Sungari Body
+		[0x77E] Sungari Arms
+		[0x786] Sungari Arms
+		[0x78E] Sungari Legs
+		[0x796] Brachio Head
+		[0x79E] Brachio Head
+		[0x7A6] Brachio Body
+		[0x7AE] Brachio Body
+		[0x7B6] Brachio Arms
+		[0x7BE] Brachio Arms
+		[0x7C6] Brachio Legs
+		[0x7CE] Anato Head
+		[0x7D6] Anato Head
+		[0x7DE] Anato Body
+		[0x7E6] Anato Body
+		[0x7EE] Anato Arms
+		[0x7F6] Anato Arms
+		[0x7FE] Anato Legs
+		[0x806] Sungari Head
+		[0x80E] Sungari Body
+		[0x816] Sungari Arms
+		[0x81E] Sungari Legs
+		[0x826] Brachio Head
+		[0x82E] Brachio Body
+		[0x836] Brachio Arms
+		[0x83E] Brachio Legs
+		[0x846] Anato Head
+		[0x84E] Anato Body
+		[0x856] Anato Arms
+		[0x85E] Anato Legs
+		[0x866] Sungari Head
+		[0x86E] Sungari Body
+		[0x876] Sungari Arms
+		[0x87E] Sungari Legs
+		[0x886] Brachio Head
+		[0x88E] Brachio Body
+		[0x896] Brachio Arms
+		[0x89E] Brachio Legs
+		[0x8A6] Anato Head
+		[0x8AE] Anato Body
+		[0x8B6] Anato Arms
+		[0x8BE] Anato Legs
+		[0x8C6] Other1
+		[0x8CE] Other1
+		[0x8D6] Other1
+		[0x8DE] Other2
+		[0x8E6] Silver Arms
+		[0x8EE] Gold Head
+	Table 03:
+		[0x936] Siamo Head
+		[0x93E] Sungari Head
+		[0x946] Sungari Body
+		[0x94E] Sungari Arms
+		[0x956] Sungari Legs
+		[0x95E] Brachio Head
+		[0x966] Brachio Body
+		[0x96E] Brachio Arms
+		[0x976] Brachio Legs
+		[0x97E] Anato Head
+		[0x986] Anato Body
+		[0x98E] Anato Arms
+		[0x996] Anato Legs
+		[0x99E] Sungari Head
+		[0x9A6] Sungari Body
+		[0x9AE] Sungari Arms
+		[0x9B6] Sungari Legs
+		[0x9BE] Brachio Head
+		[0x9C6] Brachio Body
+		[0x9CE] Brachio Arms
+		[0x9D6] Brachio Legs
+		[0x9DE] Anato Head
+		[0x9E6] Anato Body
+		[0x9EE] Anato Arms
+		[0x9F6] Anato Legs
+		[0x9FE] Sungari Head
+		[0xA06] Sungari Body
+		[0xA0E] Sungari Arms
+		[0xA16] Sungari Legs
+		[0xA1E] Brachio Head
+		[0xA26] Brachio Body
+		[0xA2E] Brachio Arms
+		[0xA36] Brachio Legs
+		[0xA3E] Anato Head
+		[0xA46] Anato Body
+		[0xA4E] Anato Arms
+		[0xA56] Anato Legs
+		[0xA5E] Other1
+		[0xA66] Other1
+		[0xA6E] Other2
+		[0xA76] Silver Arms
+		[0xA7E] Gold Head
+Zone 03:
+	Table 01:
+		[0xAEE] Nychus Head
+	Table 02:
+		[0xB36] Nychus Body
+	Table 03:
+		[0xB7E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xBEE] Cryo Head
+	Table 02:
+		[0xC36] Cryo Body
+	Table 03:
+		[0xC7E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xCEE] Sucho Head
+	Table 02:
+		[0xD36] Sucho Body
+	Table 03:
+		[0xD7E] Sucho Arms
+
+4001:
+Zone 01:
+	Table 01:
+		[0x1E2] Machai Head
+		[0x1EA] Machai Head
+		[0x1F2] Machai Body
+		[0x1FA] Machai Body
+		[0x202] Machai Arms
+		[0x20A] Machai Legs
+		[0x212] Desmo Single
+		[0x21A] Desmo Single
+		[0x222] Machai Head
+		[0x22A] Machai Body
+		[0x232] Machai Arms
+		[0x23A] Machai Legs
+		[0x242] Desmo Single
+		[0x24A] Machai Head
+		[0x252] Machai Body
+		[0x25A] Machai Arms
+		[0x262] Machai Legs
+		[0x26A] Desmo Single
+		[0x272] Other1
+		[0x27A] Other1
+		[0x282] Other1
+		[0x28A] Other2
+		[0x292] Other2
+		[0x29A] Silver Arms
+		[0x2A2] Gold Head
+	Table 02:
+		[0x2EA] Machai Head
+		[0x2F2] Machai Head
+		[0x2FA] Machai Body
+		[0x302] Machai Body
+		[0x30A] Machai Arms
+		[0x312] Machai Arms
+		[0x31A] Machai Legs
+		[0x322] Desmo Single
+		[0x32A] Desmo Single
+		[0x332] Machai Head
+		[0x33A] Machai Body
+		[0x342] Machai Arms
+		[0x34A] Machai Legs
+		[0x352] Desmo Single
+		[0x35A] Machai Head
+		[0x362] Machai Body
+		[0x36A] Machai Arms
+		[0x372] Machai Legs
+		[0x37A] Desmo Single
+		[0x382] Other1
+		[0x38A] Other1
+		[0x392] Other1
+		[0x39A] Other2
+		[0x3A2] Other2
+		[0x3AA] Silver Arms
+		[0x3B2] Gold Head
+	Table 03:
+		[0x3FA] Machai Head
+		[0x402] Machai Body
+		[0x40A] Machai Arms
+		[0x412] Machai Legs
+		[0x41A] Desmo Single
+		[0x422] Machai Head
+		[0x42A] Machai Body
+		[0x432] Machai Arms
+		[0x43A] Machai Legs
+		[0x442] Desmo Single
+		[0x44A] Machai Head
+		[0x452] Machai Body
+		[0x45A] Machai Arms
+		[0x462] Machai Legs
+		[0x46A] Desmo Single
+		[0x472] Other1
+		[0x47A] Other1
+		[0x482] Other2
+		[0x48A] Other2
+		[0x492] Silver Arms
+		[0x49A] Gold Head
+Zone 02:
+	Table 01:
+		[0x50A] Compso Head
+		[0x512] Compso Head
+		[0x51A] Compso Body
+		[0x522] Compso Body
+		[0x52A] Compso Arms
+		[0x532] Compso Legs
+		[0x53A] Desmo Single
+		[0x542] Desmo Single
+		[0x54A] Compso Head
+		[0x552] Compso Body
+		[0x55A] Compso Arms
+		[0x562] Compso Legs
+		[0x56A] Desmo Single
+		[0x572] Compso Head
+		[0x57A] Compso Body
+		[0x582] Compso Arms
+		[0x58A] Compso Legs
+		[0x592] Desmo Single
+		[0x59A] Other1
+		[0x5A2] Other1
+		[0x5AA] Other1
+		[0x5B2] Other2
+		[0x5BA] Other2
+		[0x5C2] Silver Arms
+		[0x5CA] Gold Head
+	Table 02:
+		[0x612] Compso Head
+		[0x61A] Compso Head
+		[0x622] Compso Body
+		[0x62A] Compso Body
+		[0x632] Compso Arms
+		[0x63A] Compso Arms
+		[0x642] Compso Legs
+		[0x64A] Desmo Single
+		[0x652] Desmo Single
+		[0x65A] Compso Head
+		[0x662] Compso Body
+		[0x66A] Compso Arms
+		[0x672] Compso Legs
+		[0x67A] Desmo Single
+		[0x682] Compso Head
+		[0x68A] Compso Body
+		[0x692] Compso Arms
+		[0x69A] Compso Legs
+		[0x6A2] Desmo Single
+		[0x6AA] Other1
+		[0x6B2] Other1
+		[0x6BA] Other1
+		[0x6C2] Other2
+		[0x6CA] Other2
+		[0x6D2] Silver Arms
+		[0x6DA] Gold Head
+	Table 03:
+		[0x722] Compso Head
+		[0x72A] Compso Body
+		[0x732] Compso Arms
+		[0x73A] Compso Legs
+		[0x742] Desmo Single
+		[0x74A] Compso Head
+		[0x752] Compso Body
+		[0x75A] Compso Arms
+		[0x762] Compso Legs
+		[0x76A] Desmo Single
+		[0x772] Compso Head
+		[0x77A] Compso Body
+		[0x782] Compso Arms
+		[0x78A] Compso Legs
+		[0x792] Desmo Single
+		[0x79A] Other1
+		[0x7A2] Other1
+		[0x7AA] Other2
+		[0x7B2] Other2
+		[0x7BA] Silver Arms
+		[0x7C2] Gold Head
+Zone 03:
+	Table 01:
+		[0x832] Yango Head
+		[0x83A] Yango Head
+		[0x842] Yango Body
+		[0x84A] Yango Body
+		[0x852] Yango Arms
+		[0x85A] Yango Legs
+		[0x862] Berto Head
+		[0x86A] Berto Head
+		[0x872] Berto Body
+		[0x87A] Berto Body
+		[0x882] Berto Arms
+		[0x88A] Berto Legs
+		[0x892] Yango Head
+		[0x89A] Yango Body
+		[0x8A2] Yango Arms
+		[0x8AA] Yango Legs
+		[0x8B2] Berto Head
+		[0x8BA] Berto Body
+		[0x8C2] Berto Arms
+		[0x8CA] Berto Legs
+		[0x8D2] Yango Head
+		[0x8DA] Yango Body
+		[0x8E2] Yango Arms
+		[0x8EA] Yango Legs
+		[0x8F2] Berto Head
+		[0x8FA] Berto Body
+		[0x902] Berto Arms
+		[0x90A] Berto Legs
+		[0x912] Other1
+		[0x91A] Other1
+		[0x922] Other1
+		[0x92A] Other2
+		[0x932] Other2
+		[0x93A] Silver Arms
+		[0x942] Gold Head
+	Table 02:
+		[0x98A] Yango Head
+		[0x992] Yango Head
+		[0x99A] Yango Body
+		[0x9A2] Yango Body
+		[0x9AA] Yango Arms
+		[0x9B2] Yango Arms
+		[0x9BA] Yango Legs
+		[0x9C2] Berto Head
+		[0x9CA] Berto Head
+		[0x9D2] Berto Body
+		[0x9DA] Berto Body
+		[0x9E2] Berto Arms
+		[0x9EA] Berto Arms
+		[0x9F2] Berto Legs
+		[0x9FA] Yango Head
+		[0xA02] Yango Body
+		[0xA0A] Yango Arms
+		[0xA12] Yango Legs
+		[0xA1A] Berto Head
+		[0xA22] Berto Body
+		[0xA2A] Berto Arms
+		[0xA32] Berto Legs
+		[0xA3A] T-Rex Head
+		[0xA42] T-Rex Body
+		[0xA4A] T-Rex Arms
+		[0xA52] T-Rex Legs
+		[0xA5A] Yango Head
+		[0xA62] Yango Body
+		[0xA6A] Yango Arms
+		[0xA72] Yango Legs
+		[0xA7A] Other1
+		[0xA82] Other1
+		[0xA8A] Other1
+		[0xA92] Other2
+		[0xA9A] Other2
+		[0xAA2] Silver Arms
+		[0xAAA] Gold Head
+	Table 03:
+		[0xAF2] Yango Head
+		[0xAFA] Yango Body
+		[0xB02] Yango Arms
+		[0xB0A] Yango Legs
+		[0xB12] Berto Head
+		[0xB1A] Berto Body
+		[0xB22] Berto Arms
+		[0xB2A] Berto Legs
+		[0xB32] Yango Head
+		[0xB3A] Yango Body
+		[0xB42] Yango Arms
+		[0xB4A] Yango Legs
+		[0xB52] Berto Head
+		[0xB5A] Berto Body
+		[0xB62] Berto Arms
+		[0xB6A] Berto Legs
+		[0xB72] Yango Head
+		[0xB7A] Yango Body
+		[0xB82] Yango Arms
+		[0xB8A] Yango Legs
+		[0xB92] Berto Head
+		[0xB9A] Berto Body
+		[0xBA2] Berto Arms
+		[0xBAA] Berto Legs
+		[0xBB2] Other1
+		[0xBBA] Other1
+		[0xBC2] Other2
+		[0xBCA] Other2
+		[0xBD2] Silver Arms
+		[0xBDA] Gold Head
+Zone 04:
+	Table 01:
+		[0xC4A] Cryo Head
+	Table 02:
+		[0xC92] Cryo Body
+	Table 03:
+		[0xCDA] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xD4A] Sucho Head
+	Table 02:
+		[0xD92] Sucho Body
+	Table 03:
+		[0xDDA] Sucho Arms
+
+4002:
+Zone 01:
+	Table 01:
+		[0x1EE] Shuno Head
+		[0x1F6] Shuno Head
+		[0x1FE] Shuno Body
+		[0x206] Shuno Body
+		[0x20E] Shuno Arms
+		[0x216] Shuno Legs
+		[0x21E] Nippono Head
+		[0x226] Nippono Head
+		[0x22E] Nippono Body
+		[0x236] Nippono Body
+		[0x23E] Nippono Arms
+		[0x246] Nippono Legs
+		[0x24E] Shuno Head
+		[0x256] Shuno Body
+		[0x25E] Shuno Arms
+		[0x266] Shuno Legs
+		[0x26E] Nippono Head
+		[0x276] Nippono Body
+		[0x27E] Nippono Arms
+		[0x286] Nippono Legs
+		[0x28E] Shuno Head
+		[0x296] Shuno Body
+		[0x29E] Shuno Arms
+		[0x2A6] Shuno Legs
+		[0x2AE] Nippono Head
+		[0x2B6] Nippono Body
+		[0x2BE] Nippono Arms
+		[0x2C6] Nippono Legs
+		[0x2CE] Other1
+		[0x2D6] Other1
+		[0x2DE] Other2
+		[0x2E6] Other2
+		[0x2EE] Other2
+		[0x2F6] Silver Legs
+		[0x2FE] Gold Head
+	Table 02:
+		[0x346] Shuno Head
+		[0x34E] Shuno Head
+		[0x356] Shuno Body
+		[0x35E] Shuno Body
+		[0x366] Shuno Arms
+		[0x36E] Shuno Arms
+		[0x376] Shuno Legs
+		[0x37E] Nippono Head
+		[0x386] Nippono Head
+		[0x38E] Nippono Body
+		[0x396] Nippono Body
+		[0x39E] Nippono Arms
+		[0x3A6] Nippono Arms
+		[0x3AE] Nippono Legs
+		[0x3B6] Shuno Head
+		[0x3BE] Shuno Body
+		[0x3C6] Shuno Arms
+		[0x3CE] Shuno Legs
+		[0x3D6] Nippono Head
+		[0x3DE] Nippono Body
+		[0x3E6] Nippono Arms
+		[0x3EE] Nippono Legs
+		[0x3F6] Shuno Head
+		[0x3FE] Shuno Body
+		[0x406] Shuno Arms
+		[0x40E] Shuno Legs
+		[0x416] Nippono Head
+		[0x41E] Nippono Body
+		[0x426] Nippono Arms
+		[0x42E] Nippono Legs
+		[0x436] Other1
+		[0x43E] Other1
+		[0x446] Other2
+		[0x44E] Other2
+		[0x456] Other2
+		[0x45E] Silver Legs
+		[0x466] Gold Head
+	Table 03:
+		[0x4AE] Shuno Head
+		[0x4B6] Shuno Body
+		[0x4BE] Shuno Arms
+		[0x4C6] Shuno Legs
+		[0x4CE] Nippono Head
+		[0x4D6] Nippono Body
+		[0x4DE] Nippono Arms
+		[0x4E6] Nippono Legs
+		[0x4EE] Shuno Head
+		[0x4F6] Shuno Body
+		[0x4FE] Shuno Arms
+		[0x506] Shuno Legs
+		[0x50E] Nippono Head
+		[0x516] Nippono Body
+		[0x51E] Nippono Arms
+		[0x526] Nippono Legs
+		[0x52E] Shuno Head
+		[0x536] Shuno Body
+		[0x53E] Shuno Arms
+		[0x546] Shuno Legs
+		[0x54E] Nippono Head
+		[0x556] Nippono Body
+		[0x55E] Nippono Arms
+		[0x566] Nippono Legs
+		[0x56E] Other1
+		[0x576] Other1
+		[0x57E] Other2
+		[0x586] Other2
+		[0x58E] Other2
+		[0x596] Silver Legs
+		[0x59E] Gold Head
+Zone 02:
+	Table 01:
+		[0x60E] Siamo Head
+	Table 02:
+		[0x656] Siamo Body
+	Table 03:
+		[0x69E] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x70E] Nychus Head
+	Table 02:
+		[0x756] Nychus Body
+	Table 03:
+		[0x79E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x80E] Cryo Head
+	Table 02:
+		[0x856] Cryo Body
+	Table 03:
+		[0x89E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x90E] Sucho Head
+	Table 02:
+		[0x956] Sucho Body
+	Table 03:
+		[0x99E] Sucho Arms
+
+4003:
+Zone 01:
+	Table 01:
+		[0x1F2] T-Rex Head
+		[0x1FA] T-Rex Head
+		[0x202] T-Rex Body
+		[0x20A] T-Rex Body
+		[0x212] T-Rex Arms
+		[0x21A] T-Rex Legs
+		[0x222] Dacerus Head
+		[0x22A] Dacerus Head
+		[0x232] Dacerus Body
+		[0x23A] Dacerus Body
+		[0x242] Dacerus Arms
+		[0x24A] Dacerus Legs
+		[0x252] T-Rex Head
+		[0x25A] T-Rex Body
+		[0x262] T-Rex Arms
+		[0x26A] T-Rex Legs
+		[0x272] Dacerus Head
+		[0x27A] Dacerus Body
+		[0x282] Dacerus Arms
+		[0x28A] Dacerus Legs
+		[0x292] T-Rex Head
+		[0x29A] T-Rex Body
+		[0x2A2] T-Rex Arms
+		[0x2AA] T-Rex Legs
+		[0x2B2] Dacerus Head
+		[0x2BA] Dacerus Body
+		[0x2C2] Dacerus Arms
+		[0x2CA] Dacerus Legs
+		[0x2D2] Other1
+		[0x2DA] Other1
+		[0x2E2] Other2
+		[0x2EA] Other2
+		[0x2F2] Other2
+		[0x2FA] Silver Legs
+		[0x302] Gold Head
+	Table 02:
+		[0x34A] T-Rex Head
+		[0x352] T-Rex Head
+		[0x35A] T-Rex Body
+		[0x362] T-Rex Body
+		[0x36A] T-Rex Arms
+		[0x372] T-Rex Arms
+		[0x37A] T-Rex Legs
+		[0x382] Dacerus Head
+		[0x38A] Dacerus Head
+		[0x392] Dacerus Body
+		[0x39A] Dacerus Body
+		[0x3A2] Dacerus Arms
+		[0x3AA] Dacerus Arms
+		[0x3B2] Dacerus Legs
+		[0x3BA] T-Rex Head
+		[0x3C2] T-Rex Body
+		[0x3CA] T-Rex Arms
+		[0x3D2] T-Rex Legs
+		[0x3DA] Dacerus Head
+		[0x3E2] Dacerus Body
+		[0x3EA] Dacerus Arms
+		[0x3F2] Dacerus Legs
+		[0x3FA] T-Rex Head
+		[0x402] T-Rex Body
+		[0x40A] T-Rex Arms
+		[0x412] T-Rex Legs
+		[0x41A] Dacerus Head
+		[0x422] Dacerus Body
+		[0x42A] Dacerus Arms
+		[0x432] Dacerus Legs
+		[0x43A] Other1
+		[0x442] Other1
+		[0x44A] Other2
+		[0x452] Other2
+		[0x45A] Other2
+		[0x462] Silver Legs
+		[0x46A] Gold Head
+	Table 03:
+		[0x4B2] T-Rex Head
+		[0x4BA] T-Rex Body
+		[0x4C2] T-Rex Arms
+		[0x4CA] T-Rex Legs
+		[0x4D2] Dacerus Head
+		[0x4DA] Dacerus Body
+		[0x4E2] Dacerus Arms
+		[0x4EA] Dacerus Legs
+		[0x4F2] T-Rex Head
+		[0x4FA] T-Rex Body
+		[0x502] T-Rex Arms
+		[0x50A] T-Rex Legs
+		[0x512] Dacerus Head
+		[0x51A] Dacerus Body
+		[0x522] Dacerus Arms
+		[0x52A] Dacerus Legs
+		[0x532] T-Rex Head
+		[0x53A] T-Rex Body
+		[0x542] T-Rex Arms
+		[0x54A] T-Rex Legs
+		[0x552] Dacerus Head
+		[0x55A] Dacerus Body
+		[0x562] Dacerus Arms
+		[0x56A] Dacerus Legs
+		[0x572] Other1
+		[0x57A] Other1
+		[0x582] Other2
+		[0x58A] Other2
+		[0x592] Other2
+		[0x59A] Silver Legs
+		[0x5A2] Gold Head
+Zone 02:
+	Table 01:
+		[0x612] Dacerus Head
+		[0x61A] Dacerus Head
+		[0x622] Dacerus Body
+		[0x62A] Dacerus Body
+		[0x632] Dacerus Arms
+		[0x63A] Dacerus Legs
+		[0x642] Metri Single
+		[0x64A] Metri Single
+		[0x652] Dacerus Head
+		[0x65A] Dacerus Body
+		[0x662] Dacerus Arms
+		[0x66A] Dacerus Legs
+		[0x672] Metri Single
+		[0x67A] Dacerus Head
+		[0x682] Dacerus Body
+		[0x68A] Dacerus Arms
+		[0x692] Dacerus Legs
+		[0x69A] Metri Single
+		[0x6A2] Other1
+		[0x6AA] Other1
+		[0x6B2] Other2
+		[0x6BA] Other2
+		[0x6C2] Other2
+		[0x6CA] Other2
+		[0x6D2] Silver Legs
+		[0x6DA] Gold Head
+	Table 02:
+		[0x722] Dacerus Head
+		[0x72A] Dacerus Head
+		[0x732] Dacerus Body
+		[0x73A] Dacerus Body
+		[0x742] Dacerus Arms
+		[0x74A] Dacerus Arms
+		[0x752] Dacerus Legs
+		[0x75A] Metri Single
+		[0x762] Metri Single
+		[0x76A] Dacerus Head
+		[0x772] Dacerus Body
+		[0x77A] Dacerus Arms
+		[0x782] Dacerus Legs
+		[0x78A] Metri Single
+		[0x792] Dacerus Head
+		[0x79A] Dacerus Body
+		[0x7A2] Dacerus Arms
+		[0x7AA] Dacerus Legs
+		[0x7B2] Metri Single
+		[0x7BA] Other1
+		[0x7C2] Other1
+		[0x7CA] Other2
+		[0x7D2] Other2
+		[0x7DA] Other2
+		[0x7E2] Other2
+		[0x7EA] Silver Legs
+		[0x7F2] Gold Head
+	Table 03:
+		[0x83A] Andrarch Head
+		[0x842] Dacerus Head
+		[0x84A] Dacerus Body
+		[0x852] Dacerus Arms
+		[0x85A] Dacerus Legs
+		[0x862] Metri Single
+		[0x86A] Dacerus Head
+		[0x872] Dacerus Body
+		[0x87A] Dacerus Arms
+		[0x882] Dacerus Legs
+		[0x88A] Metri Single
+		[0x892] Dacerus Head
+		[0x89A] Dacerus Body
+		[0x8A2] Dacerus Arms
+		[0x8AA] Dacerus Legs
+		[0x8B2] Metri Single
+		[0x8BA] Other1
+		[0x8C2] Other1
+		[0x8CA] Other2
+		[0x8D2] Other2
+		[0x8DA] Other2
+		[0x8E2] Other2
+		[0x8EA] Silver Legs
+		[0x8F2] Gold Head
+Zone 03:
+	Table 01:
+		[0x962] Shuno Head
+		[0x96A] Shuno Head
+		[0x972] Shuno Body
+		[0x97A] Shuno Body
+		[0x982] Shuno Arms
+		[0x98A] Shuno Legs
+		[0x992] Nippono Head
+		[0x99A] Nippono Head
+		[0x9A2] Nippono Body
+		[0x9AA] Nippono Body
+		[0x9B2] Nippono Arms
+		[0x9BA] Nippono Legs
+		[0x9C2] Metri Single
+		[0x9CA] Metri Single
+		[0x9D2] Shuno Head
+		[0x9DA] Shuno Body
+		[0x9E2] Shuno Arms
+		[0x9EA] Shuno Legs
+		[0x9F2] Nippono Head
+		[0x9FA] Nippono Body
+		[0xA02] Nippono Arms
+		[0xA0A] Nippono Legs
+		[0xA12] Metri Single
+		[0xA1A] Shuno Head
+		[0xA22] Shuno Body
+		[0xA2A] Shuno Arms
+		[0xA32] Shuno Legs
+		[0xA3A] Nippono Head
+		[0xA42] Nippono Body
+		[0xA4A] Nippono Arms
+		[0xA52] Nippono Legs
+		[0xA5A] Metri Single
+		[0xA62] Other1
+		[0xA6A] Other1
+		[0xA72] Other2
+		[0xA7A] Other2
+		[0xA82] Other2
+		[0xA8A] Other2
+		[0xA92] Silver Legs
+		[0xA9A] Gold Head
+	Table 02:
+		[0xAE2] Shuno Head
+		[0xAEA] Shuno Head
+		[0xAF2] Shuno Body
+		[0xAFA] Shuno Body
+		[0xB02] Shuno Arms
+		[0xB0A] Shuno Arms
+		[0xB12] Shuno Legs
+		[0xB1A] Nippono Head
+		[0xB22] Nippono Head
+		[0xB2A] Nippono Body
+		[0xB32] Nippono Body
+		[0xB3A] Nippono Arms
+		[0xB42] Nippono Arms
+		[0xB4A] Nippono Legs
+		[0xB52] Metri Single
+		[0xB5A] Metri Single
+		[0xB62] Shuno Head
+		[0xB6A] Shuno Body
+		[0xB72] Shuno Arms
+		[0xB7A] Shuno Legs
+		[0xB82] Nippono Head
+		[0xB8A] Nippono Body
+		[0xB92] Nippono Arms
+		[0xB9A] Nippono Legs
+		[0xBA2] Metri Single
+		[0xBAA] Shuno Head
+		[0xBB2] Shuno Body
+		[0xBBA] Shuno Arms
+		[0xBC2] Shuno Legs
+		[0xBCA] Nippono Head
+		[0xBD2] Nippono Body
+		[0xBDA] Nippono Arms
+		[0xBE2] Nippono Legs
+		[0xBEA] Metri Single
+		[0xBF2] Other1
+		[0xBFA] Other1
+		[0xC02] Other2
+		[0xC0A] Other2
+		[0xC12] Other2
+		[0xC1A] Other2
+		[0xC22] Silver Legs
+		[0xC2A] Gold Head
+	Table 03:
+		[0xC72] Shuno Head
+		[0xC7A] Shuno Body
+		[0xC82] Shuno Arms
+		[0xC8A] Shuno Legs
+		[0xC92] Nippono Head
+		[0xC9A] Nippono Body
+		[0xCA2] Nippono Arms
+		[0xCAA] Nippono Legs
+		[0xCB2] Metri Single
+		[0xCBA] Shuno Head
+		[0xCC2] Shuno Body
+		[0xCCA] Shuno Arms
+		[0xCD2] Shuno Legs
+		[0xCDA] Nippono Head
+		[0xCE2] Nippono Body
+		[0xCEA] Nippono Arms
+		[0xCF2] Nippono Legs
+		[0xCFA] Metri Single
+		[0xD02] Shuno Head
+		[0xD0A] Shuno Body
+		[0xD12] Shuno Arms
+		[0xD1A] Shuno Legs
+		[0xD22] Nippono Head
+		[0xD2A] Nippono Body
+		[0xD32] Nippono Arms
+		[0xD3A] Nippono Legs
+		[0xD42] Metri Single
+		[0xD4A] Other1
+		[0xD52] Other1
+		[0xD5A] Other2
+		[0xD62] Other2
+		[0xD6A] Other2
+		[0xD72] Other2
+		[0xD7A] Silver Legs
+		[0xD82] Gold Head
+Zone 04:
+	Table 01:
+		[0xDF2] Cryo Head
+	Table 02:
+		[0xE3A] Cryo Body
+	Table 03:
+		[0xE82] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xEF2] Sucho Head
+	Table 02:
+		[0xF3A] Sucho Body
+	Table 03:
+		[0xF82] Sucho Arms
+
+4100:
+Zone 01:
+	Table 01:
+		[0x23A] Hopter Head
+		[0x242] Hopter Head
+		[0x24A] Hopter Body
+		[0x252] Hopter Body
+		[0x25A] Hopter Arms
+		[0x262] Hopter Legs
+		[0x26A] Hopter Head
+		[0x272] Hopter Body
+		[0x27A] Hopter Arms
+		[0x282] Hopter Legs
+		[0x28A] Hopter Head
+		[0x292] Hopter Body
+		[0x29A] Hopter Arms
+		[0x2A2] Hopter Legs
+		[0x2AA] Other1
+		[0x2B2] Other1
+		[0x2BA] Other1
+		[0x2C2] Other2
+		[0x2CA] Other2
+		[0x2D2] Other2
+		[0x2DA] Silver Head
+		[0x2E2] Gold Head
+	Table 02:
+		[0x32A] Hopter Head
+		[0x332] Hopter Head
+		[0x33A] Hopter Body
+		[0x342] Hopter Body
+		[0x34A] Hopter Arms
+		[0x352] Hopter Arms
+		[0x35A] Hopter Legs
+		[0x362] Hopter Head
+		[0x36A] Hopter Body
+		[0x372] Hopter Arms
+		[0x37A] Hopter Legs
+		[0x382] Hopter Head
+		[0x38A] Hopter Body
+		[0x392] Hopter Arms
+		[0x39A] Hopter Legs
+		[0x3A2] Other1
+		[0x3AA] Other1
+		[0x3B2] Other2
+		[0x3BA] Other2
+		[0x3C2] Other2
+		[0x3CA] Silver Head
+		[0x3D2] Gold Head
+	Table 03:
+		[0x41A] Hopter Head
+		[0x422] Hopter Body
+		[0x42A] Hopter Arms
+		[0x432] Hopter Legs
+		[0x43A] Hopter Head
+		[0x442] Hopter Body
+		[0x44A] Hopter Arms
+		[0x452] Hopter Legs
+		[0x45A] Hopter Head
+		[0x462] Hopter Body
+		[0x46A] Hopter Arms
+		[0x472] Hopter Legs
+		[0x47A] Other1
+		[0x482] Other1
+		[0x48A] Other1
+		[0x492] Other2
+		[0x49A] Other2
+		[0x4A2] Other2
+		[0x4AA] Silver Head
+		[0x4B2] Gold Head
+Zone 02:
+	Table 01:
+		[0x522] Cerato Head
+		[0x52A] Cerato Head
+		[0x532] Cerato Body
+		[0x53A] Cerato Body
+		[0x542] Cerato Arms
+		[0x54A] Cerato Legs
+		[0x552] Cerato Head
+		[0x55A] Cerato Body
+		[0x562] Cerato Arms
+		[0x56A] Cerato Legs
+		[0x572] Cerato Head
+		[0x57A] Cerato Body
+		[0x582] Cerato Arms
+		[0x58A] Cerato Legs
+		[0x592] Other1
+		[0x59A] Other1
+		[0x5A2] Other1
+		[0x5AA] Other2
+		[0x5B2] Other2
+		[0x5BA] Other2
+		[0x5C2] Silver Head
+		[0x5CA] Gold Head
+	Table 02:
+		[0x612] Cerato Head
+		[0x61A] Cerato Head
+		[0x622] Cerato Body
+		[0x62A] Cerato Body
+		[0x632] Cerato Arms
+		[0x63A] Cerato Arms
+		[0x642] Cerato Legs
+		[0x64A] Cerato Head
+		[0x652] Cerato Body
+		[0x65A] Cerato Arms
+		[0x662] Cerato Legs
+		[0x66A] Cerato Head
+		[0x672] Cerato Body
+		[0x67A] Cerato Arms
+		[0x682] Cerato Legs
+		[0x68A] Other1
+		[0x692] Other1
+		[0x69A] Other2
+		[0x6A2] Other2
+		[0x6AA] Other2
+		[0x6B2] Silver Head
+		[0x6BA] Gold Head
+	Table 03:
+		[0x702] Cerato Head
+		[0x70A] Cerato Body
+		[0x712] Cerato Arms
+		[0x71A] Cerato Legs
+		[0x722] Cerato Head
+		[0x72A] Cerato Body
+		[0x732] Cerato Arms
+		[0x73A] Cerato Legs
+		[0x742] Cerato Head
+		[0x74A] Cerato Body
+		[0x752] Cerato Arms
+		[0x75A] Cerato Legs
+		[0x762] Other1
+		[0x76A] Other1
+		[0x772] Other1
+		[0x77A] Other2
+		[0x782] Other2
+		[0x78A] Other2
+		[0x792] Silver Head
+		[0x79A] Gold Head
+Zone 03:
+	Table 01:
+		[0x80A] Nychus Head
+	Table 02:
+		[0x852] Nychus Body
+	Table 03:
+		[0x89A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x90A] Cryo Head
+	Table 02:
+		[0x952] Cryo Body
+	Table 03:
+		[0x99A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xA0A] Sucho Head
+	Table 02:
+		[0xA52] Sucho Body
+	Table 03:
+		[0xA9A] Sucho Arms
+
+4101:
+Zone 01:
+	Table 01:
+		[0x1EE] Carchar Head
+		[0x1F6] Carchar Head
+		[0x1FE] Carchar Body
+		[0x206] Carchar Body
+		[0x20E] Carchar Arms
+		[0x216] Carchar Legs
+		[0x21E] Jiango Head
+		[0x226] Jiango Head
+		[0x22E] Jiango Body
+		[0x236] Jiango Body
+		[0x23E] Jiango Arms
+		[0x246] Jiango Legs
+		[0x24E] Camara Head
+		[0x256] Camara Head
+		[0x25E] Camara Body
+		[0x266] Camara Body
+		[0x26E] Camara Arms
+		[0x276] Camara Legs
+		[0x27E] Tophis Single
+		[0x286] Tophis Single
+		[0x28E] Carchar Head
+		[0x296] Carchar Body
+		[0x29E] Carchar Arms
+		[0x2A6] Carchar Legs
+		[0x2AE] Jiango Head
+		[0x2B6] Jiango Body
+		[0x2BE] Jiango Arms
+		[0x2C6] Jiango Legs
+		[0x2CE] Camara Head
+		[0x2D6] Camara Body
+		[0x2DE] Camara Arms
+		[0x2E6] Camara Legs
+		[0x2EE] Tophis Single
+		[0x2F6] Carchar Head
+		[0x2FE] Carchar Body
+		[0x306] Carchar Arms
+		[0x30E] Carchar Legs
+		[0x316] Jiango Head
+		[0x31E] Jiango Body
+		[0x326] Jiango Arms
+		[0x32E] Jiango Legs
+		[0x336] Camara Head
+		[0x33E] Camara Body
+		[0x346] Camara Arms
+		[0x34E] Camara Legs
+		[0x356] Tophis Single
+		[0x35E] Other1
+		[0x366] Other1
+		[0x36E] Other1
+		[0x376] Other2
+		[0x37E] Other2
+		[0x386] Other2
+		[0x38E] Other2
+		[0x396] Silver Body
+		[0x39E] Gold Head
+	Table 02:
+		[0x3E6] Carchar Head
+		[0x3EE] Carchar Head
+		[0x3F6] Carchar Body
+		[0x3FE] Carchar Body
+		[0x406] Carchar Arms
+		[0x40E] Carchar Arms
+		[0x416] Carchar Legs
+		[0x41E] Jiango Head
+		[0x426] Jiango Head
+		[0x42E] Jiango Body
+		[0x436] Jiango Body
+		[0x43E] Jiango Arms
+		[0x446] Jiango Arms
+		[0x44E] Jiango Legs
+		[0x456] Camara Head
+		[0x45E] Camara Head
+		[0x466] Camara Body
+		[0x46E] Camara Body
+		[0x476] Camara Arms
+		[0x47E] Camara Arms
+		[0x486] Camara Legs
+		[0x48E] Tophis Single
+		[0x496] Tophis Single
+		[0x49E] Carchar Head
+		[0x4A6] Carchar Body
+		[0x4AE] Carchar Arms
+		[0x4B6] Carchar Legs
+		[0x4BE] Jiango Head
+		[0x4C6] Jiango Body
+		[0x4CE] Jiango Arms
+		[0x4D6] Jiango Legs
+		[0x4DE] Camara Head
+		[0x4E6] Camara Body
+		[0x4EE] Camara Arms
+		[0x4F6] Camara Legs
+		[0x4FE] Tophis Single
+		[0x506] Carchar Head
+		[0x50E] Carchar Body
+		[0x516] Carchar Arms
+		[0x51E] Carchar Legs
+		[0x526] Jiango Head
+		[0x52E] Jiango Body
+		[0x536] Jiango Arms
+		[0x53E] Jiango Legs
+		[0x546] Camara Head
+		[0x54E] Camara Body
+		[0x556] Camara Arms
+		[0x55E] Camara Legs
+		[0x566] Tophis Single
+		[0x56E] Other1
+		[0x576] Other1
+		[0x57E] Other2
+		[0x586] Other2
+		[0x58E] Other2
+		[0x596] Other2
+		[0x59E] Silver Body
+		[0x5A6] Gold Head
+	Table 03:
+		[0x5EE] Kentro Head
+		[0x5F6] Carchar Head
+		[0x5FE] Carchar Body
+		[0x606] Carchar Arms
+		[0x60E] Carchar Legs
+		[0x616] Jiango Head
+		[0x61E] Jiango Body
+		[0x626] Jiango Arms
+		[0x62E] Jiango Legs
+		[0x636] Camara Head
+		[0x63E] Camara Body
+		[0x646] Camara Arms
+		[0x64E] Camara Legs
+		[0x656] Tophis Single
+		[0x65E] Carchar Head
+		[0x666] Carchar Body
+		[0x66E] Carchar Arms
+		[0x676] Carchar Legs
+		[0x67E] Jiango Head
+		[0x686] Jiango Body
+		[0x68E] Jiango Arms
+		[0x696] Jiango Legs
+		[0x69E] Camara Head
+		[0x6A6] Camara Body
+		[0x6AE] Camara Arms
+		[0x6B6] Camara Legs
+		[0x6BE] Tophis Single
+		[0x6C6] Carchar Head
+		[0x6CE] Carchar Body
+		[0x6D6] Carchar Arms
+		[0x6DE] Carchar Legs
+		[0x6E6] Jiango Head
+		[0x6EE] Jiango Body
+		[0x6F6] Jiango Arms
+		[0x6FE] Jiango Legs
+		[0x706] Camara Head
+		[0x70E] Camara Body
+		[0x716] Camara Arms
+		[0x71E] Camara Legs
+		[0x726] Tophis Single
+		[0x72E] Other1
+		[0x736] Other1
+		[0x73E] Other1
+		[0x746] Other2
+		[0x74E] Other2
+		[0x756] Other2
+		[0x75E] Other2
+		[0x766] Silver Body
+		[0x76E] Gold Head
+Zone 02:
+	Table 01:
+		[0x7DE] Siamo Head
+	Table 02:
+		[0x826] Siamo Body
+	Table 03:
+		[0x86E] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x8DE] Nychus Head
+	Table 02:
+		[0x926] Nychus Body
+	Table 03:
+		[0x96E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x9DE] Cryo Head
+	Table 02:
+		[0xA26] Cryo Body
+	Table 03:
+		[0xA6E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xADE] Sucho Head
+	Table 02:
+		[0xB26] Sucho Body
+	Table 03:
+		[0xB6E] Sucho Arms
+
+4102:
+Zone 01:
+	Table 01:
+		[0x1CE] Giganto Head
+		[0x1D6] Giganto Head
+		[0x1DE] Giganto Body
+		[0x1E6] Giganto Body
+		[0x1EE] Giganto Arms
+		[0x1F6] Giganto Legs
+		[0x1FE] Ankylo Head
+		[0x206] Ankylo Head
+		[0x20E] Ankylo Body
+		[0x216] Ankylo Body
+		[0x21E] Ankylo Arms
+		[0x226] Ankylo Legs
+		[0x22E] Giganto Head
+		[0x236] Giganto Body
+		[0x23E] Giganto Arms
+		[0x246] Giganto Legs
+		[0x24E] Ankylo Head
+		[0x256] Ankylo Body
+		[0x25E] Ankylo Arms
+		[0x266] Ankylo Legs
+		[0x26E] Giganto Head
+		[0x276] Giganto Body
+		[0x27E] Giganto Arms
+		[0x286] Giganto Legs
+		[0x28E] Ankylo Head
+		[0x296] Ankylo Body
+		[0x29E] Ankylo Arms
+		[0x2A6] Ankylo Legs
+		[0x2AE] Other1
+		[0x2B6] Other1
+		[0x2BE] Other1
+		[0x2C6] Other2
+		[0x2CE] Other2
+		[0x2D6] Other2
+		[0x2DE] Silver Arms
+		[0x2E6] Gold Head
+	Table 02:
+		[0x32E] Giganto Head
+		[0x336] Giganto Head
+		[0x33E] Giganto Body
+		[0x346] Giganto Body
+		[0x34E] Giganto Arms
+		[0x356] Giganto Arms
+		[0x35E] Giganto Legs
+		[0x366] Ankylo Head
+		[0x36E] Ankylo Head
+		[0x376] Ankylo Body
+		[0x37E] Ankylo Body
+		[0x386] Ankylo Arms
+		[0x38E] Ankylo Arms
+		[0x396] Ankylo Legs
+		[0x39E] Giganto Head
+		[0x3A6] Giganto Body
+		[0x3AE] Giganto Arms
+		[0x3B6] Giganto Legs
+		[0x3BE] Ankylo Head
+		[0x3C6] Ankylo Body
+		[0x3CE] Ankylo Arms
+		[0x3D6] Ankylo Legs
+		[0x3DE] Giganto Head
+		[0x3E6] Giganto Body
+		[0x3EE] Giganto Arms
+		[0x3F6] Giganto Legs
+		[0x3FE] Ankylo Head
+		[0x406] Ankylo Body
+		[0x40E] Ankylo Arms
+		[0x416] Ankylo Legs
+		[0x41E] Other1
+		[0x426] Other1
+		[0x42E] Other2
+		[0x436] Other2
+		[0x43E] Other2
+		[0x446] Silver Arms
+		[0x44E] Gold Head
+	Table 03:
+		[0x496] Giganto Head
+		[0x49E] Giganto Body
+		[0x4A6] Giganto Arms
+		[0x4AE] Giganto Legs
+		[0x4B6] Ankylo Head
+		[0x4BE] Ankylo Body
+		[0x4C6] Ankylo Arms
+		[0x4CE] Ankylo Legs
+		[0x4D6] Giganto Head
+		[0x4DE] Giganto Body
+		[0x4E6] Giganto Arms
+		[0x4EE] Giganto Legs
+		[0x4F6] Ankylo Head
+		[0x4FE] Ankylo Body
+		[0x506] Ankylo Arms
+		[0x50E] Ankylo Legs
+		[0x516] Giganto Head
+		[0x51E] Giganto Body
+		[0x526] Giganto Arms
+		[0x52E] Giganto Legs
+		[0x536] Ankylo Head
+		[0x53E] Ankylo Body
+		[0x546] Ankylo Arms
+		[0x54E] Ankylo Legs
+		[0x556] Other1
+		[0x55E] Other1
+		[0x566] Other1
+		[0x56E] Other2
+		[0x576] Other2
+		[0x57E] Other2
+		[0x586] Silver Arms
+		[0x58E] Gold Head
+Zone 02:
+	Table 01:
+		[0x5FE] Siamo Head
+	Table 02:
+		[0x646] Siamo Body
+	Table 03:
+		[0x68E] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x6FE] Nychus Head
+	Table 02:
+		[0x746] Nychus Body
+	Table 03:
+		[0x78E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x7FE] Cryo Head
+	Table 02:
+		[0x846] Cryo Body
+	Table 03:
+		[0x88E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x8FE] Sucho Head
+	Table 02:
+		[0x946] Sucho Body
+	Table 03:
+		[0x98E] Sucho Arms
+
+4103:
+Zone 01:
+	Table 01:
+		[0x20A] Allo Head
+		[0x212] Allo Head
+		[0x21A] Allo Body
+		[0x222] Allo Body
+		[0x22A] Allo Arms
+		[0x232] Allo Legs
+		[0x23A] Aopteryx Head
+		[0x242] Aopteryx Head
+		[0x24A] Aopteryx Body
+		[0x252] Aopteryx Body
+		[0x25A] Aopteryx Arms
+		[0x262] Aopteryx Legs
+		[0x26A] Peloro Single
+		[0x272] Peloro Single
+		[0x27A] Allo Head
+		[0x282] Allo Body
+		[0x28A] Allo Arms
+		[0x292] Allo Legs
+		[0x29A] Aopteryx Head
+		[0x2A2] Aopteryx Body
+		[0x2AA] Aopteryx Arms
+		[0x2B2] Aopteryx Legs
+		[0x2BA] Peloro Single
+		[0x2C2] Allo Head
+		[0x2CA] Allo Body
+		[0x2D2] Allo Arms
+		[0x2DA] Allo Legs
+		[0x2E2] Aopteryx Head
+		[0x2EA] Aopteryx Body
+		[0x2F2] Aopteryx Arms
+		[0x2FA] Aopteryx Legs
+		[0x302] Peloro Single
+		[0x30A] Other1
+		[0x312] Other1
+		[0x31A] Other1
+		[0x322] Other2
+		[0x32A] Silver Legs
+		[0x332] Gold Head
+	Table 02:
+		[0x37A] Allo Head
+		[0x382] Allo Head
+		[0x38A] Allo Body
+		[0x392] Allo Body
+		[0x39A] Allo Arms
+		[0x3A2] Allo Arms
+		[0x3AA] Allo Legs
+		[0x3B2] Aopteryx Head
+		[0x3BA] Aopteryx Head
+		[0x3C2] Aopteryx Body
+		[0x3CA] Aopteryx Body
+		[0x3D2] Aopteryx Arms
+		[0x3DA] Aopteryx Arms
+		[0x3E2] Aopteryx Legs
+		[0x3EA] Peloro Single
+		[0x3F2] Peloro Single
+		[0x3FA] Allo Head
+		[0x402] Allo Body
+		[0x40A] Allo Arms
+		[0x412] Allo Legs
+		[0x41A] Aopteryx Head
+		[0x422] Aopteryx Body
+		[0x42A] Aopteryx Arms
+		[0x432] Aopteryx Legs
+		[0x43A] Peloro Single
+		[0x442] Allo Head
+		[0x44A] Allo Body
+		[0x452] Allo Arms
+		[0x45A] Allo Legs
+		[0x462] Aopteryx Head
+		[0x46A] Aopteryx Body
+		[0x472] Aopteryx Arms
+		[0x47A] Aopteryx Legs
+		[0x482] Peloro Single
+		[0x48A] Other1
+		[0x492] Other1
+		[0x49A] Other2
+		[0x4A2] Silver Legs
+		[0x4AA] Gold Head
+	Table 03:
+		[0x4F2] E-Raptor Head
+		[0x4FA] Allo Head
+		[0x502] Allo Body
+		[0x50A] Allo Arms
+		[0x512] Allo Legs
+		[0x51A] Aopteryx Head
+		[0x522] Aopteryx Body
+		[0x52A] Aopteryx Arms
+		[0x532] Aopteryx Legs
+		[0x53A] Peloro Single
+		[0x542] Allo Head
+		[0x54A] Allo Body
+		[0x552] Allo Arms
+		[0x55A] Allo Legs
+		[0x562] Aopteryx Head
+		[0x56A] Aopteryx Body
+		[0x572] Aopteryx Arms
+		[0x57A] Aopteryx Legs
+		[0x582] Peloro Single
+		[0x58A] Allo Head
+		[0x592] Allo Body
+		[0x59A] Allo Arms
+		[0x5A2] Allo Legs
+		[0x5AA] Aopteryx Head
+		[0x5B2] Aopteryx Body
+		[0x5BA] Aopteryx Arms
+		[0x5C2] Aopteryx Legs
+		[0x5CA] Peloro Single
+		[0x5D2] Other1
+		[0x5DA] Other1
+		[0x5E2] Other1
+		[0x5EA] Other2
+		[0x5F2] Silver Legs
+		[0x5FA] Gold Head
+Zone 02:
+	Table 01:
+		[0x66A] Siamo Head
+	Table 02:
+		[0x6B2] Siamo Body
+	Table 03:
+		[0x6FA] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x76A] Nychus Head
+	Table 02:
+		[0x7B2] Nychus Body
+	Table 03:
+		[0x7FA] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x86A] Cryo Head
+	Table 02:
+		[0x8B2] Cryo Body
+	Table 03:
+		[0x8FA] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x96A] Sucho Head
+	Table 02:
+		[0x9B2] Sucho Body
+	Table 03:
+		[0x9FA] Sucho Arms
+
+4104:
+Zone 01:
+	Table 01:
+		[0x1C6] Gorgo Head
+		[0x1CE] Gorgo Body
+		[0x1D6] Gorgo Arms
+		[0x1DE] Gorgo Legs
+		[0x1E6] Sopteryx Head
+		[0x1EE] Sopteryx Body
+		[0x1F6] Sopteryx Arms
+		[0x1FE] Sopteryx Legs
+		[0x206] Zino Head
+		[0x20E] Zino Body
+		[0x216] Zino Arms
+		[0x21E] Zino Legs
+		[0x226] Saichan Head
+		[0x22E] Saichan Body
+		[0x236] Saichan Arms
+		[0x23E] Saichan Legs
+		[0x246] Dimorph Head
+		[0x24E] Dimorph Body
+		[0x256] Dimorph Arms
+		[0x25E] Dimorph Legs
+		[0x266] Gorgo Head
+		[0x26E] Gorgo Body
+		[0x276] Gorgo Arms
+		[0x27E] Gorgo Legs
+		[0x286] Sopteryx Head
+		[0x28E] Sopteryx Body
+		[0x296] Sopteryx Arms
+		[0x29E] Sopteryx Legs
+		[0x2A6] Zino Head
+		[0x2AE] Zino Body
+		[0x2B6] Zino Arms
+		[0x2BE] Zino Legs
+		[0x2C6] Saichan Head
+		[0x2CE] Saichan Body
+		[0x2D6] Saichan Arms
+		[0x2DE] Saichan Legs
+		[0x2E6] Dimorph Head
+		[0x2EE] Dimorph Body
+		[0x2F6] Dimorph Arms
+		[0x2FE] Dimorph Legs
+		[0x306] Gorgo Head
+		[0x30E] Gorgo Body
+		[0x316] Gorgo Arms
+		[0x31E] Gorgo Legs
+		[0x326] Sopteryx Head
+		[0x32E] Sopteryx Body
+		[0x336] Sopteryx Arms
+		[0x33E] Sopteryx Legs
+		[0x346] Zino Head
+		[0x34E] Zino Body
+		[0x356] Zino Arms
+		[0x35E] Zino Legs
+		[0x366] Saichan Head
+		[0x36E] Saichan Body
+		[0x376] Saichan Arms
+		[0x37E] Saichan Legs
+		[0x386] Dimorph Head
+		[0x38E] Dimorph Body
+		[0x396] Dimorph Arms
+		[0x39E] Dimorph Legs
+		[0x3A6] Other1
+		[0x3AE] Other1
+		[0x3B6] Other1
+		[0x3BE] Other2
+		[0x3C6] Silver Head
+		[0x3CE] Gold Head
+	Table 02:
+		[0x402] Gorgo Head
+		[0x40A] Gorgo Body
+		[0x412] Gorgo Arms
+		[0x41A] Gorgo Legs
+		[0x422] Sopteryx Head
+		[0x42A] Sopteryx Body
+		[0x432] Sopteryx Arms
+		[0x43A] Sopteryx Legs
+		[0x442] Zino Head
+		[0x44A] Zino Body
+		[0x452] Zino Arms
+		[0x45A] Zino Legs
+		[0x462] Saichan Head
+		[0x46A] Saichan Body
+		[0x472] Saichan Arms
+		[0x47A] Saichan Legs
+		[0x482] Dimorph Head
+		[0x48A] Dimorph Body
+		[0x492] Dimorph Arms
+		[0x49A] Dimorph Legs
+		[0x4A2] Gorgo Head
+		[0x4AA] Gorgo Body
+		[0x4B2] Gorgo Arms
+		[0x4BA] Gorgo Legs
+		[0x4C2] Sopteryx Head
+		[0x4CA] Sopteryx Body
+		[0x4D2] Sopteryx Arms
+		[0x4DA] Sopteryx Legs
+		[0x4E2] Zino Head
+		[0x4EA] Zino Body
+		[0x4F2] Zino Arms
+		[0x4FA] Zino Legs
+		[0x502] Saichan Head
+		[0x50A] Saichan Body
+		[0x512] Saichan Arms
+		[0x51A] Saichan Legs
+		[0x522] Dimorph Head
+		[0x52A] Dimorph Body
+		[0x532] Dimorph Arms
+		[0x53A] Dimorph Legs
+		[0x542] Gorgo Head
+		[0x54A] Gorgo Body
+		[0x552] Gorgo Arms
+		[0x55A] Gorgo Legs
+		[0x562] Sopteryx Head
+		[0x56A] Sopteryx Body
+		[0x572] Sopteryx Arms
+		[0x57A] Sopteryx Legs
+		[0x582] Zino Head
+		[0x58A] Zino Body
+		[0x592] Zino Arms
+		[0x59A] Zino Legs
+		[0x5A2] Saichan Head
+		[0x5AA] Saichan Body
+		[0x5B2] Saichan Arms
+		[0x5BA] Saichan Legs
+		[0x5C2] Dimorph Head
+		[0x5CA] Dimorph Body
+		[0x5D2] Dimorph Arms
+		[0x5DA] Dimorph Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other2
+		[0x602] Silver Head
+		[0x60A] Gold Head
+	Table 03:
+		[0x63E] Gorgo Head
+		[0x646] Gorgo Body
+		[0x64E] Gorgo Arms
+		[0x656] Gorgo Legs
+		[0x65E] Sopteryx Head
+		[0x666] Sopteryx Body
+		[0x66E] Sopteryx Arms
+		[0x676] Sopteryx Legs
+		[0x67E] Zino Head
+		[0x686] Zino Body
+		[0x68E] Zino Arms
+		[0x696] Zino Legs
+		[0x69E] Saichan Head
+		[0x6A6] Saichan Body
+		[0x6AE] Saichan Arms
+		[0x6B6] Saichan Legs
+		[0x6BE] Dimorph Head
+		[0x6C6] Dimorph Body
+		[0x6CE] Dimorph Arms
+		[0x6D6] Dimorph Legs
+		[0x6DE] Gorgo Head
+		[0x6E6] Gorgo Body
+		[0x6EE] Gorgo Arms
+		[0x6F6] Gorgo Legs
+		[0x6FE] Sopteryx Head
+		[0x706] Sopteryx Body
+		[0x70E] Sopteryx Arms
+		[0x716] Sopteryx Legs
+		[0x71E] Zino Head
+		[0x726] Zino Body
+		[0x72E] Zino Arms
+		[0x736] Zino Legs
+		[0x73E] Saichan Head
+		[0x746] Saichan Body
+		[0x74E] Saichan Arms
+		[0x756] Saichan Legs
+		[0x75E] Dimorph Head
+		[0x766] Dimorph Body
+		[0x76E] Dimorph Arms
+		[0x776] Dimorph Legs
+		[0x77E] Gorgo Head
+		[0x786] Gorgo Body
+		[0x78E] Gorgo Arms
+		[0x796] Gorgo Legs
+		[0x79E] Sopteryx Head
+		[0x7A6] Sopteryx Body
+		[0x7AE] Sopteryx Arms
+		[0x7B6] Sopteryx Legs
+		[0x7BE] Zino Head
+		[0x7C6] Zino Body
+		[0x7CE] Zino Arms
+		[0x7D6] Zino Legs
+		[0x7DE] Saichan Head
+		[0x7E6] Saichan Body
+		[0x7EE] Saichan Arms
+		[0x7F6] Saichan Legs
+		[0x7FE] Dimorph Head
+		[0x806] Dimorph Body
+		[0x80E] Dimorph Arms
+		[0x816] Dimorph Legs
+		[0x81E] Other1
+		[0x826] Other1
+		[0x82E] Other1
+		[0x836] Other2
+		[0x83E] Silver Head
+		[0x846] Gold Head
+Zone 02:
+	Table 01:
+		[0x8A2] Siamo Head
+	Table 02:
+		[0x8D6] Siamo Body
+	Table 03:
+		[0x90A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x966] Nychus Head
+	Table 02:
+		[0x99A] Nychus Body
+	Table 03:
+		[0x9CE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA2A] Cryo Head
+	Table 02:
+		[0xA5E] Cryo Body
+	Table 03:
+		[0xA92] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xAEE] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB56] Sucho Arms
+
+4105:
+Zone 01:
+	Table 01:
+		[0x1C6] Alio Head
+		[0x1CE] Alio Body
+		[0x1D6] Alio Arms
+		[0x1DE] Alio Legs
+		[0x1E6] Onyx Head
+		[0x1EE] Onyx Body
+		[0x1F6] Onyx Arms
+		[0x1FE] Onyx Legs
+		[0x206] Elasmo Head
+		[0x20E] Elasmo Body
+		[0x216] Elasmo Arms
+		[0x21E] Elasmo Legs
+		[0x226] Nasaur Head
+		[0x22E] Nasaur Body
+		[0x236] Nasaur Arms
+		[0x23E] Nasaur Legs
+		[0x246] Brontoth Head
+		[0x24E] Brontoth Body
+		[0x256] Brontoth Arms
+		[0x25E] Brontoth Legs
+		[0x266] Alio Head
+		[0x26E] Alio Body
+		[0x276] Alio Arms
+		[0x27E] Alio Legs
+		[0x286] Onyx Head
+		[0x28E] Onyx Body
+		[0x296] Onyx Arms
+		[0x29E] Onyx Legs
+		[0x2A6] Elasmo Head
+		[0x2AE] Elasmo Body
+		[0x2B6] Elasmo Arms
+		[0x2BE] Elasmo Legs
+		[0x2C6] Nasaur Head
+		[0x2CE] Nasaur Body
+		[0x2D6] Nasaur Arms
+		[0x2DE] Nasaur Legs
+		[0x2E6] Brontoth Head
+		[0x2EE] Brontoth Body
+		[0x2F6] Brontoth Arms
+		[0x2FE] Brontoth Legs
+		[0x306] Alio Head
+		[0x30E] Alio Body
+		[0x316] Alio Arms
+		[0x31E] Alio Legs
+		[0x326] Onyx Head
+		[0x32E] Onyx Body
+		[0x336] Onyx Arms
+		[0x33E] Onyx Legs
+		[0x346] Elasmo Head
+		[0x34E] Elasmo Body
+		[0x356] Elasmo Arms
+		[0x35E] Elasmo Legs
+		[0x366] Nasaur Head
+		[0x36E] Nasaur Body
+		[0x376] Nasaur Arms
+		[0x37E] Nasaur Legs
+		[0x386] Brontoth Head
+		[0x38E] Brontoth Body
+		[0x396] Brontoth Arms
+		[0x39E] Brontoth Legs
+		[0x3A6] Other1
+		[0x3AE] Other1
+		[0x3B6] Other1
+		[0x3BE] Other2
+		[0x3C6] Silver Body
+		[0x3CE] Gold Head
+	Table 02:
+		[0x402] Alio Head
+		[0x40A] Alio Body
+		[0x412] Alio Arms
+		[0x41A] Alio Legs
+		[0x422] Onyx Head
+		[0x42A] Onyx Body
+		[0x432] Onyx Arms
+		[0x43A] Onyx Legs
+		[0x442] Elasmo Head
+		[0x44A] Elasmo Body
+		[0x452] Elasmo Arms
+		[0x45A] Elasmo Legs
+		[0x462] Nasaur Head
+		[0x46A] Nasaur Body
+		[0x472] Nasaur Arms
+		[0x47A] Nasaur Legs
+		[0x482] Brontoth Head
+		[0x48A] Brontoth Body
+		[0x492] Brontoth Arms
+		[0x49A] Brontoth Legs
+		[0x4A2] Alio Head
+		[0x4AA] Alio Body
+		[0x4B2] Alio Arms
+		[0x4BA] Alio Legs
+		[0x4C2] Onyx Head
+		[0x4CA] Onyx Body
+		[0x4D2] Onyx Arms
+		[0x4DA] Onyx Legs
+		[0x4E2] Elasmo Head
+		[0x4EA] Elasmo Body
+		[0x4F2] Elasmo Arms
+		[0x4FA] Elasmo Legs
+		[0x502] Nasaur Head
+		[0x50A] Nasaur Body
+		[0x512] Nasaur Arms
+		[0x51A] Nasaur Legs
+		[0x522] Brontoth Head
+		[0x52A] Brontoth Body
+		[0x532] Brontoth Arms
+		[0x53A] Brontoth Legs
+		[0x542] Alio Head
+		[0x54A] Alio Body
+		[0x552] Alio Arms
+		[0x55A] Alio Legs
+		[0x562] Onyx Head
+		[0x56A] Onyx Body
+		[0x572] Onyx Arms
+		[0x57A] Onyx Legs
+		[0x582] Elasmo Head
+		[0x58A] Elasmo Body
+		[0x592] Elasmo Arms
+		[0x59A] Elasmo Legs
+		[0x5A2] Nasaur Head
+		[0x5AA] Nasaur Body
+		[0x5B2] Nasaur Arms
+		[0x5BA] Nasaur Legs
+		[0x5C2] Brontoth Head
+		[0x5CA] Brontoth Body
+		[0x5D2] Brontoth Arms
+		[0x5DA] Brontoth Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other2
+		[0x602] Silver Body
+		[0x60A] Gold Head
+	Table 03:
+		[0x63E] Alio Head
+		[0x646] Alio Body
+		[0x64E] Alio Arms
+		[0x656] Alio Legs
+		[0x65E] Onyx Head
+		[0x666] Onyx Body
+		[0x66E] Onyx Arms
+		[0x676] Onyx Legs
+		[0x67E] Elasmo Head
+		[0x686] Elasmo Body
+		[0x68E] Elasmo Arms
+		[0x696] Elasmo Legs
+		[0x69E] Nasaur Head
+		[0x6A6] Nasaur Body
+		[0x6AE] Nasaur Arms
+		[0x6B6] Nasaur Legs
+		[0x6BE] Brontoth Head
+		[0x6C6] Brontoth Body
+		[0x6CE] Brontoth Arms
+		[0x6D6] Brontoth Legs
+		[0x6DE] Alio Head
+		[0x6E6] Alio Body
+		[0x6EE] Alio Arms
+		[0x6F6] Alio Legs
+		[0x6FE] Onyx Head
+		[0x706] Onyx Body
+		[0x70E] Onyx Arms
+		[0x716] Onyx Legs
+		[0x71E] Elasmo Head
+		[0x726] Elasmo Body
+		[0x72E] Elasmo Arms
+		[0x736] Elasmo Legs
+		[0x73E] Nasaur Head
+		[0x746] Nasaur Body
+		[0x74E] Nasaur Arms
+		[0x756] Nasaur Legs
+		[0x75E] Brontoth Head
+		[0x766] Brontoth Body
+		[0x76E] Brontoth Arms
+		[0x776] Brontoth Legs
+		[0x77E] Alio Head
+		[0x786] Alio Body
+		[0x78E] Alio Arms
+		[0x796] Alio Legs
+		[0x79E] Onyx Head
+		[0x7A6] Onyx Body
+		[0x7AE] Onyx Arms
+		[0x7B6] Onyx Legs
+		[0x7BE] Elasmo Head
+		[0x7C6] Elasmo Body
+		[0x7CE] Elasmo Arms
+		[0x7D6] Elasmo Legs
+		[0x7DE] Nasaur Head
+		[0x7E6] Nasaur Body
+		[0x7EE] Nasaur Arms
+		[0x7F6] Nasaur Legs
+		[0x7FE] Brontoth Head
+		[0x806] Brontoth Body
+		[0x80E] Brontoth Arms
+		[0x816] Brontoth Legs
+		[0x81E] Other1
+		[0x826] Other1
+		[0x82E] Other1
+		[0x836] Other2
+		[0x83E] Silver Body
+		[0x846] Gold Head
+Zone 02:
+	Table 01:
+		[0x8A2] Siamo Head
+	Table 02:
+		[0x8D6] Siamo Body
+	Table 03:
+		[0x90A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x966] Nychus Head
+	Table 02:
+		[0x99A] Nychus Body
+	Table 03:
+		[0x9CE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA2A] Cryo Head
+	Table 02:
+		[0xA5E] Cryo Body
+	Table 03:
+		[0xA92] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xAEE] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB56] Sucho Arms
+
+4106:
+Zone 01:
+	Table 01:
+		[0x1C6] M-Raptor Head
+		[0x1CE] M-Raptor Body
+		[0x1D6] M-Raptor Arms
+		[0x1DE] M-Raptor Legs
+		[0x1E6] V-Raptor Head
+		[0x1EE] V-Raptor Body
+		[0x1F6] V-Raptor Arms
+		[0x1FE] V-Raptor Legs
+		[0x206] Cheirus Head
+		[0x20E] Cheirus Body
+		[0x216] Cheirus Arms
+		[0x21E] Cheirus Legs
+		[0x226] Paraloph Head
+		[0x22E] Paraloph Body
+		[0x236] Paraloph Arms
+		[0x23E] Paraloph Legs
+		[0x246] Ptera Head
+		[0x24E] Ptera Body
+		[0x256] Ptera Arms
+		[0x25E] Ptera Legs
+		[0x266] M-Raptor Head
+		[0x26E] M-Raptor Body
+		[0x276] M-Raptor Arms
+		[0x27E] M-Raptor Legs
+		[0x286] V-Raptor Head
+		[0x28E] V-Raptor Body
+		[0x296] V-Raptor Arms
+		[0x29E] V-Raptor Legs
+		[0x2A6] Cheirus Head
+		[0x2AE] Cheirus Body
+		[0x2B6] Cheirus Arms
+		[0x2BE] Cheirus Legs
+		[0x2C6] Paraloph Head
+		[0x2CE] Paraloph Body
+		[0x2D6] Paraloph Arms
+		[0x2DE] Paraloph Legs
+		[0x2E6] Ptera Head
+		[0x2EE] Ptera Body
+		[0x2F6] Ptera Arms
+		[0x2FE] Ptera Legs
+		[0x306] M-Raptor Head
+		[0x30E] M-Raptor Body
+		[0x316] M-Raptor Arms
+		[0x31E] M-Raptor Legs
+		[0x326] V-Raptor Head
+		[0x32E] V-Raptor Body
+		[0x336] V-Raptor Arms
+		[0x33E] V-Raptor Legs
+		[0x346] Cheirus Head
+		[0x34E] Cheirus Body
+		[0x356] Cheirus Arms
+		[0x35E] Cheirus Legs
+		[0x366] Paraloph Head
+		[0x36E] Paraloph Body
+		[0x376] Paraloph Arms
+		[0x37E] Paraloph Legs
+		[0x386] Ptera Head
+		[0x38E] Ptera Body
+		[0x396] Ptera Arms
+		[0x39E] Ptera Legs
+		[0x3A6] Other1
+		[0x3AE] Other1
+		[0x3B6] Other1
+		[0x3BE] Other2
+		[0x3C6] Silver Arms
+		[0x3CE] Gold Head
+	Table 02:
+		[0x402] M-Raptor Head
+		[0x40A] M-Raptor Body
+		[0x412] M-Raptor Arms
+		[0x41A] M-Raptor Legs
+		[0x422] V-Raptor Head
+		[0x42A] V-Raptor Body
+		[0x432] V-Raptor Arms
+		[0x43A] V-Raptor Legs
+		[0x442] Cheirus Head
+		[0x44A] Cheirus Body
+		[0x452] Cheirus Arms
+		[0x45A] Cheirus Legs
+		[0x462] Paraloph Head
+		[0x46A] Paraloph Body
+		[0x472] Paraloph Arms
+		[0x47A] Paraloph Legs
+		[0x482] Ptera Head
+		[0x48A] Ptera Body
+		[0x492] Ptera Arms
+		[0x49A] Ptera Legs
+		[0x4A2] M-Raptor Head
+		[0x4AA] M-Raptor Body
+		[0x4B2] M-Raptor Arms
+		[0x4BA] M-Raptor Legs
+		[0x4C2] V-Raptor Head
+		[0x4CA] V-Raptor Body
+		[0x4D2] V-Raptor Arms
+		[0x4DA] V-Raptor Legs
+		[0x4E2] Cheirus Head
+		[0x4EA] Cheirus Body
+		[0x4F2] Cheirus Arms
+		[0x4FA] Cheirus Legs
+		[0x502] Paraloph Head
+		[0x50A] Paraloph Body
+		[0x512] Paraloph Arms
+		[0x51A] Paraloph Legs
+		[0x522] Ptera Head
+		[0x52A] Ptera Body
+		[0x532] Ptera Arms
+		[0x53A] Ptera Legs
+		[0x542] M-Raptor Head
+		[0x54A] M-Raptor Body
+		[0x552] M-Raptor Arms
+		[0x55A] M-Raptor Legs
+		[0x562] V-Raptor Head
+		[0x56A] V-Raptor Body
+		[0x572] V-Raptor Arms
+		[0x57A] V-Raptor Legs
+		[0x582] Cheirus Head
+		[0x58A] Cheirus Body
+		[0x592] Cheirus Arms
+		[0x59A] Cheirus Legs
+		[0x5A2] Paraloph Head
+		[0x5AA] Paraloph Body
+		[0x5B2] Paraloph Arms
+		[0x5BA] Paraloph Legs
+		[0x5C2] Ptera Head
+		[0x5CA] Ptera Body
+		[0x5D2] Ptera Arms
+		[0x5DA] Ptera Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other2
+		[0x602] Silver Arms
+		[0x60A] Gold Head
+	Table 03:
+		[0x63E] M-Raptor Head
+		[0x646] M-Raptor Body
+		[0x64E] M-Raptor Arms
+		[0x656] M-Raptor Legs
+		[0x65E] V-Raptor Head
+		[0x666] V-Raptor Body
+		[0x66E] V-Raptor Arms
+		[0x676] V-Raptor Legs
+		[0x67E] Cheirus Head
+		[0x686] Cheirus Body
+		[0x68E] Cheirus Arms
+		[0x696] Cheirus Legs
+		[0x69E] Paraloph Head
+		[0x6A6] Paraloph Body
+		[0x6AE] Paraloph Arms
+		[0x6B6] Paraloph Legs
+		[0x6BE] Ptera Head
+		[0x6C6] Ptera Body
+		[0x6CE] Ptera Arms
+		[0x6D6] Ptera Legs
+		[0x6DE] M-Raptor Head
+		[0x6E6] M-Raptor Body
+		[0x6EE] M-Raptor Arms
+		[0x6F6] M-Raptor Legs
+		[0x6FE] V-Raptor Head
+		[0x706] V-Raptor Body
+		[0x70E] V-Raptor Arms
+		[0x716] V-Raptor Legs
+		[0x71E] Cheirus Head
+		[0x726] Cheirus Body
+		[0x72E] Cheirus Arms
+		[0x736] Cheirus Legs
+		[0x73E] Paraloph Head
+		[0x746] Paraloph Body
+		[0x74E] Paraloph Arms
+		[0x756] Paraloph Legs
+		[0x75E] Ptera Head
+		[0x766] Ptera Body
+		[0x76E] Ptera Arms
+		[0x776] Ptera Legs
+		[0x77E] M-Raptor Head
+		[0x786] M-Raptor Body
+		[0x78E] M-Raptor Arms
+		[0x796] M-Raptor Legs
+		[0x79E] V-Raptor Head
+		[0x7A6] V-Raptor Body
+		[0x7AE] V-Raptor Arms
+		[0x7B6] V-Raptor Legs
+		[0x7BE] Cheirus Head
+		[0x7C6] Cheirus Body
+		[0x7CE] Cheirus Arms
+		[0x7D6] Cheirus Legs
+		[0x7DE] Paraloph Head
+		[0x7E6] Paraloph Body
+		[0x7EE] Paraloph Arms
+		[0x7F6] Paraloph Legs
+		[0x7FE] Ptera Head
+		[0x806] Ptera Body
+		[0x80E] Ptera Arms
+		[0x816] Ptera Legs
+		[0x81E] Other1
+		[0x826] Other1
+		[0x82E] Other1
+		[0x836] Other2
+		[0x83E] Silver Arms
+		[0x846] Gold Head
+Zone 02:
+	Table 01:
+		[0x8A2] Siamo Head
+	Table 02:
+		[0x8D6] Siamo Body
+	Table 03:
+		[0x90A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x966] Nychus Head
+	Table 02:
+		[0x99A] Nychus Body
+	Table 03:
+		[0x9CE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA2A] Cryo Head
+	Table 02:
+		[0xA5E] Cryo Body
+	Table 03:
+		[0xA92] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xAEE] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB56] Sucho Arms
+
+4107:
+Zone 01:
+	Table 01:
+		[0x1C6] Salto Head
+		[0x1CE] Salto Body
+		[0x1D6] Salto Arms
+		[0x1DE] Salto Legs
+		[0x1E6] Lexo Head
+		[0x1EE] Lexo Body
+		[0x1F6] Lexo Arms
+		[0x1FE] Lexo Legs
+		[0x206] Pelto Head
+		[0x20E] Pelto Body
+		[0x216] Pelto Arms
+		[0x21E] Pelto Legs
+		[0x226] Ourano Head
+		[0x22E] Ourano Body
+		[0x236] Ourano Arms
+		[0x23E] Ourano Legs
+		[0x246] Arsith Head
+		[0x24E] Arsith Body
+		[0x256] Arsith Arms
+		[0x25E] Arsith Legs
+		[0x266] Salto Head
+		[0x26E] Salto Body
+		[0x276] Salto Arms
+		[0x27E] Salto Legs
+		[0x286] Lexo Head
+		[0x28E] Lexo Body
+		[0x296] Lexo Arms
+		[0x29E] Lexo Legs
+		[0x2A6] Pelto Head
+		[0x2AE] Pelto Body
+		[0x2B6] Pelto Arms
+		[0x2BE] Pelto Legs
+		[0x2C6] Ourano Head
+		[0x2CE] Ourano Body
+		[0x2D6] Ourano Arms
+		[0x2DE] Ourano Legs
+		[0x2E6] Arsith Head
+		[0x2EE] Arsith Body
+		[0x2F6] Arsith Arms
+		[0x2FE] Arsith Legs
+		[0x306] Salto Head
+		[0x30E] Salto Body
+		[0x316] Salto Arms
+		[0x31E] Salto Legs
+		[0x326] Lexo Head
+		[0x32E] Lexo Body
+		[0x336] Lexo Arms
+		[0x33E] Lexo Legs
+		[0x346] Pelto Head
+		[0x34E] Pelto Body
+		[0x356] Pelto Arms
+		[0x35E] Pelto Legs
+		[0x366] Ourano Head
+		[0x36E] Ourano Body
+		[0x376] Ourano Arms
+		[0x37E] Ourano Legs
+		[0x386] Arsith Head
+		[0x38E] Arsith Body
+		[0x396] Arsith Arms
+		[0x39E] Arsith Legs
+		[0x3A6] Other1
+		[0x3AE] Other1
+		[0x3B6] Other1
+		[0x3BE] Other2
+		[0x3C6] Silver Legs
+		[0x3CE] Gold Head
+	Table 02:
+		[0x402] Salto Head
+		[0x40A] Salto Body
+		[0x412] Salto Arms
+		[0x41A] Salto Legs
+		[0x422] Lexo Head
+		[0x42A] Lexo Body
+		[0x432] Lexo Arms
+		[0x43A] Lexo Legs
+		[0x442] Pelto Head
+		[0x44A] Pelto Body
+		[0x452] Pelto Arms
+		[0x45A] Pelto Legs
+		[0x462] Ourano Head
+		[0x46A] Ourano Body
+		[0x472] Ourano Arms
+		[0x47A] Ourano Legs
+		[0x482] Arsith Head
+		[0x48A] Arsith Body
+		[0x492] Arsith Arms
+		[0x49A] Arsith Legs
+		[0x4A2] Salto Head
+		[0x4AA] Salto Body
+		[0x4B2] Salto Arms
+		[0x4BA] Salto Legs
+		[0x4C2] Lexo Head
+		[0x4CA] Lexo Body
+		[0x4D2] Lexo Arms
+		[0x4DA] Lexo Legs
+		[0x4E2] Pelto Head
+		[0x4EA] Pelto Body
+		[0x4F2] Pelto Arms
+		[0x4FA] Pelto Legs
+		[0x502] Ourano Head
+		[0x50A] Ourano Body
+		[0x512] Ourano Arms
+		[0x51A] Ourano Legs
+		[0x522] Arsith Head
+		[0x52A] Arsith Body
+		[0x532] Arsith Arms
+		[0x53A] Arsith Legs
+		[0x542] Salto Head
+		[0x54A] Salto Body
+		[0x552] Salto Arms
+		[0x55A] Salto Legs
+		[0x562] Lexo Head
+		[0x56A] Lexo Body
+		[0x572] Lexo Arms
+		[0x57A] Lexo Legs
+		[0x582] Pelto Head
+		[0x58A] Pelto Body
+		[0x592] Pelto Arms
+		[0x59A] Pelto Legs
+		[0x5A2] Ourano Head
+		[0x5AA] Ourano Body
+		[0x5B2] Ourano Arms
+		[0x5BA] Ourano Legs
+		[0x5C2] Arsith Head
+		[0x5CA] Arsith Body
+		[0x5D2] Arsith Arms
+		[0x5DA] Arsith Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other2
+		[0x602] Silver Legs
+		[0x60A] Gold Head
+	Table 03:
+		[0x63E] Salto Head
+		[0x646] Salto Body
+		[0x64E] Salto Arms
+		[0x656] Salto Legs
+		[0x65E] Lexo Head
+		[0x666] Lexo Body
+		[0x66E] Lexo Arms
+		[0x676] Lexo Legs
+		[0x67E] Pelto Head
+		[0x686] Pelto Body
+		[0x68E] Pelto Arms
+		[0x696] Pelto Legs
+		[0x69E] Ourano Head
+		[0x6A6] Ourano Body
+		[0x6AE] Ourano Arms
+		[0x6B6] Ourano Legs
+		[0x6BE] Arsith Head
+		[0x6C6] Arsith Body
+		[0x6CE] Arsith Arms
+		[0x6D6] Arsith Legs
+		[0x6DE] Salto Head
+		[0x6E6] Salto Body
+		[0x6EE] Salto Arms
+		[0x6F6] Salto Legs
+		[0x6FE] Lexo Head
+		[0x706] Lexo Body
+		[0x70E] Lexo Arms
+		[0x716] Lexo Legs
+		[0x71E] Pelto Head
+		[0x726] Pelto Body
+		[0x72E] Pelto Arms
+		[0x736] Pelto Legs
+		[0x73E] Ourano Head
+		[0x746] Ourano Body
+		[0x74E] Ourano Arms
+		[0x756] Ourano Legs
+		[0x75E] Arsith Head
+		[0x766] Arsith Body
+		[0x76E] Arsith Arms
+		[0x776] Arsith Legs
+		[0x77E] Salto Head
+		[0x786] Salto Body
+		[0x78E] Salto Arms
+		[0x796] Salto Legs
+		[0x79E] Lexo Head
+		[0x7A6] Lexo Body
+		[0x7AE] Lexo Arms
+		[0x7B6] Lexo Legs
+		[0x7BE] Pelto Head
+		[0x7C6] Pelto Body
+		[0x7CE] Pelto Arms
+		[0x7D6] Pelto Legs
+		[0x7DE] Ourano Head
+		[0x7E6] Ourano Body
+		[0x7EE] Ourano Arms
+		[0x7F6] Ourano Legs
+		[0x7FE] Arsith Head
+		[0x806] Arsith Body
+		[0x80E] Arsith Arms
+		[0x816] Arsith Legs
+		[0x81E] Other1
+		[0x826] Other1
+		[0x82E] Other1
+		[0x836] Other2
+		[0x83E] Silver Legs
+		[0x846] Gold Head
+Zone 02:
+	Table 01:
+		[0x8A2] Siamo Head
+	Table 02:
+		[0x8D6] Siamo Body
+	Table 03:
+		[0x90A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x966] Nychus Head
+	Table 02:
+		[0x99A] Nychus Body
+	Table 03:
+		[0x9CE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA2A] Cryo Head
+	Table 02:
+		[0xA5E] Cryo Body
+	Table 03:
+		[0xA92] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xAEE] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB56] Sucho Arms
+
+4108:
+Zone 01:
+	Table 01:
+		[0x1C6] Neo Head
+		[0x1CE] Neo Body
+		[0x1D6] Neo Arms
+		[0x1DE] Neo Legs
+		[0x1E6] Orno Head
+		[0x1EE] Orno Body
+		[0x1F6] Orno Arms
+		[0x1FE] Orno Legs
+		[0x206] O-Raptor Head
+		[0x20E] O-Raptor Body
+		[0x216] O-Raptor Arms
+		[0x21E] O-Raptor Legs
+		[0x226] Apato Head
+		[0x22E] Apato Body
+		[0x236] Apato Arms
+		[0x23E] Apato Legs
+		[0x246] Guera Head
+		[0x24E] Guera Body
+		[0x256] Guera Arms
+		[0x25E] Guera Legs
+		[0x266] Neo Head
+		[0x26E] Neo Body
+		[0x276] Neo Arms
+		[0x27E] Neo Legs
+		[0x286] Orno Head
+		[0x28E] Orno Body
+		[0x296] Orno Arms
+		[0x29E] Orno Legs
+		[0x2A6] O-Raptor Head
+		[0x2AE] O-Raptor Body
+		[0x2B6] O-Raptor Arms
+		[0x2BE] O-Raptor Legs
+		[0x2C6] Apato Head
+		[0x2CE] Apato Body
+		[0x2D6] Apato Arms
+		[0x2DE] Apato Legs
+		[0x2E6] Guera Head
+		[0x2EE] Guera Body
+		[0x2F6] Guera Arms
+		[0x2FE] Guera Legs
+		[0x306] Neo Head
+		[0x30E] Neo Body
+		[0x316] Neo Arms
+		[0x31E] Neo Legs
+		[0x326] Orno Head
+		[0x32E] Orno Body
+		[0x336] Orno Arms
+		[0x33E] Orno Legs
+		[0x346] O-Raptor Head
+		[0x34E] O-Raptor Body
+		[0x356] O-Raptor Arms
+		[0x35E] O-Raptor Legs
+		[0x366] Apato Head
+		[0x36E] Apato Body
+		[0x376] Apato Arms
+		[0x37E] Apato Legs
+		[0x386] Guera Head
+		[0x38E] Guera Body
+		[0x396] Guera Arms
+		[0x39E] Guera Legs
+		[0x3A6] Other1
+		[0x3AE] Other1
+		[0x3B6] Other1
+		[0x3BE] Other2
+		[0x3C6] Silver Legs
+		[0x3CE] Gold Head
+	Table 02:
+		[0x402] Neo Head
+		[0x40A] Neo Body
+		[0x412] Neo Arms
+		[0x41A] Neo Legs
+		[0x422] Orno Head
+		[0x42A] Orno Body
+		[0x432] Orno Arms
+		[0x43A] Orno Legs
+		[0x442] O-Raptor Head
+		[0x44A] O-Raptor Body
+		[0x452] O-Raptor Arms
+		[0x45A] O-Raptor Legs
+		[0x462] Apato Head
+		[0x46A] Apato Body
+		[0x472] Apato Arms
+		[0x47A] Apato Legs
+		[0x482] Guera Head
+		[0x48A] Guera Body
+		[0x492] Guera Arms
+		[0x49A] Guera Legs
+		[0x4A2] Neo Head
+		[0x4AA] Neo Body
+		[0x4B2] Neo Arms
+		[0x4BA] Neo Legs
+		[0x4C2] Orno Head
+		[0x4CA] Orno Body
+		[0x4D2] Orno Arms
+		[0x4DA] Orno Legs
+		[0x4E2] O-Raptor Head
+		[0x4EA] O-Raptor Body
+		[0x4F2] O-Raptor Arms
+		[0x4FA] O-Raptor Legs
+		[0x502] Apato Head
+		[0x50A] Apato Body
+		[0x512] Apato Arms
+		[0x51A] Apato Legs
+		[0x522] Guera Head
+		[0x52A] Guera Body
+		[0x532] Guera Arms
+		[0x53A] Guera Legs
+		[0x542] Neo Head
+		[0x54A] Neo Body
+		[0x552] Neo Arms
+		[0x55A] Neo Legs
+		[0x562] Orno Head
+		[0x56A] Orno Body
+		[0x572] Orno Arms
+		[0x57A] Orno Legs
+		[0x582] O-Raptor Head
+		[0x58A] O-Raptor Body
+		[0x592] O-Raptor Arms
+		[0x59A] O-Raptor Legs
+		[0x5A2] Apato Head
+		[0x5AA] Apato Body
+		[0x5B2] Apato Arms
+		[0x5BA] Apato Legs
+		[0x5C2] Guera Head
+		[0x5CA] Guera Body
+		[0x5D2] Guera Arms
+		[0x5DA] Guera Legs
+		[0x5E2] Other1
+		[0x5EA] Other1
+		[0x5F2] Other1
+		[0x5FA] Other2
+		[0x602] Silver Legs
+		[0x60A] Gold Head
+	Table 03:
+		[0x63E] Neo Head
+		[0x646] Neo Body
+		[0x64E] Neo Arms
+		[0x656] Neo Legs
+		[0x65E] Orno Head
+		[0x666] Orno Body
+		[0x66E] Orno Arms
+		[0x676] Orno Legs
+		[0x67E] O-Raptor Head
+		[0x686] O-Raptor Body
+		[0x68E] O-Raptor Arms
+		[0x696] O-Raptor Legs
+		[0x69E] Apato Head
+		[0x6A6] Apato Body
+		[0x6AE] Apato Arms
+		[0x6B6] Apato Legs
+		[0x6BE] Guera Head
+		[0x6C6] Guera Body
+		[0x6CE] Guera Arms
+		[0x6D6] Guera Legs
+		[0x6DE] Neo Head
+		[0x6E6] Neo Body
+		[0x6EE] Neo Arms
+		[0x6F6] Neo Legs
+		[0x6FE] Orno Head
+		[0x706] Orno Body
+		[0x70E] Orno Arms
+		[0x716] Orno Legs
+		[0x71E] O-Raptor Head
+		[0x726] O-Raptor Body
+		[0x72E] O-Raptor Arms
+		[0x736] O-Raptor Legs
+		[0x73E] Apato Head
+		[0x746] Apato Body
+		[0x74E] Apato Arms
+		[0x756] Apato Legs
+		[0x75E] Guera Head
+		[0x766] Guera Body
+		[0x76E] Guera Arms
+		[0x776] Guera Legs
+		[0x77E] Neo Head
+		[0x786] Neo Body
+		[0x78E] Neo Arms
+		[0x796] Neo Legs
+		[0x79E] Orno Head
+		[0x7A6] Orno Body
+		[0x7AE] Orno Arms
+		[0x7B6] Orno Legs
+		[0x7BE] O-Raptor Head
+		[0x7C6] O-Raptor Body
+		[0x7CE] O-Raptor Arms
+		[0x7D6] O-Raptor Legs
+		[0x7DE] Apato Head
+		[0x7E6] Apato Body
+		[0x7EE] Apato Arms
+		[0x7F6] Apato Legs
+		[0x7FE] Guera Head
+		[0x806] Guera Body
+		[0x80E] Guera Arms
+		[0x816] Guera Legs
+		[0x81E] Other1
+		[0x826] Other1
+		[0x82E] Other1
+		[0x836] Other2
+		[0x83E] Silver Legs
+		[0x846] Gold Head
+Zone 02:
+	Table 01:
+		[0x8A2] Siamo Head
+	Table 02:
+		[0x8D6] Siamo Body
+	Table 03:
+		[0x90A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x966] Nychus Head
+	Table 02:
+		[0x99A] Nychus Body
+	Table 03:
+		[0x9CE] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA2A] Cryo Head
+	Table 02:
+		[0xA5E] Cryo Body
+	Table 03:
+		[0xA92] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xAEE] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB56] Sucho Arms
+
+4300:
+Zone 01:
+	Table 01:
+		[0x1EE] Venator Head
+		[0x1F6] Venator Head
+		[0x1FE] Venator Body
+		[0x206] Venator Body
+		[0x20E] Venator Arms
+		[0x216] Venator Legs
+		[0x21E] Amargo Head
+		[0x226] Amargo Head
+		[0x22E] Amargo Body
+		[0x236] Amargo Body
+		[0x23E] Amargo Arms
+		[0x246] Amargo Legs
+		[0x24E] Lagia Head
+		[0x256] Lagia Head
+		[0x25E] Lagia Body
+		[0x266] Lagia Body
+		[0x26E] Lagia Arms
+		[0x276] Lagia Legs
+		[0x27E] Venator Head
+		[0x286] Venator Body
+		[0x28E] Venator Arms
+		[0x296] Venator Legs
+		[0x29E] Amargo Head
+		[0x2A6] Amargo Body
+		[0x2AE] Amargo Arms
+		[0x2B6] Amargo Legs
+		[0x2BE] Lagia Head
+		[0x2C6] Lagia Body
+		[0x2CE] Lagia Arms
+		[0x2D6] Lagia Legs
+		[0x2DE] Venator Head
+		[0x2E6] Venator Body
+		[0x2EE] Venator Arms
+		[0x2F6] Venator Legs
+		[0x2FE] Amargo Head
+		[0x306] Amargo Body
+		[0x30E] Amargo Arms
+		[0x316] Amargo Legs
+		[0x31E] Lagia Head
+		[0x326] Lagia Body
+		[0x32E] Lagia Arms
+		[0x336] Lagia Legs
+		[0x33E] Other1
+		[0x346] Other1
+		[0x34E] Other1
+		[0x356] Other1
+		[0x35E] Other2
+		[0x366] Other2
+		[0x36E] Other2
+		[0x376] Silver Head
+		[0x37E] Gold Head
+	Table 02:
+		[0x3C6] Venator Head
+		[0x3CE] Venator Head
+		[0x3D6] Venator Body
+		[0x3DE] Venator Body
+		[0x3E6] Venator Arms
+		[0x3EE] Venator Arms
+		[0x3F6] Venator Legs
+		[0x3FE] Amargo Head
+		[0x406] Amargo Head
+		[0x40E] Amargo Body
+		[0x416] Amargo Body
+		[0x41E] Amargo Arms
+		[0x426] Amargo Arms
+		[0x42E] Amargo Legs
+		[0x436] Lagia Head
+		[0x43E] Lagia Head
+		[0x446] Lagia Body
+		[0x44E] Lagia Body
+		[0x456] Lagia Arms
+		[0x45E] Lagia Arms
+		[0x466] Lagia Legs
+		[0x46E] Venator Head
+		[0x476] Venator Body
+		[0x47E] Venator Arms
+		[0x486] Venator Legs
+		[0x48E] Amargo Head
+		[0x496] Amargo Body
+		[0x49E] Amargo Arms
+		[0x4A6] Amargo Legs
+		[0x4AE] Lagia Head
+		[0x4B6] Lagia Body
+		[0x4BE] Lagia Arms
+		[0x4C6] Lagia Legs
+		[0x4CE] Venator Head
+		[0x4D6] Venator Body
+		[0x4DE] Venator Arms
+		[0x4E6] Venator Legs
+		[0x4EE] Amargo Head
+		[0x4F6] Amargo Body
+		[0x4FE] Amargo Arms
+		[0x506] Amargo Legs
+		[0x50E] Lagia Head
+		[0x516] Lagia Body
+		[0x51E] Lagia Arms
+		[0x526] Lagia Legs
+		[0x52E] Other1
+		[0x536] Other1
+		[0x53E] Other1
+		[0x546] Other1
+		[0x54E] Other2
+		[0x556] Other2
+		[0x55E] Other2
+		[0x566] Silver Head
+		[0x56E] Gold Head
+	Table 03:
+		[0x5B6] Guan Head
+		[0x5BE] Venator Head
+		[0x5C6] Venator Body
+		[0x5CE] Venator Arms
+		[0x5D6] Venator Legs
+		[0x5DE] Amargo Head
+		[0x5E6] Amargo Body
+		[0x5EE] Amargo Arms
+		[0x5F6] Amargo Legs
+		[0x5FE] Lagia Head
+		[0x606] Lagia Body
+		[0x60E] Lagia Arms
+		[0x616] Lagia Legs
+		[0x61E] Venator Head
+		[0x626] Venator Body
+		[0x62E] Venator Arms
+		[0x636] Venator Legs
+		[0x63E] Amargo Head
+		[0x646] Amargo Body
+		[0x64E] Amargo Arms
+		[0x656] Amargo Legs
+		[0x65E] Lagia Head
+		[0x666] Lagia Body
+		[0x66E] Lagia Arms
+		[0x676] Lagia Legs
+		[0x67E] Venator Head
+		[0x686] Venator Body
+		[0x68E] Venator Arms
+		[0x696] Venator Legs
+		[0x69E] Amargo Head
+		[0x6A6] Amargo Body
+		[0x6AE] Amargo Arms
+		[0x6B6] Amargo Legs
+		[0x6BE] Lagia Head
+		[0x6C6] Lagia Body
+		[0x6CE] Lagia Arms
+		[0x6D6] Lagia Legs
+		[0x6DE] Other1
+		[0x6E6] Other1
+		[0x6EE] Other1
+		[0x6F6] Other1
+		[0x6FE] Other2
+		[0x706] Other2
+		[0x70E] Other2
+		[0x716] Silver Head
+		[0x71E] Gold Head
+Zone 02:
+	Table 01:
+		[0x78E] Dikelo Single
+		[0x796] Dikelo Single
+		[0x79E] S-Raptor Head
+		[0x7A6] S-Raptor Head
+		[0x7AE] S-Raptor Body
+		[0x7B6] S-Raptor Body
+		[0x7BE] S-Raptor Arms
+		[0x7C6] S-Raptor Legs
+		[0x7CE] Acro Head
+		[0x7D6] Acro Head
+		[0x7DE] Acro Body
+		[0x7E6] Acro Body
+		[0x7EE] Acro Arms
+		[0x7F6] Acro Legs
+		[0x7FE] Dikelo Single
+		[0x806] S-Raptor Head
+		[0x80E] S-Raptor Body
+		[0x816] S-Raptor Arms
+		[0x81E] S-Raptor Legs
+		[0x826] Acro Head
+		[0x82E] Acro Body
+		[0x836] Acro Arms
+		[0x83E] Acro Legs
+		[0x846] Dikelo Single
+		[0x84E] S-Raptor Head
+		[0x856] S-Raptor Body
+		[0x85E] S-Raptor Arms
+		[0x866] S-Raptor Legs
+		[0x86E] Acro Head
+		[0x876] Acro Body
+		[0x87E] Acro Arms
+		[0x886] Acro Legs
+		[0x88E] Other1
+		[0x896] Other1
+		[0x89E] Other1
+		[0x8A6] Other1
+		[0x8AE] Other2
+		[0x8B6] Other2
+		[0x8BE] Other2
+		[0x8C6] Silver Head
+		[0x8CE] Gold Head
+	Table 02:
+		[0x916] Dikelo Single
+		[0x91E] Dikelo Single
+		[0x926] S-Raptor Head
+		[0x92E] S-Raptor Head
+		[0x936] S-Raptor Body
+		[0x93E] S-Raptor Body
+		[0x946] S-Raptor Arms
+		[0x94E] S-Raptor Arms
+		[0x956] S-Raptor Legs
+		[0x95E] Acro Head
+		[0x966] Acro Head
+		[0x96E] Acro Body
+		[0x976] Acro Body
+		[0x97E] Acro Arms
+		[0x986] Acro Arms
+		[0x98E] Acro Legs
+		[0x996] Dikelo Single
+		[0x99E] S-Raptor Head
+		[0x9A6] S-Raptor Body
+		[0x9AE] S-Raptor Arms
+		[0x9B6] S-Raptor Legs
+		[0x9BE] Acro Head
+		[0x9C6] Acro Body
+		[0x9CE] Acro Arms
+		[0x9D6] Acro Legs
+		[0x9DE] Dikelo Single
+		[0x9E6] S-Raptor Head
+		[0x9EE] S-Raptor Body
+		[0x9F6] S-Raptor Arms
+		[0x9FE] S-Raptor Legs
+		[0xA06] Acro Head
+		[0xA0E] Acro Body
+		[0xA16] Acro Arms
+		[0xA1E] Acro Legs
+		[0xA26] Other1
+		[0xA2E] Other1
+		[0xA36] Other1
+		[0xA3E] Other1
+		[0xA46] Other2
+		[0xA4E] Other2
+		[0xA56] Other2
+		[0xA5E] Silver Head
+		[0xA66] Gold Head
+	Table 03:
+		[0xAAE] Argento Head
+		[0xAB6] Dikelo Single
+		[0xABE] S-Raptor Head
+		[0xAC6] S-Raptor Body
+		[0xACE] S-Raptor Arms
+		[0xAD6] S-Raptor Legs
+		[0xADE] Acro Head
+		[0xAE6] Acro Body
+		[0xAEE] Acro Arms
+		[0xAF6] Acro Legs
+		[0xAFE] Dikelo Single
+		[0xB06] S-Raptor Head
+		[0xB0E] S-Raptor Body
+		[0xB16] S-Raptor Arms
+		[0xB1E] S-Raptor Legs
+		[0xB26] Acro Head
+		[0xB2E] Acro Body
+		[0xB36] Acro Arms
+		[0xB3E] Acro Legs
+		[0xB46] Dikelo Single
+		[0xB4E] S-Raptor Head
+		[0xB56] S-Raptor Body
+		[0xB5E] S-Raptor Arms
+		[0xB66] S-Raptor Legs
+		[0xB6E] Acro Head
+		[0xB76] Acro Body
+		[0xB7E] Acro Arms
+		[0xB86] Acro Legs
+		[0xB8E] Other1
+		[0xB96] Other1
+		[0xB9E] Other1
+		[0xBA6] Other1
+		[0xBAE] Other2
+		[0xBB6] Other2
+		[0xBBE] Other2
+		[0xBC6] Silver Head
+		[0xBCE] Gold Head
+Zone 03:
+	Table 01:
+		[0xC3E] Stygi Head
+		[0xC46] Stygi Head
+		[0xC4E] Stygi Body
+		[0xC56] Stygi Body
+		[0xC5E] Stygi Arms
+		[0xC66] Stygi Legs
+		[0xC6E] Penta Head
+		[0xC76] Penta Head
+		[0xC7E] Penta Body
+		[0xC86] Penta Body
+		[0xC8E] Penta Arms
+		[0xC96] Penta Legs
+		[0xC9E] Anan Head
+		[0xCA6] Anan Head
+		[0xCAE] Anan Body
+		[0xCB6] Anan Body
+		[0xCBE] Anan Arms
+		[0xCC6] Anan Legs
+		[0xCCE] Stygi Head
+		[0xCD6] Stygi Body
+		[0xCDE] Stygi Arms
+		[0xCE6] Stygi Legs
+		[0xCEE] Penta Head
+		[0xCF6] Penta Body
+		[0xCFE] Penta Arms
+		[0xD06] Penta Legs
+		[0xD0E] Anan Head
+		[0xD16] Anan Body
+		[0xD1E] Anan Arms
+		[0xD26] Anan Legs
+		[0xD2E] Stygi Head
+		[0xD36] Stygi Body
+		[0xD3E] Stygi Arms
+		[0xD46] Stygi Legs
+		[0xD4E] Penta Head
+		[0xD56] Penta Body
+		[0xD5E] Penta Arms
+		[0xD66] Penta Legs
+		[0xD6E] Anan Head
+		[0xD76] Anan Body
+		[0xD7E] Anan Arms
+		[0xD86] Anan Legs
+		[0xD8E] Other1
+		[0xD96] Other1
+		[0xD9E] Other1
+		[0xDA6] Other1
+		[0xDAE] Other2
+		[0xDB6] Other2
+		[0xDBE] Other2
+		[0xDC6] Silver Head
+		[0xDCE] Gold Head
+	Table 02:
+		[0xE16] Stygi Head
+		[0xE1E] Stygi Head
+		[0xE26] Stygi Body
+		[0xE2E] Stygi Body
+		[0xE36] Stygi Arms
+		[0xE3E] Stygi Arms
+		[0xE46] Stygi Legs
+		[0xE4E] Penta Head
+		[0xE56] Penta Head
+		[0xE5E] Penta Body
+		[0xE66] Penta Body
+		[0xE6E] Penta Arms
+		[0xE76] Penta Arms
+		[0xE7E] Penta Legs
+		[0xE86] Anan Head
+		[0xE8E] Anan Head
+		[0xE96] Anan Body
+		[0xE9E] Anan Body
+		[0xEA6] Anan Arms
+		[0xEAE] Anan Arms
+		[0xEB6] Anan Legs
+		[0xEBE] Stygi Head
+		[0xEC6] Stygi Body
+		[0xECE] Stygi Arms
+		[0xED6] Stygi Legs
+		[0xEDE] Penta Head
+		[0xEE6] Penta Body
+		[0xEEE] Penta Arms
+		[0xEF6] Penta Legs
+		[0xEFE] Anan Head
+		[0xF06] Anan Body
+		[0xF0E] Anan Arms
+		[0xF16] Anan Legs
+		[0xF1E] Stygi Head
+		[0xF26] Stygi Body
+		[0xF2E] Stygi Arms
+		[0xF36] Stygi Legs
+		[0xF3E] Penta Head
+		[0xF46] Penta Body
+		[0xF4E] Penta Arms
+		[0xF56] Penta Legs
+		[0xF5E] Anan Head
+		[0xF66] Anan Body
+		[0xF6E] Anan Arms
+		[0xF76] Anan Legs
+		[0xF7E] Other1
+		[0xF86] Other1
+		[0xF8E] Other1
+		[0xF96] Other1
+		[0xF9E] Other2
+		[0xFA6] Other2
+		[0xFAE] Other2
+		[0xFB6] Silver Head
+		[0xFBE] Gold Head
+	Table 03:
+		[0x1006] Centro Head
+		[0x100E] Stygi Head
+		[0x1016] Stygi Body
+		[0x101E] Stygi Arms
+		[0x1026] Stygi Legs
+		[0x102E] Penta Head
+		[0x1036] Penta Body
+		[0x103E] Penta Arms
+		[0x1046] Penta Legs
+		[0x104E] Anan Head
+		[0x1056] Anan Body
+		[0x105E] Anan Arms
+		[0x1066] Anan Legs
+		[0x106E] Stygi Head
+		[0x1076] Stygi Body
+		[0x107E] Stygi Arms
+		[0x1086] Stygi Legs
+		[0x108E] Penta Head
+		[0x1096] Penta Body
+		[0x109E] Penta Arms
+		[0x10A6] Penta Legs
+		[0x10AE] Anan Head
+		[0x10B6] Anan Body
+		[0x10BE] Anan Arms
+		[0x10C6] Anan Legs
+		[0x10CE] Stygi Head
+		[0x10D6] Stygi Body
+		[0x10DE] Stygi Arms
+		[0x10E6] Stygi Legs
+		[0x10EE] Penta Head
+		[0x10F6] Penta Body
+		[0x10FE] Penta Arms
+		[0x1106] Penta Legs
+		[0x110E] Anan Head
+		[0x1116] Anan Body
+		[0x111E] Anan Arms
+		[0x1126] Anan Legs
+		[0x112E] Other1
+		[0x1136] Other1
+		[0x113E] Other1
+		[0x1146] Other1
+		[0x114E] Other2
+		[0x1156] Other2
+		[0x115E] Other2
+		[0x1166] Silver Head
+		[0x116E] Gold Head
+Zone 04:
+	Table 01:
+		[0x11DE] Cryo Head
+	Table 02:
+		[0x1226] Cryo Body
+	Table 03:
+		[0x126E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x12DE] Sucho Head
+	Table 02:
+		[0x1326] Sucho Body
+	Table 03:
+		[0x136E] Sucho Arms
+
+4301:
+Zone 01:
+	Table 01:
+		[0x1DA] Siamo Head
+		[0x1E2] Siamo Body
+		[0x1EA] Siamo Arms
+		[0x1F2] Siamo Legs
+		[0x1FA] Guan Head
+		[0x202] Guan Body
+		[0x20A] Guan Arms
+		[0x212] Guan Legs
+		[0x21A] Andrarch Head
+		[0x222] Andrarch Body
+		[0x22A] Andrarch Arms
+		[0x232] Andrarch Legs
+		[0x23A] Smilo Head
+		[0x242] Smilo Body
+		[0x24A] Smilo Arms
+		[0x252] Smilo Legs
+		[0x25A] E-Raptor Head
+		[0x262] E-Raptor Body
+		[0x26A] E-Raptor Arms
+		[0x272] E-Raptor Legs
+		[0x27A] Argento Head
+		[0x282] Argento Body
+		[0x28A] Argento Arms
+		[0x292] Argento Legs
+		[0x29A] Siamo Head
+		[0x2A2] Siamo Body
+		[0x2AA] Siamo Arms
+		[0x2B2] Siamo Legs
+		[0x2BA] Guan Head
+		[0x2C2] Guan Body
+		[0x2CA] Guan Arms
+		[0x2D2] Guan Legs
+		[0x2DA] Andrarch Head
+		[0x2E2] Andrarch Body
+		[0x2EA] Andrarch Arms
+		[0x2F2] Andrarch Legs
+		[0x2FA] Smilo Head
+		[0x302] Smilo Body
+		[0x30A] Smilo Arms
+		[0x312] Smilo Legs
+		[0x31A] E-Raptor Head
+		[0x322] E-Raptor Body
+		[0x32A] E-Raptor Arms
+		[0x332] E-Raptor Legs
+		[0x33A] Argento Head
+		[0x342] Argento Body
+		[0x34A] Argento Arms
+		[0x352] Argento Legs
+		[0x35A] Siamo Head
+		[0x362] Siamo Body
+		[0x36A] Siamo Arms
+		[0x372] Siamo Legs
+		[0x37A] Guan Head
+		[0x382] Guan Body
+		[0x38A] Guan Arms
+		[0x392] Guan Legs
+		[0x39A] Andrarch Head
+		[0x3A2] Andrarch Body
+		[0x3AA] Andrarch Arms
+		[0x3B2] Andrarch Legs
+		[0x3BA] Smilo Head
+		[0x3C2] Smilo Body
+		[0x3CA] Smilo Arms
+		[0x3D2] Smilo Legs
+		[0x3DA] E-Raptor Head
+		[0x3E2] E-Raptor Body
+		[0x3EA] E-Raptor Arms
+		[0x3F2] E-Raptor Legs
+		[0x3FA] Argento Head
+		[0x402] Argento Body
+		[0x40A] Argento Arms
+		[0x412] Argento Legs
+		[0x41A] Other1
+		[0x422] Other1
+		[0x42A] Other1
+		[0x432] Other1
+		[0x43A] Other2
+		[0x442] Other2
+		[0x44A] Silver Arms
+		[0x452] Gold Head
+	Table 02:
+		[0x49A] Siamo Head
+		[0x4A2] Siamo Body
+		[0x4AA] Siamo Arms
+		[0x4B2] Siamo Legs
+		[0x4BA] Guan Head
+		[0x4C2] Guan Body
+		[0x4CA] Guan Arms
+		[0x4D2] Guan Legs
+		[0x4DA] Andrarch Head
+		[0x4E2] Andrarch Body
+		[0x4EA] Andrarch Arms
+		[0x4F2] Andrarch Legs
+		[0x4FA] Smilo Head
+		[0x502] Smilo Body
+		[0x50A] Smilo Arms
+		[0x512] Smilo Legs
+		[0x51A] E-Raptor Head
+		[0x522] E-Raptor Body
+		[0x52A] E-Raptor Arms
+		[0x532] E-Raptor Legs
+		[0x53A] Argento Head
+		[0x542] Argento Body
+		[0x54A] Argento Arms
+		[0x552] Argento Legs
+		[0x55A] Siamo Head
+		[0x562] Siamo Body
+		[0x56A] Siamo Arms
+		[0x572] Siamo Legs
+		[0x57A] Guan Head
+		[0x582] Guan Body
+		[0x58A] Guan Arms
+		[0x592] Guan Legs
+		[0x59A] Andrarch Head
+		[0x5A2] Andrarch Body
+		[0x5AA] Andrarch Arms
+		[0x5B2] Andrarch Legs
+		[0x5BA] Smilo Head
+		[0x5C2] Smilo Body
+		[0x5CA] Smilo Arms
+		[0x5D2] Smilo Legs
+		[0x5DA] E-Raptor Head
+		[0x5E2] E-Raptor Body
+		[0x5EA] E-Raptor Arms
+		[0x5F2] E-Raptor Legs
+		[0x5FA] Argento Head
+		[0x602] Argento Body
+		[0x60A] Argento Arms
+		[0x612] Argento Legs
+		[0x61A] Siamo Head
+		[0x622] Siamo Body
+		[0x62A] Siamo Arms
+		[0x632] Siamo Legs
+		[0x63A] Guan Head
+		[0x642] Guan Body
+		[0x64A] Guan Arms
+		[0x652] Guan Legs
+		[0x65A] Andrarch Head
+		[0x662] Andrarch Body
+		[0x66A] Andrarch Arms
+		[0x672] Andrarch Legs
+		[0x67A] Smilo Head
+		[0x682] Smilo Body
+		[0x68A] Smilo Arms
+		[0x692] Smilo Legs
+		[0x69A] E-Raptor Head
+		[0x6A2] E-Raptor Body
+		[0x6AA] E-Raptor Arms
+		[0x6B2] E-Raptor Legs
+		[0x6BA] Argento Head
+		[0x6C2] Argento Body
+		[0x6CA] Argento Arms
+		[0x6D2] Argento Legs
+		[0x6DA] Other1
+		[0x6E2] Other1
+		[0x6EA] Other1
+		[0x6F2] Other1
+		[0x6FA] Other2
+		[0x702] Other2
+		[0x70A] Silver Arms
+		[0x712] Gold Head
+	Table 03:
+		[0x75A] Siamo Head
+		[0x762] Siamo Body
+		[0x76A] Siamo Arms
+		[0x772] Siamo Legs
+		[0x77A] Guan Head
+		[0x782] Guan Body
+		[0x78A] Guan Arms
+		[0x792] Guan Legs
+		[0x79A] Andrarch Head
+		[0x7A2] Andrarch Body
+		[0x7AA] Andrarch Arms
+		[0x7B2] Andrarch Legs
+		[0x7BA] Smilo Head
+		[0x7C2] Smilo Body
+		[0x7CA] Smilo Arms
+		[0x7D2] Smilo Legs
+		[0x7DA] E-Raptor Head
+		[0x7E2] E-Raptor Body
+		[0x7EA] E-Raptor Arms
+		[0x7F2] E-Raptor Legs
+		[0x7FA] Argento Head
+		[0x802] Argento Body
+		[0x80A] Argento Arms
+		[0x812] Argento Legs
+		[0x81A] Siamo Head
+		[0x822] Siamo Body
+		[0x82A] Siamo Arms
+		[0x832] Siamo Legs
+		[0x83A] Guan Head
+		[0x842] Guan Body
+		[0x84A] Guan Arms
+		[0x852] Guan Legs
+		[0x85A] Andrarch Head
+		[0x862] Andrarch Body
+		[0x86A] Andrarch Arms
+		[0x872] Andrarch Legs
+		[0x87A] Smilo Head
+		[0x882] Smilo Body
+		[0x88A] Smilo Arms
+		[0x892] Smilo Legs
+		[0x89A] E-Raptor Head
+		[0x8A2] E-Raptor Body
+		[0x8AA] E-Raptor Arms
+		[0x8B2] E-Raptor Legs
+		[0x8BA] Argento Head
+		[0x8C2] Argento Body
+		[0x8CA] Argento Arms
+		[0x8D2] Argento Legs
+		[0x8DA] Siamo Head
+		[0x8E2] Siamo Body
+		[0x8EA] Siamo Arms
+		[0x8F2] Siamo Legs
+		[0x8FA] Guan Head
+		[0x902] Guan Body
+		[0x90A] Guan Arms
+		[0x912] Guan Legs
+		[0x91A] Andrarch Head
+		[0x922] Andrarch Body
+		[0x92A] Andrarch Arms
+		[0x932] Andrarch Legs
+		[0x93A] Smilo Head
+		[0x942] Smilo Body
+		[0x94A] Smilo Arms
+		[0x952] Smilo Legs
+		[0x95A] E-Raptor Head
+		[0x962] E-Raptor Body
+		[0x96A] E-Raptor Arms
+		[0x972] E-Raptor Legs
+		[0x97A] Argento Head
+		[0x982] Argento Body
+		[0x98A] Argento Arms
+		[0x992] Argento Legs
+		[0x99A] Other1
+		[0x9A2] Other1
+		[0x9AA] Other1
+		[0x9B2] Other1
+		[0x9BA] Other2
+		[0x9C2] Other2
+		[0x9CA] Silver Arms
+		[0x9D2] Gold Head
+Zone 02:
+	Table 01:
+		[0xA42] Siamo Head
+	Table 02:
+		[0xA8A] Siamo Body
+	Table 03:
+		[0xAD2] Siamo Arms
+Zone 03:
+	Table 01:
+		[0xB42] Nychus Head
+	Table 02:
+		[0xB8A] Nychus Body
+	Table 03:
+		[0xBD2] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xC42] Cryo Head
+	Table 02:
+		[0xC8A] Cryo Body
+	Table 03:
+		[0xCD2] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xD42] Sucho Head
+	Table 02:
+		[0xD8A] Sucho Body
+	Table 03:
+		[0xDD2] Sucho Arms
+
+5000:
+Zone 01:
+	Table 01:
+		[0x26E] Dimetro Head
+		[0x276] Dimetro Head
+		[0x27E] Dimetro Body
+		[0x286] Dimetro Body
+		[0x28E] Dimetro Arms
+		[0x296] Dimetro Legs
+		[0x29E] Shuno Head
+		[0x2A6] Shuno Head
+		[0x2AE] Shuno Body
+		[0x2B6] Shuno Body
+		[0x2BE] Shuno Arms
+		[0x2C6] Shuno Legs
+		[0x2CE] Dimetro Head
+		[0x2D6] Dimetro Body
+		[0x2DE] Dimetro Arms
+		[0x2E6] Dimetro Legs
+		[0x2EE] Shuno Head
+		[0x2F6] Shuno Body
+		[0x2FE] Shuno Arms
+		[0x306] Shuno Legs
+		[0x30E] Dimetro Head
+		[0x316] Dimetro Body
+		[0x31E] Dimetro Arms
+		[0x326] Dimetro Legs
+		[0x32E] Shuno Head
+		[0x336] Shuno Body
+		[0x33E] Shuno Arms
+		[0x346] Shuno Legs
+		[0x34E] Other1
+		[0x356] Other1
+		[0x35E] Other1
+		[0x366] Other2
+		[0x36E] Other2
+		[0x376] Other2
+		[0x37E] Silver Head
+		[0x386] Gold Head
+	Table 02:
+		[0x3CE] Dimetro Head
+		[0x3D6] Dimetro Head
+		[0x3DE] Dimetro Body
+		[0x3E6] Dimetro Body
+		[0x3EE] Dimetro Arms
+		[0x3F6] Dimetro Arms
+		[0x3FE] Dimetro Legs
+		[0x406] Shuno Head
+		[0x40E] Shuno Head
+		[0x416] Shuno Body
+		[0x41E] Shuno Body
+		[0x426] Shuno Arms
+		[0x42E] Shuno Arms
+		[0x436] Shuno Legs
+		[0x43E] Dimetro Head
+		[0x446] Dimetro Body
+		[0x44E] Dimetro Arms
+		[0x456] Dimetro Legs
+		[0x45E] Shuno Head
+		[0x466] Shuno Body
+		[0x46E] Shuno Arms
+		[0x476] Shuno Legs
+		[0x47E] Dimetro Head
+		[0x486] Dimetro Body
+		[0x48E] Dimetro Arms
+		[0x496] Dimetro Legs
+		[0x49E] Shuno Head
+		[0x4A6] Shuno Body
+		[0x4AE] Shuno Arms
+		[0x4B6] Shuno Legs
+		[0x4BE] Other1
+		[0x4C6] Other1
+		[0x4CE] Other1
+		[0x4D6] Other2
+		[0x4DE] Other2
+		[0x4E6] Other2
+		[0x4EE] Silver Head
+		[0x4F6] Gold Head
+	Table 03:
+		[0x53E] Smilo Head
+		[0x546] Dimetro Head
+		[0x54E] Dimetro Body
+		[0x556] Dimetro Arms
+		[0x55E] Dimetro Legs
+		[0x566] Shuno Head
+		[0x56E] Shuno Body
+		[0x576] Shuno Arms
+		[0x57E] Shuno Legs
+		[0x586] Dimetro Head
+		[0x58E] Dimetro Body
+		[0x596] Dimetro Arms
+		[0x59E] Dimetro Legs
+		[0x5A6] Shuno Head
+		[0x5AE] Shuno Body
+		[0x5B6] Shuno Arms
+		[0x5BE] Shuno Legs
+		[0x5C6] Dimetro Head
+		[0x5CE] Dimetro Body
+		[0x5D6] Dimetro Arms
+		[0x5DE] Dimetro Legs
+		[0x5E6] Shuno Head
+		[0x5EE] Shuno Body
+		[0x5F6] Shuno Arms
+		[0x5FE] Shuno Legs
+		[0x606] Other1
+		[0x60E] Other1
+		[0x616] Other1
+		[0x61E] Other2
+		[0x626] Other2
+		[0x62E] Other2
+		[0x636] Silver Head
+		[0x63E] Gold Head
+Zone 02:
+	Table 01:
+		[0x6AE] Seismo Head
+		[0x6B6] Seismo Head
+		[0x6BE] Seismo Body
+		[0x6C6] Seismo Body
+		[0x6CE] Seismo Arms
+		[0x6D6] Seismo Legs
+		[0x6DE] Aeros Head
+		[0x6E6] Aeros Head
+		[0x6EE] Aeros Body
+		[0x6F6] Aeros Body
+		[0x6FE] Aeros Arms
+		[0x706] Aeros Legs
+		[0x70E] Seismo Head
+		[0x716] Seismo Body
+		[0x71E] Seismo Arms
+		[0x726] Seismo Legs
+		[0x72E] Aeros Head
+		[0x736] Aeros Body
+		[0x73E] Aeros Arms
+		[0x746] Aeros Legs
+		[0x74E] Seismo Head
+		[0x756] Seismo Body
+		[0x75E] Seismo Arms
+		[0x766] Seismo Legs
+		[0x76E] Aeros Head
+		[0x776] Aeros Body
+		[0x77E] Aeros Arms
+		[0x786] Aeros Legs
+		[0x78E] Other1
+		[0x796] Other1
+		[0x79E] Other1
+		[0x7A6] Other2
+		[0x7AE] Other2
+		[0x7B6] Other2
+		[0x7BE] Silver Body
+		[0x7C6] Gold Head
+	Table 02:
+		[0x80E] Seismo Head
+		[0x816] Seismo Head
+		[0x81E] Seismo Body
+		[0x826] Seismo Body
+		[0x82E] Seismo Arms
+		[0x836] Seismo Arms
+		[0x83E] Seismo Legs
+		[0x846] Aeros Head
+		[0x84E] Aeros Head
+		[0x856] Aeros Body
+		[0x85E] Aeros Body
+		[0x866] Aeros Arms
+		[0x86E] Aeros Arms
+		[0x876] Aeros Legs
+		[0x87E] Seismo Head
+		[0x886] Seismo Body
+		[0x88E] Seismo Arms
+		[0x896] Seismo Legs
+		[0x89E] Aeros Head
+		[0x8A6] Aeros Body
+		[0x8AE] Aeros Arms
+		[0x8B6] Aeros Legs
+		[0x8BE] Seismo Head
+		[0x8C6] Seismo Body
+		[0x8CE] Seismo Arms
+		[0x8D6] Seismo Legs
+		[0x8DE] Aeros Head
+		[0x8E6] Aeros Body
+		[0x8EE] Aeros Arms
+		[0x8F6] Aeros Legs
+		[0x8FE] Other1
+		[0x906] Other1
+		[0x90E] Other1
+		[0x916] Other2
+		[0x91E] Other2
+		[0x926] Other2
+		[0x92E] Silver Body
+		[0x936] Gold Head
+	Table 03:
+		[0x97E] Seismo Head
+		[0x986] Seismo Body
+		[0x98E] Seismo Arms
+		[0x996] Seismo Legs
+		[0x99E] Aeros Head
+		[0x9A6] Aeros Body
+		[0x9AE] Aeros Arms
+		[0x9B6] Aeros Legs
+		[0x9BE] Seismo Head
+		[0x9C6] Seismo Body
+		[0x9CE] Seismo Arms
+		[0x9D6] Seismo Legs
+		[0x9DE] Aeros Head
+		[0x9E6] Aeros Body
+		[0x9EE] Aeros Arms
+		[0x9F6] Aeros Legs
+		[0x9FE] Seismo Head
+		[0xA06] Seismo Body
+		[0xA0E] Seismo Arms
+		[0xA16] Seismo Legs
+		[0xA1E] Aeros Head
+		[0xA26] Aeros Body
+		[0xA2E] Aeros Arms
+		[0xA36] Aeros Legs
+		[0xA3E] Other1
+		[0xA46] Other1
+		[0xA4E] Other1
+		[0xA56] Other2
+		[0xA5E] Other2
+		[0xA66] Other2
+		[0xA6E] Silver Body
+		[0xA76] Gold Head
+Zone 03:
+	Table 01:
+		[0xAE6] Toba Head
+		[0xAEE] Toba Head
+		[0xAF6] Toba Body
+		[0xAFE] Toba Body
+		[0xB06] Toba Arms
+		[0xB0E] Toba Legs
+		[0xB16] Tsintao Head
+		[0xB1E] Tsintao Head
+		[0xB26] Tsintao Body
+		[0xB2E] Tsintao Body
+		[0xB36] Tsintao Arms
+		[0xB3E] Tsintao Legs
+		[0xB46] Toba Head
+		[0xB4E] Toba Body
+		[0xB56] Toba Arms
+		[0xB5E] Toba Legs
+		[0xB66] Tsintao Head
+		[0xB6E] Tsintao Body
+		[0xB76] Tsintao Arms
+		[0xB7E] Tsintao Legs
+		[0xB86] Toba Head
+		[0xB8E] Toba Body
+		[0xB96] Toba Arms
+		[0xB9E] Toba Legs
+		[0xBA6] Tsintao Head
+		[0xBAE] Tsintao Body
+		[0xBB6] Tsintao Arms
+		[0xBBE] Tsintao Legs
+		[0xBC6] Other1
+		[0xBCE] Other1
+		[0xBD6] Other1
+		[0xBDE] Other2
+		[0xBE6] Other2
+		[0xBEE] Other2
+		[0xBF6] Silver Arms
+		[0xBFE] Gold Head
+	Table 02:
+		[0xC46] Toba Head
+		[0xC4E] Toba Head
+		[0xC56] Toba Body
+		[0xC5E] Toba Body
+		[0xC66] Toba Arms
+		[0xC6E] Toba Arms
+		[0xC76] Toba Legs
+		[0xC7E] Tsintao Head
+		[0xC86] Tsintao Head
+		[0xC8E] Tsintao Body
+		[0xC96] Tsintao Body
+		[0xC9E] Tsintao Arms
+		[0xCA6] Tsintao Arms
+		[0xCAE] Tsintao Legs
+		[0xCB6] Toba Head
+		[0xCBE] Toba Body
+		[0xCC6] Toba Arms
+		[0xCCE] Toba Legs
+		[0xCD6] Tsintao Head
+		[0xCDE] Tsintao Body
+		[0xCE6] Tsintao Arms
+		[0xCEE] Tsintao Legs
+		[0xCF6] Toba Head
+		[0xCFE] Toba Body
+		[0xD06] Toba Arms
+		[0xD0E] Toba Legs
+		[0xD16] Tsintao Head
+		[0xD1E] Tsintao Body
+		[0xD26] Tsintao Arms
+		[0xD2E] Tsintao Legs
+		[0xD36] Other1
+		[0xD3E] Other1
+		[0xD46] Other1
+		[0xD4E] Other2
+		[0xD56] Other2
+		[0xD5E] Other2
+		[0xD66] Silver Arms
+		[0xD6E] Gold Head
+	Table 03:
+		[0xDB6] Toba Head
+		[0xDBE] Toba Body
+		[0xDC6] Toba Arms
+		[0xDCE] Toba Legs
+		[0xDD6] Tsintao Head
+		[0xDDE] Tsintao Body
+		[0xDE6] Tsintao Arms
+		[0xDEE] Tsintao Legs
+		[0xDF6] Toba Head
+		[0xDFE] Toba Body
+		[0xE06] Toba Arms
+		[0xE0E] Toba Legs
+		[0xE16] Tsintao Head
+		[0xE1E] Tsintao Body
+		[0xE26] Tsintao Arms
+		[0xE2E] Tsintao Legs
+		[0xE36] Toba Head
+		[0xE3E] Toba Body
+		[0xE46] Toba Arms
+		[0xE4E] Toba Legs
+		[0xE56] Tsintao Head
+		[0xE5E] Tsintao Body
+		[0xE66] Tsintao Arms
+		[0xE6E] Tsintao Legs
+		[0xE76] Other1
+		[0xE7E] Other1
+		[0xE86] Other1
+		[0xE8E] Other2
+		[0xE96] Other2
+		[0xE9E] Other2
+		[0xEA6] Silver Arms
+		[0xEAE] Gold Head
+Zone 04:
+	Table 01:
+		[0xF1E] Dacerus Head
+		[0xF26] Dacerus Head
+		[0xF2E] Dacerus Body
+		[0xF36] Dacerus Body
+		[0xF3E] Dacerus Arms
+		[0xF46] Dacerus Legs
+		[0xF4E] Maia Head
+		[0xF56] Maia Head
+		[0xF5E] Maia Body
+		[0xF66] Maia Body
+		[0xF6E] Maia Arms
+		[0xF76] Maia Legs
+		[0xF7E] Dacerus Head
+		[0xF86] Dacerus Body
+		[0xF8E] Dacerus Arms
+		[0xF96] Dacerus Legs
+		[0xF9E] Maia Head
+		[0xFA6] Maia Body
+		[0xFAE] Maia Arms
+		[0xFB6] Maia Legs
+		[0xFBE] Dacerus Head
+		[0xFC6] Dacerus Body
+		[0xFCE] Dacerus Arms
+		[0xFD6] Dacerus Legs
+		[0xFDE] Maia Head
+		[0xFE6] Maia Body
+		[0xFEE] Maia Arms
+		[0xFF6] Maia Legs
+		[0xFFE] Other1
+		[0x1006] Other1
+		[0x100E] Other1
+		[0x1016] Other2
+		[0x101E] Other2
+		[0x1026] Other2
+		[0x102E] Silver Head
+		[0x1036] Gold Head
+	Table 02:
+		[0x107E] Dacerus Head
+		[0x1086] Dacerus Head
+		[0x108E] Dacerus Body
+		[0x1096] Dacerus Body
+		[0x109E] Dacerus Arms
+		[0x10A6] Dacerus Arms
+		[0x10AE] Dacerus Legs
+		[0x10B6] Maia Head
+		[0x10BE] Maia Head
+		[0x10C6] Maia Body
+		[0x10CE] Maia Body
+		[0x10D6] Maia Arms
+		[0x10DE] Maia Arms
+		[0x10E6] Maia Legs
+		[0x10EE] Dacerus Head
+		[0x10F6] Dacerus Body
+		[0x10FE] Dacerus Arms
+		[0x1106] Dacerus Legs
+		[0x110E] Maia Head
+		[0x1116] Maia Body
+		[0x111E] Maia Arms
+		[0x1126] Maia Legs
+		[0x112E] Dacerus Head
+		[0x1136] Dacerus Body
+		[0x113E] Dacerus Arms
+		[0x1146] Dacerus Legs
+		[0x114E] Maia Head
+		[0x1156] Maia Body
+		[0x115E] Maia Arms
+		[0x1166] Maia Legs
+		[0x116E] Other1
+		[0x1176] Other1
+		[0x117E] Other1
+		[0x1186] Other2
+		[0x118E] Other2
+		[0x1196] Other2
+		[0x119E] Silver Head
+		[0x11A6] Gold Head
+	Table 03:
+		[0x11EE] Dacerus Head
+		[0x11F6] Dacerus Body
+		[0x11FE] Dacerus Arms
+		[0x1206] Dacerus Legs
+		[0x120E] Maia Head
+		[0x1216] Maia Body
+		[0x121E] Maia Arms
+		[0x1226] Maia Legs
+		[0x122E] Dacerus Head
+		[0x1236] Dacerus Body
+		[0x123E] Dacerus Arms
+		[0x1246] Dacerus Legs
+		[0x124E] Maia Head
+		[0x1256] Maia Body
+		[0x125E] Maia Arms
+		[0x1266] Maia Legs
+		[0x126E] Dacerus Head
+		[0x1276] Dacerus Body
+		[0x127E] Dacerus Arms
+		[0x1286] Dacerus Legs
+		[0x128E] Maia Head
+		[0x1296] Maia Body
+		[0x129E] Maia Arms
+		[0x12A6] Maia Legs
+		[0x12AE] Other1
+		[0x12B6] Other1
+		[0x12BE] Other1
+		[0x12C6] Other2
+		[0x12CE] Other2
+		[0x12D6] Other2
+		[0x12DE] Silver Head
+		[0x12E6] Gold Head
+Zone 05:
+	Table 01:
+		[0x1356] Sucho Head
+	Table 02:
+		[0x139E] Sucho Body
+	Table 03:
+		[0x13E6] Sucho Arms
+
+5001:
+Zone 01:
+	Table 01:
+		[0x1E2] Coelo Head
+		[0x1EA] Coelo Head
+		[0x1F2] Coelo Body
+		[0x1FA] Coelo Body
+		[0x202] Coelo Arms
+		[0x20A] Coelo Legs
+		[0x212] Coelo Head
+		[0x21A] Coelo Body
+		[0x222] Coelo Arms
+		[0x22A] Coelo Legs
+		[0x232] Coelo Head
+		[0x23A] Coelo Body
+		[0x242] Coelo Arms
+		[0x24A] Coelo Legs
+		[0x252] Other1
+		[0x25A] Other1
+		[0x262] Other1
+		[0x26A] Other2
+		[0x272] Other2
+		[0x27A] Silver Head
+		[0x282] Gold Head
+	Table 02:
+		[0x2CA] Coelo Head
+		[0x2D2] Coelo Head
+		[0x2DA] Coelo Body
+		[0x2E2] Coelo Body
+		[0x2EA] Coelo Arms
+		[0x2F2] Coelo Arms
+		[0x2FA] Coelo Legs
+		[0x302] Coelo Head
+		[0x30A] Coelo Body
+		[0x312] Coelo Arms
+		[0x31A] Coelo Legs
+		[0x322] Coelo Head
+		[0x32A] Coelo Body
+		[0x332] Coelo Arms
+		[0x33A] Coelo Legs
+		[0x342] Other1
+		[0x34A] Other1
+		[0x352] Other1
+		[0x35A] Other2
+		[0x362] Other2
+		[0x36A] Silver Head
+		[0x372] Gold Head
+	Table 03:
+		[0x3BA] Terata Single
+		[0x3C2] Coelo Head
+		[0x3CA] Coelo Body
+		[0x3D2] Coelo Arms
+		[0x3DA] Coelo Legs
+		[0x3E2] Coelo Head
+		[0x3EA] Coelo Body
+		[0x3F2] Coelo Arms
+		[0x3FA] Coelo Legs
+		[0x402] Coelo Head
+		[0x40A] Coelo Body
+		[0x412] Coelo Arms
+		[0x41A] Coelo Legs
+		[0x422] Other1
+		[0x42A] Other1
+		[0x432] Other1
+		[0x43A] Other2
+		[0x442] Other2
+		[0x44A] Silver Head
+		[0x452] Gold Head
+Zone 02:
+	Table 01:
+		[0x4C2] Siamo Head
+	Table 02:
+		[0x50A] Siamo Body
+	Table 03:
+		[0x552] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x5C2] Nychus Head
+	Table 02:
+		[0x60A] Nychus Body
+	Table 03:
+		[0x652] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x6C2] Cryo Head
+	Table 02:
+		[0x70A] Cryo Body
+	Table 03:
+		[0x752] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x7C2] Sucho Head
+	Table 02:
+		[0x80A] Sucho Body
+	Table 03:
+		[0x852] Sucho Arms
+
+5002:
+Zone 01:
+	Table 01:
+		[0x216] Alectro Head
+		[0x21E] Alectro Head
+		[0x226] Alectro Body
+		[0x22E] Alectro Body
+		[0x236] Alectro Arms
+		[0x23E] Alectro Legs
+		[0x246] Gomp Head
+		[0x24E] Gomp Head
+		[0x256] Gomp Body
+		[0x25E] Gomp Body
+		[0x266] Gomp Arms
+		[0x26E] Gomp Legs
+		[0x276] Alectro Head
+		[0x27E] Alectro Body
+		[0x286] Alectro Arms
+		[0x28E] Alectro Legs
+		[0x296] Gomp Head
+		[0x29E] Gomp Body
+		[0x2A6] Gomp Arms
+		[0x2AE] Gomp Legs
+		[0x2B6] Alectro Head
+		[0x2BE] Alectro Body
+		[0x2C6] Alectro Arms
+		[0x2CE] Alectro Legs
+		[0x2D6] Gomp Head
+		[0x2DE] Gomp Body
+		[0x2E6] Gomp Arms
+		[0x2EE] Gomp Legs
+		[0x2F6] Other1
+		[0x2FE] Other1
+		[0x306] Other1
+		[0x30E] Other2
+		[0x316] Silver Legs
+		[0x31E] Gold Head
+	Table 02:
+		[0x366] Alectro Head
+		[0x36E] Alectro Head
+		[0x376] Alectro Body
+		[0x37E] Alectro Body
+		[0x386] Alectro Arms
+		[0x38E] Alectro Arms
+		[0x396] Alectro Legs
+		[0x39E] Gomp Head
+		[0x3A6] Gomp Head
+		[0x3AE] Gomp Body
+		[0x3B6] Gomp Body
+		[0x3BE] Gomp Arms
+		[0x3C6] Gomp Arms
+		[0x3CE] Gomp Legs
+		[0x3D6] Alectro Head
+		[0x3DE] Alectro Body
+		[0x3E6] Alectro Arms
+		[0x3EE] Alectro Legs
+		[0x3F6] Gomp Head
+		[0x3FE] Gomp Body
+		[0x406] Gomp Arms
+		[0x40E] Gomp Legs
+		[0x416] Alectro Head
+		[0x41E] Alectro Body
+		[0x426] Alectro Arms
+		[0x42E] Alectro Legs
+		[0x436] Gomp Head
+		[0x43E] Gomp Body
+		[0x446] Gomp Arms
+		[0x44E] Gomp Legs
+		[0x456] Other1
+		[0x45E] Other1
+		[0x466] Other1
+		[0x46E] Other2
+		[0x476] Silver Legs
+		[0x47E] Gold Head
+	Table 03:
+		[0x4C6] Alectro Head
+		[0x4CE] Alectro Body
+		[0x4D6] Alectro Arms
+		[0x4DE] Alectro Legs
+		[0x4E6] Gomp Head
+		[0x4EE] Gomp Body
+		[0x4F6] Gomp Arms
+		[0x4FE] Gomp Legs
+		[0x506] Alectro Head
+		[0x50E] Alectro Body
+		[0x516] Alectro Arms
+		[0x51E] Alectro Legs
+		[0x526] Gomp Head
+		[0x52E] Gomp Body
+		[0x536] Gomp Arms
+		[0x53E] Gomp Legs
+		[0x546] Alectro Head
+		[0x54E] Alectro Body
+		[0x556] Alectro Arms
+		[0x55E] Alectro Legs
+		[0x566] Gomp Head
+		[0x56E] Gomp Body
+		[0x576] Gomp Arms
+		[0x57E] Gomp Legs
+		[0x586] Other1
+		[0x58E] Other1
+		[0x596] Other1
+		[0x59E] Other2
+		[0x5A6] Silver Legs
+		[0x5AE] Gold Head
+Zone 02:
+	Table 01:
+		[0x60A] Metria Head
+		[0x612] Metria Body
+		[0x61A] Metria Arms
+		[0x622] Metria Legs
+		[0x62A] U-Raptor Head
+		[0x632] U-Raptor Body
+		[0x63A] U-Raptor Arms
+		[0x642] U-Raptor Legs
+		[0x64A] Styraco Head
+		[0x652] Styraco Body
+		[0x65A] Styraco Arms
+		[0x662] Styraco Legs
+		[0x66A] Einio Head
+		[0x672] Einio Body
+		[0x67A] Einio Arms
+		[0x682] Einio Legs
+		[0x68A] Metria Head
+		[0x692] Metria Body
+		[0x69A] Metria Arms
+		[0x6A2] Metria Legs
+		[0x6AA] U-Raptor Head
+		[0x6B2] U-Raptor Body
+		[0x6BA] U-Raptor Arms
+		[0x6C2] U-Raptor Legs
+		[0x6CA] Styraco Head
+		[0x6D2] Styraco Body
+		[0x6DA] Styraco Arms
+		[0x6E2] Styraco Legs
+		[0x6EA] Einio Head
+		[0x6F2] Einio Body
+		[0x6FA] Einio Arms
+		[0x702] Einio Legs
+		[0x70A] Metria Head
+		[0x712] Metria Body
+		[0x71A] Metria Arms
+		[0x722] Metria Legs
+		[0x72A] U-Raptor Head
+		[0x732] U-Raptor Body
+		[0x73A] U-Raptor Arms
+		[0x742] U-Raptor Legs
+		[0x74A] Styraco Head
+		[0x752] Styraco Body
+		[0x75A] Styraco Arms
+		[0x762] Styraco Legs
+		[0x76A] Einio Head
+		[0x772] Einio Body
+		[0x77A] Einio Arms
+		[0x782] Einio Legs
+		[0x78A] Other1
+		[0x792] Other1
+		[0x79A] Other1
+		[0x7A2] Other2
+		[0x7AA] Silver Body
+		[0x7B2] Gold Head
+	Table 02:
+		[0x7E6] Metria Head
+		[0x7EE] Metria Body
+		[0x7F6] Metria Arms
+		[0x7FE] Metria Legs
+		[0x806] U-Raptor Head
+		[0x80E] U-Raptor Body
+		[0x816] U-Raptor Arms
+		[0x81E] U-Raptor Legs
+		[0x826] Styraco Head
+		[0x82E] Styraco Body
+		[0x836] Styraco Arms
+		[0x83E] Styraco Legs
+		[0x846] Einio Head
+		[0x84E] Einio Body
+		[0x856] Einio Arms
+		[0x85E] Einio Legs
+		[0x866] Metria Head
+		[0x86E] Metria Body
+		[0x876] Metria Arms
+		[0x87E] Metria Legs
+		[0x886] U-Raptor Head
+		[0x88E] U-Raptor Body
+		[0x896] U-Raptor Arms
+		[0x89E] U-Raptor Legs
+		[0x8A6] Styraco Head
+		[0x8AE] Styraco Body
+		[0x8B6] Styraco Arms
+		[0x8BE] Styraco Legs
+		[0x8C6] Einio Head
+		[0x8CE] Einio Body
+		[0x8D6] Einio Arms
+		[0x8DE] Einio Legs
+		[0x8E6] Metria Head
+		[0x8EE] Metria Body
+		[0x8F6] Metria Arms
+		[0x8FE] Metria Legs
+		[0x906] U-Raptor Head
+		[0x90E] U-Raptor Body
+		[0x916] U-Raptor Arms
+		[0x91E] U-Raptor Legs
+		[0x926] Styraco Head
+		[0x92E] Styraco Body
+		[0x936] Styraco Arms
+		[0x93E] Styraco Legs
+		[0x946] Einio Head
+		[0x94E] Einio Body
+		[0x956] Einio Arms
+		[0x95E] Einio Legs
+		[0x966] Other1
+		[0x96E] Other1
+		[0x976] Other1
+		[0x97E] Other2
+		[0x986] Silver Body
+		[0x98E] Gold Head
+	Table 03:
+		[0x9C2] Radox Single
+		[0x9CA] Metria Head
+		[0x9D2] Metria Body
+		[0x9DA] Metria Arms
+		[0x9E2] Metria Legs
+		[0x9EA] U-Raptor Head
+		[0x9F2] U-Raptor Body
+		[0x9FA] U-Raptor Arms
+		[0xA02] U-Raptor Legs
+		[0xA0A] Styraco Head
+		[0xA12] Styraco Body
+		[0xA1A] Styraco Arms
+		[0xA22] Styraco Legs
+		[0xA2A] Einio Head
+		[0xA32] Einio Body
+		[0xA3A] Einio Arms
+		[0xA42] Einio Legs
+		[0xA4A] Metria Head
+		[0xA52] Metria Body
+		[0xA5A] Metria Arms
+		[0xA62] Metria Legs
+		[0xA6A] U-Raptor Head
+		[0xA72] U-Raptor Body
+		[0xA7A] U-Raptor Arms
+		[0xA82] U-Raptor Legs
+		[0xA8A] Styraco Head
+		[0xA92] Styraco Body
+		[0xA9A] Styraco Arms
+		[0xAA2] Styraco Legs
+		[0xAAA] Einio Head
+		[0xAB2] Einio Body
+		[0xABA] Einio Arms
+		[0xAC2] Einio Legs
+		[0xACA] Metria Head
+		[0xAD2] Metria Body
+		[0xADA] Metria Arms
+		[0xAE2] Metria Legs
+		[0xAEA] U-Raptor Head
+		[0xAF2] U-Raptor Body
+		[0xAFA] U-Raptor Arms
+		[0xB02] U-Raptor Legs
+		[0xB0A] Styraco Head
+		[0xB12] Styraco Body
+		[0xB1A] Styraco Arms
+		[0xB22] Styraco Legs
+		[0xB2A] Einio Head
+		[0xB32] Einio Body
+		[0xB3A] Einio Arms
+		[0xB42] Einio Legs
+		[0xB4A] Other1
+		[0xB52] Other1
+		[0xB5A] Other1
+		[0xB62] Other2
+		[0xB6A] Silver Body
+		[0xB72] Gold Head
+Zone 03:
+	Table 01:
+		[0xBCE] Nychus Head
+	Table 02:
+		[0xC02] Nychus Body
+	Table 03:
+		[0xC36] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xC92] Cryo Head
+	Table 02:
+		[0xCC6] Cryo Body
+	Table 03:
+		[0xCFA] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xD56] Sucho Head
+	Table 02:
+		[0xD8A] Sucho Body
+	Table 03:
+		[0xDBE] Sucho Arms
+
+5003:
+Zone 01:
+	Table 01:
+		[0x1DE] Siamo Head
+		[0x1E6] Siamo Head
+		[0x1EE] Siamo Body
+		[0x1F6] Siamo Body
+		[0x1FE] Siamo Arms
+		[0x206] Siamo Arms
+		[0x20E] Siamo Legs
+		[0x216] Siamo Legs
+	Table 02:
+		[0x24A] Cryo Head
+		[0x252] Cryo Head
+		[0x25A] Cryo Body
+		[0x262] Cryo Body
+		[0x26A] Cryo Arms
+		[0x272] Cryo Arms
+		[0x27A] Cryo Legs
+		[0x282] Cryo Legs
+	Table 03:
+		[0x2B6] Nychus Head
+		[0x2BE] Nychus Head
+		[0x2C6] Nychus Body
+		[0x2CE] Nychus Body
+		[0x2D6] Nychus Arms
+		[0x2DE] Nychus Arms
+		[0x2E6] Nychus Legs
+		[0x2EE] Nychus Legs
+		[0x2F6] Sucho Head
+		[0x2FE] Sucho Head
+		[0x306] Sucho Body
+		[0x30E] Sucho Body
+		[0x316] Sucho Arms
+		[0x31E] Sucho Arms
+		[0x326] Sucho Legs
+		[0x32E] Sucho Legs
+Zone 02:
+	Table 01:
+		[0x38A] Siamo Head
+	Table 02:
+		[0x3BE] Siamo Body
+	Table 03:
+		[0x3F2] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x44E] Nychus Head
+	Table 02:
+		[0x482] Nychus Body
+	Table 03:
+		[0x4B6] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x512] Cryo Head
+	Table 02:
+		[0x546] Cryo Body
+	Table 03:
+		[0x57A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x5D6] Sucho Head
+	Table 02:
+		[0x60A] Sucho Body
+	Table 03:
+		[0x63E] Sucho Arms
+
+5100:
+Zone 01:
+	Table 01:
+		[0x226] Futabi Head
+		[0x22E] Futabi Head
+		[0x236] Futabi Body
+		[0x23E] Futabi Body
+		[0x246] Futabi Arms
+		[0x24E] Futabi Legs
+		[0x256] Mammoth Head
+		[0x25E] Mammoth Head
+		[0x266] Mammoth Body
+		[0x26E] Mammoth Body
+		[0x276] Mammoth Arms
+		[0x27E] Mammoth Legs
+		[0x286] Berta Head
+		[0x28E] Berta Head
+		[0x296] Berta Body
+		[0x29E] Berta Body
+		[0x2A6] Berta Arms
+		[0x2AE] Berta Legs
+		[0x2B6] Futabi Head
+		[0x2BE] Futabi Body
+		[0x2C6] Futabi Arms
+		[0x2CE] Futabi Legs
+		[0x2D6] Mammoth Head
+		[0x2DE] Mammoth Body
+		[0x2E6] Mammoth Arms
+		[0x2EE] Mammoth Legs
+		[0x2F6] Berta Head
+		[0x2FE] Berta Body
+		[0x306] Berta Arms
+		[0x30E] Berta Legs
+		[0x316] Futabi Head
+		[0x31E] Futabi Body
+		[0x326] Futabi Arms
+		[0x32E] Futabi Legs
+		[0x336] Mammoth Head
+		[0x33E] Mammoth Body
+		[0x346] Mammoth Arms
+		[0x34E] Mammoth Legs
+		[0x356] Berta Head
+		[0x35E] Berta Body
+		[0x366] Berta Arms
+		[0x36E] Berta Legs
+		[0x376] Other1
+		[0x37E] Other1
+		[0x386] Other1
+		[0x38E] Other2
+		[0x396] Silver Head
+		[0x39E] Gold Head
+	Table 02:
+		[0x3E6] Futabi Head
+		[0x3EE] Futabi Head
+		[0x3F6] Futabi Body
+		[0x3FE] Futabi Body
+		[0x406] Futabi Arms
+		[0x40E] Futabi Arms
+		[0x416] Futabi Legs
+		[0x41E] Mammoth Head
+		[0x426] Mammoth Head
+		[0x42E] Mammoth Body
+		[0x436] Mammoth Body
+		[0x43E] Mammoth Arms
+		[0x446] Mammoth Arms
+		[0x44E] Mammoth Legs
+		[0x456] Berta Head
+		[0x45E] Berta Head
+		[0x466] Berta Body
+		[0x46E] Berta Body
+		[0x476] Berta Arms
+		[0x47E] Berta Arms
+		[0x486] Berta Legs
+		[0x48E] Futabi Head
+		[0x496] Futabi Body
+		[0x49E] Futabi Arms
+		[0x4A6] Futabi Legs
+		[0x4AE] Mammoth Head
+		[0x4B6] Mammoth Body
+		[0x4BE] Mammoth Arms
+		[0x4C6] Mammoth Legs
+		[0x4CE] Berta Head
+		[0x4D6] Berta Body
+		[0x4DE] Berta Arms
+		[0x4E6] Berta Legs
+		[0x4EE] Futabi Head
+		[0x4F6] Futabi Body
+		[0x4FE] Futabi Arms
+		[0x506] Futabi Legs
+		[0x50E] Mammoth Head
+		[0x516] Mammoth Body
+		[0x51E] Mammoth Arms
+		[0x526] Mammoth Legs
+		[0x52E] Berta Head
+		[0x536] Berta Body
+		[0x53E] Berta Arms
+		[0x546] Berta Legs
+		[0x54E] Other1
+		[0x556] Other1
+		[0x55E] Other1
+		[0x566] Other2
+		[0x56E] Silver Head
+		[0x576] Gold Head
+	Table 03:
+		[0x5BE] Angato Head
+		[0x5C6] Futabi Head
+		[0x5CE] Futabi Body
+		[0x5D6] Futabi Arms
+		[0x5DE] Futabi Legs
+		[0x5E6] Mammoth Head
+		[0x5EE] Mammoth Body
+		[0x5F6] Mammoth Arms
+		[0x5FE] Mammoth Legs
+		[0x606] Berta Head
+		[0x60E] Berta Body
+		[0x616] Berta Arms
+		[0x61E] Berta Legs
+		[0x626] Futabi Head
+		[0x62E] Futabi Body
+		[0x636] Futabi Arms
+		[0x63E] Futabi Legs
+		[0x646] Mammoth Head
+		[0x64E] Mammoth Body
+		[0x656] Mammoth Arms
+		[0x65E] Mammoth Legs
+		[0x666] Berta Head
+		[0x66E] Berta Body
+		[0x676] Berta Arms
+		[0x67E] Berta Legs
+		[0x686] Futabi Head
+		[0x68E] Futabi Body
+		[0x696] Futabi Arms
+		[0x69E] Futabi Legs
+		[0x6A6] Mammoth Head
+		[0x6AE] Mammoth Body
+		[0x6B6] Mammoth Arms
+		[0x6BE] Mammoth Legs
+		[0x6C6] Berta Head
+		[0x6CE] Berta Body
+		[0x6D6] Berta Arms
+		[0x6DE] Berta Legs
+		[0x6E6] Other1
+		[0x6EE] Other1
+		[0x6F6] Other1
+		[0x6FE] Other2
+		[0x706] Silver Head
+		[0x70E] Gold Head
+Zone 02:
+	Table 01:
+		[0x77E] Krona Head
+		[0x786] Krona Head
+		[0x78E] Krona Body
+		[0x796] Krona Body
+		[0x79E] Krona Arms
+		[0x7A6] Krona Legs
+		[0x7AE] Mammoth Head
+		[0x7B6] Mammoth Head
+		[0x7BE] Mammoth Body
+		[0x7C6] Mammoth Body
+		[0x7CE] Mammoth Arms
+		[0x7D6] Mammoth Legs
+		[0x7DE] Synthos Single
+		[0x7E6] Synthos Single
+		[0x7EE] Krona Head
+		[0x7F6] Krona Body
+		[0x7FE] Krona Arms
+		[0x806] Krona Legs
+		[0x80E] Mammoth Head
+		[0x816] Mammoth Body
+		[0x81E] Mammoth Arms
+		[0x826] Mammoth Legs
+		[0x82E] Synthos Single
+		[0x836] Krona Head
+		[0x83E] Krona Body
+		[0x846] Krona Arms
+		[0x84E] Krona Legs
+		[0x856] Mammoth Head
+		[0x85E] Mammoth Body
+		[0x866] Mammoth Arms
+		[0x86E] Mammoth Legs
+		[0x876] Synthos Single
+		[0x87E] Other1
+		[0x886] Other1
+		[0x88E] Other1
+		[0x896] Other2
+		[0x89E] Other2
+		[0x8A6] Silver Body
+		[0x8AE] Gold Head
+	Table 02:
+		[0x8F6] Krona Head
+		[0x8FE] Krona Head
+		[0x906] Krona Body
+		[0x90E] Krona Body
+		[0x916] Krona Arms
+		[0x91E] Krona Arms
+		[0x926] Krona Legs
+		[0x92E] Mammoth Head
+		[0x936] Mammoth Head
+		[0x93E] Mammoth Body
+		[0x946] Mammoth Body
+		[0x94E] Mammoth Arms
+		[0x956] Mammoth Arms
+		[0x95E] Mammoth Legs
+		[0x966] Synthos Single
+		[0x96E] Synthos Single
+		[0x976] Krona Head
+		[0x97E] Krona Body
+		[0x986] Krona Arms
+		[0x98E] Krona Legs
+		[0x996] Mammoth Head
+		[0x99E] Mammoth Body
+		[0x9A6] Mammoth Arms
+		[0x9AE] Mammoth Legs
+		[0x9B6] Synthos Single
+		[0x9BE] Krona Head
+		[0x9C6] Krona Body
+		[0x9CE] Krona Arms
+		[0x9D6] Krona Legs
+		[0x9DE] Mammoth Head
+		[0x9E6] Mammoth Body
+		[0x9EE] Mammoth Arms
+		[0x9F6] Mammoth Legs
+		[0x9FE] Synthos Single
+		[0xA06] Other1
+		[0xA0E] Other1
+		[0xA16] Other1
+		[0xA1E] Other2
+		[0xA26] Other2
+		[0xA2E] Silver Body
+		[0xA36] Gold Head
+	Table 03:
+		[0xA7E] Krona Head
+		[0xA86] Krona Body
+		[0xA8E] Krona Arms
+		[0xA96] Krona Legs
+		[0xA9E] Mammoth Head
+		[0xAA6] Mammoth Body
+		[0xAAE] Mammoth Arms
+		[0xAB6] Mammoth Legs
+		[0xABE] Synthos Single
+		[0xAC6] Krona Head
+		[0xACE] Krona Body
+		[0xAD6] Krona Arms
+		[0xADE] Krona Legs
+		[0xAE6] Mammoth Head
+		[0xAEE] Mammoth Body
+		[0xAF6] Mammoth Arms
+		[0xAFE] Mammoth Legs
+		[0xB06] Synthos Single
+		[0xB0E] Krona Head
+		[0xB16] Krona Body
+		[0xB1E] Krona Arms
+		[0xB26] Krona Legs
+		[0xB2E] Mammoth Head
+		[0xB36] Mammoth Body
+		[0xB3E] Mammoth Arms
+		[0xB46] Mammoth Legs
+		[0xB4E] Synthos Single
+		[0xB56] Other1
+		[0xB5E] Other1
+		[0xB66] Other1
+		[0xB6E] Other2
+		[0xB76] Other2
+		[0xB7E] Silver Body
+		[0xB86] Gold Head
+Zone 03:
+	Table 01:
+		[0xBF6] Pachy Head
+		[0xBFE] Pachy Head
+		[0xC06] Pachy Body
+		[0xC0E] Pachy Body
+		[0xC16] Pachy Arms
+		[0xC1E] Pachy Legs
+		[0xC26] Krona Head
+		[0xC2E] Krona Head
+		[0xC36] Krona Body
+		[0xC3E] Krona Body
+		[0xC46] Krona Arms
+		[0xC4E] Krona Legs
+		[0xC56] Titanis Head
+		[0xC5E] Titanis Head
+		[0xC66] Titanis Body
+		[0xC6E] Titanis Body
+		[0xC76] Titanis Arms
+		[0xC7E] Titanis Legs
+		[0xC86] Pachy Head
+		[0xC8E] Pachy Body
+		[0xC96] Pachy Arms
+		[0xC9E] Pachy Legs
+		[0xCA6] Krona Head
+		[0xCAE] Krona Body
+		[0xCB6] Krona Arms
+		[0xCBE] Krona Legs
+		[0xCC6] Titanis Head
+		[0xCCE] Titanis Body
+		[0xCD6] Titanis Arms
+		[0xCDE] Titanis Legs
+		[0xCE6] Pachy Head
+		[0xCEE] Pachy Body
+		[0xCF6] Pachy Arms
+		[0xCFE] Pachy Legs
+		[0xD06] Krona Head
+		[0xD0E] Krona Body
+		[0xD16] Krona Arms
+		[0xD1E] Krona Legs
+		[0xD26] Titanis Head
+		[0xD2E] Titanis Body
+		[0xD36] Titanis Arms
+		[0xD3E] Titanis Legs
+		[0xD46] Other1
+		[0xD4E] Other1
+		[0xD56] Other1
+		[0xD5E] Other2
+		[0xD66] Silver Arms
+		[0xD6E] Gold Head
+	Table 02:
+		[0xDB6] Pachy Head
+		[0xDBE] Pachy Head
+		[0xDC6] Pachy Body
+		[0xDCE] Pachy Body
+		[0xDD6] Pachy Arms
+		[0xDDE] Pachy Arms
+		[0xDE6] Pachy Legs
+		[0xDEE] Krona Head
+		[0xDF6] Krona Head
+		[0xDFE] Krona Body
+		[0xE06] Krona Body
+		[0xE0E] Krona Arms
+		[0xE16] Krona Arms
+		[0xE1E] Krona Legs
+		[0xE26] Titanis Head
+		[0xE2E] Titanis Head
+		[0xE36] Titanis Body
+		[0xE3E] Titanis Body
+		[0xE46] Titanis Arms
+		[0xE4E] Titanis Arms
+		[0xE56] Titanis Legs
+		[0xE5E] Pachy Head
+		[0xE66] Pachy Body
+		[0xE6E] Pachy Arms
+		[0xE76] Pachy Legs
+		[0xE7E] Krona Head
+		[0xE86] Krona Body
+		[0xE8E] Krona Arms
+		[0xE96] Krona Legs
+		[0xE9E] Titanis Head
+		[0xEA6] Titanis Body
+		[0xEAE] Titanis Arms
+		[0xEB6] Titanis Legs
+		[0xEBE] Pachy Head
+		[0xEC6] Pachy Body
+		[0xECE] Pachy Arms
+		[0xED6] Pachy Legs
+		[0xEDE] Krona Head
+		[0xEE6] Krona Body
+		[0xEEE] Krona Arms
+		[0xEF6] Krona Legs
+		[0xEFE] Titanis Head
+		[0xF06] Titanis Body
+		[0xF0E] Titanis Arms
+		[0xF16] Titanis Legs
+		[0xF1E] Other1
+		[0xF26] Other1
+		[0xF2E] Other1
+		[0xF36] Other2
+		[0xF3E] Silver Arms
+		[0xF46] Gold Head
+	Table 03:
+		[0xF8E] Igua Head
+		[0xF96] Pachy Head
+		[0xF9E] Pachy Body
+		[0xFA6] Pachy Arms
+		[0xFAE] Pachy Legs
+		[0xFB6] Krona Head
+		[0xFBE] Krona Body
+		[0xFC6] Krona Arms
+		[0xFCE] Krona Legs
+		[0xFD6] Titanis Head
+		[0xFDE] Titanis Body
+		[0xFE6] Titanis Arms
+		[0xFEE] Titanis Legs
+		[0xFF6] Pachy Head
+		[0xFFE] Pachy Body
+		[0x1006] Pachy Arms
+		[0x100E] Pachy Legs
+		[0x1016] Krona Head
+		[0x101E] Krona Body
+		[0x1026] Krona Arms
+		[0x102E] Krona Legs
+		[0x1036] Titanis Head
+		[0x103E] Titanis Body
+		[0x1046] Titanis Arms
+		[0x104E] Titanis Legs
+		[0x1056] Pachy Head
+		[0x105E] Pachy Body
+		[0x1066] Pachy Arms
+		[0x106E] Pachy Legs
+		[0x1076] Krona Head
+		[0x107E] Krona Body
+		[0x1086] Krona Arms
+		[0x108E] Krona Legs
+		[0x1096] Titanis Head
+		[0x109E] Titanis Body
+		[0x10A6] Titanis Arms
+		[0x10AE] Titanis Legs
+		[0x10B6] Other1
+		[0x10BE] Other1
+		[0x10C6] Other1
+		[0x10CE] Other2
+		[0x10D6] Silver Arms
+		[0x10DE] Gold Head
+Zone 04:
+	Table 01:
+		[0x114E] F-Raptor Head
+		[0x1156] F-Raptor Head
+		[0x115E] F-Raptor Body
+		[0x1166] F-Raptor Body
+		[0x116E] F-Raptor Arms
+		[0x1176] F-Raptor Legs
+		[0x117E] Mapo Head
+		[0x1186] Mapo Head
+		[0x118E] Mapo Body
+		[0x1196] Mapo Body
+		[0x119E] Mapo Arms
+		[0x11A6] Mapo Legs
+		[0x11AE] Titanis Head
+		[0x11B6] Titanis Head
+		[0x11BE] Titanis Body
+		[0x11C6] Titanis Body
+		[0x11CE] Titanis Arms
+		[0x11D6] Titanis Legs
+		[0x11DE] F-Raptor Head
+		[0x11E6] F-Raptor Body
+		[0x11EE] F-Raptor Arms
+		[0x11F6] F-Raptor Legs
+		[0x11FE] Mapo Head
+		[0x1206] Mapo Body
+		[0x120E] Mapo Arms
+		[0x1216] Mapo Legs
+		[0x121E] Titanis Head
+		[0x1226] Titanis Body
+		[0x122E] Titanis Arms
+		[0x1236] Titanis Legs
+		[0x123E] F-Raptor Head
+		[0x1246] F-Raptor Body
+		[0x124E] F-Raptor Arms
+		[0x1256] F-Raptor Legs
+		[0x125E] Mapo Head
+		[0x1266] Mapo Body
+		[0x126E] Mapo Arms
+		[0x1276] Mapo Legs
+		[0x127E] Titanis Head
+		[0x1286] Titanis Body
+		[0x128E] Titanis Arms
+		[0x1296] Titanis Legs
+		[0x129E] Other1
+		[0x12A6] Other1
+		[0x12AE] Other1
+		[0x12B6] Other2
+		[0x12BE] Silver Legs
+		[0x12C6] Gold Head
+	Table 02:
+		[0x130E] F-Raptor Head
+		[0x1316] F-Raptor Head
+		[0x131E] F-Raptor Body
+		[0x1326] F-Raptor Body
+		[0x132E] F-Raptor Arms
+		[0x1336] F-Raptor Arms
+		[0x133E] F-Raptor Legs
+		[0x1346] Mapo Head
+		[0x134E] Mapo Head
+		[0x1356] Mapo Body
+		[0x135E] Mapo Body
+		[0x1366] Mapo Arms
+		[0x136E] Mapo Arms
+		[0x1376] Mapo Legs
+		[0x137E] Titanis Head
+		[0x1386] Titanis Head
+		[0x138E] Titanis Body
+		[0x1396] Titanis Body
+		[0x139E] Titanis Arms
+		[0x13A6] Titanis Arms
+		[0x13AE] Titanis Legs
+		[0x13B6] F-Raptor Head
+		[0x13BE] F-Raptor Body
+		[0x13C6] F-Raptor Arms
+		[0x13CE] F-Raptor Legs
+		[0x13D6] Mapo Head
+		[0x13DE] Mapo Body
+		[0x13E6] Mapo Arms
+		[0x13EE] Mapo Legs
+		[0x13F6] Titanis Head
+		[0x13FE] Titanis Body
+		[0x1406] Titanis Arms
+		[0x140E] Titanis Legs
+		[0x1416] F-Raptor Head
+		[0x141E] F-Raptor Body
+		[0x1426] F-Raptor Arms
+		[0x142E] F-Raptor Legs
+		[0x1436] Mapo Head
+		[0x143E] Mapo Body
+		[0x1446] Mapo Arms
+		[0x144E] Mapo Legs
+		[0x1456] Titanis Head
+		[0x145E] Titanis Body
+		[0x1466] Titanis Arms
+		[0x146E] Titanis Legs
+		[0x1476] Other1
+		[0x147E] Other1
+		[0x1486] Other1
+		[0x148E] Other2
+		[0x1496] Silver Legs
+		[0x149E] Gold Head
+	Table 03:
+		[0x14E6] F-Raptor Head
+		[0x14EE] F-Raptor Body
+		[0x14F6] F-Raptor Arms
+		[0x14FE] F-Raptor Legs
+		[0x1506] Mapo Head
+		[0x150E] Mapo Body
+		[0x1516] Mapo Arms
+		[0x151E] Mapo Legs
+		[0x1526] Titanis Head
+		[0x152E] Titanis Body
+		[0x1536] Titanis Arms
+		[0x153E] Titanis Legs
+		[0x1546] F-Raptor Head
+		[0x154E] F-Raptor Body
+		[0x1556] F-Raptor Arms
+		[0x155E] F-Raptor Legs
+		[0x1566] Mapo Head
+		[0x156E] Mapo Body
+		[0x1576] Mapo Arms
+		[0x157E] Mapo Legs
+		[0x1586] Titanis Head
+		[0x158E] Titanis Body
+		[0x1596] Titanis Arms
+		[0x159E] Titanis Legs
+		[0x15A6] F-Raptor Head
+		[0x15AE] F-Raptor Body
+		[0x15B6] F-Raptor Arms
+		[0x15BE] F-Raptor Legs
+		[0x15C6] Mapo Head
+		[0x15CE] Mapo Body
+		[0x15D6] Mapo Arms
+		[0x15DE] Mapo Legs
+		[0x15E6] Titanis Head
+		[0x15EE] Titanis Body
+		[0x15F6] Titanis Arms
+		[0x15FE] Titanis Legs
+		[0x1606] Other1
+		[0x160E] Other1
+		[0x1616] Other1
+		[0x161E] Other2
+		[0x1626] Silver Legs
+		[0x162E] Gold Head
+Zone 05:
+	Table 01:
+		[0x169E] Sucho Head
+	Table 02:
+		[0x16E6] Sucho Body
+	Table 03:
+		[0x172E] Sucho Arms
+
+5101:
+Zone 01:
+	Table 01:
+		[0x1CE] Mihu Head
+		[0x1D6] Mihu Head
+		[0x1DE] Mihu Body
+		[0x1E6] Mihu Body
+		[0x1EE] Mihu Arms
+		[0x1F6] Mihu Legs
+		[0x1FE] Mihu Head
+		[0x206] Mihu Body
+		[0x20E] Mihu Arms
+		[0x216] Mihu Legs
+		[0x21E] Mihu Head
+		[0x226] Mihu Body
+		[0x22E] Mihu Arms
+		[0x236] Mihu Legs
+		[0x23E] Other1
+		[0x246] Other1
+		[0x24E] Other1
+		[0x256] Other2
+		[0x25E] Silver Head
+		[0x266] Gold Head
+	Table 02:
+		[0x2AE] Mihu Head
+		[0x2B6] Mihu Head
+		[0x2BE] Mihu Body
+		[0x2C6] Mihu Body
+		[0x2CE] Mihu Arms
+		[0x2D6] Mihu Arms
+		[0x2DE] Mihu Legs
+		[0x2E6] Mihu Head
+		[0x2EE] Mihu Body
+		[0x2F6] Mihu Arms
+		[0x2FE] Mihu Legs
+		[0x306] Mihu Head
+		[0x30E] Mihu Body
+		[0x316] Mihu Arms
+		[0x31E] Mihu Legs
+		[0x326] Other1
+		[0x32E] Other1
+		[0x336] Other1
+		[0x33E] Other2
+		[0x346] Silver Head
+		[0x34E] Gold Head
+	Table 03:
+		[0x396] Megalo Head
+		[0x39E] Megalo Body
+		[0x3A6] Megalo Arms
+		[0x3AE] Megalo Legs
+		[0x3B6] Mihu Head
+		[0x3BE] Mihu Body
+		[0x3C6] Mihu Arms
+		[0x3CE] Mihu Legs
+		[0x3D6] Mihu Head
+		[0x3DE] Mihu Body
+		[0x3E6] Mihu Arms
+		[0x3EE] Mihu Legs
+		[0x3F6] Mihu Head
+		[0x3FE] Mihu Body
+		[0x406] Mihu Arms
+		[0x40E] Mihu Legs
+		[0x416] Other1
+		[0x41E] Other1
+		[0x426] Other1
+		[0x42E] Other2
+		[0x436] Silver Head
+		[0x43E] Gold Head
+Zone 02:
+	Table 01:
+		[0x4AE] Seidon Head
+		[0x4B6] Seidon Head
+		[0x4BE] Seidon Body
+		[0x4C6] Seidon Body
+		[0x4CE] Seidon Arms
+		[0x4D6] Seidon Legs
+		[0x4DE] Seidon Head
+		[0x4E6] Seidon Body
+		[0x4EE] Seidon Arms
+		[0x4F6] Seidon Legs
+		[0x4FE] Seidon Head
+		[0x506] Seidon Body
+		[0x50E] Seidon Arms
+		[0x516] Seidon Legs
+		[0x51E] Other1
+		[0x526] Other1
+		[0x52E] Other1
+		[0x536] Other2
+		[0x53E] Silver Body
+		[0x546] Gold Head
+	Table 02:
+		[0x58E] Seidon Head
+		[0x596] Seidon Head
+		[0x59E] Seidon Body
+		[0x5A6] Seidon Body
+		[0x5AE] Seidon Arms
+		[0x5B6] Seidon Arms
+		[0x5BE] Seidon Legs
+		[0x5C6] Seidon Head
+		[0x5CE] Seidon Body
+		[0x5D6] Seidon Arms
+		[0x5DE] Seidon Legs
+		[0x5E6] Seidon Head
+		[0x5EE] Seidon Body
+		[0x5F6] Seidon Arms
+		[0x5FE] Seidon Legs
+		[0x606] Other1
+		[0x60E] Other1
+		[0x616] Other1
+		[0x61E] Other2
+		[0x626] Silver Body
+		[0x62E] Gold Head
+	Table 03:
+		[0x676] Megalo Head
+		[0x67E] Megalo Body
+		[0x686] Megalo Arms
+		[0x68E] Megalo Legs
+		[0x696] Seidon Head
+		[0x69E] Seidon Body
+		[0x6A6] Seidon Arms
+		[0x6AE] Seidon Legs
+		[0x6B6] Seidon Head
+		[0x6BE] Seidon Body
+		[0x6C6] Seidon Arms
+		[0x6CE] Seidon Legs
+		[0x6D6] Seidon Head
+		[0x6DE] Seidon Body
+		[0x6E6] Seidon Arms
+		[0x6EE] Seidon Legs
+		[0x6F6] Other1
+		[0x6FE] Other1
+		[0x706] Other1
+		[0x70E] Other2
+		[0x716] Silver Body
+		[0x71E] Gold Head
+Zone 03:
+	Table 01:
+		[0x78E] Nychus Head
+	Table 02:
+		[0x7D6] Nychus Body
+	Table 03:
+		[0x81E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x88E] Cryo Head
+	Table 02:
+		[0x8D6] Cryo Body
+	Table 03:
+		[0x91E] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x98E] Sucho Head
+	Table 02:
+		[0x9D6] Sucho Body
+	Table 03:
+		[0xA1E] Sucho Arms
+
+6000:
+Zone 01:
+	Table 01:
+		[0x212] Tro Head
+		[0x21A] Tro Head
+		[0x222] Tro Body
+		[0x22A] Tro Body
+		[0x232] Tro Arms
+		[0x23A] Tro Legs
+		[0x242] Carno Head
+		[0x24A] Carno Head
+		[0x252] Carno Body
+		[0x25A] Carno Body
+		[0x262] Carno Arms
+		[0x26A] Carno Legs
+		[0x272] Paki Head
+		[0x27A] Paki Head
+		[0x282] Paki Body
+		[0x28A] Paki Body
+		[0x292] Paki Arms
+		[0x29A] Paki Legs
+		[0x2A2] Tro Head
+		[0x2AA] Tro Body
+		[0x2B2] Tro Arms
+		[0x2BA] Tro Legs
+		[0x2C2] Carno Head
+		[0x2CA] Carno Body
+		[0x2D2] Carno Arms
+		[0x2DA] Carno Legs
+		[0x2E2] Paki Head
+		[0x2EA] Paki Body
+		[0x2F2] Paki Arms
+		[0x2FA] Paki Legs
+		[0x302] Tro Head
+		[0x30A] Tro Body
+		[0x312] Tro Arms
+		[0x31A] Tro Legs
+		[0x322] Carno Head
+		[0x32A] Carno Body
+		[0x332] Carno Arms
+		[0x33A] Carno Legs
+		[0x342] Paki Head
+		[0x34A] Paki Body
+		[0x352] Paki Arms
+		[0x35A] Paki Legs
+		[0x362] Other1
+		[0x36A] Other1
+		[0x372] Other1
+		[0x37A] Other1
+		[0x382] Other2
+		[0x38A] Other2
+		[0x392] Other2
+		[0x39A] Other2
+		[0x3A2] Silver Head
+		[0x3AA] Gold Head
+	Table 02:
+		[0x3F2] Tro Head
+		[0x3FA] Tro Head
+		[0x402] Tro Body
+		[0x40A] Tro Body
+		[0x412] Tro Arms
+		[0x41A] Tro Arms
+		[0x422] Tro Legs
+		[0x42A] Carno Head
+		[0x432] Carno Head
+		[0x43A] Carno Body
+		[0x442] Carno Body
+		[0x44A] Carno Arms
+		[0x452] Carno Arms
+		[0x45A] Carno Legs
+		[0x462] Paki Head
+		[0x46A] Paki Head
+		[0x472] Paki Body
+		[0x47A] Paki Body
+		[0x482] Paki Arms
+		[0x48A] Paki Arms
+		[0x492] Paki Legs
+		[0x49A] Tro Head
+		[0x4A2] Tro Body
+		[0x4AA] Tro Arms
+		[0x4B2] Tro Legs
+		[0x4BA] Carno Head
+		[0x4C2] Carno Body
+		[0x4CA] Carno Arms
+		[0x4D2] Carno Legs
+		[0x4DA] Paki Head
+		[0x4E2] Paki Body
+		[0x4EA] Paki Arms
+		[0x4F2] Paki Legs
+		[0x4FA] Tro Head
+		[0x502] Tro Body
+		[0x50A] Tro Arms
+		[0x512] Tro Legs
+		[0x51A] Carno Head
+		[0x522] Carno Body
+		[0x52A] Carno Arms
+		[0x532] Carno Legs
+		[0x53A] Paki Head
+		[0x542] Paki Body
+		[0x54A] Paki Arms
+		[0x552] Paki Legs
+		[0x55A] Other1
+		[0x562] Other1
+		[0x56A] Other1
+		[0x572] Other1
+		[0x57A] Other2
+		[0x582] Other2
+		[0x58A] Other2
+		[0x592] Other2
+		[0x59A] Silver Head
+		[0x5A2] Gold Head
+	Table 03:
+		[0x5EA] Archaeo Head
+		[0x5F2] Tro Head
+		[0x5FA] Tro Body
+		[0x602] Tro Arms
+		[0x60A] Tro Legs
+		[0x612] Carno Head
+		[0x61A] Carno Body
+		[0x622] Carno Arms
+		[0x62A] Carno Legs
+		[0x632] Paki Head
+		[0x63A] Paki Body
+		[0x642] Paki Arms
+		[0x64A] Paki Legs
+		[0x652] Tro Head
+		[0x65A] Tro Body
+		[0x662] Tro Arms
+		[0x66A] Tro Legs
+		[0x672] Carno Head
+		[0x67A] Carno Body
+		[0x682] Carno Arms
+		[0x68A] Carno Legs
+		[0x692] Paki Head
+		[0x69A] Paki Body
+		[0x6A2] Paki Arms
+		[0x6AA] Paki Legs
+		[0x6B2] Tro Head
+		[0x6BA] Tro Body
+		[0x6C2] Tro Arms
+		[0x6CA] Tro Legs
+		[0x6D2] Carno Head
+		[0x6DA] Carno Body
+		[0x6E2] Carno Arms
+		[0x6EA] Carno Legs
+		[0x6F2] Paki Head
+		[0x6FA] Paki Body
+		[0x702] Paki Arms
+		[0x70A] Paki Legs
+		[0x712] Other1
+		[0x71A] Other1
+		[0x722] Other1
+		[0x72A] Other1
+		[0x732] Other2
+		[0x73A] Other2
+		[0x742] Other2
+		[0x74A] Other2
+		[0x752] Silver Head
+		[0x75A] Gold Head
+Zone 02:
+	Table 01:
+		[0x7CA] Siamo Head
+	Table 02:
+		[0x812] Siamo Body
+	Table 03:
+		[0x85A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x8CA] Nychus Head
+	Table 02:
+		[0x912] Nychus Body
+	Table 03:
+		[0x95A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x9CA] Cryo Head
+	Table 02:
+		[0xA12] Cryo Body
+	Table 03:
+		[0xA5A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xACA] Sucho Head
+	Table 02:
+		[0xB12] Sucho Body
+	Table 03:
+		[0xB5A] Sucho Arms
+
+6100:
+Zone 01:
+	Table 01:
+		[0x1F2] Cryo Head
+		[0x1FA] Cryo Body
+		[0x202] Cryo Arms
+		[0x20A] Cryo Legs
+		[0x212] Angato Head
+		[0x21A] Angato Body
+		[0x222] Angato Arms
+		[0x22A] Angato Legs
+		[0x232] Centro Head
+		[0x23A] Centro Body
+		[0x242] Centro Arms
+		[0x24A] Centro Legs
+		[0x252] Terata Single
+		[0x25A] Megalo Head
+		[0x262] Megalo Body
+		[0x26A] Megalo Arms
+		[0x272] Megalo Legs
+		[0x27A] Cryo Head
+		[0x282] Cryo Body
+		[0x28A] Cryo Arms
+		[0x292] Cryo Legs
+		[0x29A] Angato Head
+		[0x2A2] Angato Body
+		[0x2AA] Angato Arms
+		[0x2B2] Angato Legs
+		[0x2BA] Centro Head
+		[0x2C2] Centro Body
+		[0x2CA] Centro Arms
+		[0x2D2] Centro Legs
+		[0x2DA] Terata Single
+		[0x2E2] Megalo Head
+		[0x2EA] Megalo Body
+		[0x2F2] Megalo Arms
+		[0x2FA] Megalo Legs
+		[0x302] Cryo Head
+		[0x30A] Cryo Body
+		[0x312] Cryo Arms
+		[0x31A] Cryo Legs
+		[0x322] Angato Head
+		[0x32A] Angato Body
+		[0x332] Angato Arms
+		[0x33A] Angato Legs
+		[0x342] Centro Head
+		[0x34A] Centro Body
+		[0x352] Centro Arms
+		[0x35A] Centro Legs
+		[0x362] Terata Single
+		[0x36A] Megalo Head
+		[0x372] Megalo Body
+		[0x37A] Megalo Arms
+		[0x382] Megalo Legs
+		[0x38A] Other1
+		[0x392] Other1
+		[0x39A] Other1
+		[0x3A2] Other1
+		[0x3AA] Other2
+		[0x3B2] Silver Head
+		[0x3BA] Gold Head
+	Table 02:
+		[0x402] Cryo Head
+		[0x40A] Cryo Body
+		[0x412] Cryo Arms
+		[0x41A] Cryo Legs
+		[0x422] Angato Head
+		[0x42A] Angato Body
+		[0x432] Angato Arms
+		[0x43A] Angato Legs
+		[0x442] Centro Head
+		[0x44A] Centro Body
+		[0x452] Centro Arms
+		[0x45A] Centro Legs
+		[0x462] Terata Single
+		[0x46A] Megalo Head
+		[0x472] Megalo Body
+		[0x47A] Megalo Arms
+		[0x482] Megalo Legs
+		[0x48A] Cryo Head
+		[0x492] Cryo Body
+		[0x49A] Cryo Arms
+		[0x4A2] Cryo Legs
+		[0x4AA] Angato Head
+		[0x4B2] Angato Body
+		[0x4BA] Angato Arms
+		[0x4C2] Angato Legs
+		[0x4CA] Centro Head
+		[0x4D2] Centro Body
+		[0x4DA] Centro Arms
+		[0x4E2] Centro Legs
+		[0x4EA] Terata Single
+		[0x4F2] Megalo Head
+		[0x4FA] Megalo Body
+		[0x502] Megalo Arms
+		[0x50A] Megalo Legs
+		[0x512] Cryo Head
+		[0x51A] Cryo Body
+		[0x522] Cryo Arms
+		[0x52A] Cryo Legs
+		[0x532] Angato Head
+		[0x53A] Angato Body
+		[0x542] Angato Arms
+		[0x54A] Angato Legs
+		[0x552] Centro Head
+		[0x55A] Centro Body
+		[0x562] Centro Arms
+		[0x56A] Centro Legs
+		[0x572] Terata Single
+		[0x57A] Megalo Head
+		[0x582] Megalo Body
+		[0x58A] Megalo Arms
+		[0x592] Megalo Legs
+		[0x59A] Other1
+		[0x5A2] Other1
+		[0x5AA] Other1
+		[0x5B2] Other1
+		[0x5BA] Other2
+		[0x5C2] Silver Head
+		[0x5CA] Gold Head
+	Table 03:
+		[0x612] Cryo Head
+		[0x61A] Cryo Body
+		[0x622] Cryo Arms
+		[0x62A] Cryo Legs
+		[0x632] Angato Head
+		[0x63A] Angato Body
+		[0x642] Angato Arms
+		[0x64A] Angato Legs
+		[0x652] Centro Head
+		[0x65A] Centro Body
+		[0x662] Centro Arms
+		[0x66A] Centro Legs
+		[0x672] Terata Single
+		[0x67A] Megalo Head
+		[0x682] Megalo Body
+		[0x68A] Megalo Arms
+		[0x692] Megalo Legs
+		[0x69A] Cryo Head
+		[0x6A2] Cryo Body
+		[0x6AA] Cryo Arms
+		[0x6B2] Cryo Legs
+		[0x6BA] Angato Head
+		[0x6C2] Angato Body
+		[0x6CA] Angato Arms
+		[0x6D2] Angato Legs
+		[0x6DA] Centro Head
+		[0x6E2] Centro Body
+		[0x6EA] Centro Arms
+		[0x6F2] Centro Legs
+		[0x6FA] Terata Single
+		[0x702] Megalo Head
+		[0x70A] Megalo Body
+		[0x712] Megalo Arms
+		[0x71A] Megalo Legs
+		[0x722] Cryo Head
+		[0x72A] Cryo Body
+		[0x732] Cryo Arms
+		[0x73A] Cryo Legs
+		[0x742] Angato Head
+		[0x74A] Angato Body
+		[0x752] Angato Arms
+		[0x75A] Angato Legs
+		[0x762] Centro Head
+		[0x76A] Centro Body
+		[0x772] Centro Arms
+		[0x77A] Centro Legs
+		[0x782] Terata Single
+		[0x78A] Megalo Head
+		[0x792] Megalo Body
+		[0x79A] Megalo Arms
+		[0x7A2] Megalo Legs
+		[0x7AA] Other1
+		[0x7B2] Other1
+		[0x7BA] Other1
+		[0x7C2] Other2
+		[0x7CA] Silver Head
+		[0x7D2] Gold Head
+Zone 02:
+	Table 01:
+		[0x842] Siamo Head
+	Table 02:
+		[0x88A] Siamo Body
+	Table 03:
+		[0x8D2] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x942] Nychus Head
+	Table 02:
+		[0x98A] Nychus Body
+	Table 03:
+		[0x9D2] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA42] Cryo Head
+	Table 02:
+		[0xA8A] Cryo Body
+	Table 03:
+		[0xAD2] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xB42] Sucho Head
+	Table 02:
+		[0xB8A] Sucho Body
+	Table 03:
+		[0xBD2] Sucho Arms
+
+6200:
+Zone 01:
+	Table 01:
+		[0x212] Chasmo Head
+		[0x21A] Chasmo Body
+		[0x222] Chasmo Arms
+		[0x22A] Chasmo Legs
+		[0x232] Chasmo Head
+		[0x23A] Chasmo Body
+		[0x242] Chasmo Arms
+		[0x24A] Chasmo Legs
+		[0x252] Chasmo Head
+		[0x25A] Chasmo Body
+		[0x262] Chasmo Arms
+		[0x26A] Chasmo Legs
+		[0x272] Other1
+		[0x27A] Other1
+		[0x282] Other2
+		[0x28A] Other2
+		[0x292] Other2
+		[0x29A] Other2
+		[0x2A2] Silver Arms
+		[0x2AA] Gold Head
+	Table 02:
+		[0x2F2] Chasmo Head
+		[0x2FA] Chasmo Body
+		[0x302] Chasmo Arms
+		[0x30A] Chasmo Legs
+		[0x312] Chasmo Head
+		[0x31A] Chasmo Body
+		[0x322] Chasmo Arms
+		[0x32A] Chasmo Legs
+		[0x332] Chasmo Head
+		[0x33A] Chasmo Body
+		[0x342] Chasmo Arms
+		[0x34A] Chasmo Legs
+		[0x352] Other1
+		[0x35A] Other1
+		[0x362] Other2
+		[0x36A] Other2
+		[0x372] Other2
+		[0x37A] Other2
+		[0x382] Silver Arms
+		[0x38A] Gold Head
+	Table 03:
+		[0x3D2] Chasmo Head
+		[0x3DA] Chasmo Body
+		[0x3E2] Chasmo Arms
+		[0x3EA] Chasmo Legs
+		[0x3F2] Chasmo Head
+		[0x3FA] Chasmo Body
+		[0x402] Chasmo Arms
+		[0x40A] Chasmo Legs
+		[0x412] Chasmo Head
+		[0x41A] Chasmo Body
+		[0x422] Chasmo Arms
+		[0x42A] Chasmo Legs
+		[0x432] Other1
+		[0x43A] Other1
+		[0x442] Other2
+		[0x44A] Other2
+		[0x452] Other2
+		[0x45A] Other2
+		[0x462] Silver Arms
+		[0x46A] Gold Head
+Zone 02:
+	Table 01:
+		[0x4DA] Chelon Head
+		[0x4E2] Chelon Body
+		[0x4EA] Chelon Arms
+		[0x4F2] Chelon Legs
+		[0x4FA] Coelanth Single
+		[0x502] Chelon Head
+		[0x50A] Chelon Body
+		[0x512] Chelon Arms
+		[0x51A] Chelon Legs
+		[0x522] Coelanth Single
+		[0x52A] Chelon Head
+		[0x532] Chelon Body
+		[0x53A] Chelon Arms
+		[0x542] Chelon Legs
+		[0x54A] Coelanth Single
+		[0x552] Other1
+		[0x55A] Other1
+		[0x562] Other2
+		[0x56A] Other2
+		[0x572] Other2
+		[0x57A] Other2
+		[0x582] Silver Arms
+		[0x58A] Gold Head
+	Table 02:
+		[0x5D2] Chelon Head
+		[0x5DA] Chelon Body
+		[0x5E2] Chelon Arms
+		[0x5EA] Chelon Legs
+		[0x5F2] Coelanth Single
+		[0x5FA] Chelon Head
+		[0x602] Chelon Body
+		[0x60A] Chelon Arms
+		[0x612] Chelon Legs
+		[0x61A] Coelanth Single
+		[0x622] Chelon Head
+		[0x62A] Chelon Body
+		[0x632] Chelon Arms
+		[0x63A] Chelon Legs
+		[0x642] Coelanth Single
+		[0x64A] Other1
+		[0x652] Other1
+		[0x65A] Other2
+		[0x662] Other2
+		[0x66A] Other2
+		[0x672] Other2
+		[0x67A] Silver Arms
+		[0x682] Gold Head
+	Table 03:
+		[0x6CA] Chelon Head
+		[0x6D2] Chelon Body
+		[0x6DA] Chelon Arms
+		[0x6E2] Chelon Legs
+		[0x6EA] Coelanth Single
+		[0x6F2] Chelon Head
+		[0x6FA] Chelon Body
+		[0x702] Chelon Arms
+		[0x70A] Chelon Legs
+		[0x712] Coelanth Single
+		[0x71A] Chelon Head
+		[0x722] Chelon Body
+		[0x72A] Chelon Arms
+		[0x732] Chelon Legs
+		[0x73A] Coelanth Single
+		[0x742] Other1
+		[0x74A] Other1
+		[0x752] Other2
+		[0x75A] Other2
+		[0x762] Other2
+		[0x76A] Other2
+		[0x772] Silver Arms
+		[0x77A] Gold Head
+Zone 03:
+	Table 01:
+		[0x7EA] Chasmo Head
+		[0x7F2] Chasmo Body
+		[0x7FA] Chasmo Arms
+		[0x802] Chasmo Legs
+		[0x80A] Oloro Head
+		[0x812] Oloro Body
+		[0x81A] Oloro Arms
+		[0x822] Oloro Legs
+		[0x82A] Chasmo Head
+		[0x832] Chasmo Body
+		[0x83A] Chasmo Arms
+		[0x842] Chasmo Legs
+		[0x84A] Oloro Head
+		[0x852] Oloro Body
+		[0x85A] Oloro Arms
+		[0x862] Oloro Legs
+		[0x86A] Chasmo Head
+		[0x872] Chasmo Body
+		[0x87A] Chasmo Arms
+		[0x882] Chasmo Legs
+		[0x88A] Oloro Head
+		[0x892] Oloro Body
+		[0x89A] Oloro Arms
+		[0x8A2] Oloro Legs
+		[0x8AA] Other1
+		[0x8B2] Other1
+		[0x8BA] Other1
+		[0x8C2] Other2
+		[0x8CA] Other2
+		[0x8D2] Other2
+		[0x8DA] Other2
+		[0x8E2] Silver Arms
+		[0x8EA] Gold Head
+	Table 02:
+		[0x932] Chasmo Head
+		[0x93A] Chasmo Body
+		[0x942] Chasmo Arms
+		[0x94A] Chasmo Legs
+		[0x952] Oloro Head
+		[0x95A] Oloro Body
+		[0x962] Oloro Arms
+		[0x96A] Oloro Legs
+		[0x972] Chasmo Head
+		[0x97A] Chasmo Body
+		[0x982] Chasmo Arms
+		[0x98A] Chasmo Legs
+		[0x992] Oloro Head
+		[0x99A] Oloro Body
+		[0x9A2] Oloro Arms
+		[0x9AA] Oloro Legs
+		[0x9B2] Chasmo Head
+		[0x9BA] Chasmo Body
+		[0x9C2] Chasmo Arms
+		[0x9CA] Chasmo Legs
+		[0x9D2] Oloro Head
+		[0x9DA] Oloro Body
+		[0x9E2] Oloro Arms
+		[0x9EA] Oloro Legs
+		[0x9F2] Other1
+		[0x9FA] Other1
+		[0xA02] Other1
+		[0xA0A] Other2
+		[0xA12] Other2
+		[0xA1A] Other2
+		[0xA22] Other2
+		[0xA2A] Silver Arms
+		[0xA32] Gold Head
+	Table 03:
+		[0xA7A] Chasmo Head
+		[0xA82] Chasmo Body
+		[0xA8A] Chasmo Arms
+		[0xA92] Chasmo Legs
+		[0xA9A] Oloro Head
+		[0xAA2] Oloro Body
+		[0xAAA] Oloro Arms
+		[0xAB2] Oloro Legs
+		[0xABA] Chasmo Head
+		[0xAC2] Chasmo Body
+		[0xACA] Chasmo Arms
+		[0xAD2] Chasmo Legs
+		[0xADA] Oloro Head
+		[0xAE2] Oloro Body
+		[0xAEA] Oloro Arms
+		[0xAF2] Oloro Legs
+		[0xAFA] Chasmo Head
+		[0xB02] Chasmo Body
+		[0xB0A] Chasmo Arms
+		[0xB12] Chasmo Legs
+		[0xB1A] Oloro Head
+		[0xB22] Oloro Body
+		[0xB2A] Oloro Arms
+		[0xB32] Oloro Legs
+		[0xB3A] Other1
+		[0xB42] Other1
+		[0xB4A] Other1
+		[0xB52] Other2
+		[0xB5A] Other2
+		[0xB62] Other2
+		[0xB6A] Other2
+		[0xB72] Silver Arms
+		[0xB7A] Gold Head
+Zone 04:
+	Table 01:
+		[0xBEA] Cryo Head
+	Table 02:
+		[0xC32] Cryo Body
+	Table 03:
+		[0xC7A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xCEA] Sucho Head
+	Table 02:
+		[0xD32] Sucho Body
+	Table 03:
+		[0xD7A] Sucho Arms
+
+6201:
+Zone 01:
+	Table 01:
+		[0x1E2] Nychus Head
+		[0x1EA] Nychus Body
+		[0x1F2] Nychus Arms
+		[0x1FA] Nychus Legs
+		[0x202] Dunkle Single
+		[0x20A] Nychus Head
+		[0x212] Nychus Body
+		[0x21A] Nychus Arms
+		[0x222] Nychus Legs
+		[0x22A] Dunkle Single
+		[0x232] Nychus Head
+		[0x23A] Nychus Body
+		[0x242] Nychus Arms
+		[0x24A] Nychus Legs
+		[0x252] Dunkle Single
+		[0x25A] Other1
+		[0x262] Other1
+		[0x26A] Other2
+		[0x272] Other2
+		[0x27A] Other2
+		[0x282] Other2
+		[0x28A] Silver Legs
+		[0x292] Gold Head
+	Table 02:
+		[0x2DA] Nychus Head
+		[0x2E2] Nychus Body
+		[0x2EA] Nychus Arms
+		[0x2F2] Nychus Legs
+		[0x2FA] Dunkle Single
+		[0x302] Nychus Head
+		[0x30A] Nychus Body
+		[0x312] Nychus Arms
+		[0x31A] Nychus Legs
+		[0x322] Dunkle Single
+		[0x32A] Nychus Head
+		[0x332] Nychus Body
+		[0x33A] Nychus Arms
+		[0x342] Nychus Legs
+		[0x34A] Dunkle Single
+		[0x352] Other1
+		[0x35A] Other1
+		[0x362] Other2
+		[0x36A] Other2
+		[0x372] Other2
+		[0x37A] Other2
+		[0x382] Silver Legs
+		[0x38A] Gold Head
+	Table 03:
+		[0x3D2] Nychus Head
+		[0x3DA] Nychus Body
+		[0x3E2] Nychus Arms
+		[0x3EA] Nychus Legs
+		[0x3F2] Dunkle Single
+		[0x3FA] Nychus Head
+		[0x402] Nychus Body
+		[0x40A] Nychus Arms
+		[0x412] Nychus Legs
+		[0x41A] Dunkle Single
+		[0x422] Nychus Head
+		[0x42A] Nychus Body
+		[0x432] Nychus Arms
+		[0x43A] Nychus Legs
+		[0x442] Dunkle Single
+		[0x44A] Other1
+		[0x452] Other1
+		[0x45A] Other2
+		[0x462] Other2
+		[0x46A] Other2
+		[0x472] Other2
+		[0x47A] Silver Legs
+		[0x482] Gold Head
+Zone 02:
+	Table 01:
+		[0x4F2] Gaudry Single
+		[0x4FA] Gaudry Single
+		[0x502] Gaudry Single
+		[0x50A] Gaudry Single
+		[0x512] Plesio Head
+		[0x51A] Plesio Body
+		[0x522] Plesio Arms
+		[0x52A] Plesio Legs
+		[0x532] Gaudry Single
+		[0x53A] Gaudry Single
+		[0x542] Gaudry Single
+		[0x54A] Gaudry Single
+		[0x552] Plesio Head
+		[0x55A] Plesio Body
+		[0x562] Plesio Arms
+		[0x56A] Plesio Legs
+		[0x572] Gaudry Single
+		[0x57A] Gaudry Single
+		[0x582] Gaudry Single
+		[0x58A] Gaudry Single
+		[0x592] Plesio Head
+		[0x59A] Plesio Body
+		[0x5A2] Plesio Arms
+		[0x5AA] Plesio Legs
+		[0x5B2] Other1
+		[0x5BA] Other1
+		[0x5C2] Other2
+		[0x5CA] Other2
+		[0x5D2] Other2
+		[0x5DA] Other2
+		[0x5E2] Silver Legs
+		[0x5EA] Gold Head
+	Table 02:
+		[0x632] Gaudry Single
+		[0x63A] Gaudry Single
+		[0x642] Gaudry Single
+		[0x64A] Gaudry Single
+		[0x652] Plesio Head
+		[0x65A] Plesio Body
+		[0x662] Plesio Arms
+		[0x66A] Plesio Legs
+		[0x672] Gaudry Single
+		[0x67A] Gaudry Single
+		[0x682] Gaudry Single
+		[0x68A] Gaudry Single
+		[0x692] Plesio Head
+		[0x69A] Plesio Body
+		[0x6A2] Plesio Arms
+		[0x6AA] Plesio Legs
+		[0x6B2] Gaudry Single
+		[0x6BA] Gaudry Single
+		[0x6C2] Gaudry Single
+		[0x6CA] Gaudry Single
+		[0x6D2] Plesio Head
+		[0x6DA] Plesio Body
+		[0x6E2] Plesio Arms
+		[0x6EA] Plesio Legs
+		[0x6F2] Other1
+		[0x6FA] Other1
+		[0x702] Other2
+		[0x70A] Other2
+		[0x712] Other2
+		[0x71A] Other2
+		[0x722] Silver Legs
+		[0x72A] Gold Head
+	Table 03:
+		[0x772] Gaudry Single
+		[0x77A] Gaudry Single
+		[0x782] Gaudry Single
+		[0x78A] Gaudry Single
+		[0x792] Plesio Head
+		[0x79A] Plesio Body
+		[0x7A2] Plesio Arms
+		[0x7AA] Plesio Legs
+		[0x7B2] Gaudry Single
+		[0x7BA] Gaudry Single
+		[0x7C2] Gaudry Single
+		[0x7CA] Gaudry Single
+		[0x7D2] Plesio Head
+		[0x7DA] Plesio Body
+		[0x7E2] Plesio Arms
+		[0x7EA] Plesio Legs
+		[0x7F2] Gaudry Single
+		[0x7FA] Gaudry Single
+		[0x802] Gaudry Single
+		[0x80A] Gaudry Single
+		[0x812] Plesio Head
+		[0x81A] Plesio Body
+		[0x822] Plesio Arms
+		[0x82A] Plesio Legs
+		[0x832] Other1
+		[0x83A] Other1
+		[0x842] Other2
+		[0x84A] Other2
+		[0x852] Other2
+		[0x85A] Other2
+		[0x862] Silver Legs
+		[0x86A] Gold Head
+Zone 03:
+	Table 01:
+		[0x8DA] Nychus Head
+	Table 02:
+		[0x922] Nychus Body
+	Table 03:
+		[0x96A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x9DA] Cryo Head
+	Table 02:
+		[0xA22] Cryo Body
+	Table 03:
+		[0xA6A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xADA] Sucho Head
+	Table 02:
+		[0xB22] Sucho Body
+	Table 03:
+		[0xB6A] Sucho Arms
+
+6202:
+Zone 01:
+	Table 01:
+		[0x1F2] Other1
+		[0x1FA] Other1
+		[0x202] Other1
+		[0x20A] Other1
+		[0x212] Other2
+		[0x21A] Silver Legs
+		[0x222] Gold Head
+	Table 02:
+		[0x26A] Other1
+		[0x272] Other1
+		[0x27A] Other1
+		[0x282] Other1
+		[0x28A] Other2
+		[0x292] Silver Legs
+		[0x29A] Gold Head
+	Table 03:
+		[0x2E2] Other1
+		[0x2EA] Other1
+		[0x2F2] Other1
+		[0x2FA] Other1
+		[0x302] Other2
+		[0x30A] Other2
+		[0x312] Other2
+		[0x31A] Other2
+		[0x322] Silver Legs
+		[0x32A] Gold Head
+Zone 02:
+	Table 01:
+		[0x39A] Siamo Head
+	Table 02:
+		[0x3E2] Siamo Body
+	Table 03:
+		[0x42A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x49A] Nychus Head
+	Table 02:
+		[0x4E2] Nychus Body
+	Table 03:
+		[0x52A] Nychus Arms
+Zone 04:
+	Table 01:
+		[0x59A] Cryo Head
+	Table 02:
+		[0x5E2] Cryo Body
+	Table 03:
+		[0x62A] Cryo Arms
+Zone 05:
+	Table 01:
+		[0x69A] Sucho Head
+	Table 02:
+		[0x6E2] Sucho Body
+	Table 03:
+		[0x72A] Sucho Arms
+
+6400:
+Zone 01:
+	Table 01:
+		[0x1DE] Cryo Head
+		[0x1E6] Cryo Body
+		[0x1EE] Cryo Arms
+		[0x1F6] Cryo Legs
+		[0x1FE] Angato Head
+		[0x206] Angato Body
+		[0x20E] Angato Arms
+		[0x216] Angato Legs
+		[0x21E] Centro Head
+		[0x226] Centro Body
+		[0x22E] Centro Arms
+		[0x236] Centro Legs
+		[0x23E] Terata Single
+		[0x246] Megalo Head
+		[0x24E] Megalo Body
+		[0x256] Megalo Arms
+		[0x25E] Megalo Legs
+		[0x266] Archaeo Head
+		[0x26E] Archaeo Body
+		[0x276] Archaeo Arms
+		[0x27E] Archaeo Legs
+		[0x286] Cryo Head
+		[0x28E] Cryo Body
+		[0x296] Cryo Arms
+		[0x29E] Cryo Legs
+		[0x2A6] Angato Head
+		[0x2AE] Angato Body
+		[0x2B6] Angato Arms
+		[0x2BE] Angato Legs
+		[0x2C6] Centro Head
+		[0x2CE] Centro Body
+		[0x2D6] Centro Arms
+		[0x2DE] Centro Legs
+		[0x2E6] Terata Single
+		[0x2EE] Megalo Head
+		[0x2F6] Megalo Body
+		[0x2FE] Megalo Arms
+		[0x306] Megalo Legs
+		[0x30E] Archaeo Head
+		[0x316] Archaeo Body
+		[0x31E] Archaeo Arms
+		[0x326] Archaeo Legs
+		[0x32E] Cryo Head
+		[0x336] Cryo Body
+		[0x33E] Cryo Arms
+		[0x346] Cryo Legs
+		[0x34E] Angato Head
+		[0x356] Angato Body
+		[0x35E] Angato Arms
+		[0x366] Angato Legs
+		[0x36E] Centro Head
+		[0x376] Centro Body
+		[0x37E] Centro Arms
+		[0x386] Centro Legs
+		[0x38E] Terata Single
+		[0x396] Megalo Head
+		[0x39E] Megalo Body
+		[0x3A6] Megalo Arms
+		[0x3AE] Megalo Legs
+		[0x3B6] Archaeo Head
+		[0x3BE] Archaeo Body
+		[0x3C6] Archaeo Arms
+		[0x3CE] Archaeo Legs
+		[0x3D6] Other1
+		[0x3DE] Other1
+		[0x3E6] Other1
+		[0x3EE] Other1
+		[0x3F6] Other2
+		[0x3FE] Silver Head
+		[0x406] Gold Head
+	Table 02:
+		[0x43A] Cryo Head
+		[0x442] Cryo Body
+		[0x44A] Cryo Arms
+		[0x452] Cryo Legs
+		[0x45A] Angato Head
+		[0x462] Angato Body
+		[0x46A] Angato Arms
+		[0x472] Angato Legs
+		[0x47A] Centro Head
+		[0x482] Centro Body
+		[0x48A] Centro Arms
+		[0x492] Centro Legs
+		[0x49A] Terata Single
+		[0x4A2] Megalo Head
+		[0x4AA] Megalo Body
+		[0x4B2] Megalo Arms
+		[0x4BA] Megalo Legs
+		[0x4C2] Archaeo Head
+		[0x4CA] Archaeo Body
+		[0x4D2] Archaeo Arms
+		[0x4DA] Archaeo Legs
+		[0x4E2] Cryo Head
+		[0x4EA] Cryo Body
+		[0x4F2] Cryo Arms
+		[0x4FA] Cryo Legs
+		[0x502] Angato Head
+		[0x50A] Angato Body
+		[0x512] Angato Arms
+		[0x51A] Angato Legs
+		[0x522] Centro Head
+		[0x52A] Centro Body
+		[0x532] Centro Arms
+		[0x53A] Centro Legs
+		[0x542] Terata Single
+		[0x54A] Megalo Head
+		[0x552] Megalo Body
+		[0x55A] Megalo Arms
+		[0x562] Megalo Legs
+		[0x56A] Archaeo Head
+		[0x572] Archaeo Body
+		[0x57A] Archaeo Arms
+		[0x582] Archaeo Legs
+		[0x58A] Cryo Head
+		[0x592] Cryo Body
+		[0x59A] Cryo Arms
+		[0x5A2] Cryo Legs
+		[0x5AA] Angato Head
+		[0x5B2] Angato Body
+		[0x5BA] Angato Arms
+		[0x5C2] Angato Legs
+		[0x5CA] Centro Head
+		[0x5D2] Centro Body
+		[0x5DA] Centro Arms
+		[0x5E2] Centro Legs
+		[0x5EA] Terata Single
+		[0x5F2] Megalo Head
+		[0x5FA] Megalo Body
+		[0x602] Megalo Arms
+		[0x60A] Megalo Legs
+		[0x612] Archaeo Head
+		[0x61A] Archaeo Body
+		[0x622] Archaeo Arms
+		[0x62A] Archaeo Legs
+		[0x632] Other1
+		[0x63A] Other1
+		[0x642] Other1
+		[0x64A] Other1
+		[0x652] Other2
+		[0x65A] Silver Head
+		[0x662] Gold Head
+	Table 03:
+		[0x696] Cryo Head
+		[0x69E] Cryo Body
+		[0x6A6] Cryo Arms
+		[0x6AE] Cryo Legs
+		[0x6B6] Angato Head
+		[0x6BE] Angato Body
+		[0x6C6] Angato Arms
+		[0x6CE] Angato Legs
+		[0x6D6] Centro Head
+		[0x6DE] Centro Body
+		[0x6E6] Centro Arms
+		[0x6EE] Centro Legs
+		[0x6F6] Terata Single
+		[0x6FE] Megalo Head
+		[0x706] Megalo Body
+		[0x70E] Megalo Arms
+		[0x716] Megalo Legs
+		[0x71E] Archaeo Head
+		[0x726] Archaeo Body
+		[0x72E] Archaeo Arms
+		[0x736] Archaeo Legs
+		[0x73E] Cryo Head
+		[0x746] Cryo Body
+		[0x74E] Cryo Arms
+		[0x756] Cryo Legs
+		[0x75E] Angato Head
+		[0x766] Angato Body
+		[0x76E] Angato Arms
+		[0x776] Angato Legs
+		[0x77E] Centro Head
+		[0x786] Centro Body
+		[0x78E] Centro Arms
+		[0x796] Centro Legs
+		[0x79E] Terata Single
+		[0x7A6] Megalo Head
+		[0x7AE] Megalo Body
+		[0x7B6] Megalo Arms
+		[0x7BE] Megalo Legs
+		[0x7C6] Archaeo Head
+		[0x7CE] Archaeo Body
+		[0x7D6] Archaeo Arms
+		[0x7DE] Archaeo Legs
+		[0x7E6] Cryo Head
+		[0x7EE] Cryo Body
+		[0x7F6] Cryo Arms
+		[0x7FE] Cryo Legs
+		[0x806] Angato Head
+		[0x80E] Angato Body
+		[0x816] Angato Arms
+		[0x81E] Angato Legs
+		[0x826] Centro Head
+		[0x82E] Centro Body
+		[0x836] Centro Arms
+		[0x83E] Centro Legs
+		[0x846] Terata Single
+		[0x84E] Megalo Head
+		[0x856] Megalo Body
+		[0x85E] Megalo Arms
+		[0x866] Megalo Legs
+		[0x86E] Archaeo Head
+		[0x876] Archaeo Body
+		[0x87E] Archaeo Arms
+		[0x886] Archaeo Legs
+		[0x88E] Other1
+		[0x896] Other1
+		[0x89E] Other1
+		[0x8A6] Other2
+		[0x8AE] Silver Head
+		[0x8B6] Gold Head
+Zone 02:
+	Table 01:
+		[0x912] Siamo Head
+	Table 02:
+		[0x946] Siamo Body
+	Table 03:
+		[0x97A] Siamo Arms
+Zone 03:
+	Table 01:
+		[0x9D6] Nychus Head
+	Table 02:
+		[0xA0A] Nychus Body
+	Table 03:
+		[0xA3E] Nychus Arms
+Zone 04:
+	Table 01:
+		[0xA9A] Cryo Head
+	Table 02:
+		[0xACE] Cryo Body
+	Table 03:
+		[0xB02] Cryo Arms
+Zone 05:
+	Table 01:
+		[0xB5E] Sucho Head
+	Table 02:
+		[0xB92] Sucho Body
+	Table 03:
+		[0xBC6] Sucho Arms
+

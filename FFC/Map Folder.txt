@@ -13,5 +13,29 @@ All the folders except m are of the type GRD, i.e. "grid." Thus, if you remove t
 bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, FFC-E-Maps-Color.zip in this folder shows renditions of that
 made using Python.
 
-M is a little different, and its full purpose has not yet been divined. Unlike FFC, we have not worked out the structure for fossil data, either, but we do know that it uses
-tables of individual fossils, instead of vivosaur IDs.
+M is a little different, and its full purpose has not yet been divined. However, for fossils specifically, the following set-up is known:
+- At 0x6C to 0x6F, there is a pointer
+- At that pointer, there is a list of pointers, the number of which can be found at 0x68-0x6B
+- Each of that list goes to a fossil table. All information about it will be given in relative addresses:
+	- The zone the table is for is at 0x02, probably. Or, I mean, it could just be an indexing thing, but I doubt it
+	- The number of vivosaur entries is given at 0x0C. This also serves as the number of pointers coming up (all of which are relative to the beginning of this
+          particular fossil table). Every table I've looked at has three such pointers, but because the value for where they start is at 0x10, I feel pretty confident that
+	  they would be next to each other
+	- Thus, like I said, the location of the beginning of those pointers can be found at 0x10-0x13. It seems to be consistently 0x1C, but I probably just haven't
+	  found the weird ones yet
+	- Heading there, each pointer is four bytes. Unlike FF1, the differences between them actually vary
+	- After that, we finally get the vivosaur "entries," which actually are themselves tables. These go by fossil ID, thus allowing for the head-only vivosaurs.
+	- They also get their own headers? Like, what the fuck, man. We're up to like triple-relative here, but here goes (starting from the pointer):
+		- 0x0C-0x0F is some sort of pointer to something in here. The main thing to know is that if this value is not 0x14, you need to adjust the locations below
+		  accordingly.
+		- 0x1C-0x1F is how many weird gigantic numbers that increment we get starting at 0x2C, while the amount of space they take up is also at 0x20-0x23.
+		  However, these values seem to be constant, so one or both of them might really be something else
+		- Then, at 0x24-0x27, we get how many actual fossil entries there are (usually, but I can't guarantee this, starting at 0x40)
+		- Each fossil entry is 8 bytes long. The third and fourth bytes are the fossil IDs, and everything else is unknown currently
+Why are there tables of tables? No fucking idea. Comparing a few in the same big table, it seems 0x16 and 0x18 increment -- 1/2, 2/3, 3/4. I have no idea what this means,
+though. Maybe they just consolidated what FF1 did with the different versions of the zones, or something? What makes this extra weird is that, rather consistently,
+only the first big table actually has any fossils to speak of. The other ones give us really weird tables with only one fossil a piece. And since there's only three,
+those fossils don't even add up to a full vivosaur!
+
+If you find all that confusing, not to fear. There is a file named ffc_digsiteOutput.txt in this folder that dumps all that data from every digsite. Additionally, the
+Python source code is provided, if that helps you understand it better.
