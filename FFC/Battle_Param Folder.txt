@@ -40,7 +40,8 @@ Now we come to the fun part, all the things you have to change to add (or remove
 
 However! All of this is complicated by weird files with extra data in them. The classic example is the
 first four param files, which represent the Allosaurus fight with each different starter. In these
-cases, first look for the name, which always comes before a 0x10. Then everything after it proceeds
-as normal. If you want to add or a remove a vivo, the new unknown values listed above may need to be
-augmented: the 2C stays the same, but if the other ones are shifted by some amount, make sure to retain
-that shift.
+cases, we can take advantage of the fact that 0x38 is a pointer to 2 bytes before where the name is.
+For example, in normal files, you have a 0x44 there, and thus the name value is at 0x46. From here,
+everything proceeds as normal (but later). If you want to add or a remove a vivo, the new unknown values
+listed above may need to be augmented: the 2C stays the same, but if the other ones are shifted by some
+amount, make sure to retain that shift.
