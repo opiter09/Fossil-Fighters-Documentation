@@ -16,22 +16,22 @@ Name: Allosaurus (05)
 Allo: Level = 1, Super Fossil = None
 
 0010:
-Name: Fossil Fighter (70)
-Brachio: Level = 8, Super Fossil = None
-Delta: Level = 6, Super Fossil = None
-Hoplo: Level = 6, Super Fossil = None
+Name: Fossil Fighter (71)
+Tarbo: Level = 8, Super Fossil = None
+U-Raptor: Level = 1, Super Fossil = None
+F-Raptor: Level = 1, Super Fossil = None
 
 0011:
 Name: Fossil Fighter (70)
-Stego: Level = 8, Super Fossil = None
-Kentro: Level = 6, Super Fossil = None
-Lexo: Level = 6, Super Fossil = None
+Tricera: Level = 6, Super Fossil = None
+Styraco: Level = 1, Super Fossil = None
+Centro: Level = 1, Super Fossil = None
 
 0012:
 Name: Fossil Fighter (70)
-Futabi: Level = 6, Super Fossil = None
-Elasmo: Level = 6, Super Fossil = None
-Plesio: Level = 6, Super Fossil = None
+Ptera: Level = 6, Super Fossil = None
+Jara: Level = 6, Super Fossil = None
+Dimorph: Level = 6, Super Fossil = None
 
 0100:
 Name: Todd (06)
@@ -39,8 +39,8 @@ Stego: Level = 1, Super Fossil = None
 Goyle: Level = 1, Super Fossil = None
 
 0101:
-Name: Todd (06)
-Stego: Level = 1, Super Fossil = None
+Name: Rupert (07)
+Raja: Level = 12, Super Fossil = None
 
 0102:
 Name: Devon Strait (08)
@@ -993,7 +993,7 @@ Dacerus: Level = 12, Super Fossil = None
 Hopter: Level = 12, Super Fossil = None
 
 1902:
-Name: キザック (61)
+Name: ã‚­ã‚¶ãƒƒã‚¯ (61)
 Coelo: Level = 1, Super Fossil = None
 Aopteryx: Level = 1, Super Fossil = None
 Dilopho: Level = 1, Super Fossil = None
