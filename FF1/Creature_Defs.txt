@@ -3,7 +3,8 @@ EVERYTHING IS LITTLE-ENDIAN
 For whatever reason, vivosaur chunks have 12 extra bytes of padding at the beginning compared to FFC: two for
 their ID, then literally just ten 00's.
 
-Right after that, at 0x0C, is a vivosaur's height in meters (rounded).
+Right after that, at 0x0C, is a vivosaur's length in meters (rounded). This does not seem to do anything,
+and changing it will not change the Fossil Museum text.
 
 At 0x0D is a vivosaur's Element. 01 is Fire, 02 is Air, 03 is Earth, 04 is Water, 05 is Neutral, and
 06 is Legendary.
