@@ -26,7 +26,7 @@ for file in order:
     newFile.close()
     newFile = open("FFC Teams.txt", "at")
     
-    maxi = full[0x58]
+    maxi = full[0x58 + shift]
     for i in range(maxi):
         vivo = int.from_bytes(reading[(i * 12):(i * 12 + 2)], "little")
         level = int.from_bytes(reading[(i * 12 + 2):(i * 12 + 4)], "little")

@@ -41,6 +41,7 @@ Goyle: Level = 1, Super Fossil = None
 0101:
 Name: Rupert (07)
 Raja: Level = 12, Super Fossil = None
+Mapo: Level = 3, Super Fossil = None
 
 0102:
 Name: Devon Strait (08)
