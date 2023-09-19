@@ -25,5 +25,6 @@ Finally, here's a spot to credit those other than I who have figured stuff out:
   kaseki_defs file, and the location and general structure of FFC status data.
 - aquaanimo found out that FFC vivosaurs' range text is not tied to their data.
 - Megalo-vania used memory editing to painstakingly document all of the vivosaurs' Silver Fossil
-  palettes, allowing me to easily correlate them with the files.
+  palettes, allowing me to easily correlate them with the files. She also found out about the
+  "hieght in meters" byte in FF1 creature_defs.
 

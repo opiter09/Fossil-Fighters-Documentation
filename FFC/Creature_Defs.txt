@@ -89,6 +89,9 @@ which are in my Chunk Editor).
 move a vivosaur uses with Link. Since Link always skips move animations in FFC, you can put anything you
 want in here without fear of it looking weird.
 
+0x56 is the vivosaur's position when you sort by alphabetical order. If you ever decide to change a
+vivosaur's name (say, by sacrificing a Debug to make a Brain), make sure to change this accordingly.
+
 For effects which have one, 0x54 represents the ability's corresponding Value. It is inconsistent enough
 that another table is in order:
 - nothing: Always 00
