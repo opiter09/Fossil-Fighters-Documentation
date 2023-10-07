@@ -15,7 +15,7 @@ the Body, then the Arms, and finally the Legs.
 
 
 etc/donate_kaseki_defs defines each of the fossils you can buy using Donation Points. Each fossil has an
-8-byte chunk, with the first one starting at 0x0C. The chunk's first two bytes are the fossil ID, then the
+8-byte chunk, with the first one starting at 0x1C. The chunk's first two bytes are the fossil ID, then the
 next two bytes are its DP cost. The next three bytes are flags (i.e. always 0 or 1). These almost match up
 to whether the rock is Dark or not, but for some reason in Vanilla the non-Dark legs have all three set
 to one, the same as the Dark fossils. However, it is known that if you set the first two to 0 and the
