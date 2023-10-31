@@ -57,9 +57,7 @@ percent to hit.
 
 Here is the table for those:
 - 01: nothing (everything is 00)
-- 02: Transformation (bytes after percent are 07 00, extra value is always 01 00, vivosaur IDs start
-  at 0x30 and are each one byte. Once again ID = vivoFiles file number. Also 0x28 is the number of
-  possible vivos to transform into)
+- 02: Transformation (bytes after percent are 07 00, extra value is always 01 00)
 - 03: All-zone attack (always 0%, bytes after percent are 07 00, no extra value. Can hit your team if
   used with a support effect like Harden, and can actually deal damage unlike with single-targeting.)
 - 04: Steal LP equal to damage (bytes after percent are 07 00, no extra value)
@@ -85,6 +83,9 @@ Here is the table for those:
 - 16: Inflict effects randomly (bytes after percent are 07 00, no extra value)
 - 17: Instant KO (bytes after percent are 07 00, extra value is chance out of 256)
 - 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
+
+For transforming moves, 0x28 is the number of possible vivos to transform into. Then vivosaur IDs start
+at 0x30 and are each one byte. Once again, ID = vivoFiles file number.
 
 WARNING: For certain vivosaurs that are palette swaps of other ones [e.g. T-Rex Lord and Mapo King], the
 wrong model and sprite may be shown when you Transform into them. This has no effect on gameplay since the
