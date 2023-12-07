@@ -27,3 +27,7 @@ etc/creature_palet_defs defines each of the Silver Fossil color sets. Starting f
 two bytes each for the seldom-used Red, Green, and Blue modifiers. The default for those is, as you'll
 quickly notice, 0x64. See also:
 https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
+
+etc/horider_experience_defs controls how much XP each quest gives. The first 16 bytes are the header,
+then we have four bytes per quest: two of ID, and two of XP amount. Currently, which quest is which
+is unknown, and cannot be easily derived from this file alone.
