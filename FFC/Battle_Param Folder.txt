@@ -35,7 +35,7 @@ Now we come to the fun part, all the things you have to change to add (or remove
 	- Two: 2C, 44, 4C, 50
 	- Three: 2C, 50, 5C, 64
 - Add or remove data where it needs to be, as described above
-- Finally change 0x40 to match the new file size
+- Finally, change 0x40 to match the new file size
 
 
 However! All of this is complicated by weird files with extra data in them. The classic example is the
