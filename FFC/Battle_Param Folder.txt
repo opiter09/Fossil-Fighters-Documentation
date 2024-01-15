@@ -21,6 +21,7 @@ simply not exist, and we move on.
 
 After the vivosaur data is four bytes per vivo which I know nothing about. Thankfully, unlike FF1 these
 always seem to be the same as each other, so you should be able to just add more of them and be fine.
+
 After that, there are two bytes per vivo which should be the number of fossils they have (not that
 you can see this in-game).
 

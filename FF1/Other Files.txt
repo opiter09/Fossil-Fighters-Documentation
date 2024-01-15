@@ -4,7 +4,7 @@ All the text of FF1, with the exception of NPC dialogue, is smooshed together in
 You will really want to make use of my text splitting code.
 
 The file etc/btl_kp_defs controls how much FP you recharge/max at each fighter level. Each level begins with
-the appropriate number, which can be found at 0x0C, then 0x24, then 0x3C, then 0x44, etc. Each piece is 23
+the appropriate number, which can be found at 0x0C, then 0x24, then 0x3C, then 0x44, etc. Each piece is 24
 bytes long; it is the last 12 bytes that are useful to us. The first four of those 12 are the recharge
 per turn, then we have four bytes of the maximum, and then we have four bytes of the recharge. It could be
 there twice due to one being for allies and one being for enemies; feel free to test that out on your own.
