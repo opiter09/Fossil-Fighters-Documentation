@@ -50,3 +50,9 @@ the unknown values is that making one vivo have 00 08 00 00 and the others all 0
 vice versa will make that one always start in the AZ. Honestly though, all 00's should always
 work fine
 - Finally, change the values at 0x38 and 0x40 to match the new file size
+
+
+Finally, Fossil Fighters hates me and there are always a few random files with extra stuff at the beginning.
+For the Battle folder, you can tell by if 0x04 is not 0. In this case, we must shift in the following ways:
+- The BP moves from 0x54 to (0x54 + [value at 0x04])
+- For everything else, add ([value at 0x08] - 0x5C) to the above locations
