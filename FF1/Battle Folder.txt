@@ -49,7 +49,7 @@ want:
 the unknown values is that making one vivo have 00 08 00 00 and the others all 00's or
 vice versa will make that one always start in the AZ. Honestly though, all 00's should always
 work fine
-- Finally, change the values at 0x38 and 0x40 to match the new file size
+- Change the values at 0x38 and 0x40 to match the new file size
 
 
 Finally, Fossil Fighters hates me and there are always a few random files with extra stuff at the beginning.
