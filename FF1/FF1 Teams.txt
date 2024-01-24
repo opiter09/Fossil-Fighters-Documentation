@@ -78,16 +78,16 @@ Name: Fossil Fighter (3377)
 Goyle: Level = 1, Moves = 1, AI = 17
 
 0060:
-Name: Tony (3379)
-Tarbo: Level = 8, Moves = 4, AI = 384
-U-Raptor: Level = 1, Moves = 4, AI = 385
-F-Raptor: Level = 1, Moves = 4, AI = 385
+Name: Tim (3380)
+Brachio: Level = 8, Moves = 4, AI = 386
+Delta: Level = 6, Moves = 4, AI = 386
+Hoplo: Level = 6, Moves = 4, AI = 386
 
 0061:
-Name: Nate (3382)
-Tricera: Level = 6, Moves = 4, AI = 387
-Styraco: Level = 1, Moves = 4, AI = 388
-Centro: Level = 1, Moves = 4, AI = 388
+Name: Clare (3383)
+Stego: Level = 8, Moves = 4, AI = 387
+Kentro: Level = 6, Moves = 4, AI = 389
+Lexo: Level = 6, Moves = 4, AI = 389
 
 0062:
 Name: Fossil Fighter (3384)
@@ -193,16 +193,16 @@ Ourano: Level = 2, Moves = 2, AI = 406
 V-Raptor: Level = 1, Moves = 1, AI = 407
 
 0116:
-Name: Steve (3407)
-Ptera: Level = 6, Moves = 4, AI = 422
-Jara: Level = 6, Moves = 4, AI = 423
-Dimorph: Level = 6, Moves = 4, AI = 422
+Name: Amanda (3408)
+Futabi: Level = 6, Moves = 4, AI = 424
+Elasmo: Level = 6, Moves = 4, AI = 424
+Plesio: Level = 6, Moves = 4, AI = 424
 
 0117:
-Name: Tony (3379)
-Tarbo: Level = 1, Moves = 4, AI = 384
-U-Raptor: Level = 1, Moves = 4, AI = 385
-F-Raptor: Level = 1, Moves = 4, AI = 385
+Name: Tony (3409)
+Brachio: Level = 8, Moves = 4, AI = 386
+Shuno: Level = 6, Moves = 4, AI = 386
+Perso: Level = 6, Moves = 4, AI = 386
 
 0118:
 Name: Fossil Fighter (3410)
@@ -292,16 +292,16 @@ Name: Fossil Fighter (3427)
 Alio: Level = 3, Moves = 3, AI = 125
 
 0159:
-Name: Nate (3382)
-Tricera: Level = 6, Moves = 4, AI = 387
-Styraco: Level = 1, Moves = 4, AI = 388
-Centro: Level = 1, Moves = 4, AI = 388
+Name: 【unused】ジュンコ (3428)
+Stego: Level = 8, Moves = 4, AI = 387
+Kentro: Level = 6, Moves = 4, AI = 389
+Lexo: Level = 6, Moves = 4, AI = 389
 
 0160:
-Name: Steve (3407)
-Ptera: Level = 6, Moves = 4, AI = 422
-Jara: Level = 6, Moves = 4, AI = 423
-Dimorph: Level = 6, Moves = 4, AI = 422
+Name: 【unused】ハッサン (3429)
+Futabi: Level = 6, Moves = 4, AI = 424
+Elasmo: Level = 6, Moves = 4, AI = 424
+Plesio: Level = 6, Moves = 4, AI = 424
 
 0161:
 Name: Fossil Fighter (3430)
@@ -444,16 +444,16 @@ Ourano: Level = 3, Moves = 3, AI = 177
 Elasmo: Level = 3, Moves = 3, AI = 470
 
 0261:
-Name: Tony (3379)
-Tarbo: Level = 1, Moves = 4, AI = 384
-U-Raptor: Level = 1, Moves = 4, AI = 385
-F-Raptor: Level = 1, Moves = 4, AI = 385
+Name: 【unused】サツキ (3457)
+Brachio: Level = 8, Moves = 4, AI = 386
+Shuno: Level = 6, Moves = 4, AI = 386
+Perso: Level = 6, Moves = 4, AI = 386
 
 0262:
-Name: Nate (3382)
-Tricera: Level = 6, Moves = 4, AI = 387
-Styraco: Level = 1, Moves = 4, AI = 388
-Centro: Level = 1, Moves = 4, AI = 388
+Name: 【unused】フランク (3458)
+Stego: Level = 8, Moves = 4, AI = 387
+Kentro: Level = 6, Moves = 4, AI = 389
+Lexo: Level = 6, Moves = 4, AI = 389
 
 0263:
 Name: Fossil Fighter (3459)
@@ -590,10 +590,10 @@ Pelto: Level = 5, Moves = 3, AI = 532
 Lexo: Level = 4, Moves = 3, AI = 533
 
 0312:
-Name: Steve (3407)
-Ptera: Level = 6, Moves = 4, AI = 422
-Jara: Level = 6, Moves = 4, AI = 423
-Dimorph: Level = 6, Moves = 4, AI = 422
+Name: 【unused】ササキのおばさん (3484)
+Futabi: Level = 6, Moves = 4, AI = 424
+Elasmo: Level = 6, Moves = 4, AI = 424
+Plesio: Level = 6, Moves = 4, AI = 424
 
 0313:
 Name: Fossil Fighter (3622)
@@ -685,8 +685,8 @@ Name: Bullwort (3501)
 Frigi [OP]: Level = 12, Moves = 4, AI = 229
 
 0402:
-Name:  (0)
-Igno [OP]: Level = 12, Moves = 4, AI = 615
+Name: Bullwort (3502)
+Frigi [OP]: Level = 12, Moves = 4, AI = 230
 
 0403:
 Name: Bullwort (3503)
@@ -1271,13 +1271,13 @@ Anato: Level = 8, Moves = 4, AI = 708
 Paraloph: Level = 8, Moves = 4, AI = 709
 
 0587:
-Name:  (0)
-Spinax: Level = 1, Moves = 0, AI = 2048
+Name: Tipper (3366)
+S-Raptor: Level = 2, Moves = 4, AI = 27
 
 0588:
-Name:  (0)
-Spinax: Level = 2, Moves = 0, AI = 2048
-Shanshan: Level = 2, Moves = 0, AI = 2048
+Name: Holt (3367)
+Shanshan: Level = 2, Moves = 1, AI = 41
+Spinax: Level = 2, Moves = 1, AI = 28
 
 0589:
 Name: Holt (3367)

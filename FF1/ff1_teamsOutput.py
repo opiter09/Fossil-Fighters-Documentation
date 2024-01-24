@@ -9,8 +9,9 @@ names = open("ff1_vivoNames.txt", "rt").read()
 for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
     data = open(file, "rb")
     full = data.read()
-    nameID = int.from_bytes(full[100:102], "little")
-    reading = full[148:]
+    shift = int.from_bytes(full[8:12], "little") - 0x5C
+    nameID = int.from_bytes(full[(0x64 + shift):(0x68 + shift)], "little")
+    reading = full[(0x94 + shift):]
     newFile.write("\n" + file[-10:-6] + ":" + "\n")
 
     newFile.close()
@@ -25,7 +26,7 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
     newFile.close()
     newFile = open("FF1 Teams.txt", "at")
     
-    maxi = full[0x5C]
+    maxi = full[0x5C + shift]
     for i in range(maxi):
         vivo = int.from_bytes(reading[(i * 12):(i * 12 + 4)], "little")
         level = int.from_bytes(reading[(i * 12 + 4):(i * 12 + 8)], "little")
