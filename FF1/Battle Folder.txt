@@ -52,8 +52,12 @@ work fine
 - Change the values at 0x38 and 0x40 to match the new file size
 
 
-Finally, Fossil Fighters hates me and there are always a few random files with extra stuff at the beginning.
+Of course, Fossil Fighters hates me and there are always a few random files with extra stuff at the beginning.
 For the Battle folder, you can tell by if 0x04 is not 0. In this case, we must shift in the following ways:
 - The BP moves from 0x54 to (0x54 + [value at 0x04])
 - For everything else, add ([value at 0x08] - 0x5C) to the above locations
 - However, do note that the file size values are still in the same spot even with the weird data
+
+But, to make this worse, some of them have weird data at the *end*! In this case, 0x38 is not the file size,
+but rather where the extra data at the end begins. Thus, if you add/remove vivos, make sure to change 0x38
+by the same amount you changed 0x40.
