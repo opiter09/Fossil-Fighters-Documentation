@@ -59,7 +59,7 @@ The "Japanese for" effects are, of course, unused, and they also seem to not do 
 anything at all. Some may have only worked on debug builds, while others may only have worked in
 FF1 (looking at you, 09).
 
-0x23 to 0x2B are a series of "flag" bytes that determine immunity--01 means the vivo is immune to that
+0x23 to 0x2A are a series of "flag" bytes that determine immunity--01 means the vivo is immune to that
 status and will never receive it, and 00 means it is not. The order of statuses roughy corresponds to
 the orders found in Attack_Defs, but with the Silver and Gold versions combined together:
 - Poison
@@ -69,8 +69,7 @@ the orders found in Attack_Defs, but with the Silver and Gold versions combined 
 - Confusion
 - Excite
 - Infection
-- Venom
-- ????? (Always 00 in vanilla)
+- Instant KO
 
 0x34 to 0x35 represent a vivo's ID Number, the thing you see in the top left of their VMM page. Surrounding
 it are other values the same as the file number, but they don't change with the debugs, so I can't tell you
