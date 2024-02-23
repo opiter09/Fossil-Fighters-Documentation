@@ -81,7 +81,7 @@ Here is the table for those:
 - 14: Heal and cure statuses for whole team (bytes after percent are 05 00, extra value is healing amount)
 - 15: Fickle Goddess [boost a stat randomly] (bytes after percent are 07 00, no extra value)
 - 16: Inflict effects randomly (bytes after percent are 07 00, no extra value)
-- 17: Instant KO (bytes after percent are 07 00, extra value is percent chance to happen)
+- 17: Instant KO (bytes after percent are 07 00, extra value is percent chance to work)
 - 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
 
 For transforming moves, 0x28 is the number of possible vivos to transform into. Then vivosaur IDs start
