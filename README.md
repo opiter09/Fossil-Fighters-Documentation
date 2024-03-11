@@ -4,7 +4,8 @@ which is very important but also very much not chunked. So I decided to make a n
 documentation in it, and take the opportunity to clean some stuff up too.
 
 If you somehow got here without going through Chunk Manager, please do check it out! It can be found at
-https://github.com/opiter09/FF1-FFC-Chunk-Manager.
+https://github.com/opiter09/FF1-FFC-Chunk-Manager. Additionally, if you want to edit teams, I made a
+graphical user interface (GUI) for that, found at https://github.com/opiter09/Fossil-Fighters-Teams-Editor.
 
 A note on general terminology (since I have nowhere else to put it):
 - The prefix "0x" means that it is a value in hexadecimal notation, i.e in base 16 instead of base 10.
