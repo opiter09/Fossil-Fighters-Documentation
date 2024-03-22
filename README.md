@@ -28,4 +28,5 @@ Finally, here's a spot to credit those other than I who have figured stuff out:
 - Megalo-vania used memory editing to painstakingly document all of the vivosaurs' Silver Fossil
   palettes, allowing me to easily correlate them with the files. She also found out about the
   "length in meters" byte in FF1 creature_defs.
+- EchoSpaceZ figured out where the teams' arena values were, and what each of them corresponded to.
 

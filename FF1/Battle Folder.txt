@@ -11,6 +11,23 @@ form of the file "Battle Files Teams.txt." I have also included the python scrip
 namely ff1_teamsOutput.py. However, if you would like to actually edit that file, here is what I found:
 
 
+0x30 is the value for which 3D arena model the battle is fought in. The list for them is as follows
+(courtesy of EchoSpaceZ):
+- 01: Level Up Arena
+- 02: Guhnash 
+- 03: Hotel/Outside
+- 04: Greenhorn/Knotwood
+- 05: BB Base/Digadigamid
+- 06: Rivet Ravine
+- 07: Bottomsup Bay
+- 08: Mt. Lavaflow
+- 09: Starship
+- 0A: Secret Island
+- 0B: Parchment Desert
+- 0C: Coldfeet Glacier
+- 0D: Pirate Ship
+- 0E: Mine Tunnels
+
 0x54-0x57 represent the BP you get for winning the fight (as, per usual, a 4-byte little-endian integer).
 If this value is FF FF FF FF, e.g. for Captain Travers, you will get no BP at all at the end.
 
@@ -54,6 +71,7 @@ work fine
 
 Of course, Fossil Fighters hates me and there are always a few random files with extra stuff at the beginning.
 For the Battle folder, you can tell by if 0x04 is not 0. In this case, we must shift in the following ways:
+- Nothing changes for the arena
 - The BP moves from 0x54 to (0x54 + [value at 0x04])
 - For everything else, add ([value at 0x08] - 0x5C) to the above locations
 - However, do note that the file size values are still in the same spot even with the weird data
