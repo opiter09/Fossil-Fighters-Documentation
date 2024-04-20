@@ -8,8 +8,13 @@ four).
 
 0x08-0x09 is the ID of the image used by the fossil. This ID corresponds to the name of certain files
 inside the image folder, namely ones that begin with "kaseki." The format is kaseki_*ID*_XXX. Within that
-ID, there is itself a logic, in that the 0XX's are heads, the 1XX's are bodies, the 2XX's are arms,
-the 3XX's are legs, etc.
+ID, there is itself a logic, in that the 0YY's are heads, the 1YY's are bodies, the 2YY's are arms,
+the 3YY's are legs, etc.
+
+0x0C-0x0D is the ID of the image used by the rock.
+
+0x11 is the hardness of the fossil, with higher values indicating more durability. Similarly, 0x15 is
+the hardness of the rock.
 
 0x18-0x1B is the buying price of the fossil in the store, and 0x1C-0x1F is the selling price.
 
