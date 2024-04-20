@@ -20,13 +20,11 @@ A note on general terminology (since I have nowhere else to put it):
   list of locations which are called "pointers." Sometimes, however, chunks each have a fixed length,
   and so such locations are not given.
 
-Finally, here's a spot to credit those other than I who have figured stuff out:
-- APOPHENIA worked out the hit-based damage and FP values, the use of rank 8/10 values in the
-  stats section, the existence of a value for alphabetical order, the secrets behind FF1's
-  kaseki_defs file, and the location and general structure of FFC status data.
-- aquaanimo found out that FFC vivosaurs' range text is not tied to their data.
-- Megalo-vania used memory editing to painstakingly document all of the vivosaurs' Silver Fossil
-  palettes, allowing me to easily correlate them with the files. She also found out about the
-  "length in meters" byte in FF1 creature_defs.
-- EchoSpaceZ figured out where the teams' arena values were, and what each of them corresponded to.
+Finally, here's a spot to credit those other than me who have figured stuff out:
+- APOPHENIA
+- aquaanimo
+- Megalo-vania
+- EchoSpaceZ
+I used to list individual contributions, but that was getting rather unwieldy, so just know that everything
+is ultimately a community effort.
 
