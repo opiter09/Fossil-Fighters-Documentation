@@ -11,7 +11,8 @@ inside the image folder, namely ones that begin with "kaseki." The format is kas
 ID, there is itself a logic, in that the 0YY's are heads, the 1YY's are bodies, the 2YY's are arms,
 the 3YY's are legs, etc.
 
-0x0C-0x0D is the ID of the image used by the rock.
+0x0C-0x0D is the ID of the image used by the rock. This ID corresponds to the name of certain files
+inside the image folder, namely ones that begin with "chips." The format is chips_*ID*_XXX.
 
 0x11 is the hardness of the fossil, with higher values indicating more durability. Similarly, 0x15 is
 the hardness of the rock.
