@@ -46,7 +46,17 @@ how high the Guhnash values are, these must be in the btl_aiset folder, not btl_
 each btl_aiset file in turn calls various btl_ai files at various times, as little snippets of code or
 something.
 
-Next, there are 4 bytes per vivo of unknown purpose.
+Next, there are 4 bytes per vivo which appear to control inter-level battle points. This exists because in
+FF1, vivos gain LP as they gain BP in between levels. However, the values are *extremely* weird, so here
+is a table for them (also courtesy of EchoSpaceZ):
+- 00 00: 0
+- 9A 01: 9
+- CD 04: 18
+- 00 08: 27
+- 33 0B: 36
+- CD 0C: 43
+- 00 10: 50
+Note that only the first two bytes are shown here, since the last two are always 00 00.
 
 Finally, we get to the number of moves. These are, again, four per vivosaur on the team. You know you're here
 when you get one to three four-byte integers in a row that are between 1 and 4.
