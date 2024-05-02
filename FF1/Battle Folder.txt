@@ -54,7 +54,7 @@ is a table for them (also courtesy of EchoSpaceZ):
 - CD 04: 18
 - 00 08: 27
 - 33 0B: 36
-- CD 0C: 43
+- CD 0C: 41
 - 00 10: 50
 Note that only the first two bytes are shown here, since the last two are always 00 00.
 
