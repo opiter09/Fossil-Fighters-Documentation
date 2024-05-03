@@ -14,6 +14,9 @@ match it to a file in enemyNameFiles (the folder from splitting text_battle_enem
 Right after it, at 0x48, is the enemy's fighter rank. You can go check etc/btl_kp_defs to get the
 FP values for that rank.
 
+0x4C is what formation the team is in. 00 means that it is in the Cambrian (front) formation,
+while 01 means that it is in the Jurassic (back) formation.
+
 Vivosaur data starts at 0x70, and is always 12 bytes long per vivo. We have two bytes
 of ID, then four of rank, then two of Super Fossil fossil ID (based on kaseki_defs), then
 four of Super Fossil cleaning points. If there are less than three vivosaurs, then their data will
