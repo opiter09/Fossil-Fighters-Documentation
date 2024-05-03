@@ -14,8 +14,12 @@ order.sort()
 for file in order:
     data = open("./battle_param/bin/battle_param_defs_" + str(int(file)) + "/0.bin", "rb")
     full = data.read()
+    points = int.from_bytes(full[0x30:0x32], "little")
+    if (points == 0xFFFF):
+        points = 0
     shift = full[0x38] + 2 - 0x46
     nameID = full[0x46 + shift] - 0x4D
+    formation = full[0x4C + shift]
     reading = full[(112 + shift):]
     newFile.write("\n" + file + ":" + "\n")
 
@@ -23,6 +27,10 @@ for file in order:
     newFile = open("FFC Teams.txt", "ab")   
     text = "Name: " + enemyNamesF[nameID - 1] + " (" + str(nameID).zfill(2) + ")\n"
     newFile.write(text.encode("UTF-8", errors = "ignore"))
+    text2 = "Battle Points: " + str(points) + "\n"
+    newFile.write(text2.encode("UTF-8", errors = "ignore"))
+    text3 = "Formation: " + (["< (Cambrian)", "> (Jurassic)"])[formation] + "\n"
+    newFile.write(text3.encode("UTF-8", errors = "ignore"))
     newFile.close()
     newFile = open("FFC Teams.txt", "at")
     

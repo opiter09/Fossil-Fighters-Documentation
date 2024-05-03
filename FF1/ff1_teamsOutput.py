@@ -9,7 +9,11 @@ names = open("ff1_vivoNames.txt", "rt").read()
 for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
     data = open(file, "rb")
     full = data.read()
+    bpShift = int.from_bytes(full[4:8], "little")
     shift = int.from_bytes(full[8:12], "little") - 0x5C
+    points = int.from_bytes(full[(0x54 + shift):(0x58 + shift)], "little")
+    if (points == 0xFFFFFFFF):
+        points = 0
     nameID = int.from_bytes(full[(0x64 + shift):(0x68 + shift)], "little")
     reading = full[(0x94 + shift):]
     newFile.write("\n" + file[-10:-6] + ":" + "\n")
@@ -22,6 +26,8 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
                 nameF = open("./bin/japanese/textFiles/" + file2, "rb")
                 text = "Name: " + nameF.read().decode("UTF-8", errors = "ignore").replace("\0", "") + " (" + str(nameID) + ")\n"
                 newFile.write(text.encode("UTF-8", errors = "ignore"))
+                text2 = "Battle Points: " + str(points) + "\n"
+                newFile.write(text2.encode("UTF-8", errors = "ignore"))
                 nameF.close()
     newFile.close()
     newFile = open("FF1 Teams.txt", "at")
