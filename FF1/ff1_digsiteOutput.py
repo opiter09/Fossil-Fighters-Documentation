@@ -1,8 +1,8 @@
 import os
 
-text = open("ff1_digsiteOutput.txt", "wt")
+text = open("FF1 Digsites.txt", "wt")
 text.close()
-text = open("ff1_digsiteOutput.txt", "at")
+text = open("FF1 Digsites.txt", "at")
 for root, dirs, files in os.walk("m/bin"):
     for file in files:
         if (file == "0.bin"):
@@ -42,7 +42,7 @@ for root, dirs, files in os.walk("m/bin"):
                 if (chip in [0x6F, 0x70, 0x71]):
                     chip = str(chip - 0x6F)
                 else:
-                    chip = "?"
+                    chip = "0x" + hex(chip).upper()[2:]
                 maxFos = int.from_bytes(r[(val + 12):(val + 16)], "little")
                 text.write("\tFossil Chips Needed: " + chip + "\n")
                 text.write("\tMax Spawns: " + str(maxFos) + "\n")

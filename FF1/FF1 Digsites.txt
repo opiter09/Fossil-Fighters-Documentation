@@ -101,7 +101,7 @@ Zone 06:
 	[0xFA8] Goyle: 45%
 	[0xFC8] Tarbo: 10%
 Zone 07:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3070
 	Max Spawns: 15
 	[0x105C] Carchar: 20%
 	[0x107C] Neo: 20%
@@ -109,7 +109,7 @@ Zone 07:
 	[0x10BC] Centro: 20%
 	[0x10DC] Andrarch: 20%
 Zone 08:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3070
 	Max Spawns: 15
 	[0x1170] Carchar: 20%
 	[0x1190] Neo: 20%
@@ -117,7 +117,7 @@ Zone 08:
 	[0x11D0] Centro: 20%
 	[0x11F0] Andrarch: 20%
 Zone 07:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3071
 	Max Spawns: 15
 	[0x1284] Carchar: 20%
 	[0x12A4] Neo: 20%
@@ -125,7 +125,7 @@ Zone 07:
 	[0x12E4] Centro: 20%
 	[0x1304] Andrarch: 20%
 Zone 08:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3071
 	Max Spawns: 15
 	[0x1398] Carchar: 20%
 	[0x13B8] Neo: 20%
@@ -133,7 +133,7 @@ Zone 08:
 	[0x13F8] Centro: 20%
 	[0x1418] Andrarch: 20%
 Zone 07:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3072
 	Max Spawns: 15
 	[0x14AC] Carchar: 20%
 	[0x14CC] Neo: 20%
@@ -141,7 +141,7 @@ Zone 07:
 	[0x150C] Centro: 20%
 	[0x152C] Andrarch: 20%
 Zone 08:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3072
 	Max Spawns: 15
 	[0x15C0] Carchar: 20%
 	[0x15E0] Neo: 20%
@@ -151,14 +151,14 @@ Zone 08:
 
 0034 [beta knotwood forest]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x0
 	Max Spawns: 2
 	[0x17C] Siamo: 25%
 	[0x19C] Nychus: 25%
 	[0x1BC] Andrarch: 25%
 	[0x1DC] Goyle: 25%
 Zone 02:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x0
 	Max Spawns: 3
 	[0x270] Siamo: 20%
 	[0x290] Nychus: 20%
@@ -166,7 +166,7 @@ Zone 02:
 	[0x2D0] Goyle: 20%
 	[0x2F0] Lexo: 20%
 Zone 03:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x0
 	Max Spawns: 3
 	[0x388] Siamo: 15%
 	[0x3A8] Nychus: 15%
@@ -356,7 +356,7 @@ Zone 05:
 
 0043 [RR tunnel 1 (ptd area)]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3073
 	Max Spawns: 20
 	[0x1A0] Acro: 10%
 	[0x1C0] Angato: 10%
@@ -369,7 +369,7 @@ Zone 01:
 	[0x2A0] Pachrino: 10%
 	[0x2C0] Dimorph: 10%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3074
 	Max Spawns: 20
 	[0x338] Acro: 10%
 	[0x358] Angato: 10%
@@ -382,7 +382,7 @@ Zone 01:
 	[0x438] Pachrino: 10%
 	[0x458] Dimorph: 10%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3075
 	Max Spawns: 20
 	[0x4D0] Acro: 10%
 	[0x4F0] Angato: 10%
@@ -545,7 +545,7 @@ Zone 01:
 
 0049 [parchment desert]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3079
 	Max Spawns: 5
 	[0x250] Gorgo: 20%
 	[0x270] Giganto: 20%
@@ -553,7 +553,7 @@ Zone 01:
 	[0x2B0] Smilo: 20%
 	[0x2D0] Orno: 20%
 Zone 02:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307C
 	Max Spawns: 5
 	[0x378] Gorgo: 14%
 	[0x398] Allo: 15%
@@ -563,7 +563,7 @@ Zone 02:
 	[0x418] Smilo: 14%
 	[0x438] Orno: 14%
 Zone 03:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307F
 	Max Spawns: 5
 	[0x4E4] Gorgo: 12%
 	[0x504] Allo: 12%
@@ -574,7 +574,7 @@ Zone 03:
 	[0x5A4] Smilo: 12%
 	[0x5C4] Orno: 12%
 Zone 04:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3082
 	Max Spawns: 5
 	[0x678] T-Rex: 10%
 	[0x698] Gorgo: 10%
@@ -587,7 +587,7 @@ Zone 04:
 	[0x778] Smilo: 10%
 	[0x798] Orno: 10%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307A
 	Max Spawns: 6
 	[0x838] Gorgo: 20%
 	[0x858] Giganto: 20%
@@ -595,7 +595,7 @@ Zone 01:
 	[0x898] Smilo: 20%
 	[0x8B8] Orno: 20%
 Zone 02:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307D
 	Max Spawns: 6
 	[0x960] Gorgo: 14%
 	[0x980] Allo: 15%
@@ -605,7 +605,7 @@ Zone 02:
 	[0xA00] Smilo: 14%
 	[0xA20] Orno: 14%
 Zone 03:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3080
 	Max Spawns: 6
 	[0xACC] Gorgo: 12%
 	[0xAEC] Allo: 12%
@@ -616,7 +616,7 @@ Zone 03:
 	[0xB8C] Smilo: 12%
 	[0xBAC] Orno: 12%
 Zone 04:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3083
 	Max Spawns: 6
 	[0xC60] T-Rex: 10%
 	[0xC80] Gorgo: 10%
@@ -629,7 +629,7 @@ Zone 04:
 	[0xD60] Smilo: 10%
 	[0xD80] Orno: 10%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307B
 	Max Spawns: 6
 	[0xE20] Gorgo: 20%
 	[0xE40] Giganto: 20%
@@ -637,7 +637,7 @@ Zone 01:
 	[0xE80] Smilo: 20%
 	[0xEA0] Orno: 20%
 Zone 02:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x307E
 	Max Spawns: 6
 	[0xF48] Gorgo: 14%
 	[0xF68] Allo: 15%
@@ -647,7 +647,7 @@ Zone 02:
 	[0xFE8] Smilo: 14%
 	[0x1008] Orno: 14%
 Zone 03:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3081
 	Max Spawns: 6
 	[0x10B4] Gorgo: 12%
 	[0x10D4] Allo: 12%
@@ -658,7 +658,7 @@ Zone 03:
 	[0x1174] Smilo: 12%
 	[0x1194] Orno: 12%
 Zone 04:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3084
 	Max Spawns: 6
 	[0x1248] T-Rex: 10%
 	[0x1268] Gorgo: 10%
@@ -673,7 +673,7 @@ Zone 04:
 
 0050 [bottomsup bay]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3076
 	Max Spawns: 5
 	[0x2E8] Krona: 10%
 	[0x308] Elasmo: 30%
@@ -687,7 +687,7 @@ Zone 02:
 	[0x418] Plesio: 30%
 	[0x438] Shoni: 30%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3077
 	Max Spawns: 6
 	[0x4C8] Krona: 25%
 	[0x4E8] Elasmo: 25%
@@ -701,7 +701,7 @@ Zone 02:
 	[0x5F8] Plesio: 25%
 	[0x618] Shoni: 25%
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x3078
 	Max Spawns: 6
 	[0x6A8] Krona: 25%
 	[0x6C8] Elasmo: 25%
@@ -717,7 +717,7 @@ Zone 02:
 
 0051 [woolbeards room]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x13A6
 	Max Spawns: 0
 	[0x1C0] Futabi: 34%
 	[0x1E0] Elasmo: 33%
@@ -1291,19 +1291,9 @@ Zone 01:
 	[0x494] Einio: 20%
 	[0x4B4] Penta: 20%
 
-0070 [starship entrance room]:
-Zone 01:
-	Fossil Chips Needed: ?
-	Max Spawns: 5
-	[0x164] Spinax: 20%
-	[0x184] Spinax: 20%
-	[0x1A4] Spinax: 20%
-	[0x1C4] Spinax: 20%
-	[0x1E4] Spinax: 20%
-
 0075 [secret island/crashed starship]:
 Zone 01:
-	Fossil Chips Needed: ?
+	Fossil Chips Needed: 0x0
 	Max Spawns: 0
 	[0x1C4] Compso: 10%
 	[0x1E4] Sopteryx: 10%
@@ -1767,19 +1757,19 @@ Zone 03:
 Zone 01:
 	Fossil Chips Needed: 0
 	Max Spawns: 3
-	[0x178] T-Rex: 100%
+	[0x178] Shanshan: 100%
 Zone 01:
 	Fossil Chips Needed: 1
 	Max Spawns: 3
-	[0x1D8] Daspleto: 20%
-	[0x1F8] Daspleto: 30%
-	[0x218] T-Rex: 30%
-	[0x238] T-Rex: 20%
+	[0x1D8] Spinax: 20%
+	[0x1F8] Spinax: 30%
+	[0x218] Shanshan: 30%
+	[0x238] Shanshan: 20%
 Zone 01:
 	Fossil Chips Needed: 2
 	Max Spawns: 4
-	[0x298] Daspleto: 20%
-	[0x2B8] Daspleto: 30%
-	[0x2D8] T-Rex: 30%
-	[0x2F8] T-Rex: 20%
+	[0x298] Spinax: 20%
+	[0x2B8] Spinax: 30%
+	[0x2D8] Shanshan: 30%
+	[0x2F8] Shanshan: 20%
 

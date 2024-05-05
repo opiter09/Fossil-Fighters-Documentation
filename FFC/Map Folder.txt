@@ -35,5 +35,5 @@ M is a little different, and its full purpose has not yet been divined. However,
 It appears that FFC is known to lock fossils behind sonar upgrades like FF1, so that is a handy explanation for the whole "everything has three tables" situation.
 Also, if you find ridiculously tiny tables, it's because those zones aren't actually used on the map (as you can see in the FFC-E-Maps-Color files).
 
-If you find all that confusing, not to fear. There is a file named ffc_digsiteOutput.txt in this folder that dumps all that data from every digsite. Additionally, the
+If you find all that confusing, not to fear. There is a file named "FFC Digsites.txt" in this folder that dumps all that data from every digsite. Additionally, the
 Python source code is provided, if that helps you understand it better.

@@ -1,8 +1,8 @@
 import os
 
-text = open("ffc_digsiteOutput.txt", "wt")
+text = open("FFC Digsites.txt", "wt")
 text.close()
-text = open("ffc_digsiteOutput.txt", "at")
+text = open("FFC Digsites.txt", "at")
 for root, dirs, files in os.walk("m/bin"):
     for file in files:
         if (file == "0.bin"):
