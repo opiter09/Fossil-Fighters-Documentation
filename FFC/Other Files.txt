@@ -2,8 +2,9 @@ EVERYTHING IS LITTLE-ENDIAN
 
 etc/btl_kp_defs controls how much FP you have per hero level. Each row's 0x?C is the level number, then
 the next row's 0x?0-0x?1 are the max FP recharge, and that row's 0x?2-0x?3 and 0x?6-0x?7 are the recharge
-per turn. Presuambly, one of these is for you, and the other is for enemies. Or not, I don't know, because
-they're always the same in vanilla.
+per turn. Or, put another way, starting at 0x0C each level has a 16-byte chunk, with bytes 4-5 being the
+max recharge, and bytes 6-7 and 10-11 being the recharge per turn. Presumably, one of these is for you,
+and the other is for enemies. Or not, I don't know, because they're always the same in vanilla.
 
 
 This one is certainly a mouthful: etc/creature_evolution_abilityup_param_defs controls the stat boosts of
