@@ -7,36 +7,36 @@ Zone 01:
 		[0x246] Pacro Body
 		[0x24E] Pacro Arms
 		[0x256] Pacro Legs
-		[0x25E] Unused
-		[0x266] Unused
-		[0x26E] Unused
-		[0x276] Unused
-		[0x27E] Unused
-		[0x286] Unused
+		[0x25E] Other
+		[0x266] Other
+		[0x26E] Other
+		[0x276] Other
+		[0x27E] Other
+		[0x286] Other
 		[0x28E] Pacro Head
 		[0x296] Pacro Body
 		[0x29E] Pacro Arms
 		[0x2A6] Pacro Legs
-		[0x2AE] Unused
-		[0x2B6] Unused
-		[0x2BE] Unused
-		[0x2C6] Unused
+		[0x2AE] Other
+		[0x2B6] Other
+		[0x2BE] Other
+		[0x2C6] Other
 		[0x2CE] Pacro Head
 		[0x2D6] Pacro Body
 		[0x2DE] Pacro Arms
 		[0x2E6] Pacro Legs
-		[0x2EE] Unused
-		[0x2F6] Unused
-		[0x2FE] Unused
-		[0x306] Unused
-		[0x30E] Other1
-		[0x316] Other1
-		[0x31E] Other1
-		[0x326] Other2
-		[0x32E] Other2
-		[0x336] Other2
-		[0x33E] Silver Head
-		[0x346] Gold Head
+		[0x2EE] Other
+		[0x2F6] Other
+		[0x2FE] Other
+		[0x306] Other
+		[0x30E] Small Pearl
+		[0x316] Emerald
+		[0x31E] Colossal Diamond
+		[0x326] Top-Right Dropping
+		[0x32E] Bottom-Left Dropping
+		[0x336] Top-Left Dropping
+		[0x33E] Other
+		[0x346] Other
 	Fossil Chip 1:
 		[0x392] Pacro Head
 		[0x39A] Pacro Head
@@ -45,72 +45,72 @@ Zone 01:
 		[0x3B2] Pacro Arms
 		[0x3BA] Pacro Arms
 		[0x3C2] Pacro Legs
-		[0x3CA] Unused
-		[0x3D2] Unused
-		[0x3DA] Unused
-		[0x3E2] Unused
-		[0x3EA] Unused
-		[0x3F2] Unused
-		[0x3FA] Unused
+		[0x3CA] Other
+		[0x3D2] Other
+		[0x3DA] Other
+		[0x3E2] Other
+		[0x3EA] Other
+		[0x3F2] Other
+		[0x3FA] Other
 		[0x402] Pacro Head
 		[0x40A] Pacro Body
 		[0x412] Pacro Arms
 		[0x41A] Pacro Legs
-		[0x422] Unused
-		[0x42A] Unused
-		[0x432] Unused
-		[0x43A] Unused
+		[0x422] Other
+		[0x42A] Other
+		[0x432] Other
+		[0x43A] Other
 		[0x442] Pacro Head
 		[0x44A] Pacro Body
 		[0x452] Pacro Arms
 		[0x45A] Pacro Legs
-		[0x462] Unused
-		[0x46A] Unused
-		[0x472] Unused
-		[0x47A] Unused
-		[0x482] Other1
-		[0x48A] Other1
-		[0x492] Other1
-		[0x49A] Other2
-		[0x4A2] Other2
-		[0x4AA] Other2
-		[0x4B2] Silver Head
-		[0x4BA] Gold Head
+		[0x462] Other
+		[0x46A] Other
+		[0x472] Other
+		[0x47A] Other
+		[0x482] Emerald
+		[0x48A] Diamond
+		[0x492] Colossal Diamond
+		[0x49A] Top-Right Dropping
+		[0x4A2] Bottom-Left Dropping
+		[0x4AA] Top-Left Dropping
+		[0x4B2] Other
+		[0x4BA] Other
 	Fossil Chip 2:
-		[0x506] Unused
-		[0x50E] Unused
-		[0x516] Unused
-		[0x51E] Unused
+		[0x506] Other
+		[0x50E] Other
+		[0x516] Other
+		[0x51E] Other
 		[0x526] Pacro Head
 		[0x52E] Pacro Body
 		[0x536] Pacro Arms
 		[0x53E] Pacro Legs
-		[0x546] Unused
-		[0x54E] Unused
-		[0x556] Unused
-		[0x55E] Unused
+		[0x546] Other
+		[0x54E] Other
+		[0x556] Other
+		[0x55E] Other
 		[0x566] Pacro Head
 		[0x56E] Pacro Body
 		[0x576] Pacro Arms
 		[0x57E] Pacro Legs
-		[0x586] Unused
-		[0x58E] Unused
-		[0x596] Unused
-		[0x59E] Unused
+		[0x586] Other
+		[0x58E] Other
+		[0x596] Other
+		[0x59E] Other
 		[0x5A6] Pacro Head
 		[0x5AE] Pacro Body
 		[0x5B6] Pacro Arms
 		[0x5BE] Pacro Legs
-		[0x5C6] Other1
-		[0x5CE] Other1
-		[0x5D6] Other1
-		[0x5DE] Other1
-		[0x5E6] Other1
-		[0x5EE] Other2
-		[0x5F6] Other2
-		[0x5FE] Other2
-		[0x606] Silver Head
-		[0x60E] Gold Head
+		[0x5C6] Diamond
+		[0x5CE] Giant Pearl
+		[0x5D6] Ruby
+		[0x5DE] Quad Diamond
+		[0x5E6] Colossal Diamond
+		[0x5EE] Top-Right Dropping
+		[0x5F6] Bottom-Left Dropping
+		[0x5FE] Top-Left Dropping
+		[0x606] Other
+		[0x60E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x67E] Goyle Head
@@ -141,14 +141,14 @@ Zone 02:
 		[0x746] Raja Body
 		[0x74E] Raja Arms
 		[0x756] Raja Legs
-		[0x75E] Other1
-		[0x766] Other1
-		[0x76E] Other1
-		[0x776] Other2
-		[0x77E] Other2
-		[0x786] Other2
-		[0x78E] Silver Head
-		[0x796] Gold Head
+		[0x75E] Small Pearl
+		[0x766] Emerald
+		[0x76E] Colossal Diamond
+		[0x776] Top-Right Dropping
+		[0x77E] Bottom-Left Dropping
+		[0x786] Top-Left Dropping
+		[0x78E] Other
+		[0x796] Other
 	Fossil Chip 1:
 		[0x7DE] Goyle Head
 		[0x7E6] Goyle Head
@@ -180,14 +180,14 @@ Zone 02:
 		[0x8B6] Raja Body
 		[0x8BE] Raja Arms
 		[0x8C6] Raja Legs
-		[0x8CE] Other1
-		[0x8D6] Other1
-		[0x8DE] Other1
-		[0x8E6] Other2
-		[0x8EE] Other2
-		[0x8F6] Other2
-		[0x8FE] Silver Head
-		[0x906] Gold Head
+		[0x8CE] Emerald
+		[0x8D6] Diamond
+		[0x8DE] Colossal Diamond
+		[0x8E6] Top-Right Dropping
+		[0x8EE] Bottom-Left Dropping
+		[0x8F6] Top-Left Dropping
+		[0x8FE] Other
+		[0x906] Other
 	Fossil Chip 2:
 		[0x94E] Pacro Head
 		[0x956] Pacro Body
@@ -225,16 +225,16 @@ Zone 02:
 		[0xA56] Raja Body
 		[0xA5E] Raja Arms
 		[0xA66] Raja Legs
-		[0xA6E] Other1
-		[0xA76] Other1
-		[0xA7E] Other1
-		[0xA86] Other1
-		[0xA8E] Other1
-		[0xA96] Other2
-		[0xA9E] Other2
-		[0xAA6] Other2
-		[0xAAE] Silver Head
-		[0xAB6] Gold Head
+		[0xA6E] Diamond
+		[0xA76] Giant Pearl
+		[0xA7E] Ruby
+		[0xA86] Quad Diamond
+		[0xA8E] Colossal Diamond
+		[0xA96] Top-Right Dropping
+		[0xA9E] Bottom-Left Dropping
+		[0xAA6] Top-Left Dropping
+		[0xAAE] Other
+		[0xAB6] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xB26] Tricera Head
@@ -265,15 +265,15 @@ Zone 03:
 		[0xBEE] Thalasso Body
 		[0xBF6] Thalasso Arms
 		[0xBFE] Thalasso Legs
-		[0xC06] Other1
-		[0xC0E] Other1
-		[0xC16] Other1
-		[0xC1E] Other1
-		[0xC26] Other2
-		[0xC2E] Other2
-		[0xC36] Other2
-		[0xC3E] Silver Head
-		[0xC46] Gold Head
+		[0xC06] Small Pearl
+		[0xC0E] Emerald
+		[0xC16] Diamond
+		[0xC1E] Colossal Diamond
+		[0xC26] Top-Right Dropping
+		[0xC2E] Bottom-Left Dropping
+		[0xC36] Top-Left Dropping
+		[0xC3E] Other
+		[0xC46] Other
 	Fossil Chip 1:
 		[0xC8E] Tricera Head
 		[0xC96] Tricera Head
@@ -305,15 +305,15 @@ Zone 03:
 		[0xD66] Thalasso Body
 		[0xD6E] Thalasso Arms
 		[0xD76] Thalasso Legs
-		[0xD7E] Other1
-		[0xD86] Other1
-		[0xD8E] Other1
-		[0xD96] Other1
-		[0xD9E] Other2
-		[0xDA6] Other2
-		[0xDAE] Other2
-		[0xDB6] Silver Head
-		[0xDBE] Gold Head
+		[0xD7E] Small Pearl
+		[0xD86] Emerald
+		[0xD8E] Diamond
+		[0xD96] Colossal Diamond
+		[0xD9E] Top-Right Dropping
+		[0xDA6] Bottom-Left Dropping
+		[0xDAE] Top-Left Dropping
+		[0xDB6] Other
+		[0xDBE] Other
 	Fossil Chip 2:
 		[0xE06] Tricera Head
 		[0xE0E] Tricera Body
@@ -354,65 +354,65 @@ Zone 03:
 		[0xF26] Proto Body
 		[0xF2E] Proto Arms
 		[0xF36] Proto Legs
-		[0xF3E] Other1
-		[0xF46] Other1
-		[0xF4E] Other1
-		[0xF56] Other1
-		[0xF5E] Other1
-		[0xF66] Other1
-		[0xF6E] Other1
-		[0xF76] Other2
-		[0xF7E] Other2
-		[0xF86] Other2
-		[0xF8E] Silver Head
-		[0xF96] Gold Head
+		[0xF3E] Small Pearl
+		[0xF46] Emerald
+		[0xF4E] Diamond
+		[0xF56] Giant Pearl
+		[0xF5E] Ruby
+		[0xF66] Quad Diamond
+		[0xF6E] Colossal Diamond
+		[0xF76] Top-Right Dropping
+		[0xF7E] Bottom-Left Dropping
+		[0xF86] Top-Left Dropping
+		[0xF8E] Other
+		[0xF96] Other
 Zone 04:
 	Fossil Chip 0:
-		[0x1006] Unused
-		[0x100E] Unused
-		[0x1016] Unused
-		[0x101E] Unused
-		[0x1026] Unused
-		[0x102E] Unused
+		[0x1006] Other
+		[0x100E] Other
+		[0x1016] Other
+		[0x101E] Other
+		[0x1026] Other
+		[0x102E] Other
 		[0x1036] Thalasso Head
 		[0x103E] Thalasso Head
 		[0x1046] Thalasso Body
 		[0x104E] Thalasso Body
 		[0x1056] Thalasso Arms
 		[0x105E] Thalasso Legs
-		[0x1066] Unused
-		[0x106E] Unused
-		[0x1076] Unused
-		[0x107E] Unused
+		[0x1066] Other
+		[0x106E] Other
+		[0x1076] Other
+		[0x107E] Other
 		[0x1086] Thalasso Head
 		[0x108E] Thalasso Body
 		[0x1096] Thalasso Arms
 		[0x109E] Thalasso Legs
-		[0x10A6] Unused
-		[0x10AE] Unused
-		[0x10B6] Unused
-		[0x10BE] Unused
+		[0x10A6] Other
+		[0x10AE] Other
+		[0x10B6] Other
+		[0x10BE] Other
 		[0x10C6] Thalasso Head
 		[0x10CE] Thalasso Body
 		[0x10D6] Thalasso Arms
 		[0x10DE] Thalasso Legs
-		[0x10E6] Other1
-		[0x10EE] Other1
-		[0x10F6] Other1
-		[0x10FE] Other1
-		[0x1106] Other2
-		[0x110E] Other2
-		[0x1116] Other2
-		[0x111E] Silver Head
-		[0x1126] Gold Head
+		[0x10E6] Small Pearl
+		[0x10EE] Emerald
+		[0x10F6] Diamond
+		[0x10FE] Colossal Diamond
+		[0x1106] Top-Right Dropping
+		[0x110E] Bottom-Left Dropping
+		[0x1116] Top-Left Dropping
+		[0x111E] Other
+		[0x1126] Other
 	Fossil Chip 1:
-		[0x116E] Unused
-		[0x1176] Unused
-		[0x117E] Unused
-		[0x1186] Unused
-		[0x118E] Unused
-		[0x1196] Unused
-		[0x119E] Unused
+		[0x116E] Other
+		[0x1176] Other
+		[0x117E] Other
+		[0x1186] Other
+		[0x118E] Other
+		[0x1196] Other
+		[0x119E] Other
 		[0x11A6] Thalasso Head
 		[0x11AE] Thalasso Head
 		[0x11B6] Thalasso Body
@@ -420,36 +420,36 @@ Zone 04:
 		[0x11C6] Thalasso Arms
 		[0x11CE] Thalasso Arms
 		[0x11D6] Thalasso Legs
-		[0x11DE] Unused
-		[0x11E6] Unused
-		[0x11EE] Unused
-		[0x11F6] Unused
+		[0x11DE] Other
+		[0x11E6] Other
+		[0x11EE] Other
+		[0x11F6] Other
 		[0x11FE] Thalasso Head
 		[0x1206] Thalasso Body
 		[0x120E] Thalasso Arms
 		[0x1216] Thalasso Legs
-		[0x121E] Unused
-		[0x1226] Unused
-		[0x122E] Unused
-		[0x1236] Unused
+		[0x121E] Other
+		[0x1226] Other
+		[0x122E] Other
+		[0x1236] Other
 		[0x123E] Thalasso Head
 		[0x1246] Thalasso Body
 		[0x124E] Thalasso Arms
 		[0x1256] Thalasso Legs
-		[0x125E] Other1
-		[0x1266] Other1
-		[0x126E] Other1
-		[0x1276] Other1
-		[0x127E] Other2
-		[0x1286] Other2
-		[0x128E] Other2
-		[0x1296] Silver Head
-		[0x129E] Gold Head
+		[0x125E] Small Pearl
+		[0x1266] Emerald
+		[0x126E] Diamond
+		[0x1276] Colossal Diamond
+		[0x127E] Top-Right Dropping
+		[0x1286] Bottom-Left Dropping
+		[0x128E] Top-Left Dropping
+		[0x1296] Other
+		[0x129E] Other
 	Fossil Chip 2:
-		[0x12E6] Unused
-		[0x12EE] Unused
-		[0x12F6] Unused
-		[0x12FE] Unused
+		[0x12E6] Other
+		[0x12EE] Other
+		[0x12F6] Other
+		[0x12FE] Other
 		[0x1306] Thalasso Head
 		[0x130E] Thalasso Body
 		[0x1316] Thalasso Arms
@@ -462,10 +462,10 @@ Zone 04:
 		[0x134E] Shoni Body
 		[0x1356] Shoni Arms
 		[0x135E] Shoni Legs
-		[0x1366] Unused
-		[0x136E] Unused
-		[0x1376] Unused
-		[0x137E] Unused
+		[0x1366] Other
+		[0x136E] Other
+		[0x1376] Other
+		[0x137E] Other
 		[0x1386] Thalasso Head
 		[0x138E] Thalasso Body
 		[0x1396] Thalasso Arms
@@ -478,10 +478,10 @@ Zone 04:
 		[0x13CE] Shoni Body
 		[0x13D6] Shoni Arms
 		[0x13DE] Shoni Legs
-		[0x13E6] Unused
-		[0x13EE] Unused
-		[0x13F6] Unused
-		[0x13FE] Unused
+		[0x13E6] Other
+		[0x13EE] Other
+		[0x13F6] Other
+		[0x13FE] Other
 		[0x1406] Thalasso Head
 		[0x140E] Thalasso Body
 		[0x1416] Thalasso Arms
@@ -494,18 +494,18 @@ Zone 04:
 		[0x144E] Shoni Body
 		[0x1456] Shoni Arms
 		[0x145E] Shoni Legs
-		[0x1466] Other1
-		[0x146E] Other1
-		[0x1476] Other1
-		[0x147E] Other1
-		[0x1486] Other1
-		[0x148E] Other1
-		[0x1496] Other1
-		[0x149E] Other2
-		[0x14A6] Other2
-		[0x14AE] Other2
-		[0x14B6] Silver Head
-		[0x14BE] Gold Head
+		[0x1466] Small Pearl
+		[0x146E] Emerald
+		[0x1476] Diamond
+		[0x147E] Giant Pearl
+		[0x1486] Ruby
+		[0x148E] Quad Diamond
+		[0x1496] Colossal Diamond
+		[0x149E] Top-Right Dropping
+		[0x14A6] Bottom-Left Dropping
+		[0x14AE] Top-Left Dropping
+		[0x14B6] Other
+		[0x14BE] Other
 Zone 05:
 	Fossil Chip 0:
 		[0x152E] Menchi Head
@@ -536,15 +536,15 @@ Zone 05:
 		[0x15F6] Raja Body
 		[0x15FE] Raja Arms
 		[0x1606] Raja Legs
-		[0x160E] Other1
-		[0x1616] Other1
-		[0x161E] Other1
-		[0x1626] Other1
-		[0x162E] Other2
-		[0x1636] Other2
-		[0x163E] Other2
-		[0x1646] Silver Head
-		[0x164E] Gold Head
+		[0x160E] Small Pearl
+		[0x1616] Emerald
+		[0x161E] Diamond
+		[0x1626] Colossal Diamond
+		[0x162E] Top-Right Dropping
+		[0x1636] Bottom-Left Dropping
+		[0x163E] Top-Left Dropping
+		[0x1646] Other
+		[0x164E] Other
 	Fossil Chip 1:
 		[0x1696] Menchi Head
 		[0x169E] Menchi Head
@@ -576,15 +576,15 @@ Zone 05:
 		[0x176E] Raja Body
 		[0x1776] Raja Arms
 		[0x177E] Raja Legs
-		[0x1786] Other1
-		[0x178E] Other1
-		[0x1796] Other1
-		[0x179E] Other1
-		[0x17A6] Other2
-		[0x17AE] Other2
-		[0x17B6] Other2
-		[0x17BE] Silver Head
-		[0x17C6] Gold Head
+		[0x1786] Small Pearl
+		[0x178E] Emerald
+		[0x1796] Diamond
+		[0x179E] Colossal Diamond
+		[0x17A6] Top-Right Dropping
+		[0x17AE] Bottom-Left Dropping
+		[0x17B6] Top-Left Dropping
+		[0x17BE] Other
+		[0x17C6] Other
 	Fossil Chip 2:
 		[0x180E] Menchi Head
 		[0x1816] Menchi Body
@@ -610,18 +610,18 @@ Zone 05:
 		[0x18B6] Raja Body
 		[0x18BE] Raja Arms
 		[0x18C6] Raja Legs
-		[0x18CE] Other1
-		[0x18D6] Other1
-		[0x18DE] Other1
-		[0x18E6] Other1
-		[0x18EE] Other1
-		[0x18F6] Other1
-		[0x18FE] Other1
-		[0x1906] Other2
-		[0x190E] Other2
-		[0x1916] Other2
-		[0x191E] Silver Head
-		[0x1926] Gold Head
+		[0x18CE] Small Pearl
+		[0x18D6] Emerald
+		[0x18DE] Diamond
+		[0x18E6] Giant Pearl
+		[0x18EE] Ruby
+		[0x18F6] Quad Diamond
+		[0x18FE] Colossal Diamond
+		[0x1906] Top-Right Dropping
+		[0x190E] Bottom-Left Dropping
+		[0x1916] Top-Left Dropping
+		[0x191E] Other
+		[0x1926] Other
 
 3001:
 Zone 01:
@@ -672,14 +672,14 @@ Zone 01:
 		[0x312] Hoplo Arms
 		[0x31A] Hoplo Legs
 		[0x322] Pendem Single
-		[0x32A] Other1
-		[0x332] Other1
-		[0x33A] Other1
-		[0x342] Other1
-		[0x34A] Other2
-		[0x352] Other2
-		[0x35A] Silver Arms
-		[0x362] Gold Head
+		[0x32A] Small Pearl
+		[0x332] Emerald
+		[0x33A] Diamond
+		[0x342] Colossal Diamond
+		[0x34A] Top-Right Dropping
+		[0x352] Weird Giant Dropping 1
+		[0x35A] Other
+		[0x362] Other
 	Fossil Chip 1:
 		[0x396] Perso Head
 		[0x39E] Perso Head
@@ -730,14 +730,14 @@ Zone 01:
 		[0x506] Hoplo Arms
 		[0x50E] Hoplo Legs
 		[0x516] Pendem Single
-		[0x51E] Other1
-		[0x526] Other1
-		[0x52E] Other1
-		[0x536] Other1
-		[0x53E] Other2
-		[0x546] Other2
-		[0x54E] Silver Arms
-		[0x556] Gold Head
+		[0x51E] Small Pearl
+		[0x526] Emerald
+		[0x52E] Diamond
+		[0x536] Colossal Diamond
+		[0x53E] Top-Right Dropping
+		[0x546] Weird Giant Dropping 1
+		[0x54E] Other
+		[0x556] Other
 	Fossil Chip 2:
 		[0x58A] Perso Head
 		[0x592] Perso Body
@@ -778,14 +778,14 @@ Zone 01:
 		[0x6AA] Hoplo Arms
 		[0x6B2] Hoplo Legs
 		[0x6BA] Pendem Single
-		[0x6C2] Other1
-		[0x6CA] Other1
-		[0x6D2] Other1
-		[0x6DA] Other1
-		[0x6E2] Other2
-		[0x6EA] Other2
-		[0x6F2] Silver Arms
-		[0x6FA] Gold Head
+		[0x6C2] Small Pearl
+		[0x6CA] Emerald
+		[0x6D2] Diamond
+		[0x6DA] Colossal Diamond
+		[0x6E2] Top-Right Dropping
+		[0x6EA] Weird Giant Dropping 1
+		[0x6F2] Other
+		[0x6FA] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x756] Siamo Head
@@ -880,14 +880,14 @@ Zone 01:
 		[0x39E] Goyo Body
 		[0x3A6] Goyo Arms
 		[0x3AE] Goyo Legs
-		[0x3B6] Other1
-		[0x3BE] Other1
-		[0x3C6] Other1
-		[0x3CE] Other1
-		[0x3D6] Other2
-		[0x3DE] Other2
-		[0x3E6] Silver Legs
-		[0x3EE] Gold Head
+		[0x3B6] Small Pearl
+		[0x3BE] Emerald
+		[0x3C6] Diamond
+		[0x3CE] Colossal Diamond
+		[0x3D6] Bottom-Left Dropping
+		[0x3DE] Weird Giant Dropping 2
+		[0x3E6] Other
+		[0x3EE] Other
 	Fossil Chip 1:
 		[0x422] Radox Single
 		[0x42A] Tarbo Head
@@ -951,14 +951,14 @@ Zone 01:
 		[0x5FA] Goyo Body
 		[0x602] Goyo Arms
 		[0x60A] Goyo Legs
-		[0x612] Other1
-		[0x61A] Other1
-		[0x622] Other1
-		[0x62A] Other1
-		[0x632] Other2
-		[0x63A] Other2
-		[0x642] Silver Legs
-		[0x64A] Gold Head
+		[0x612] Small Pearl
+		[0x61A] Emerald
+		[0x622] Diamond
+		[0x62A] Colossal Diamond
+		[0x632] Bottom-Left Dropping
+		[0x63A] Weird Giant Dropping 2
+		[0x642] Other
+		[0x64A] Other
 	Fossil Chip 2:
 		[0x67E] Radox Single
 		[0x686] Tarbo Head
@@ -1023,14 +1023,14 @@ Zone 01:
 		[0x85E] Goyo Body
 		[0x866] Goyo Arms
 		[0x86E] Goyo Legs
-		[0x876] Other1
-		[0x87E] Other1
-		[0x886] Other1
-		[0x88E] Other1
-		[0x896] Other2
-		[0x89E] Other2
-		[0x8A6] Silver Legs
-		[0x8AE] Gold Head
+		[0x876] Small Pearl
+		[0x87E] Emerald
+		[0x886] Diamond
+		[0x88E] Colossal Diamond
+		[0x896] Bottom-Left Dropping
+		[0x89E] Weird Giant Dropping 2
+		[0x8A6] Other
+		[0x8AE] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x90A] Siamo Head
@@ -1072,20 +1072,20 @@ Zone 01:
 		[0x216] Chasmo Body
 		[0x21E] Chasmo Arms
 		[0x226] Chasmo Legs
-		[0x22E] Other1
-		[0x236] Other1
-		[0x23E] Other2
-		[0x246] Other2
-		[0x24E] Other2
-		[0x256] Other2
-		[0x25E] Other2
-		[0x266] Other2
-		[0x26E] Other2
-		[0x276] Other2
-		[0x27E] Other2
-		[0x286] Other2
-		[0x28E] Silver Head
-		[0x296] Gold Head
+		[0x22E] Double Pearl
+		[0x236] Colossal Diamond
+		[0x23E] Giant Dropping
+		[0x246] Double Giant Dropping
+		[0x24E] Center Dropping
+		[0x256] Bottom-Right Dropping
+		[0x25E] Top-Right Dropping
+		[0x266] Bottom-Left Dropping
+		[0x26E] Top-Left Dropping
+		[0x276] Triangle Dropping
+		[0x27E] Triple Dropping
+		[0x286] Double Dropping
+		[0x28E] Other
+		[0x296] Other
 	Fossil Chip 1:
 		[0x2DE] Chasmo Head
 		[0x2E6] Chasmo Body
@@ -1099,20 +1099,20 @@ Zone 01:
 		[0x326] Chasmo Body
 		[0x32E] Chasmo Arms
 		[0x336] Chasmo Legs
-		[0x33E] Other1
-		[0x346] Other1
-		[0x34E] Other2
-		[0x356] Other2
-		[0x35E] Other2
-		[0x366] Other2
-		[0x36E] Other2
-		[0x376] Other2
-		[0x37E] Other2
-		[0x386] Other2
-		[0x38E] Other2
-		[0x396] Other2
-		[0x39E] Silver Head
-		[0x3A6] Gold Head
+		[0x33E] Double Pearl
+		[0x346] Colossal Diamond
+		[0x34E] Giant Dropping
+		[0x356] Double Giant Dropping
+		[0x35E] Center Dropping
+		[0x366] Bottom-Right Dropping
+		[0x36E] Top-Right Dropping
+		[0x376] Bottom-Left Dropping
+		[0x37E] Top-Left Dropping
+		[0x386] Triangle Dropping
+		[0x38E] Triple Dropping
+		[0x396] Double Dropping
+		[0x39E] Other
+		[0x3A6] Other
 	Fossil Chip 2:
 		[0x3EE] Cryo Head
 		[0x3F6] Goyo Head
@@ -1120,22 +1120,22 @@ Zone 01:
 		[0x406] Goyo Head
 		[0x40E] Cryo Head
 		[0x416] Goyo Head
-		[0x41E] Other1
-		[0x426] Other1
-		[0x42E] Other1
-		[0x436] Other1
-		[0x43E] Other2
-		[0x446] Other2
-		[0x44E] Other2
-		[0x456] Other2
-		[0x45E] Other2
-		[0x466] Other2
-		[0x46E] Other2
-		[0x476] Other2
-		[0x47E] Other2
-		[0x486] Other2
-		[0x48E] Silver Head
-		[0x496] Gold Head
+		[0x41E] Small Pearl
+		[0x426] Double Pearl
+		[0x42E] Giant Pearl
+		[0x436] Colossal Diamond
+		[0x43E] Giant Dropping
+		[0x446] Double Giant Dropping
+		[0x44E] Center Dropping
+		[0x456] Bottom-Right Dropping
+		[0x45E] Top-Right Dropping
+		[0x466] Bottom-Left Dropping
+		[0x46E] Top-Left Dropping
+		[0x476] Triangle Dropping
+		[0x47E] Triple Dropping
+		[0x486] Double Dropping
+		[0x48E] Other
+		[0x496] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x506] Siamo Head
@@ -1186,15 +1186,15 @@ Zone 01:
 		[0x282] Krypto Arms
 		[0x28A] Krypto Legs
 		[0x292] Anomalo Single
-		[0x29A] Other1
-		[0x2A2] Other1
-		[0x2AA] Other1
-		[0x2B2] Other2
-		[0x2BA] Other2
-		[0x2C2] Other2
-		[0x2CA] Other2
-		[0x2D2] Silver Body
-		[0x2DA] Gold Head
+		[0x29A] Emerald
+		[0x2A2] Diamond
+		[0x2AA] Colossal Diamond
+		[0x2B2] Bottom-Right Dropping
+		[0x2BA] Top-Right Dropping
+		[0x2C2] Bottom-Left Dropping
+		[0x2CA] Weird Giant Dropping 2
+		[0x2D2] Other
+		[0x2DA] Other
 	Fossil Chip 1:
 		[0x322] Krypto Head
 		[0x32A] Krypto Head
@@ -1215,15 +1215,15 @@ Zone 01:
 		[0x3A2] Krypto Arms
 		[0x3AA] Krypto Legs
 		[0x3B2] Anomalo Single
-		[0x3BA] Other1
-		[0x3C2] Other1
-		[0x3CA] Other1
-		[0x3D2] Other2
-		[0x3DA] Other2
-		[0x3E2] Other2
-		[0x3EA] Other2
-		[0x3F2] Silver Body
-		[0x3FA] Gold Head
+		[0x3BA] Diamond
+		[0x3C2] Double Pearl
+		[0x3CA] Colossal Diamond
+		[0x3D2] Bottom-Right Dropping
+		[0x3DA] Top-Right Dropping
+		[0x3E2] Bottom-Left Dropping
+		[0x3EA] Weird Giant Dropping 2
+		[0x3F2] Other
+		[0x3FA] Other
 	Fossil Chip 2:
 		[0x442] Krypto Head
 		[0x44A] Krypto Body
@@ -1240,14 +1240,14 @@ Zone 01:
 		[0x4A2] Krypto Arms
 		[0x4AA] Krypto Legs
 		[0x4B2] Anomalo Single
-		[0x4BA] Other1
-		[0x4C2] Other1
-		[0x4CA] Other2
-		[0x4D2] Other2
-		[0x4DA] Other2
-		[0x4E2] Other2
-		[0x4EA] Silver Body
-		[0x4F2] Gold Head
+		[0x4BA] Double Pearl
+		[0x4C2] Colossal Diamond
+		[0x4CA] Bottom-Right Dropping
+		[0x4D2] Top-Right Dropping
+		[0x4DA] Bottom-Left Dropping
+		[0x4E2] Weird Giant Dropping 2
+		[0x4EA] Other
+		[0x4F2] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x562] Siamo Head
@@ -1322,14 +1322,14 @@ Zone 01:
 		[0x32E] Nigo Body
 		[0x336] Nigo Arms
 		[0x33E] Nigo Legs
-		[0x346] Other1
-		[0x34E] Other1
-		[0x356] Other1
-		[0x35E] Other2
-		[0x366] Other2
-		[0x36E] Other2
-		[0x376] Silver Body
-		[0x37E] Gold Head
+		[0x346] Emerald
+		[0x34E] Diamond
+		[0x356] Colossal Diamond
+		[0x35E] Bottom-Right Dropping
+		[0x366] Top-Right Dropping
+		[0x36E] Bottom-Left Dropping
+		[0x376] Other
+		[0x37E] Other
 	Fossil Chip 1:
 		[0x3C6] Coatlus Head
 		[0x3CE] Coatlus Head
@@ -1376,14 +1376,14 @@ Zone 01:
 		[0x516] Nigo Body
 		[0x51E] Nigo Arms
 		[0x526] Nigo Legs
-		[0x52E] Other1
-		[0x536] Other1
-		[0x53E] Other1
-		[0x546] Other2
-		[0x54E] Other2
-		[0x556] Other2
-		[0x55E] Silver Body
-		[0x566] Gold Head
+		[0x52E] Diamond
+		[0x536] Double Pearl
+		[0x53E] Colossal Diamond
+		[0x546] Bottom-Right Dropping
+		[0x54E] Top-Right Dropping
+		[0x556] Bottom-Left Dropping
+		[0x55E] Other
+		[0x566] Other
 	Fossil Chip 2:
 		[0x5AE] Coatlus Head
 		[0x5B6] Coatlus Body
@@ -1421,13 +1421,13 @@ Zone 01:
 		[0x6B6] Nigo Body
 		[0x6BE] Nigo Arms
 		[0x6C6] Nigo Legs
-		[0x6CE] Other1
-		[0x6D6] Other1
-		[0x6DE] Other2
-		[0x6E6] Other2
-		[0x6EE] Other2
-		[0x6F6] Silver Body
-		[0x6FE] Gold Head
+		[0x6CE] Double Pearl
+		[0x6D6] Colossal Diamond
+		[0x6DE] Bottom-Right Dropping
+		[0x6E6] Top-Right Dropping
+		[0x6EE] Bottom-Left Dropping
+		[0x6F6] Other
+		[0x6FE] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x76E] Siamo Head
@@ -1492,15 +1492,15 @@ Zone 01:
 		[0x2DE] Nigo Body
 		[0x2E6] Nigo Arms
 		[0x2EE] Nigo Legs
-		[0x2F6] Other1
-		[0x2FE] Other1
-		[0x306] Other1
-		[0x30E] Other2
-		[0x316] Other2
-		[0x31E] Other2
-		[0x326] Other2
-		[0x32E] Silver Body
-		[0x336] Gold Head
+		[0x2F6] Emerald
+		[0x2FE] Diamond
+		[0x306] Colossal Diamond
+		[0x30E] Bottom-Right Dropping
+		[0x316] Top-Right Dropping
+		[0x31E] Bottom-Left Dropping
+		[0x326] Weird Giant Dropping 2
+		[0x32E] Other
+		[0x336] Other
 	Fossil Chip 1:
 		[0x37E] Parapu Single
 		[0x386] Parapu Single
@@ -1536,15 +1536,15 @@ Zone 01:
 		[0x476] Nigo Body
 		[0x47E] Nigo Arms
 		[0x486] Nigo Legs
-		[0x48E] Other1
-		[0x496] Other1
-		[0x49E] Other1
-		[0x4A6] Other2
-		[0x4AE] Other2
-		[0x4B6] Other2
-		[0x4BE] Other2
-		[0x4C6] Silver Body
-		[0x4CE] Gold Head
+		[0x48E] Diamond
+		[0x496] Double Pearl
+		[0x49E] Colossal Diamond
+		[0x4A6] Bottom-Right Dropping
+		[0x4AE] Top-Right Dropping
+		[0x4B6] Bottom-Left Dropping
+		[0x4BE] Weird Giant Dropping 2
+		[0x4C6] Other
+		[0x4CE] Other
 	Fossil Chip 2:
 		[0x516] Parapu Single
 		[0x51E] Nycto Head
@@ -1573,14 +1573,14 @@ Zone 01:
 		[0x5D6] Nigo Body
 		[0x5DE] Nigo Arms
 		[0x5E6] Nigo Legs
-		[0x5EE] Other1
-		[0x5F6] Other1
-		[0x5FE] Other2
-		[0x606] Other2
-		[0x60E] Other2
-		[0x616] Other2
-		[0x61E] Silver Body
-		[0x626] Gold Head
+		[0x5EE] Double Pearl
+		[0x5F6] Colossal Diamond
+		[0x5FE] Bottom-Right Dropping
+		[0x606] Top-Right Dropping
+		[0x60E] Bottom-Left Dropping
+		[0x616] Weird Giant Dropping 2
+		[0x61E] Other
+		[0x626] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x696] Siamo Head
@@ -1641,14 +1641,14 @@ Zone 01:
 		[0x2BE] Stego Body
 		[0x2C6] Stego Arms
 		[0x2CE] Stego Legs
-		[0x2D6] Other1
-		[0x2DE] Other1
-		[0x2E6] Other1
-		[0x2EE] Other2
-		[0x2F6] Other2
-		[0x2FE] Other2
-		[0x306] Silver Body
-		[0x30E] Gold Head
+		[0x2D6] Emerald
+		[0x2DE] Diamond
+		[0x2E6] Colossal Diamond
+		[0x2EE] Bottom-Right Dropping
+		[0x2F6] Top-Right Dropping
+		[0x2FE] Bottom-Left Dropping
+		[0x306] Other
+		[0x30E] Other
 	Fossil Chip 1:
 		[0x356] Nycto Head
 		[0x35E] Nycto Head
@@ -1680,14 +1680,14 @@ Zone 01:
 		[0x42E] Stego Body
 		[0x436] Stego Arms
 		[0x43E] Stego Legs
-		[0x446] Other1
-		[0x44E] Other1
-		[0x456] Other1
-		[0x45E] Other2
-		[0x466] Other2
-		[0x46E] Other2
-		[0x476] Silver Body
-		[0x47E] Gold Head
+		[0x446] Diamond
+		[0x44E] Double Pearl
+		[0x456] Colossal Diamond
+		[0x45E] Bottom-Right Dropping
+		[0x466] Top-Right Dropping
+		[0x46E] Bottom-Left Dropping
+		[0x476] Other
+		[0x47E] Other
 	Fossil Chip 2:
 		[0x4C6] Nycto Head
 		[0x4CE] Nycto Body
@@ -1713,13 +1713,13 @@ Zone 01:
 		[0x56E] Stego Body
 		[0x576] Stego Arms
 		[0x57E] Stego Legs
-		[0x586] Other1
-		[0x58E] Other1
-		[0x596] Other2
-		[0x59E] Other2
-		[0x5A6] Other2
-		[0x5AE] Silver Body
-		[0x5B6] Gold Head
+		[0x586] Double Pearl
+		[0x58E] Colossal Diamond
+		[0x596] Bottom-Right Dropping
+		[0x59E] Top-Right Dropping
+		[0x5A6] Bottom-Left Dropping
+		[0x5AE] Other
+		[0x5B6] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x626] Siamo Head
@@ -1776,11 +1776,11 @@ Zone 01:
 		[0x2AE] Dilopho Body
 		[0x2B6] Dilopho Arms
 		[0x2BE] Dilopho Legs
-		[0x2C6] Other1
-		[0x2CE] Other1
-		[0x2D6] Other2
-		[0x2DE] Silver Body
-		[0x2E6] Gold Head
+		[0x2C6] Sapphire
+		[0x2CE] Colossal Diamond
+		[0x2D6] Double Giant Dropping
+		[0x2DE] Other
+		[0x2E6] Other
 	Fossil Chip 1:
 		[0x32E] Delta Head
 		[0x336] Delta Body
@@ -1806,11 +1806,11 @@ Zone 01:
 		[0x3D6] Dilopho Body
 		[0x3DE] Dilopho Arms
 		[0x3E6] Dilopho Legs
-		[0x3EE] Other1
-		[0x3F6] Other1
-		[0x3FE] Other2
-		[0x406] Silver Body
-		[0x40E] Gold Head
+		[0x3EE] Sapphire
+		[0x3F6] Colossal Diamond
+		[0x3FE] Double Giant Dropping
+		[0x406] Other
+		[0x40E] Other
 	Fossil Chip 2:
 		[0x456] Delta Head
 		[0x45E] Delta Body
@@ -1836,11 +1836,11 @@ Zone 01:
 		[0x4FE] Dilopho Body
 		[0x506] Dilopho Arms
 		[0x50E] Dilopho Legs
-		[0x516] Other1
-		[0x51E] Other1
-		[0x526] Other2
-		[0x52E] Silver Body
-		[0x536] Gold Head
+		[0x516] Sapphire
+		[0x51E] Colossal Diamond
+		[0x526] Double Giant Dropping
+		[0x52E] Other
+		[0x536] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x5A6] Siamo Head
@@ -1915,15 +1915,15 @@ Zone 01:
 		[0x3DA] Edapho Body
 		[0x3E2] Edapho Arms
 		[0x3EA] Edapho Legs
-		[0x3F2] Other1
-		[0x3FA] Other1
-		[0x402] Other1
-		[0x40A] Other1
-		[0x412] Other2
-		[0x41A] Other2
-		[0x422] Other2
-		[0x42A] Silver Body
-		[0x432] Gold Head
+		[0x3F2] Quad Diamond
+		[0x3FA] Double Diamond
+		[0x402] Diamond
+		[0x40A] Colossal Diamond
+		[0x412] Center Dropping
+		[0x41A] Bottom-Right Dropping
+		[0x422] Top-Right Dropping
+		[0x42A] Other
+		[0x432] Other
 	Fossil Chip 1:
 		[0x47A] Hypsi Head
 		[0x482] Hypsi Head
@@ -1970,15 +1970,15 @@ Zone 01:
 		[0x5CA] Edapho Body
 		[0x5D2] Edapho Arms
 		[0x5DA] Edapho Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other1
-		[0x602] Other2
-		[0x60A] Other2
-		[0x612] Other2
-		[0x61A] Silver Body
-		[0x622] Gold Head
+		[0x5E2] Quad Diamond
+		[0x5EA] Double Diamond
+		[0x5F2] Diamond
+		[0x5FA] Colossal Diamond
+		[0x602] Center Dropping
+		[0x60A] Bottom-Right Dropping
+		[0x612] Top-Right Dropping
+		[0x61A] Other
+		[0x622] Other
 	Fossil Chip 2:
 		[0x66A] Hypsi Head
 		[0x672] Hypsi Body
@@ -2016,15 +2016,15 @@ Zone 01:
 		[0x772] Edapho Body
 		[0x77A] Edapho Arms
 		[0x782] Edapho Legs
-		[0x78A] Other1
-		[0x792] Other1
-		[0x79A] Other1
-		[0x7A2] Other1
-		[0x7AA] Other2
-		[0x7B2] Other2
-		[0x7BA] Other2
-		[0x7C2] Silver Body
-		[0x7CA] Gold Head
+		[0x78A] Quad Diamond
+		[0x792] Double Diamond
+		[0x79A] Diamond
+		[0x7A2] Colossal Diamond
+		[0x7AA] Center Dropping
+		[0x7B2] Bottom-Right Dropping
+		[0x7BA] Top-Right Dropping
+		[0x7C2] Other
+		[0x7CA] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x83A] Ceros Single
@@ -2059,16 +2059,16 @@ Zone 02:
 		[0x922] Jara Body
 		[0x92A] Jara Arms
 		[0x932] Jara Legs
-		[0x93A] Other1
-		[0x942] Other1
-		[0x94A] Other1
-		[0x952] Other1
-		[0x95A] Other2
-		[0x962] Other2
-		[0x96A] Other2
-		[0x972] Other2
-		[0x97A] Silver Body
-		[0x982] Gold Head
+		[0x93A] Quad Diamond
+		[0x942] Double Diamond
+		[0x94A] Diamond
+		[0x952] Colossal Diamond
+		[0x95A] Center Dropping
+		[0x962] Bottom-Right Dropping
+		[0x96A] Top-Right Dropping
+		[0x972] Weird Giant Dropping 1
+		[0x97A] Other
+		[0x982] Other
 	Fossil Chip 1:
 		[0x9CA] Ceros Single
 		[0x9D2] Ceros Single
@@ -2104,16 +2104,16 @@ Zone 02:
 		[0xAC2] Jara Body
 		[0xACA] Jara Arms
 		[0xAD2] Jara Legs
-		[0xADA] Other1
-		[0xAE2] Other1
-		[0xAEA] Other1
-		[0xAF2] Other1
-		[0xAFA] Other2
-		[0xB02] Other2
-		[0xB0A] Other2
-		[0xB12] Other2
-		[0xB1A] Silver Body
-		[0xB22] Gold Head
+		[0xADA] Quad Diamond
+		[0xAE2] Double Diamond
+		[0xAEA] Diamond
+		[0xAF2] Colossal Diamond
+		[0xAFA] Center Dropping
+		[0xB02] Bottom-Right Dropping
+		[0xB0A] Top-Right Dropping
+		[0xB12] Weird Giant Dropping 1
+		[0xB1A] Other
+		[0xB22] Other
 	Fossil Chip 2:
 		[0xB6A] Ceros Single
 		[0xB72] Nodo Head
@@ -2142,16 +2142,16 @@ Zone 02:
 		[0xC2A] Jara Body
 		[0xC32] Jara Arms
 		[0xC3A] Jara Legs
-		[0xC42] Other1
-		[0xC4A] Other1
-		[0xC52] Other1
-		[0xC5A] Other1
-		[0xC62] Other2
-		[0xC6A] Other2
-		[0xC72] Other2
-		[0xC7A] Other2
-		[0xC82] Silver Body
-		[0xC8A] Gold Head
+		[0xC42] Quad Diamond
+		[0xC4A] Double Diamond
+		[0xC52] Diamond
+		[0xC5A] Colossal Diamond
+		[0xC62] Center Dropping
+		[0xC6A] Bottom-Right Dropping
+		[0xC72] Top-Right Dropping
+		[0xC7A] Weird Giant Dropping 1
+		[0xC82] Other
+		[0xC8A] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xCFA] Megath Head
@@ -2172,16 +2172,16 @@ Zone 03:
 		[0xD72] Megath Arms
 		[0xD7A] Megath Legs
 		[0xD82] Parium Single
-		[0xD8A] Other1
-		[0xD92] Other1
-		[0xD9A] Other1
-		[0xDA2] Other1
-		[0xDAA] Other2
-		[0xDB2] Other2
-		[0xDBA] Other2
-		[0xDC2] Other2
-		[0xDCA] Silver Body
-		[0xDD2] Gold Head
+		[0xD8A] Quad Diamond
+		[0xD92] Double Diamond
+		[0xD9A] Diamond
+		[0xDA2] Colossal Diamond
+		[0xDAA] Center Dropping
+		[0xDB2] Bottom-Right Dropping
+		[0xDBA] Top-Right Dropping
+		[0xDC2] Weird Giant Dropping 1
+		[0xDCA] Other
+		[0xDD2] Other
 	Fossil Chip 1:
 		[0xE1A] Megath Head
 		[0xE22] Megath Head
@@ -2202,16 +2202,16 @@ Zone 03:
 		[0xE9A] Megath Arms
 		[0xEA2] Megath Legs
 		[0xEAA] Parium Single
-		[0xEB2] Other1
-		[0xEBA] Other1
-		[0xEC2] Other1
-		[0xECA] Other1
-		[0xED2] Other2
-		[0xEDA] Other2
-		[0xEE2] Other2
-		[0xEEA] Other2
-		[0xEF2] Silver Body
-		[0xEFA] Gold Head
+		[0xEB2] Quad Diamond
+		[0xEBA] Double Diamond
+		[0xEC2] Diamond
+		[0xECA] Colossal Diamond
+		[0xED2] Center Dropping
+		[0xEDA] Bottom-Right Dropping
+		[0xEE2] Top-Right Dropping
+		[0xEEA] Weird Giant Dropping 1
+		[0xEF2] Other
+		[0xEFA] Other
 	Fossil Chip 2:
 		[0xF42] Tarbo Head
 		[0xF4A] Megath Head
@@ -2229,16 +2229,16 @@ Zone 03:
 		[0xFAA] Megath Arms
 		[0xFB2] Megath Legs
 		[0xFBA] Parium Single
-		[0xFC2] Other1
-		[0xFCA] Other1
-		[0xFD2] Other1
-		[0xFDA] Other1
-		[0xFE2] Other2
-		[0xFEA] Other2
-		[0xFF2] Other2
-		[0xFFA] Other2
-		[0x1002] Silver Body
-		[0x100A] Gold Head
+		[0xFC2] Quad Diamond
+		[0xFCA] Double Diamond
+		[0xFD2] Diamond
+		[0xFDA] Colossal Diamond
+		[0xFE2] Center Dropping
+		[0xFEA] Bottom-Right Dropping
+		[0xFF2] Top-Right Dropping
+		[0xFFA] Weird Giant Dropping 1
+		[0x1002] Other
+		[0x100A] Other
 Zone 04:
 	Fossil Chip 0:
 		[0x107A] Cryo Head
@@ -2257,35 +2257,35 @@ Zone 05:
 3201:
 Zone 01:
 	Fossil Chip 0:
-		[0x1E2] Other1
-		[0x1EA] Other1
-		[0x1F2] Other1
-		[0x1FA] Other1
-		[0x202] Other2
-		[0x20A] Other2
-		[0x212] Other2
-		[0x21A] Silver Arms
-		[0x222] Gold Head
+		[0x1E2] Quad Diamond
+		[0x1EA] Double Diamond
+		[0x1F2] Diamond
+		[0x1FA] Colossal Diamond
+		[0x202] Center Dropping
+		[0x20A] Bottom-Right Dropping
+		[0x212] Top-Right Dropping
+		[0x21A] Other
+		[0x222] Other
 	Fossil Chip 1:
-		[0x26A] Other1
-		[0x272] Other1
-		[0x27A] Other1
-		[0x282] Other1
-		[0x28A] Other2
-		[0x292] Other2
-		[0x29A] Other2
-		[0x2A2] Silver Arms
-		[0x2AA] Gold Head
+		[0x26A] Quad Diamond
+		[0x272] Double Diamond
+		[0x27A] Diamond
+		[0x282] Colossal Diamond
+		[0x28A] Center Dropping
+		[0x292] Bottom-Right Dropping
+		[0x29A] Top-Right Dropping
+		[0x2A2] Other
+		[0x2AA] Other
 	Fossil Chip 2:
-		[0x2F2] Other1
-		[0x2FA] Other1
-		[0x302] Other1
-		[0x30A] Other1
-		[0x312] Other2
-		[0x31A] Other2
-		[0x322] Other2
-		[0x32A] Silver Arms
-		[0x332] Gold Head
+		[0x2F2] Quad Diamond
+		[0x2FA] Double Diamond
+		[0x302] Diamond
+		[0x30A] Colossal Diamond
+		[0x312] Center Dropping
+		[0x31A] Bottom-Right Dropping
+		[0x322] Top-Right Dropping
+		[0x32A] Other
+		[0x332] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x3A2] Siamo Head
@@ -2402,15 +2402,15 @@ Zone 01:
 		[0x46A] Hopter Body
 		[0x472] Hopter Arms
 		[0x47A] Hopter Legs
-		[0x482] Other1
-		[0x48A] Other1
-		[0x492] Other1
-		[0x49A] Other1
-		[0x4A2] Other2
-		[0x4AA] Other2
-		[0x4B2] Other2
-		[0x4BA] Silver Legs
-		[0x4C2] Gold Head
+		[0x482] Small Pearl
+		[0x48A] Emerald
+		[0x492] Diamond
+		[0x49A] Colossal Diamond
+		[0x4A2] Center Dropping
+		[0x4AA] Bottom-Right Dropping
+		[0x4B2] Top-Right Dropping
+		[0x4BA] Other
+		[0x4C2] Other
 	Fossil Chip 1:
 		[0x50A] Aopteryx Head
 		[0x512] Aopteryx Body
@@ -2496,15 +2496,15 @@ Zone 01:
 		[0x792] Hopter Body
 		[0x79A] Hopter Arms
 		[0x7A2] Hopter Legs
-		[0x7AA] Other1
-		[0x7B2] Other1
-		[0x7BA] Other1
-		[0x7C2] Other1
-		[0x7CA] Other2
-		[0x7D2] Other2
-		[0x7DA] Other2
-		[0x7E2] Silver Legs
-		[0x7EA] Gold Head
+		[0x7AA] Small Pearl
+		[0x7B2] Emerald
+		[0x7BA] Diamond
+		[0x7C2] Colossal Diamond
+		[0x7CA] Center Dropping
+		[0x7D2] Bottom-Right Dropping
+		[0x7DA] Top-Right Dropping
+		[0x7E2] Other
+		[0x7EA] Other
 	Fossil Chip 2:
 		[0x832] Shanshan Head
 		[0x83A] Aopteryx Head
@@ -2591,15 +2591,15 @@ Zone 01:
 		[0xAC2] Hopter Body
 		[0xACA] Hopter Arms
 		[0xAD2] Hopter Legs
-		[0xADA] Other1
-		[0xAE2] Other1
-		[0xAEA] Other1
-		[0xAF2] Other1
-		[0xAFA] Other2
-		[0xB02] Other2
-		[0xB0A] Other2
-		[0xB12] Silver Legs
-		[0xB1A] Gold Head
+		[0xADA] Small Pearl
+		[0xAE2] Emerald
+		[0xAEA] Diamond
+		[0xAF2] Colossal Diamond
+		[0xAFA] Center Dropping
+		[0xB02] Bottom-Right Dropping
+		[0xB0A] Top-Right Dropping
+		[0xB12] Other
+		[0xB1A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0xB8A] Siamo Head
@@ -2644,12 +2644,12 @@ Zone 01:
 		[0x22A] Breme Body
 		[0x232] Breme Arms
 		[0x23A] Breme Legs
-		[0x242] Other1
-		[0x24A] Other1
-		[0x252] Other1
-		[0x25A] Other2
-		[0x262] Silver Head
-		[0x26A] Gold Head
+		[0x242] Sapphire
+		[0x24A] Double Diamond
+		[0x252] Colossal Diamond
+		[0x25A] Giant Dropping
+		[0x262] Other
+		[0x26A] Other
 	Fossil Chip 1:
 		[0x2B2] Breme Head
 		[0x2BA] Breme Body
@@ -2663,12 +2663,12 @@ Zone 01:
 		[0x2FA] Breme Body
 		[0x302] Breme Arms
 		[0x30A] Breme Legs
-		[0x312] Other1
-		[0x31A] Other1
-		[0x322] Other1
-		[0x32A] Other2
-		[0x332] Silver Head
-		[0x33A] Gold Head
+		[0x312] Sapphire
+		[0x31A] Double Diamond
+		[0x322] Colossal Diamond
+		[0x32A] Giant Dropping
+		[0x332] Other
+		[0x33A] Other
 	Fossil Chip 2:
 		[0x382] Breme Head
 		[0x38A] Breme Body
@@ -2682,12 +2682,12 @@ Zone 01:
 		[0x3CA] Breme Body
 		[0x3D2] Breme Arms
 		[0x3DA] Breme Legs
-		[0x3E2] Other1
-		[0x3EA] Other1
-		[0x3F2] Other1
-		[0x3FA] Other2
-		[0x402] Silver Head
-		[0x40A] Gold Head
+		[0x3E2] Sapphire
+		[0x3EA] Double Diamond
+		[0x3F2] Colossal Diamond
+		[0x3FA] Giant Dropping
+		[0x402] Other
+		[0x40A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x47A] Siamo Head
@@ -2744,12 +2744,12 @@ Zone 01:
 		[0x276] Epidex Body
 		[0x27E] Epidex Arms
 		[0x286] Epidex Legs
-		[0x28E] Other1
-		[0x296] Other1
-		[0x29E] Other1
-		[0x2A6] Other2
-		[0x2AE] Silver Head
-		[0x2B6] Gold Head
+		[0x28E] Sapphire
+		[0x296] Double Diamond
+		[0x29E] Colossal Diamond
+		[0x2A6] Giant Dropping
+		[0x2AE] Other
+		[0x2B6] Other
 	Fossil Chip 1:
 		[0x2FE] Breme Head
 		[0x306] Breme Body
@@ -2775,12 +2775,12 @@ Zone 01:
 		[0x3A6] Epidex Body
 		[0x3AE] Epidex Arms
 		[0x3B6] Epidex Legs
-		[0x3BE] Other1
-		[0x3C6] Other1
-		[0x3CE] Other1
-		[0x3D6] Other2
-		[0x3DE] Silver Head
-		[0x3E6] Gold Head
+		[0x3BE] Sapphire
+		[0x3C6] Double Diamond
+		[0x3CE] Colossal Diamond
+		[0x3D6] Giant Dropping
+		[0x3DE] Other
+		[0x3E6] Other
 	Fossil Chip 2:
 		[0x42E] Breme Head
 		[0x436] Breme Body
@@ -2806,12 +2806,12 @@ Zone 01:
 		[0x4D6] Epidex Body
 		[0x4DE] Epidex Arms
 		[0x4E6] Epidex Legs
-		[0x4EE] Other1
-		[0x4F6] Other1
-		[0x4FE] Other1
-		[0x506] Other2
-		[0x50E] Silver Head
-		[0x516] Gold Head
+		[0x4EE] Sapphire
+		[0x4F6] Double Diamond
+		[0x4FE] Colossal Diamond
+		[0x506] Giant Dropping
+		[0x50E] Other
+		[0x516] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x586] Siamo Head
@@ -2868,12 +2868,12 @@ Zone 01:
 		[0x296] Sungari Body
 		[0x29E] Sungari Arms
 		[0x2A6] Sungari Legs
-		[0x2AE] Other1
-		[0x2B6] Other1
-		[0x2BE] Other1
-		[0x2C6] Other2
-		[0x2CE] Silver Arms
-		[0x2D6] Gold Head
+		[0x2AE] Diamond
+		[0x2B6] Double Pearl
+		[0x2BE] Colossal Diamond
+		[0x2C6] Center Dropping
+		[0x2CE] Other
+		[0x2D6] Other
 	Fossil Chip 1:
 		[0x31E] Tryma Head
 		[0x326] Tryma Body
@@ -2899,12 +2899,12 @@ Zone 01:
 		[0x3C6] Sungari Body
 		[0x3CE] Sungari Arms
 		[0x3D6] Sungari Legs
-		[0x3DE] Other1
-		[0x3E6] Other1
-		[0x3EE] Other1
-		[0x3F6] Other2
-		[0x3FE] Silver Arms
-		[0x406] Gold Head
+		[0x3DE] Double Pearl
+		[0x3E6] Sapphire
+		[0x3EE] Colossal Diamond
+		[0x3F6] Center Dropping
+		[0x3FE] Other
+		[0x406] Other
 	Fossil Chip 2:
 		[0x44E] Tryma Head
 		[0x456] Tryma Body
@@ -2930,11 +2930,11 @@ Zone 01:
 		[0x4F6] Sungari Body
 		[0x4FE] Sungari Arms
 		[0x506] Sungari Legs
-		[0x50E] Other1
-		[0x516] Other1
-		[0x51E] Other2
-		[0x526] Silver Arms
-		[0x52E] Gold Head
+		[0x50E] Sapphire
+		[0x516] Colossal Diamond
+		[0x51E] Center Dropping
+		[0x526] Other
+		[0x52E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x59E] Sungari Head
@@ -2979,12 +2979,12 @@ Zone 02:
 		[0x6D6] Anato Body
 		[0x6DE] Anato Arms
 		[0x6E6] Anato Legs
-		[0x6EE] Other1
-		[0x6F6] Other1
-		[0x6FE] Other1
-		[0x706] Other2
-		[0x70E] Silver Arms
-		[0x716] Gold Head
+		[0x6EE] Diamond
+		[0x6F6] Double Pearl
+		[0x6FE] Colossal Diamond
+		[0x706] Center Dropping
+		[0x70E] Other
+		[0x716] Other
 	Fossil Chip 1:
 		[0x75E] Sungari Head
 		[0x766] Sungari Head
@@ -3031,12 +3031,12 @@ Zone 02:
 		[0x8AE] Anato Body
 		[0x8B6] Anato Arms
 		[0x8BE] Anato Legs
-		[0x8C6] Other1
-		[0x8CE] Other1
-		[0x8D6] Other1
-		[0x8DE] Other2
-		[0x8E6] Silver Arms
-		[0x8EE] Gold Head
+		[0x8C6] Double Pearl
+		[0x8CE] Sapphire
+		[0x8D6] Colossal Diamond
+		[0x8DE] Center Dropping
+		[0x8E6] Other
+		[0x8EE] Other
 	Fossil Chip 2:
 		[0x936] Siamo Head
 		[0x93E] Sungari Head
@@ -3075,11 +3075,11 @@ Zone 02:
 		[0xA46] Anato Body
 		[0xA4E] Anato Arms
 		[0xA56] Anato Legs
-		[0xA5E] Other1
-		[0xA66] Other1
-		[0xA6E] Other2
-		[0xA76] Silver Arms
-		[0xA7E] Gold Head
+		[0xA5E] Sapphire
+		[0xA66] Colossal Diamond
+		[0xA6E] Center Dropping
+		[0xA76] Other
+		[0xA7E] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xAEE] Nychus Head
@@ -3123,13 +3123,13 @@ Zone 01:
 		[0x25A] Machai Arms
 		[0x262] Machai Legs
 		[0x26A] Desmo Single
-		[0x272] Other1
-		[0x27A] Other1
-		[0x282] Other1
-		[0x28A] Other2
-		[0x292] Other2
-		[0x29A] Silver Arms
-		[0x2A2] Gold Head
+		[0x272] Diamond
+		[0x27A] Double Pearl
+		[0x282] Colossal Diamond
+		[0x28A] Bottom-Right Dropping
+		[0x292] Weird Giant Dropping 2
+		[0x29A] Other
+		[0x2A2] Other
 	Fossil Chip 1:
 		[0x2EA] Machai Head
 		[0x2F2] Machai Head
@@ -3150,13 +3150,13 @@ Zone 01:
 		[0x36A] Machai Arms
 		[0x372] Machai Legs
 		[0x37A] Desmo Single
-		[0x382] Other1
-		[0x38A] Other1
-		[0x392] Other1
-		[0x39A] Other2
-		[0x3A2] Other2
-		[0x3AA] Silver Arms
-		[0x3B2] Gold Head
+		[0x382] Double Pearl
+		[0x38A] Sapphire
+		[0x392] Colossal Diamond
+		[0x39A] Bottom-Right Dropping
+		[0x3A2] Weird Giant Dropping 2
+		[0x3AA] Other
+		[0x3B2] Other
 	Fossil Chip 2:
 		[0x3FA] Machai Head
 		[0x402] Machai Body
@@ -3173,12 +3173,12 @@ Zone 01:
 		[0x45A] Machai Arms
 		[0x462] Machai Legs
 		[0x46A] Desmo Single
-		[0x472] Other1
-		[0x47A] Other1
-		[0x482] Other2
-		[0x48A] Other2
-		[0x492] Silver Arms
-		[0x49A] Gold Head
+		[0x472] Sapphire
+		[0x47A] Colossal Diamond
+		[0x482] Bottom-Right Dropping
+		[0x48A] Weird Giant Dropping 2
+		[0x492] Other
+		[0x49A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x50A] Compso Head
@@ -3199,13 +3199,13 @@ Zone 02:
 		[0x582] Compso Arms
 		[0x58A] Compso Legs
 		[0x592] Desmo Single
-		[0x59A] Other1
-		[0x5A2] Other1
-		[0x5AA] Other1
-		[0x5B2] Other2
-		[0x5BA] Other2
-		[0x5C2] Silver Arms
-		[0x5CA] Gold Head
+		[0x59A] Diamond
+		[0x5A2] Double Pearl
+		[0x5AA] Colossal Diamond
+		[0x5B2] Bottom-Right Dropping
+		[0x5BA] Weird Giant Dropping 2
+		[0x5C2] Other
+		[0x5CA] Other
 	Fossil Chip 1:
 		[0x612] Compso Head
 		[0x61A] Compso Head
@@ -3226,13 +3226,13 @@ Zone 02:
 		[0x692] Compso Arms
 		[0x69A] Compso Legs
 		[0x6A2] Desmo Single
-		[0x6AA] Other1
-		[0x6B2] Other1
-		[0x6BA] Other1
-		[0x6C2] Other2
-		[0x6CA] Other2
-		[0x6D2] Silver Arms
-		[0x6DA] Gold Head
+		[0x6AA] Double Pearl
+		[0x6B2] Sapphire
+		[0x6BA] Colossal Diamond
+		[0x6C2] Bottom-Right Dropping
+		[0x6CA] Weird Giant Dropping 2
+		[0x6D2] Other
+		[0x6DA] Other
 	Fossil Chip 2:
 		[0x722] Compso Head
 		[0x72A] Compso Body
@@ -3249,12 +3249,12 @@ Zone 02:
 		[0x782] Compso Arms
 		[0x78A] Compso Legs
 		[0x792] Desmo Single
-		[0x79A] Other1
-		[0x7A2] Other1
-		[0x7AA] Other2
-		[0x7B2] Other2
-		[0x7BA] Silver Arms
-		[0x7C2] Gold Head
+		[0x79A] Sapphire
+		[0x7A2] Colossal Diamond
+		[0x7AA] Bottom-Right Dropping
+		[0x7B2] Weird Giant Dropping 2
+		[0x7BA] Other
+		[0x7C2] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x832] Yango Head
@@ -3285,13 +3285,13 @@ Zone 03:
 		[0x8FA] Berto Body
 		[0x902] Berto Arms
 		[0x90A] Berto Legs
-		[0x912] Other1
-		[0x91A] Other1
-		[0x922] Other1
-		[0x92A] Other2
-		[0x932] Other2
-		[0x93A] Silver Arms
-		[0x942] Gold Head
+		[0x912] Diamond
+		[0x91A] Double Pearl
+		[0x922] Colossal Diamond
+		[0x92A] Bottom-Right Dropping
+		[0x932] Weird Giant Dropping 2
+		[0x93A] Other
+		[0x942] Other
 	Fossil Chip 1:
 		[0x98A] Yango Head
 		[0x992] Yango Head
@@ -3323,13 +3323,13 @@ Zone 03:
 		[0xA62] Yango Body
 		[0xA6A] Yango Arms
 		[0xA72] Yango Legs
-		[0xA7A] Other1
-		[0xA82] Other1
-		[0xA8A] Other1
-		[0xA92] Other2
-		[0xA9A] Other2
-		[0xAA2] Silver Arms
-		[0xAAA] Gold Head
+		[0xA7A] Double Pearl
+		[0xA82] Sapphire
+		[0xA8A] Colossal Diamond
+		[0xA92] Bottom-Right Dropping
+		[0xA9A] Weird Giant Dropping 2
+		[0xAA2] Other
+		[0xAAA] Other
 	Fossil Chip 2:
 		[0xAF2] Yango Head
 		[0xAFA] Yango Body
@@ -3355,12 +3355,12 @@ Zone 03:
 		[0xB9A] Berto Body
 		[0xBA2] Berto Arms
 		[0xBAA] Berto Legs
-		[0xBB2] Other1
-		[0xBBA] Other1
-		[0xBC2] Other2
-		[0xBCA] Other2
-		[0xBD2] Silver Arms
-		[0xBDA] Gold Head
+		[0xBB2] Sapphire
+		[0xBBA] Colossal Diamond
+		[0xBC2] Bottom-Right Dropping
+		[0xBCA] Weird Giant Dropping 2
+		[0xBD2] Other
+		[0xBDA] Other
 Zone 04:
 	Fossil Chip 0:
 		[0xC4A] Cryo Head
@@ -3407,13 +3407,13 @@ Zone 01:
 		[0x2B6] Nippono Body
 		[0x2BE] Nippono Arms
 		[0x2C6] Nippono Legs
-		[0x2CE] Other1
-		[0x2D6] Other1
-		[0x2DE] Other2
-		[0x2E6] Other2
-		[0x2EE] Other2
-		[0x2F6] Silver Legs
-		[0x2FE] Gold Head
+		[0x2CE] Diamond
+		[0x2D6] Colossal Diamond
+		[0x2DE] Center Dropping
+		[0x2E6] Bottom-Right Dropping
+		[0x2EE] Top-Left Dropping
+		[0x2F6] Other
+		[0x2FE] Other
 	Fossil Chip 1:
 		[0x346] Shuno Head
 		[0x34E] Shuno Head
@@ -3445,13 +3445,13 @@ Zone 01:
 		[0x41E] Nippono Body
 		[0x426] Nippono Arms
 		[0x42E] Nippono Legs
-		[0x436] Other1
-		[0x43E] Other1
-		[0x446] Other2
-		[0x44E] Other2
-		[0x456] Other2
-		[0x45E] Silver Legs
-		[0x466] Gold Head
+		[0x436] Double Pearl
+		[0x43E] Colossal Diamond
+		[0x446] Center Dropping
+		[0x44E] Bottom-Right Dropping
+		[0x456] Top-Left Dropping
+		[0x45E] Other
+		[0x466] Other
 	Fossil Chip 2:
 		[0x4AE] Shuno Head
 		[0x4B6] Shuno Body
@@ -3477,13 +3477,13 @@ Zone 01:
 		[0x556] Nippono Body
 		[0x55E] Nippono Arms
 		[0x566] Nippono Legs
-		[0x56E] Other1
-		[0x576] Other1
-		[0x57E] Other2
-		[0x586] Other2
-		[0x58E] Other2
-		[0x596] Silver Legs
-		[0x59E] Gold Head
+		[0x56E] Sapphire
+		[0x576] Colossal Diamond
+		[0x57E] Center Dropping
+		[0x586] Bottom-Right Dropping
+		[0x58E] Top-Left Dropping
+		[0x596] Other
+		[0x59E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x60E] Siamo Head
@@ -3544,13 +3544,13 @@ Zone 01:
 		[0x2BA] Dacerus Body
 		[0x2C2] Dacerus Arms
 		[0x2CA] Dacerus Legs
-		[0x2D2] Other1
-		[0x2DA] Other1
-		[0x2E2] Other2
-		[0x2EA] Other2
-		[0x2F2] Other2
-		[0x2FA] Silver Legs
-		[0x302] Gold Head
+		[0x2D2] Diamond
+		[0x2DA] Colossal Diamond
+		[0x2E2] Center Dropping
+		[0x2EA] Bottom-Right Dropping
+		[0x2F2] Top-Left Dropping
+		[0x2FA] Other
+		[0x302] Other
 	Fossil Chip 1:
 		[0x34A] T-Rex Head
 		[0x352] T-Rex Head
@@ -3582,13 +3582,13 @@ Zone 01:
 		[0x422] Dacerus Body
 		[0x42A] Dacerus Arms
 		[0x432] Dacerus Legs
-		[0x43A] Other1
-		[0x442] Other1
-		[0x44A] Other2
-		[0x452] Other2
-		[0x45A] Other2
-		[0x462] Silver Legs
-		[0x46A] Gold Head
+		[0x43A] Double Pearl
+		[0x442] Colossal Diamond
+		[0x44A] Center Dropping
+		[0x452] Bottom-Right Dropping
+		[0x45A] Top-Left Dropping
+		[0x462] Other
+		[0x46A] Other
 	Fossil Chip 2:
 		[0x4B2] T-Rex Head
 		[0x4BA] T-Rex Body
@@ -3614,13 +3614,13 @@ Zone 01:
 		[0x55A] Dacerus Body
 		[0x562] Dacerus Arms
 		[0x56A] Dacerus Legs
-		[0x572] Other1
-		[0x57A] Other1
-		[0x582] Other2
-		[0x58A] Other2
-		[0x592] Other2
-		[0x59A] Silver Legs
-		[0x5A2] Gold Head
+		[0x572] Sapphire
+		[0x57A] Colossal Diamond
+		[0x582] Center Dropping
+		[0x58A] Bottom-Right Dropping
+		[0x592] Top-Left Dropping
+		[0x59A] Other
+		[0x5A2] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x612] Dacerus Head
@@ -3641,14 +3641,14 @@ Zone 02:
 		[0x68A] Dacerus Arms
 		[0x692] Dacerus Legs
 		[0x69A] Metri Single
-		[0x6A2] Other1
-		[0x6AA] Other1
-		[0x6B2] Other2
-		[0x6BA] Other2
-		[0x6C2] Other2
-		[0x6CA] Other2
-		[0x6D2] Silver Legs
-		[0x6DA] Gold Head
+		[0x6A2] Diamond
+		[0x6AA] Colossal Diamond
+		[0x6B2] Center Dropping
+		[0x6BA] Bottom-Right Dropping
+		[0x6C2] Top-Left Dropping
+		[0x6CA] Weird Giant Dropping 1
+		[0x6D2] Other
+		[0x6DA] Other
 	Fossil Chip 1:
 		[0x722] Dacerus Head
 		[0x72A] Dacerus Head
@@ -3669,14 +3669,14 @@ Zone 02:
 		[0x7A2] Dacerus Arms
 		[0x7AA] Dacerus Legs
 		[0x7B2] Metri Single
-		[0x7BA] Other1
-		[0x7C2] Other1
-		[0x7CA] Other2
-		[0x7D2] Other2
-		[0x7DA] Other2
-		[0x7E2] Other2
-		[0x7EA] Silver Legs
-		[0x7F2] Gold Head
+		[0x7BA] Double Pearl
+		[0x7C2] Colossal Diamond
+		[0x7CA] Center Dropping
+		[0x7D2] Bottom-Right Dropping
+		[0x7DA] Top-Left Dropping
+		[0x7E2] Weird Giant Dropping 1
+		[0x7EA] Other
+		[0x7F2] Other
 	Fossil Chip 2:
 		[0x83A] Andrarch Head
 		[0x842] Dacerus Head
@@ -3694,14 +3694,14 @@ Zone 02:
 		[0x8A2] Dacerus Arms
 		[0x8AA] Dacerus Legs
 		[0x8B2] Metri Single
-		[0x8BA] Other1
-		[0x8C2] Other1
-		[0x8CA] Other2
-		[0x8D2] Other2
-		[0x8DA] Other2
-		[0x8E2] Other2
-		[0x8EA] Silver Legs
-		[0x8F2] Gold Head
+		[0x8BA] Sapphire
+		[0x8C2] Colossal Diamond
+		[0x8CA] Center Dropping
+		[0x8D2] Bottom-Right Dropping
+		[0x8DA] Top-Left Dropping
+		[0x8E2] Weird Giant Dropping 1
+		[0x8EA] Other
+		[0x8F2] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x962] Shuno Head
@@ -3736,14 +3736,14 @@ Zone 03:
 		[0xA4A] Nippono Arms
 		[0xA52] Nippono Legs
 		[0xA5A] Metri Single
-		[0xA62] Other1
-		[0xA6A] Other1
-		[0xA72] Other2
-		[0xA7A] Other2
-		[0xA82] Other2
-		[0xA8A] Other2
-		[0xA92] Silver Legs
-		[0xA9A] Gold Head
+		[0xA62] Diamond
+		[0xA6A] Colossal Diamond
+		[0xA72] Center Dropping
+		[0xA7A] Bottom-Right Dropping
+		[0xA82] Top-Left Dropping
+		[0xA8A] Weird Giant Dropping 1
+		[0xA92] Other
+		[0xA9A] Other
 	Fossil Chip 1:
 		[0xAE2] Shuno Head
 		[0xAEA] Shuno Head
@@ -3779,14 +3779,14 @@ Zone 03:
 		[0xBDA] Nippono Arms
 		[0xBE2] Nippono Legs
 		[0xBEA] Metri Single
-		[0xBF2] Other1
-		[0xBFA] Other1
-		[0xC02] Other2
-		[0xC0A] Other2
-		[0xC12] Other2
-		[0xC1A] Other2
-		[0xC22] Silver Legs
-		[0xC2A] Gold Head
+		[0xBF2] Double Pearl
+		[0xBFA] Colossal Diamond
+		[0xC02] Center Dropping
+		[0xC0A] Bottom-Right Dropping
+		[0xC12] Top-Left Dropping
+		[0xC1A] Weird Giant Dropping 1
+		[0xC22] Other
+		[0xC2A] Other
 	Fossil Chip 2:
 		[0xC72] Shuno Head
 		[0xC7A] Shuno Body
@@ -3815,14 +3815,14 @@ Zone 03:
 		[0xD32] Nippono Arms
 		[0xD3A] Nippono Legs
 		[0xD42] Metri Single
-		[0xD4A] Other1
-		[0xD52] Other1
-		[0xD5A] Other2
-		[0xD62] Other2
-		[0xD6A] Other2
-		[0xD72] Other2
-		[0xD7A] Silver Legs
-		[0xD82] Gold Head
+		[0xD4A] Sapphire
+		[0xD52] Colossal Diamond
+		[0xD5A] Center Dropping
+		[0xD62] Bottom-Right Dropping
+		[0xD6A] Top-Left Dropping
+		[0xD72] Weird Giant Dropping 1
+		[0xD7A] Other
+		[0xD82] Other
 Zone 04:
 	Fossil Chip 0:
 		[0xDF2] Cryo Head
@@ -3855,14 +3855,14 @@ Zone 01:
 		[0x292] Hopter Body
 		[0x29A] Hopter Arms
 		[0x2A2] Hopter Legs
-		[0x2AA] Other1
-		[0x2B2] Other1
-		[0x2BA] Other1
-		[0x2C2] Other2
-		[0x2CA] Other2
-		[0x2D2] Other2
-		[0x2DA] Silver Head
-		[0x2E2] Gold Head
+		[0x2AA] Double Pearl
+		[0x2B2] Diamond
+		[0x2BA] Colossal Diamond
+		[0x2C2] Center Dropping
+		[0x2CA] Bottom-Left Dropping
+		[0x2D2] Top-Left Dropping
+		[0x2DA] Other
+		[0x2E2] Other
 	Fossil Chip 1:
 		[0x32A] Hopter Head
 		[0x332] Hopter Head
@@ -3879,13 +3879,13 @@ Zone 01:
 		[0x38A] Hopter Body
 		[0x392] Hopter Arms
 		[0x39A] Hopter Legs
-		[0x3A2] Other1
-		[0x3AA] Other1
-		[0x3B2] Other2
-		[0x3BA] Other2
-		[0x3C2] Other2
-		[0x3CA] Silver Head
-		[0x3D2] Gold Head
+		[0x3A2] Double Pearl
+		[0x3AA] Colossal Diamond
+		[0x3B2] Center Dropping
+		[0x3BA] Bottom-Left Dropping
+		[0x3C2] Top-Left Dropping
+		[0x3CA] Other
+		[0x3D2] Other
 	Fossil Chip 2:
 		[0x41A] Hopter Head
 		[0x422] Hopter Body
@@ -3899,14 +3899,14 @@ Zone 01:
 		[0x462] Hopter Body
 		[0x46A] Hopter Arms
 		[0x472] Hopter Legs
-		[0x47A] Other1
-		[0x482] Other1
-		[0x48A] Other1
-		[0x492] Other2
-		[0x49A] Other2
-		[0x4A2] Other2
-		[0x4AA] Silver Head
-		[0x4B2] Gold Head
+		[0x47A] Double Pearl
+		[0x482] Sapphire
+		[0x48A] Colossal Diamond
+		[0x492] Center Dropping
+		[0x49A] Bottom-Left Dropping
+		[0x4A2] Top-Left Dropping
+		[0x4AA] Other
+		[0x4B2] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x522] Cerato Head
@@ -3923,14 +3923,14 @@ Zone 02:
 		[0x57A] Cerato Body
 		[0x582] Cerato Arms
 		[0x58A] Cerato Legs
-		[0x592] Other1
-		[0x59A] Other1
-		[0x5A2] Other1
-		[0x5AA] Other2
-		[0x5B2] Other2
-		[0x5BA] Other2
-		[0x5C2] Silver Head
-		[0x5CA] Gold Head
+		[0x592] Double Pearl
+		[0x59A] Diamond
+		[0x5A2] Colossal Diamond
+		[0x5AA] Center Dropping
+		[0x5B2] Bottom-Left Dropping
+		[0x5BA] Top-Left Dropping
+		[0x5C2] Other
+		[0x5CA] Other
 	Fossil Chip 1:
 		[0x612] Cerato Head
 		[0x61A] Cerato Head
@@ -3947,13 +3947,13 @@ Zone 02:
 		[0x672] Cerato Body
 		[0x67A] Cerato Arms
 		[0x682] Cerato Legs
-		[0x68A] Other1
-		[0x692] Other1
-		[0x69A] Other2
-		[0x6A2] Other2
-		[0x6AA] Other2
-		[0x6B2] Silver Head
-		[0x6BA] Gold Head
+		[0x68A] Double Pearl
+		[0x692] Colossal Diamond
+		[0x69A] Center Dropping
+		[0x6A2] Bottom-Left Dropping
+		[0x6AA] Top-Left Dropping
+		[0x6B2] Other
+		[0x6BA] Other
 	Fossil Chip 2:
 		[0x702] Cerato Head
 		[0x70A] Cerato Body
@@ -3967,14 +3967,14 @@ Zone 02:
 		[0x74A] Cerato Body
 		[0x752] Cerato Arms
 		[0x75A] Cerato Legs
-		[0x762] Other1
-		[0x76A] Other1
-		[0x772] Other1
-		[0x77A] Other2
-		[0x782] Other2
-		[0x78A] Other2
-		[0x792] Silver Head
-		[0x79A] Gold Head
+		[0x762] Double Pearl
+		[0x76A] Sapphire
+		[0x772] Colossal Diamond
+		[0x77A] Center Dropping
+		[0x782] Bottom-Left Dropping
+		[0x78A] Top-Left Dropping
+		[0x792] Other
+		[0x79A] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x80A] Nychus Head
@@ -4046,15 +4046,15 @@ Zone 01:
 		[0x346] Camara Arms
 		[0x34E] Camara Legs
 		[0x356] Tophis Single
-		[0x35E] Other1
-		[0x366] Other1
-		[0x36E] Other1
-		[0x376] Other2
-		[0x37E] Other2
-		[0x386] Other2
-		[0x38E] Other2
-		[0x396] Silver Body
-		[0x39E] Gold Head
+		[0x35E] Double Pearl
+		[0x366] Diamond
+		[0x36E] Colossal Diamond
+		[0x376] Center Dropping
+		[0x37E] Bottom-Left Dropping
+		[0x386] Top-Left Dropping
+		[0x38E] Weird Giant Dropping 1
+		[0x396] Other
+		[0x39E] Other
 	Fossil Chip 1:
 		[0x3E6] Carchar Head
 		[0x3EE] Carchar Head
@@ -4105,14 +4105,14 @@ Zone 01:
 		[0x556] Camara Arms
 		[0x55E] Camara Legs
 		[0x566] Tophis Single
-		[0x56E] Other1
-		[0x576] Other1
-		[0x57E] Other2
-		[0x586] Other2
-		[0x58E] Other2
-		[0x596] Other2
-		[0x59E] Silver Body
-		[0x5A6] Gold Head
+		[0x56E] Double Pearl
+		[0x576] Colossal Diamond
+		[0x57E] Center Dropping
+		[0x586] Bottom-Left Dropping
+		[0x58E] Top-Left Dropping
+		[0x596] Weird Giant Dropping 1
+		[0x59E] Other
+		[0x5A6] Other
 	Fossil Chip 2:
 		[0x5EE] Kentro Head
 		[0x5F6] Carchar Head
@@ -4154,15 +4154,15 @@ Zone 01:
 		[0x716] Camara Arms
 		[0x71E] Camara Legs
 		[0x726] Tophis Single
-		[0x72E] Other1
-		[0x736] Other1
-		[0x73E] Other1
-		[0x746] Other2
-		[0x74E] Other2
-		[0x756] Other2
-		[0x75E] Other2
-		[0x766] Silver Body
-		[0x76E] Gold Head
+		[0x72E] Double Pearl
+		[0x736] Sapphire
+		[0x73E] Colossal Diamond
+		[0x746] Center Dropping
+		[0x74E] Bottom-Left Dropping
+		[0x756] Top-Left Dropping
+		[0x75E] Weird Giant Dropping 1
+		[0x766] Other
+		[0x76E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x7DE] Siamo Head
@@ -4223,14 +4223,14 @@ Zone 01:
 		[0x296] Ankylo Body
 		[0x29E] Ankylo Arms
 		[0x2A6] Ankylo Legs
-		[0x2AE] Other1
-		[0x2B6] Other1
-		[0x2BE] Other1
-		[0x2C6] Other2
-		[0x2CE] Other2
-		[0x2D6] Other2
-		[0x2DE] Silver Arms
-		[0x2E6] Gold Head
+		[0x2AE] Double Pearl
+		[0x2B6] Diamond
+		[0x2BE] Colossal Diamond
+		[0x2C6] Bottom-Right Dropping
+		[0x2CE] Top-Right Dropping
+		[0x2D6] Top-Left Dropping
+		[0x2DE] Other
+		[0x2E6] Other
 	Fossil Chip 1:
 		[0x32E] Giganto Head
 		[0x336] Giganto Head
@@ -4262,13 +4262,13 @@ Zone 01:
 		[0x406] Ankylo Body
 		[0x40E] Ankylo Arms
 		[0x416] Ankylo Legs
-		[0x41E] Other1
-		[0x426] Other1
-		[0x42E] Other2
-		[0x436] Other2
-		[0x43E] Other2
-		[0x446] Silver Arms
-		[0x44E] Gold Head
+		[0x41E] Sapphire
+		[0x426] Colossal Diamond
+		[0x42E] Bottom-Right Dropping
+		[0x436] Top-Right Dropping
+		[0x43E] Top-Left Dropping
+		[0x446] Other
+		[0x44E] Other
 	Fossil Chip 2:
 		[0x496] Giganto Head
 		[0x49E] Giganto Body
@@ -4294,14 +4294,14 @@ Zone 01:
 		[0x53E] Ankylo Body
 		[0x546] Ankylo Arms
 		[0x54E] Ankylo Legs
-		[0x556] Other1
-		[0x55E] Other1
-		[0x566] Other1
-		[0x56E] Other2
-		[0x576] Other2
-		[0x57E] Other2
-		[0x586] Silver Arms
-		[0x58E] Gold Head
+		[0x556] Double Pearl
+		[0x55E] Sapphire
+		[0x566] Colossal Diamond
+		[0x56E] Bottom-Right Dropping
+		[0x576] Top-Right Dropping
+		[0x57E] Top-Left Dropping
+		[0x586] Other
+		[0x58E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x5FE] Siamo Head
@@ -4366,12 +4366,12 @@ Zone 01:
 		[0x2F2] Aopteryx Arms
 		[0x2FA] Aopteryx Legs
 		[0x302] Peloro Single
-		[0x30A] Other1
-		[0x312] Other1
-		[0x31A] Other1
-		[0x322] Other2
-		[0x32A] Silver Legs
-		[0x332] Gold Head
+		[0x30A] Double Pearl
+		[0x312] Diamond
+		[0x31A] Colossal Diamond
+		[0x322] Bottom-Right Dropping
+		[0x32A] Other
+		[0x332] Other
 	Fossil Chip 1:
 		[0x37A] Allo Head
 		[0x382] Allo Head
@@ -4407,11 +4407,11 @@ Zone 01:
 		[0x472] Aopteryx Arms
 		[0x47A] Aopteryx Legs
 		[0x482] Peloro Single
-		[0x48A] Other1
-		[0x492] Other1
-		[0x49A] Other2
-		[0x4A2] Silver Legs
-		[0x4AA] Gold Head
+		[0x48A] Sapphire
+		[0x492] Colossal Diamond
+		[0x49A] Bottom-Right Dropping
+		[0x4A2] Other
+		[0x4AA] Other
 	Fossil Chip 2:
 		[0x4F2] E-Raptor Head
 		[0x4FA] Allo Head
@@ -4441,12 +4441,12 @@ Zone 01:
 		[0x5BA] Aopteryx Arms
 		[0x5C2] Aopteryx Legs
 		[0x5CA] Peloro Single
-		[0x5D2] Other1
-		[0x5DA] Other1
-		[0x5E2] Other1
-		[0x5EA] Other2
-		[0x5F2] Silver Legs
-		[0x5FA] Gold Head
+		[0x5D2] Double Pearl
+		[0x5DA] Sapphire
+		[0x5E2] Colossal Diamond
+		[0x5EA] Bottom-Right Dropping
+		[0x5F2] Other
+		[0x5FA] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x66A] Siamo Head
@@ -4539,12 +4539,12 @@ Zone 01:
 		[0x38E] Dimorph Body
 		[0x396] Dimorph Arms
 		[0x39E] Dimorph Legs
-		[0x3A6] Other1
-		[0x3AE] Other1
-		[0x3B6] Other1
-		[0x3BE] Other2
-		[0x3C6] Silver Head
-		[0x3CE] Gold Head
+		[0x3A6] Sapphire
+		[0x3AE] Double Pearl
+		[0x3B6] Colossal Diamond
+		[0x3BE] Top-Right Dropping
+		[0x3C6] Other
+		[0x3CE] Other
 	Fossil Chip 1:
 		[0x402] Gorgo Head
 		[0x40A] Gorgo Body
@@ -4606,12 +4606,12 @@ Zone 01:
 		[0x5CA] Dimorph Body
 		[0x5D2] Dimorph Arms
 		[0x5DA] Dimorph Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other2
-		[0x602] Silver Head
-		[0x60A] Gold Head
+		[0x5E2] Sapphire
+		[0x5EA] Double Pearl
+		[0x5F2] Colossal Diamond
+		[0x5FA] Top-Right Dropping
+		[0x602] Other
+		[0x60A] Other
 	Fossil Chip 2:
 		[0x63E] Gorgo Head
 		[0x646] Gorgo Body
@@ -4673,12 +4673,12 @@ Zone 01:
 		[0x806] Dimorph Body
 		[0x80E] Dimorph Arms
 		[0x816] Dimorph Legs
-		[0x81E] Other1
-		[0x826] Other1
-		[0x82E] Other1
-		[0x836] Other2
-		[0x83E] Silver Head
-		[0x846] Gold Head
+		[0x81E] Sapphire
+		[0x826] Double Pearl
+		[0x82E] Colossal Diamond
+		[0x836] Top-Right Dropping
+		[0x83E] Other
+		[0x846] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x8A2] Siamo Head
@@ -4771,12 +4771,12 @@ Zone 01:
 		[0x38E] Brontoth Body
 		[0x396] Brontoth Arms
 		[0x39E] Brontoth Legs
-		[0x3A6] Other1
-		[0x3AE] Other1
-		[0x3B6] Other1
-		[0x3BE] Other2
-		[0x3C6] Silver Body
-		[0x3CE] Gold Head
+		[0x3A6] Sapphire
+		[0x3AE] Double Pearl
+		[0x3B6] Colossal Diamond
+		[0x3BE] Bottom-Left Dropping
+		[0x3C6] Other
+		[0x3CE] Other
 	Fossil Chip 1:
 		[0x402] Alio Head
 		[0x40A] Alio Body
@@ -4838,12 +4838,12 @@ Zone 01:
 		[0x5CA] Brontoth Body
 		[0x5D2] Brontoth Arms
 		[0x5DA] Brontoth Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other2
-		[0x602] Silver Body
-		[0x60A] Gold Head
+		[0x5E2] Sapphire
+		[0x5EA] Double Pearl
+		[0x5F2] Colossal Diamond
+		[0x5FA] Bottom-Left Dropping
+		[0x602] Other
+		[0x60A] Other
 	Fossil Chip 2:
 		[0x63E] Alio Head
 		[0x646] Alio Body
@@ -4905,12 +4905,12 @@ Zone 01:
 		[0x806] Brontoth Body
 		[0x80E] Brontoth Arms
 		[0x816] Brontoth Legs
-		[0x81E] Other1
-		[0x826] Other1
-		[0x82E] Other1
-		[0x836] Other2
-		[0x83E] Silver Body
-		[0x846] Gold Head
+		[0x81E] Sapphire
+		[0x826] Double Pearl
+		[0x82E] Colossal Diamond
+		[0x836] Bottom-Left Dropping
+		[0x83E] Other
+		[0x846] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x8A2] Siamo Head
@@ -5003,12 +5003,12 @@ Zone 01:
 		[0x38E] Ptera Body
 		[0x396] Ptera Arms
 		[0x39E] Ptera Legs
-		[0x3A6] Other1
-		[0x3AE] Other1
-		[0x3B6] Other1
-		[0x3BE] Other2
-		[0x3C6] Silver Arms
-		[0x3CE] Gold Head
+		[0x3A6] Sapphire
+		[0x3AE] Double Pearl
+		[0x3B6] Colossal Diamond
+		[0x3BE] Top-Left Dropping
+		[0x3C6] Other
+		[0x3CE] Other
 	Fossil Chip 1:
 		[0x402] M-Raptor Head
 		[0x40A] M-Raptor Body
@@ -5070,12 +5070,12 @@ Zone 01:
 		[0x5CA] Ptera Body
 		[0x5D2] Ptera Arms
 		[0x5DA] Ptera Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other2
-		[0x602] Silver Arms
-		[0x60A] Gold Head
+		[0x5E2] Sapphire
+		[0x5EA] Double Pearl
+		[0x5F2] Colossal Diamond
+		[0x5FA] Top-Left Dropping
+		[0x602] Other
+		[0x60A] Other
 	Fossil Chip 2:
 		[0x63E] M-Raptor Head
 		[0x646] M-Raptor Body
@@ -5137,12 +5137,12 @@ Zone 01:
 		[0x806] Ptera Body
 		[0x80E] Ptera Arms
 		[0x816] Ptera Legs
-		[0x81E] Other1
-		[0x826] Other1
-		[0x82E] Other1
-		[0x836] Other2
-		[0x83E] Silver Arms
-		[0x846] Gold Head
+		[0x81E] Sapphire
+		[0x826] Double Pearl
+		[0x82E] Colossal Diamond
+		[0x836] Top-Left Dropping
+		[0x83E] Other
+		[0x846] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x8A2] Siamo Head
@@ -5235,12 +5235,12 @@ Zone 01:
 		[0x38E] Arsith Body
 		[0x396] Arsith Arms
 		[0x39E] Arsith Legs
-		[0x3A6] Other1
-		[0x3AE] Other1
-		[0x3B6] Other1
-		[0x3BE] Other2
-		[0x3C6] Silver Legs
-		[0x3CE] Gold Head
+		[0x3A6] Sapphire
+		[0x3AE] Double Pearl
+		[0x3B6] Colossal Diamond
+		[0x3BE] Center Dropping
+		[0x3C6] Other
+		[0x3CE] Other
 	Fossil Chip 1:
 		[0x402] Salto Head
 		[0x40A] Salto Body
@@ -5302,12 +5302,12 @@ Zone 01:
 		[0x5CA] Arsith Body
 		[0x5D2] Arsith Arms
 		[0x5DA] Arsith Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other2
-		[0x602] Silver Legs
-		[0x60A] Gold Head
+		[0x5E2] Sapphire
+		[0x5EA] Double Pearl
+		[0x5F2] Colossal Diamond
+		[0x5FA] Center Dropping
+		[0x602] Other
+		[0x60A] Other
 	Fossil Chip 2:
 		[0x63E] Salto Head
 		[0x646] Salto Body
@@ -5369,12 +5369,12 @@ Zone 01:
 		[0x806] Arsith Body
 		[0x80E] Arsith Arms
 		[0x816] Arsith Legs
-		[0x81E] Other1
-		[0x826] Other1
-		[0x82E] Other1
-		[0x836] Other2
-		[0x83E] Silver Legs
-		[0x846] Gold Head
+		[0x81E] Sapphire
+		[0x826] Double Pearl
+		[0x82E] Colossal Diamond
+		[0x836] Center Dropping
+		[0x83E] Other
+		[0x846] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x8A2] Siamo Head
@@ -5467,12 +5467,12 @@ Zone 01:
 		[0x38E] Guera Body
 		[0x396] Guera Arms
 		[0x39E] Guera Legs
-		[0x3A6] Other1
-		[0x3AE] Other1
-		[0x3B6] Other1
-		[0x3BE] Other2
-		[0x3C6] Silver Legs
-		[0x3CE] Gold Head
+		[0x3A6] Sapphire
+		[0x3AE] Double Pearl
+		[0x3B6] Colossal Diamond
+		[0x3BE] Bottom-Right Dropping
+		[0x3C6] Other
+		[0x3CE] Other
 	Fossil Chip 1:
 		[0x402] Neo Head
 		[0x40A] Neo Body
@@ -5534,12 +5534,12 @@ Zone 01:
 		[0x5CA] Guera Body
 		[0x5D2] Guera Arms
 		[0x5DA] Guera Legs
-		[0x5E2] Other1
-		[0x5EA] Other1
-		[0x5F2] Other1
-		[0x5FA] Other2
-		[0x602] Silver Legs
-		[0x60A] Gold Head
+		[0x5E2] Sapphire
+		[0x5EA] Double Pearl
+		[0x5F2] Colossal Diamond
+		[0x5FA] Bottom-Right Dropping
+		[0x602] Other
+		[0x60A] Other
 	Fossil Chip 2:
 		[0x63E] Neo Head
 		[0x646] Neo Body
@@ -5601,12 +5601,12 @@ Zone 01:
 		[0x806] Guera Body
 		[0x80E] Guera Arms
 		[0x816] Guera Legs
-		[0x81E] Other1
-		[0x826] Other1
-		[0x82E] Other1
-		[0x836] Other2
-		[0x83E] Silver Legs
-		[0x846] Gold Head
+		[0x81E] Sapphire
+		[0x826] Double Pearl
+		[0x82E] Colossal Diamond
+		[0x836] Bottom-Right Dropping
+		[0x83E] Other
+		[0x846] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x8A2] Siamo Head
@@ -5681,15 +5681,15 @@ Zone 01:
 		[0x326] Lagia Body
 		[0x32E] Lagia Arms
 		[0x336] Lagia Legs
-		[0x33E] Other1
-		[0x346] Other1
-		[0x34E] Other1
-		[0x356] Other1
-		[0x35E] Other2
-		[0x366] Other2
-		[0x36E] Other2
-		[0x376] Silver Head
-		[0x37E] Gold Head
+		[0x33E] Ruby
+		[0x346] Sapphire
+		[0x34E] Emerald
+		[0x356] Colossal Diamond
+		[0x35E] Center Dropping
+		[0x366] Bottom-Left Dropping
+		[0x36E] Bottom-Right Dropping
+		[0x376] Other
+		[0x37E] Other
 	Fossil Chip 1:
 		[0x3C6] Venator Head
 		[0x3CE] Venator Head
@@ -5736,15 +5736,15 @@ Zone 01:
 		[0x516] Lagia Body
 		[0x51E] Lagia Arms
 		[0x526] Lagia Legs
-		[0x52E] Other1
-		[0x536] Other1
-		[0x53E] Other1
-		[0x546] Other1
-		[0x54E] Other2
-		[0x556] Other2
-		[0x55E] Other2
-		[0x566] Silver Head
-		[0x56E] Gold Head
+		[0x52E] Ruby
+		[0x536] Sapphire
+		[0x53E] Emerald
+		[0x546] Colossal Diamond
+		[0x54E] Center Dropping
+		[0x556] Bottom-Left Dropping
+		[0x55E] Bottom-Right Dropping
+		[0x566] Other
+		[0x56E] Other
 	Fossil Chip 2:
 		[0x5B6] Guan Head
 		[0x5BE] Venator Head
@@ -5783,15 +5783,15 @@ Zone 01:
 		[0x6C6] Lagia Body
 		[0x6CE] Lagia Arms
 		[0x6D6] Lagia Legs
-		[0x6DE] Other1
-		[0x6E6] Other1
-		[0x6EE] Other1
-		[0x6F6] Other1
-		[0x6FE] Other2
-		[0x706] Other2
-		[0x70E] Other2
-		[0x716] Silver Head
-		[0x71E] Gold Head
+		[0x6DE] Ruby
+		[0x6E6] Sapphire
+		[0x6EE] Emerald
+		[0x6F6] Colossal Diamond
+		[0x6FE] Center Dropping
+		[0x706] Bottom-Left Dropping
+		[0x70E] Bottom-Right Dropping
+		[0x716] Other
+		[0x71E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x78E] Dikelo Single
@@ -5826,15 +5826,15 @@ Zone 02:
 		[0x876] Acro Body
 		[0x87E] Acro Arms
 		[0x886] Acro Legs
-		[0x88E] Other1
-		[0x896] Other1
-		[0x89E] Other1
-		[0x8A6] Other1
-		[0x8AE] Other2
-		[0x8B6] Other2
-		[0x8BE] Other2
-		[0x8C6] Silver Head
-		[0x8CE] Gold Head
+		[0x88E] Ruby
+		[0x896] Sapphire
+		[0x89E] Emerald
+		[0x8A6] Colossal Diamond
+		[0x8AE] Center Dropping
+		[0x8B6] Bottom-Left Dropping
+		[0x8BE] Bottom-Right Dropping
+		[0x8C6] Other
+		[0x8CE] Other
 	Fossil Chip 1:
 		[0x916] Dikelo Single
 		[0x91E] Dikelo Single
@@ -5870,15 +5870,15 @@ Zone 02:
 		[0xA0E] Acro Body
 		[0xA16] Acro Arms
 		[0xA1E] Acro Legs
-		[0xA26] Other1
-		[0xA2E] Other1
-		[0xA36] Other1
-		[0xA3E] Other1
-		[0xA46] Other2
-		[0xA4E] Other2
-		[0xA56] Other2
-		[0xA5E] Silver Head
-		[0xA66] Gold Head
+		[0xA26] Ruby
+		[0xA2E] Sapphire
+		[0xA36] Emerald
+		[0xA3E] Colossal Diamond
+		[0xA46] Center Dropping
+		[0xA4E] Bottom-Left Dropping
+		[0xA56] Bottom-Right Dropping
+		[0xA5E] Other
+		[0xA66] Other
 	Fossil Chip 2:
 		[0xAAE] Argento Head
 		[0xAB6] Dikelo Single
@@ -5908,15 +5908,15 @@ Zone 02:
 		[0xB76] Acro Body
 		[0xB7E] Acro Arms
 		[0xB86] Acro Legs
-		[0xB8E] Other1
-		[0xB96] Other1
-		[0xB9E] Other1
-		[0xBA6] Other1
-		[0xBAE] Other2
-		[0xBB6] Other2
-		[0xBBE] Other2
-		[0xBC6] Silver Head
-		[0xBCE] Gold Head
+		[0xB8E] Ruby
+		[0xB96] Sapphire
+		[0xB9E] Emerald
+		[0xBA6] Colossal Diamond
+		[0xBAE] Center Dropping
+		[0xBB6] Bottom-Left Dropping
+		[0xBBE] Bottom-Right Dropping
+		[0xBC6] Other
+		[0xBCE] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xC3E] Stygi Head
@@ -5961,15 +5961,15 @@ Zone 03:
 		[0xD76] Anan Body
 		[0xD7E] Anan Arms
 		[0xD86] Anan Legs
-		[0xD8E] Other1
-		[0xD96] Other1
-		[0xD9E] Other1
-		[0xDA6] Other1
-		[0xDAE] Other2
-		[0xDB6] Other2
-		[0xDBE] Other2
-		[0xDC6] Silver Head
-		[0xDCE] Gold Head
+		[0xD8E] Ruby
+		[0xD96] Sapphire
+		[0xD9E] Emerald
+		[0xDA6] Colossal Diamond
+		[0xDAE] Center Dropping
+		[0xDB6] Bottom-Left Dropping
+		[0xDBE] Bottom-Right Dropping
+		[0xDC6] Other
+		[0xDCE] Other
 	Fossil Chip 1:
 		[0xE16] Stygi Head
 		[0xE1E] Stygi Head
@@ -6016,15 +6016,15 @@ Zone 03:
 		[0xF66] Anan Body
 		[0xF6E] Anan Arms
 		[0xF76] Anan Legs
-		[0xF7E] Other1
-		[0xF86] Other1
-		[0xF8E] Other1
-		[0xF96] Other1
-		[0xF9E] Other2
-		[0xFA6] Other2
-		[0xFAE] Other2
-		[0xFB6] Silver Head
-		[0xFBE] Gold Head
+		[0xF7E] Ruby
+		[0xF86] Sapphire
+		[0xF8E] Emerald
+		[0xF96] Colossal Diamond
+		[0xF9E] Center Dropping
+		[0xFA6] Bottom-Left Dropping
+		[0xFAE] Bottom-Right Dropping
+		[0xFB6] Other
+		[0xFBE] Other
 	Fossil Chip 2:
 		[0x1006] Centro Head
 		[0x100E] Stygi Head
@@ -6063,15 +6063,15 @@ Zone 03:
 		[0x1116] Anan Body
 		[0x111E] Anan Arms
 		[0x1126] Anan Legs
-		[0x112E] Other1
-		[0x1136] Other1
-		[0x113E] Other1
-		[0x1146] Other1
-		[0x114E] Other2
-		[0x1156] Other2
-		[0x115E] Other2
-		[0x1166] Silver Head
-		[0x116E] Gold Head
+		[0x112E] Ruby
+		[0x1136] Sapphire
+		[0x113E] Emerald
+		[0x1146] Colossal Diamond
+		[0x114E] Center Dropping
+		[0x1156] Bottom-Left Dropping
+		[0x115E] Bottom-Right Dropping
+		[0x1166] Other
+		[0x116E] Other
 Zone 04:
 	Fossil Chip 0:
 		[0x11DE] Cryo Head
@@ -6162,14 +6162,14 @@ Zone 01:
 		[0x402] Argento Body
 		[0x40A] Argento Arms
 		[0x412] Argento Legs
-		[0x41A] Other1
-		[0x422] Other1
-		[0x42A] Other1
-		[0x432] Other1
-		[0x43A] Other2
-		[0x442] Other2
-		[0x44A] Silver Arms
-		[0x452] Gold Head
+		[0x41A] Small Pearl
+		[0x422] Emerald
+		[0x42A] Diamond
+		[0x432] Colossal Diamond
+		[0x43A] Top-Right Dropping
+		[0x442] Giant Dropping
+		[0x44A] Other
+		[0x452] Other
 	Fossil Chip 1:
 		[0x49A] Siamo Head
 		[0x4A2] Siamo Body
@@ -6243,14 +6243,14 @@ Zone 01:
 		[0x6C2] Argento Body
 		[0x6CA] Argento Arms
 		[0x6D2] Argento Legs
-		[0x6DA] Other1
-		[0x6E2] Other1
-		[0x6EA] Other1
-		[0x6F2] Other1
-		[0x6FA] Other2
-		[0x702] Other2
-		[0x70A] Silver Arms
-		[0x712] Gold Head
+		[0x6DA] Small Pearl
+		[0x6E2] Emerald
+		[0x6EA] Diamond
+		[0x6F2] Colossal Diamond
+		[0x6FA] Top-Right Dropping
+		[0x702] Giant Dropping
+		[0x70A] Other
+		[0x712] Other
 	Fossil Chip 2:
 		[0x75A] Siamo Head
 		[0x762] Siamo Body
@@ -6324,14 +6324,14 @@ Zone 01:
 		[0x982] Argento Body
 		[0x98A] Argento Arms
 		[0x992] Argento Legs
-		[0x99A] Other1
-		[0x9A2] Other1
-		[0x9AA] Other1
-		[0x9B2] Other1
-		[0x9BA] Other2
-		[0x9C2] Other2
-		[0x9CA] Silver Arms
-		[0x9D2] Gold Head
+		[0x99A] Small Pearl
+		[0x9A2] Emerald
+		[0x9AA] Diamond
+		[0x9B2] Colossal Diamond
+		[0x9BA] Top-Right Dropping
+		[0x9C2] Giant Dropping
+		[0x9CA] Other
+		[0x9D2] Other
 Zone 02:
 	Fossil Chip 0:
 		[0xA42] Siamo Head
@@ -6392,14 +6392,14 @@ Zone 01:
 		[0x336] Shuno Body
 		[0x33E] Shuno Arms
 		[0x346] Shuno Legs
-		[0x34E] Other1
-		[0x356] Other1
-		[0x35E] Other1
-		[0x366] Other2
-		[0x36E] Other2
-		[0x376] Other2
-		[0x37E] Silver Head
-		[0x386] Gold Head
+		[0x34E] Sapphire
+		[0x356] Double Pearl
+		[0x35E] Colossal Diamond
+		[0x366] Bottom-Right Dropping
+		[0x36E] Bottom-Left Dropping
+		[0x376] Top-Left Dropping
+		[0x37E] Other
+		[0x386] Other
 	Fossil Chip 1:
 		[0x3CE] Dimetro Head
 		[0x3D6] Dimetro Head
@@ -6431,14 +6431,14 @@ Zone 01:
 		[0x4A6] Shuno Body
 		[0x4AE] Shuno Arms
 		[0x4B6] Shuno Legs
-		[0x4BE] Other1
-		[0x4C6] Other1
-		[0x4CE] Other1
-		[0x4D6] Other2
-		[0x4DE] Other2
-		[0x4E6] Other2
-		[0x4EE] Silver Head
-		[0x4F6] Gold Head
+		[0x4BE] Sapphire
+		[0x4C6] Double Pearl
+		[0x4CE] Colossal Diamond
+		[0x4D6] Bottom-Right Dropping
+		[0x4DE] Bottom-Left Dropping
+		[0x4E6] Top-Left Dropping
+		[0x4EE] Other
+		[0x4F6] Other
 	Fossil Chip 2:
 		[0x53E] Smilo Head
 		[0x546] Dimetro Head
@@ -6465,14 +6465,14 @@ Zone 01:
 		[0x5EE] Shuno Body
 		[0x5F6] Shuno Arms
 		[0x5FE] Shuno Legs
-		[0x606] Other1
-		[0x60E] Other1
-		[0x616] Other1
-		[0x61E] Other2
-		[0x626] Other2
-		[0x62E] Other2
-		[0x636] Silver Head
-		[0x63E] Gold Head
+		[0x606] Sapphire
+		[0x60E] Double Diamond
+		[0x616] Colossal Diamond
+		[0x61E] Bottom-Right Dropping
+		[0x626] Bottom-Left Dropping
+		[0x62E] Top-Left Dropping
+		[0x636] Other
+		[0x63E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x6AE] Seismo Head
@@ -6503,14 +6503,14 @@ Zone 02:
 		[0x776] Aeros Body
 		[0x77E] Aeros Arms
 		[0x786] Aeros Legs
-		[0x78E] Other1
-		[0x796] Other1
-		[0x79E] Other1
-		[0x7A6] Other2
-		[0x7AE] Other2
-		[0x7B6] Other2
-		[0x7BE] Silver Body
-		[0x7C6] Gold Head
+		[0x78E] Sapphire
+		[0x796] Double Pearl
+		[0x79E] Colossal Diamond
+		[0x7A6] Bottom-Right Dropping
+		[0x7AE] Bottom-Left Dropping
+		[0x7B6] Top-Left Dropping
+		[0x7BE] Other
+		[0x7C6] Other
 	Fossil Chip 1:
 		[0x80E] Seismo Head
 		[0x816] Seismo Head
@@ -6542,14 +6542,14 @@ Zone 02:
 		[0x8E6] Aeros Body
 		[0x8EE] Aeros Arms
 		[0x8F6] Aeros Legs
-		[0x8FE] Other1
-		[0x906] Other1
-		[0x90E] Other1
-		[0x916] Other2
-		[0x91E] Other2
-		[0x926] Other2
-		[0x92E] Silver Body
-		[0x936] Gold Head
+		[0x8FE] Sapphire
+		[0x906] Double Pearl
+		[0x90E] Colossal Diamond
+		[0x916] Bottom-Right Dropping
+		[0x91E] Bottom-Left Dropping
+		[0x926] Top-Left Dropping
+		[0x92E] Other
+		[0x936] Other
 	Fossil Chip 2:
 		[0x97E] Seismo Head
 		[0x986] Seismo Body
@@ -6575,14 +6575,14 @@ Zone 02:
 		[0xA26] Aeros Body
 		[0xA2E] Aeros Arms
 		[0xA36] Aeros Legs
-		[0xA3E] Other1
-		[0xA46] Other1
-		[0xA4E] Other1
-		[0xA56] Other2
-		[0xA5E] Other2
-		[0xA66] Other2
-		[0xA6E] Silver Body
-		[0xA76] Gold Head
+		[0xA3E] Sapphire
+		[0xA46] Double Diamond
+		[0xA4E] Colossal Diamond
+		[0xA56] Bottom-Right Dropping
+		[0xA5E] Bottom-Left Dropping
+		[0xA66] Top-Left Dropping
+		[0xA6E] Other
+		[0xA76] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xAE6] Toba Head
@@ -6613,14 +6613,14 @@ Zone 03:
 		[0xBAE] Tsintao Body
 		[0xBB6] Tsintao Arms
 		[0xBBE] Tsintao Legs
-		[0xBC6] Other1
-		[0xBCE] Other1
-		[0xBD6] Other1
-		[0xBDE] Other2
-		[0xBE6] Other2
-		[0xBEE] Other2
-		[0xBF6] Silver Arms
-		[0xBFE] Gold Head
+		[0xBC6] Sapphire
+		[0xBCE] Double Pearl
+		[0xBD6] Colossal Diamond
+		[0xBDE] Bottom-Right Dropping
+		[0xBE6] Bottom-Left Dropping
+		[0xBEE] Top-Left Dropping
+		[0xBF6] Other
+		[0xBFE] Other
 	Fossil Chip 1:
 		[0xC46] Toba Head
 		[0xC4E] Toba Head
@@ -6652,14 +6652,14 @@ Zone 03:
 		[0xD1E] Tsintao Body
 		[0xD26] Tsintao Arms
 		[0xD2E] Tsintao Legs
-		[0xD36] Other1
-		[0xD3E] Other1
-		[0xD46] Other1
-		[0xD4E] Other2
-		[0xD56] Other2
-		[0xD5E] Other2
-		[0xD66] Silver Arms
-		[0xD6E] Gold Head
+		[0xD36] Sapphire
+		[0xD3E] Double Pearl
+		[0xD46] Colossal Diamond
+		[0xD4E] Bottom-Right Dropping
+		[0xD56] Bottom-Left Dropping
+		[0xD5E] Top-Left Dropping
+		[0xD66] Other
+		[0xD6E] Other
 	Fossil Chip 2:
 		[0xDB6] Toba Head
 		[0xDBE] Toba Body
@@ -6685,14 +6685,14 @@ Zone 03:
 		[0xE5E] Tsintao Body
 		[0xE66] Tsintao Arms
 		[0xE6E] Tsintao Legs
-		[0xE76] Other1
-		[0xE7E] Other1
-		[0xE86] Other1
-		[0xE8E] Other2
-		[0xE96] Other2
-		[0xE9E] Other2
-		[0xEA6] Silver Arms
-		[0xEAE] Gold Head
+		[0xE76] Sapphire
+		[0xE7E] Double Diamond
+		[0xE86] Colossal Diamond
+		[0xE8E] Bottom-Right Dropping
+		[0xE96] Bottom-Left Dropping
+		[0xE9E] Top-Left Dropping
+		[0xEA6] Other
+		[0xEAE] Other
 Zone 04:
 	Fossil Chip 0:
 		[0xF1E] Dacerus Head
@@ -6723,14 +6723,14 @@ Zone 04:
 		[0xFE6] Maia Body
 		[0xFEE] Maia Arms
 		[0xFF6] Maia Legs
-		[0xFFE] Other1
-		[0x1006] Other1
-		[0x100E] Other1
-		[0x1016] Other2
-		[0x101E] Other2
-		[0x1026] Other2
-		[0x102E] Silver Head
-		[0x1036] Gold Head
+		[0xFFE] Sapphire
+		[0x1006] Double Pearl
+		[0x100E] Colossal Diamond
+		[0x1016] Bottom-Right Dropping
+		[0x101E] Bottom-Left Dropping
+		[0x1026] Top-Left Dropping
+		[0x102E] Other
+		[0x1036] Other
 	Fossil Chip 1:
 		[0x107E] Dacerus Head
 		[0x1086] Dacerus Head
@@ -6762,14 +6762,14 @@ Zone 04:
 		[0x1156] Maia Body
 		[0x115E] Maia Arms
 		[0x1166] Maia Legs
-		[0x116E] Other1
-		[0x1176] Other1
-		[0x117E] Other1
-		[0x1186] Other2
-		[0x118E] Other2
-		[0x1196] Other2
-		[0x119E] Silver Head
-		[0x11A6] Gold Head
+		[0x116E] Sapphire
+		[0x1176] Double Pearl
+		[0x117E] Colossal Diamond
+		[0x1186] Bottom-Right Dropping
+		[0x118E] Bottom-Left Dropping
+		[0x1196] Top-Left Dropping
+		[0x119E] Other
+		[0x11A6] Other
 	Fossil Chip 2:
 		[0x11EE] Dacerus Head
 		[0x11F6] Dacerus Body
@@ -6795,14 +6795,14 @@ Zone 04:
 		[0x1296] Maia Body
 		[0x129E] Maia Arms
 		[0x12A6] Maia Legs
-		[0x12AE] Other1
-		[0x12B6] Other1
-		[0x12BE] Other1
-		[0x12C6] Other2
-		[0x12CE] Other2
-		[0x12D6] Other2
-		[0x12DE] Silver Head
-		[0x12E6] Gold Head
+		[0x12AE] Sapphire
+		[0x12B6] Double Pearl
+		[0x12BE] Colossal Diamond
+		[0x12C6] Bottom-Right Dropping
+		[0x12CE] Bottom-Left Dropping
+		[0x12D6] Top-Left Dropping
+		[0x12DE] Other
+		[0x12E6] Other
 Zone 05:
 	Fossil Chip 0:
 		[0x1356] Sucho Head
@@ -6828,13 +6828,13 @@ Zone 01:
 		[0x23A] Coelo Body
 		[0x242] Coelo Arms
 		[0x24A] Coelo Legs
-		[0x252] Other1
-		[0x25A] Other1
-		[0x262] Other1
-		[0x26A] Other2
-		[0x272] Other2
-		[0x27A] Silver Head
-		[0x282] Gold Head
+		[0x252] Sapphire
+		[0x25A] Diamond
+		[0x262] Colossal Diamond
+		[0x26A] Top-Right Dropping
+		[0x272] Weird Giant Dropping 2
+		[0x27A] Other
+		[0x282] Other
 	Fossil Chip 1:
 		[0x2CA] Coelo Head
 		[0x2D2] Coelo Head
@@ -6851,13 +6851,13 @@ Zone 01:
 		[0x32A] Coelo Body
 		[0x332] Coelo Arms
 		[0x33A] Coelo Legs
-		[0x342] Other1
-		[0x34A] Other1
-		[0x352] Other1
-		[0x35A] Other2
-		[0x362] Other2
-		[0x36A] Silver Head
-		[0x372] Gold Head
+		[0x342] Sapphire
+		[0x34A] Diamond
+		[0x352] Colossal Diamond
+		[0x35A] Top-Right Dropping
+		[0x362] Weird Giant Dropping 2
+		[0x36A] Other
+		[0x372] Other
 	Fossil Chip 2:
 		[0x3BA] Terata Single
 		[0x3C2] Coelo Head
@@ -6872,13 +6872,13 @@ Zone 01:
 		[0x40A] Coelo Body
 		[0x412] Coelo Arms
 		[0x41A] Coelo Legs
-		[0x422] Other1
-		[0x42A] Other1
-		[0x432] Other1
-		[0x43A] Other2
-		[0x442] Other2
-		[0x44A] Silver Head
-		[0x452] Gold Head
+		[0x422] Sapphire
+		[0x42A] Diamond
+		[0x432] Colossal Diamond
+		[0x43A] Top-Right Dropping
+		[0x442] Weird Giant Dropping 2
+		[0x44A] Other
+		[0x452] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x4C2] Siamo Head
@@ -6939,12 +6939,12 @@ Zone 01:
 		[0x2DE] Gomp Body
 		[0x2E6] Gomp Arms
 		[0x2EE] Gomp Legs
-		[0x2F6] Other1
-		[0x2FE] Other1
-		[0x306] Other1
-		[0x30E] Other2
-		[0x316] Silver Legs
-		[0x31E] Gold Head
+		[0x2F6] Sapphire
+		[0x2FE] Double Pearl
+		[0x306] Colossal Diamond
+		[0x30E] Top-Right Dropping
+		[0x316] Other
+		[0x31E] Other
 	Fossil Chip 1:
 		[0x366] Alectro Head
 		[0x36E] Alectro Head
@@ -6976,12 +6976,12 @@ Zone 01:
 		[0x43E] Gomp Body
 		[0x446] Gomp Arms
 		[0x44E] Gomp Legs
-		[0x456] Other1
-		[0x45E] Other1
-		[0x466] Other1
-		[0x46E] Other2
-		[0x476] Silver Legs
-		[0x47E] Gold Head
+		[0x456] Sapphire
+		[0x45E] Double Pearl
+		[0x466] Colossal Diamond
+		[0x46E] Top-Right Dropping
+		[0x476] Other
+		[0x47E] Other
 	Fossil Chip 2:
 		[0x4C6] Alectro Head
 		[0x4CE] Alectro Body
@@ -7007,12 +7007,12 @@ Zone 01:
 		[0x56E] Gomp Body
 		[0x576] Gomp Arms
 		[0x57E] Gomp Legs
-		[0x586] Other1
-		[0x58E] Other1
-		[0x596] Other1
-		[0x59E] Other2
-		[0x5A6] Silver Legs
-		[0x5AE] Gold Head
+		[0x586] Sapphire
+		[0x58E] Double Diamond
+		[0x596] Colossal Diamond
+		[0x59E] Top-Right Dropping
+		[0x5A6] Other
+		[0x5AE] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x60A] Metria Head
@@ -7063,12 +7063,12 @@ Zone 02:
 		[0x772] Einio Body
 		[0x77A] Einio Arms
 		[0x782] Einio Legs
-		[0x78A] Other1
-		[0x792] Other1
-		[0x79A] Other1
-		[0x7A2] Other2
-		[0x7AA] Silver Body
-		[0x7B2] Gold Head
+		[0x78A] Sapphire
+		[0x792] Diamond
+		[0x79A] Colossal Diamond
+		[0x7A2] Top-Right Dropping
+		[0x7AA] Other
+		[0x7B2] Other
 	Fossil Chip 1:
 		[0x7E6] Metria Head
 		[0x7EE] Metria Body
@@ -7118,12 +7118,12 @@ Zone 02:
 		[0x94E] Einio Body
 		[0x956] Einio Arms
 		[0x95E] Einio Legs
-		[0x966] Other1
-		[0x96E] Other1
-		[0x976] Other1
-		[0x97E] Other2
-		[0x986] Silver Body
-		[0x98E] Gold Head
+		[0x966] Sapphire
+		[0x96E] Diamond
+		[0x976] Colossal Diamond
+		[0x97E] Top-Right Dropping
+		[0x986] Other
+		[0x98E] Other
 	Fossil Chip 2:
 		[0x9C2] Radox Single
 		[0x9CA] Metria Head
@@ -7174,12 +7174,12 @@ Zone 02:
 		[0xB32] Einio Body
 		[0xB3A] Einio Arms
 		[0xB42] Einio Legs
-		[0xB4A] Other1
-		[0xB52] Other1
-		[0xB5A] Other1
-		[0xB62] Other2
-		[0xB6A] Silver Body
-		[0xB72] Gold Head
+		[0xB4A] Sapphire
+		[0xB52] Diamond
+		[0xB5A] Colossal Diamond
+		[0xB62] Top-Right Dropping
+		[0xB6A] Other
+		[0xB72] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xBCE] Nychus Head
@@ -7313,12 +7313,12 @@ Zone 01:
 		[0x35E] Berta Body
 		[0x366] Berta Arms
 		[0x36E] Berta Legs
-		[0x376] Other1
-		[0x37E] Other1
-		[0x386] Other1
-		[0x38E] Other2
-		[0x396] Silver Head
-		[0x39E] Gold Head
+		[0x376] Sapphire
+		[0x37E] Double Diamond
+		[0x386] Colossal Diamond
+		[0x38E] Center Dropping
+		[0x396] Other
+		[0x39E] Other
 	Fossil Chip 1:
 		[0x3E6] Futabi Head
 		[0x3EE] Futabi Head
@@ -7365,12 +7365,12 @@ Zone 01:
 		[0x536] Berta Body
 		[0x53E] Berta Arms
 		[0x546] Berta Legs
-		[0x54E] Other1
-		[0x556] Other1
-		[0x55E] Other1
-		[0x566] Other2
-		[0x56E] Silver Head
-		[0x576] Gold Head
+		[0x54E] Sapphire
+		[0x556] Double Diamond
+		[0x55E] Colossal Diamond
+		[0x566] Center Dropping
+		[0x56E] Other
+		[0x576] Other
 	Fossil Chip 2:
 		[0x5BE] Angato Head
 		[0x5C6] Futabi Head
@@ -7409,12 +7409,12 @@ Zone 01:
 		[0x6CE] Berta Body
 		[0x6D6] Berta Arms
 		[0x6DE] Berta Legs
-		[0x6E6] Other1
-		[0x6EE] Other1
-		[0x6F6] Other1
-		[0x6FE] Other2
-		[0x706] Silver Head
-		[0x70E] Gold Head
+		[0x6E6] Sapphire
+		[0x6EE] Double Diamond
+		[0x6F6] Colossal Diamond
+		[0x6FE] Center Dropping
+		[0x706] Other
+		[0x70E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x77E] Krona Head
@@ -7449,13 +7449,13 @@ Zone 02:
 		[0x866] Mammoth Arms
 		[0x86E] Mammoth Legs
 		[0x876] Synthos Single
-		[0x87E] Other1
-		[0x886] Other1
-		[0x88E] Other1
-		[0x896] Other2
-		[0x89E] Other2
-		[0x8A6] Silver Body
-		[0x8AE] Gold Head
+		[0x87E] Sapphire
+		[0x886] Double Diamond
+		[0x88E] Colossal Diamond
+		[0x896] Top-Right Dropping
+		[0x89E] Weird Giant Dropping 1
+		[0x8A6] Other
+		[0x8AE] Other
 	Fossil Chip 1:
 		[0x8F6] Krona Head
 		[0x8FE] Krona Head
@@ -7491,13 +7491,13 @@ Zone 02:
 		[0x9EE] Mammoth Arms
 		[0x9F6] Mammoth Legs
 		[0x9FE] Synthos Single
-		[0xA06] Other1
-		[0xA0E] Other1
-		[0xA16] Other1
-		[0xA1E] Other2
-		[0xA26] Other2
-		[0xA2E] Silver Body
-		[0xA36] Gold Head
+		[0xA06] Sapphire
+		[0xA0E] Double Diamond
+		[0xA16] Colossal Diamond
+		[0xA1E] Top-Right Dropping
+		[0xA26] Weird Giant Dropping 1
+		[0xA2E] Other
+		[0xA36] Other
 	Fossil Chip 2:
 		[0xA7E] Krona Head
 		[0xA86] Krona Body
@@ -7526,13 +7526,13 @@ Zone 02:
 		[0xB3E] Mammoth Arms
 		[0xB46] Mammoth Legs
 		[0xB4E] Synthos Single
-		[0xB56] Other1
-		[0xB5E] Other1
-		[0xB66] Other1
-		[0xB6E] Other2
-		[0xB76] Other2
-		[0xB7E] Silver Body
-		[0xB86] Gold Head
+		[0xB56] Sapphire
+		[0xB5E] Double Diamond
+		[0xB66] Colossal Diamond
+		[0xB6E] Top-Right Dropping
+		[0xB76] Weird Giant Dropping 1
+		[0xB7E] Other
+		[0xB86] Other
 Zone 03:
 	Fossil Chip 0:
 		[0xBF6] Pachy Head
@@ -7577,12 +7577,12 @@ Zone 03:
 		[0xD2E] Titanis Body
 		[0xD36] Titanis Arms
 		[0xD3E] Titanis Legs
-		[0xD46] Other1
-		[0xD4E] Other1
-		[0xD56] Other1
-		[0xD5E] Other2
-		[0xD66] Silver Arms
-		[0xD6E] Gold Head
+		[0xD46] Sapphire
+		[0xD4E] Double Diamond
+		[0xD56] Colossal Diamond
+		[0xD5E] Top-Right Dropping
+		[0xD66] Other
+		[0xD6E] Other
 	Fossil Chip 1:
 		[0xDB6] Pachy Head
 		[0xDBE] Pachy Head
@@ -7629,12 +7629,12 @@ Zone 03:
 		[0xF06] Titanis Body
 		[0xF0E] Titanis Arms
 		[0xF16] Titanis Legs
-		[0xF1E] Other1
-		[0xF26] Other1
-		[0xF2E] Other1
-		[0xF36] Other2
-		[0xF3E] Silver Arms
-		[0xF46] Gold Head
+		[0xF1E] Sapphire
+		[0xF26] Double Diamond
+		[0xF2E] Colossal Diamond
+		[0xF36] Top-Right Dropping
+		[0xF3E] Other
+		[0xF46] Other
 	Fossil Chip 2:
 		[0xF8E] Igua Head
 		[0xF96] Pachy Head
@@ -7673,12 +7673,12 @@ Zone 03:
 		[0x109E] Titanis Body
 		[0x10A6] Titanis Arms
 		[0x10AE] Titanis Legs
-		[0x10B6] Other1
-		[0x10BE] Other1
-		[0x10C6] Other1
-		[0x10CE] Other2
-		[0x10D6] Silver Arms
-		[0x10DE] Gold Head
+		[0x10B6] Sapphire
+		[0x10BE] Double Diamond
+		[0x10C6] Colossal Diamond
+		[0x10CE] Top-Right Dropping
+		[0x10D6] Other
+		[0x10DE] Other
 Zone 04:
 	Fossil Chip 0:
 		[0x114E] F-Raptor Head
@@ -7723,12 +7723,12 @@ Zone 04:
 		[0x1286] Titanis Body
 		[0x128E] Titanis Arms
 		[0x1296] Titanis Legs
-		[0x129E] Other1
-		[0x12A6] Other1
-		[0x12AE] Other1
-		[0x12B6] Other2
-		[0x12BE] Silver Legs
-		[0x12C6] Gold Head
+		[0x129E] Sapphire
+		[0x12A6] Double Diamond
+		[0x12AE] Colossal Diamond
+		[0x12B6] Bottom-Left Dropping
+		[0x12BE] Other
+		[0x12C6] Other
 	Fossil Chip 1:
 		[0x130E] F-Raptor Head
 		[0x1316] F-Raptor Head
@@ -7775,12 +7775,12 @@ Zone 04:
 		[0x145E] Titanis Body
 		[0x1466] Titanis Arms
 		[0x146E] Titanis Legs
-		[0x1476] Other1
-		[0x147E] Other1
-		[0x1486] Other1
-		[0x148E] Other2
-		[0x1496] Silver Legs
-		[0x149E] Gold Head
+		[0x1476] Sapphire
+		[0x147E] Double Diamond
+		[0x1486] Colossal Diamond
+		[0x148E] Bottom-Left Dropping
+		[0x1496] Other
+		[0x149E] Other
 	Fossil Chip 2:
 		[0x14E6] F-Raptor Head
 		[0x14EE] F-Raptor Body
@@ -7818,12 +7818,12 @@ Zone 04:
 		[0x15EE] Titanis Body
 		[0x15F6] Titanis Arms
 		[0x15FE] Titanis Legs
-		[0x1606] Other1
-		[0x160E] Other1
-		[0x1616] Other1
-		[0x161E] Other2
-		[0x1626] Silver Legs
-		[0x162E] Gold Head
+		[0x1606] Sapphire
+		[0x160E] Double Diamond
+		[0x1616] Colossal Diamond
+		[0x161E] Bottom-Left Dropping
+		[0x1626] Other
+		[0x162E] Other
 Zone 05:
 	Fossil Chip 0:
 		[0x169E] Sucho Head
@@ -7849,12 +7849,12 @@ Zone 01:
 		[0x226] Mihu Body
 		[0x22E] Mihu Arms
 		[0x236] Mihu Legs
-		[0x23E] Other1
-		[0x246] Other1
-		[0x24E] Other1
-		[0x256] Other2
-		[0x25E] Silver Head
-		[0x266] Gold Head
+		[0x23E] Double Diamond
+		[0x246] Diamond
+		[0x24E] Colossal Diamond
+		[0x256] Top-Left Dropping
+		[0x25E] Other
+		[0x266] Other
 	Fossil Chip 1:
 		[0x2AE] Mihu Head
 		[0x2B6] Mihu Head
@@ -7871,12 +7871,12 @@ Zone 01:
 		[0x30E] Mihu Body
 		[0x316] Mihu Arms
 		[0x31E] Mihu Legs
-		[0x326] Other1
-		[0x32E] Other1
-		[0x336] Other1
-		[0x33E] Other2
-		[0x346] Silver Head
-		[0x34E] Gold Head
+		[0x326] Double Diamond
+		[0x32E] Diamond
+		[0x336] Colossal Diamond
+		[0x33E] Top-Left Dropping
+		[0x346] Other
+		[0x34E] Other
 	Fossil Chip 2:
 		[0x396] Megalo Head
 		[0x39E] Megalo Body
@@ -7894,12 +7894,12 @@ Zone 01:
 		[0x3FE] Mihu Body
 		[0x406] Mihu Arms
 		[0x40E] Mihu Legs
-		[0x416] Other1
-		[0x41E] Other1
-		[0x426] Other1
-		[0x42E] Other2
-		[0x436] Silver Head
-		[0x43E] Gold Head
+		[0x416] Double Diamond
+		[0x41E] Diamond
+		[0x426] Colossal Diamond
+		[0x42E] Top-Left Dropping
+		[0x436] Other
+		[0x43E] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x4AE] Seidon Head
@@ -7916,12 +7916,12 @@ Zone 02:
 		[0x506] Seidon Body
 		[0x50E] Seidon Arms
 		[0x516] Seidon Legs
-		[0x51E] Other1
-		[0x526] Other1
-		[0x52E] Other1
-		[0x536] Other2
-		[0x53E] Silver Body
-		[0x546] Gold Head
+		[0x51E] Double Diamond
+		[0x526] Diamond
+		[0x52E] Colossal Diamond
+		[0x536] Top-Left Dropping
+		[0x53E] Other
+		[0x546] Other
 	Fossil Chip 1:
 		[0x58E] Seidon Head
 		[0x596] Seidon Head
@@ -7938,12 +7938,12 @@ Zone 02:
 		[0x5EE] Seidon Body
 		[0x5F6] Seidon Arms
 		[0x5FE] Seidon Legs
-		[0x606] Other1
-		[0x60E] Other1
-		[0x616] Other1
-		[0x61E] Other2
-		[0x626] Silver Body
-		[0x62E] Gold Head
+		[0x606] Double Diamond
+		[0x60E] Diamond
+		[0x616] Colossal Diamond
+		[0x61E] Top-Left Dropping
+		[0x626] Other
+		[0x62E] Other
 	Fossil Chip 2:
 		[0x676] Megalo Head
 		[0x67E] Megalo Body
@@ -7961,12 +7961,12 @@ Zone 02:
 		[0x6DE] Seidon Body
 		[0x6E6] Seidon Arms
 		[0x6EE] Seidon Legs
-		[0x6F6] Other1
-		[0x6FE] Other1
-		[0x706] Other1
-		[0x70E] Other2
-		[0x716] Silver Body
-		[0x71E] Gold Head
+		[0x6F6] Double Diamond
+		[0x6FE] Diamond
+		[0x706] Colossal Diamond
+		[0x70E] Top-Left Dropping
+		[0x716] Other
+		[0x71E] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x78E] Nychus Head
@@ -8034,16 +8034,16 @@ Zone 01:
 		[0x34A] Paki Body
 		[0x352] Paki Arms
 		[0x35A] Paki Legs
-		[0x362] Other1
-		[0x36A] Other1
-		[0x372] Other1
-		[0x37A] Other1
-		[0x382] Other2
-		[0x38A] Other2
-		[0x392] Other2
-		[0x39A] Other2
-		[0x3A2] Silver Head
-		[0x3AA] Gold Head
+		[0x362] Ruby
+		[0x36A] Sapphire
+		[0x372] Emerald
+		[0x37A] Colossal Diamond
+		[0x382] Center Dropping
+		[0x38A] Bottom-Right Dropping
+		[0x392] Top-Right Dropping
+		[0x39A] Bottom-Left Dropping
+		[0x3A2] Other
+		[0x3AA] Other
 	Fossil Chip 1:
 		[0x3F2] Tro Head
 		[0x3FA] Tro Head
@@ -8090,16 +8090,16 @@ Zone 01:
 		[0x542] Paki Body
 		[0x54A] Paki Arms
 		[0x552] Paki Legs
-		[0x55A] Other1
-		[0x562] Other1
-		[0x56A] Other1
-		[0x572] Other1
-		[0x57A] Other2
-		[0x582] Other2
-		[0x58A] Other2
-		[0x592] Other2
-		[0x59A] Silver Head
-		[0x5A2] Gold Head
+		[0x55A] Ruby
+		[0x562] Sapphire
+		[0x56A] Emerald
+		[0x572] Colossal Diamond
+		[0x57A] Center Dropping
+		[0x582] Bottom-Right Dropping
+		[0x58A] Top-Right Dropping
+		[0x592] Bottom-Left Dropping
+		[0x59A] Other
+		[0x5A2] Other
 	Fossil Chip 2:
 		[0x5EA] Archaeo Head
 		[0x5F2] Tro Head
@@ -8138,16 +8138,16 @@ Zone 01:
 		[0x6FA] Paki Body
 		[0x702] Paki Arms
 		[0x70A] Paki Legs
-		[0x712] Other1
-		[0x71A] Other1
-		[0x722] Other1
-		[0x72A] Other1
-		[0x732] Other2
-		[0x73A] Other2
-		[0x742] Other2
-		[0x74A] Other2
-		[0x752] Silver Head
-		[0x75A] Gold Head
+		[0x712] Ruby
+		[0x71A] Sapphire
+		[0x722] Emerald
+		[0x72A] Colossal Diamond
+		[0x732] Center Dropping
+		[0x73A] Bottom-Right Dropping
+		[0x742] Top-Right Dropping
+		[0x74A] Bottom-Left Dropping
+		[0x752] Other
+		[0x75A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x7CA] Siamo Head
@@ -8231,13 +8231,13 @@ Zone 01:
 		[0x372] Megalo Body
 		[0x37A] Megalo Arms
 		[0x382] Megalo Legs
-		[0x38A] Other1
-		[0x392] Other1
-		[0x39A] Other1
-		[0x3A2] Other1
-		[0x3AA] Other2
-		[0x3B2] Silver Head
-		[0x3BA] Gold Head
+		[0x38A] Small Pearl
+		[0x392] Emerald
+		[0x39A] Diamond
+		[0x3A2] Colossal Diamond
+		[0x3AA] Giant Dropping
+		[0x3B2] Other
+		[0x3BA] Other
 	Fossil Chip 1:
 		[0x402] Cryo Head
 		[0x40A] Cryo Body
@@ -8290,13 +8290,13 @@ Zone 01:
 		[0x582] Megalo Body
 		[0x58A] Megalo Arms
 		[0x592] Megalo Legs
-		[0x59A] Other1
-		[0x5A2] Other1
-		[0x5AA] Other1
-		[0x5B2] Other1
-		[0x5BA] Other2
-		[0x5C2] Silver Head
-		[0x5CA] Gold Head
+		[0x59A] Small Pearl
+		[0x5A2] Emerald
+		[0x5AA] Diamond
+		[0x5B2] Colossal Diamond
+		[0x5BA] Giant Dropping
+		[0x5C2] Other
+		[0x5CA] Other
 	Fossil Chip 2:
 		[0x612] Cryo Head
 		[0x61A] Cryo Body
@@ -8349,12 +8349,12 @@ Zone 01:
 		[0x792] Megalo Body
 		[0x79A] Megalo Arms
 		[0x7A2] Megalo Legs
-		[0x7AA] Other1
-		[0x7B2] Other1
-		[0x7BA] Other1
-		[0x7C2] Other2
-		[0x7CA] Silver Head
-		[0x7D2] Gold Head
+		[0x7AA] Emerald
+		[0x7B2] Diamond
+		[0x7BA] Colossal Diamond
+		[0x7C2] Giant Dropping
+		[0x7CA] Other
+		[0x7D2] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x842] Siamo Head
@@ -8399,14 +8399,14 @@ Zone 01:
 		[0x25A] Chasmo Body
 		[0x262] Chasmo Arms
 		[0x26A] Chasmo Legs
-		[0x272] Other1
-		[0x27A] Other1
-		[0x282] Other2
-		[0x28A] Other2
-		[0x292] Other2
-		[0x29A] Other2
-		[0x2A2] Silver Arms
-		[0x2AA] Gold Head
+		[0x272] Giant Pearl
+		[0x27A] Colossal Diamond
+		[0x282] Center Dropping
+		[0x28A] Bottom-Right Dropping
+		[0x292] Top-Right Dropping
+		[0x29A] Bottom-Left Dropping
+		[0x2A2] Other
+		[0x2AA] Other
 	Fossil Chip 1:
 		[0x2F2] Chasmo Head
 		[0x2FA] Chasmo Body
@@ -8420,14 +8420,14 @@ Zone 01:
 		[0x33A] Chasmo Body
 		[0x342] Chasmo Arms
 		[0x34A] Chasmo Legs
-		[0x352] Other1
-		[0x35A] Other1
-		[0x362] Other2
-		[0x36A] Other2
-		[0x372] Other2
-		[0x37A] Other2
-		[0x382] Silver Arms
-		[0x38A] Gold Head
+		[0x352] Giant Pearl
+		[0x35A] Colossal Diamond
+		[0x362] Center Dropping
+		[0x36A] Bottom-Right Dropping
+		[0x372] Top-Right Dropping
+		[0x37A] Bottom-Left Dropping
+		[0x382] Other
+		[0x38A] Other
 	Fossil Chip 2:
 		[0x3D2] Chasmo Head
 		[0x3DA] Chasmo Body
@@ -8441,14 +8441,14 @@ Zone 01:
 		[0x41A] Chasmo Body
 		[0x422] Chasmo Arms
 		[0x42A] Chasmo Legs
-		[0x432] Other1
-		[0x43A] Other1
-		[0x442] Other2
-		[0x44A] Other2
-		[0x452] Other2
-		[0x45A] Other2
-		[0x462] Silver Arms
-		[0x46A] Gold Head
+		[0x432] Giant Pearl
+		[0x43A] Colossal Diamond
+		[0x442] Center Dropping
+		[0x44A] Bottom-Right Dropping
+		[0x452] Top-Right Dropping
+		[0x45A] Bottom-Left Dropping
+		[0x462] Other
+		[0x46A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x4DA] Chelon Head
@@ -8466,14 +8466,14 @@ Zone 02:
 		[0x53A] Chelon Arms
 		[0x542] Chelon Legs
 		[0x54A] Coelanth Single
-		[0x552] Other1
-		[0x55A] Other1
-		[0x562] Other2
-		[0x56A] Other2
-		[0x572] Other2
-		[0x57A] Other2
-		[0x582] Silver Arms
-		[0x58A] Gold Head
+		[0x552] Giant Pearl
+		[0x55A] Colossal Diamond
+		[0x562] Center Dropping
+		[0x56A] Bottom-Right Dropping
+		[0x572] Top-Right Dropping
+		[0x57A] Bottom-Left Dropping
+		[0x582] Other
+		[0x58A] Other
 	Fossil Chip 1:
 		[0x5D2] Chelon Head
 		[0x5DA] Chelon Body
@@ -8490,14 +8490,14 @@ Zone 02:
 		[0x632] Chelon Arms
 		[0x63A] Chelon Legs
 		[0x642] Coelanth Single
-		[0x64A] Other1
-		[0x652] Other1
-		[0x65A] Other2
-		[0x662] Other2
-		[0x66A] Other2
-		[0x672] Other2
-		[0x67A] Silver Arms
-		[0x682] Gold Head
+		[0x64A] Giant Pearl
+		[0x652] Colossal Diamond
+		[0x65A] Center Dropping
+		[0x662] Bottom-Right Dropping
+		[0x66A] Top-Right Dropping
+		[0x672] Bottom-Left Dropping
+		[0x67A] Other
+		[0x682] Other
 	Fossil Chip 2:
 		[0x6CA] Chelon Head
 		[0x6D2] Chelon Body
@@ -8514,14 +8514,14 @@ Zone 02:
 		[0x72A] Chelon Arms
 		[0x732] Chelon Legs
 		[0x73A] Coelanth Single
-		[0x742] Other1
-		[0x74A] Other1
-		[0x752] Other2
-		[0x75A] Other2
-		[0x762] Other2
-		[0x76A] Other2
-		[0x772] Silver Arms
-		[0x77A] Gold Head
+		[0x742] Giant Pearl
+		[0x74A] Colossal Diamond
+		[0x752] Center Dropping
+		[0x75A] Bottom-Right Dropping
+		[0x762] Top-Right Dropping
+		[0x76A] Bottom-Left Dropping
+		[0x772] Other
+		[0x77A] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x7EA] Chasmo Head
@@ -8548,15 +8548,15 @@ Zone 03:
 		[0x892] Oloro Body
 		[0x89A] Oloro Arms
 		[0x8A2] Oloro Legs
-		[0x8AA] Other1
-		[0x8B2] Other1
-		[0x8BA] Other1
-		[0x8C2] Other2
-		[0x8CA] Other2
-		[0x8D2] Other2
-		[0x8DA] Other2
-		[0x8E2] Silver Arms
-		[0x8EA] Gold Head
+		[0x8AA] Sapphire
+		[0x8B2] Diamond
+		[0x8BA] Colossal Diamond
+		[0x8C2] Center Dropping
+		[0x8CA] Bottom-Right Dropping
+		[0x8D2] Top-Right Dropping
+		[0x8DA] Bottom-Left Dropping
+		[0x8E2] Other
+		[0x8EA] Other
 	Fossil Chip 1:
 		[0x932] Chasmo Head
 		[0x93A] Chasmo Body
@@ -8582,15 +8582,15 @@ Zone 03:
 		[0x9DA] Oloro Body
 		[0x9E2] Oloro Arms
 		[0x9EA] Oloro Legs
-		[0x9F2] Other1
-		[0x9FA] Other1
-		[0xA02] Other1
-		[0xA0A] Other2
-		[0xA12] Other2
-		[0xA1A] Other2
-		[0xA22] Other2
-		[0xA2A] Silver Arms
-		[0xA32] Gold Head
+		[0x9F2] Sapphire
+		[0x9FA] Diamond
+		[0xA02] Colossal Diamond
+		[0xA0A] Center Dropping
+		[0xA12] Bottom-Right Dropping
+		[0xA1A] Top-Right Dropping
+		[0xA22] Bottom-Left Dropping
+		[0xA2A] Other
+		[0xA32] Other
 	Fossil Chip 2:
 		[0xA7A] Chasmo Head
 		[0xA82] Chasmo Body
@@ -8616,15 +8616,15 @@ Zone 03:
 		[0xB22] Oloro Body
 		[0xB2A] Oloro Arms
 		[0xB32] Oloro Legs
-		[0xB3A] Other1
-		[0xB42] Other1
-		[0xB4A] Other1
-		[0xB52] Other2
-		[0xB5A] Other2
-		[0xB62] Other2
-		[0xB6A] Other2
-		[0xB72] Silver Arms
-		[0xB7A] Gold Head
+		[0xB3A] Sapphire
+		[0xB42] Diamond
+		[0xB4A] Colossal Diamond
+		[0xB52] Center Dropping
+		[0xB5A] Bottom-Right Dropping
+		[0xB62] Top-Right Dropping
+		[0xB6A] Bottom-Left Dropping
+		[0xB72] Other
+		[0xB7A] Other
 Zone 04:
 	Fossil Chip 0:
 		[0xBEA] Cryo Head
@@ -8658,14 +8658,14 @@ Zone 01:
 		[0x242] Nychus Arms
 		[0x24A] Nychus Legs
 		[0x252] Dunkle Single
-		[0x25A] Other1
-		[0x262] Other1
-		[0x26A] Other2
-		[0x272] Other2
-		[0x27A] Other2
-		[0x282] Other2
-		[0x28A] Silver Legs
-		[0x292] Gold Head
+		[0x25A] Giant Pearl
+		[0x262] Colossal Diamond
+		[0x26A] Center Dropping
+		[0x272] Bottom-Right Dropping
+		[0x27A] Top-Right Dropping
+		[0x282] Bottom-Left Dropping
+		[0x28A] Other
+		[0x292] Other
 	Fossil Chip 1:
 		[0x2DA] Nychus Head
 		[0x2E2] Nychus Body
@@ -8682,14 +8682,14 @@ Zone 01:
 		[0x33A] Nychus Arms
 		[0x342] Nychus Legs
 		[0x34A] Dunkle Single
-		[0x352] Other1
-		[0x35A] Other1
-		[0x362] Other2
-		[0x36A] Other2
-		[0x372] Other2
-		[0x37A] Other2
-		[0x382] Silver Legs
-		[0x38A] Gold Head
+		[0x352] Giant Pearl
+		[0x35A] Colossal Diamond
+		[0x362] Center Dropping
+		[0x36A] Bottom-Right Dropping
+		[0x372] Top-Right Dropping
+		[0x37A] Bottom-Left Dropping
+		[0x382] Other
+		[0x38A] Other
 	Fossil Chip 2:
 		[0x3D2] Nychus Head
 		[0x3DA] Nychus Body
@@ -8706,14 +8706,14 @@ Zone 01:
 		[0x432] Nychus Arms
 		[0x43A] Nychus Legs
 		[0x442] Dunkle Single
-		[0x44A] Other1
-		[0x452] Other1
-		[0x45A] Other2
-		[0x462] Other2
-		[0x46A] Other2
-		[0x472] Other2
-		[0x47A] Silver Legs
-		[0x482] Gold Head
+		[0x44A] Giant Pearl
+		[0x452] Colossal Diamond
+		[0x45A] Center Dropping
+		[0x462] Bottom-Right Dropping
+		[0x46A] Top-Right Dropping
+		[0x472] Bottom-Left Dropping
+		[0x47A] Other
+		[0x482] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x4F2] Gaudry Single
@@ -8740,14 +8740,14 @@ Zone 02:
 		[0x59A] Plesio Body
 		[0x5A2] Plesio Arms
 		[0x5AA] Plesio Legs
-		[0x5B2] Other1
-		[0x5BA] Other1
-		[0x5C2] Other2
-		[0x5CA] Other2
-		[0x5D2] Other2
-		[0x5DA] Other2
-		[0x5E2] Silver Legs
-		[0x5EA] Gold Head
+		[0x5B2] Giant Pearl
+		[0x5BA] Colossal Diamond
+		[0x5C2] Center Dropping
+		[0x5CA] Bottom-Right Dropping
+		[0x5D2] Top-Right Dropping
+		[0x5DA] Bottom-Left Dropping
+		[0x5E2] Other
+		[0x5EA] Other
 	Fossil Chip 1:
 		[0x632] Gaudry Single
 		[0x63A] Gaudry Single
@@ -8773,14 +8773,14 @@ Zone 02:
 		[0x6DA] Plesio Body
 		[0x6E2] Plesio Arms
 		[0x6EA] Plesio Legs
-		[0x6F2] Other1
-		[0x6FA] Other1
-		[0x702] Other2
-		[0x70A] Other2
-		[0x712] Other2
-		[0x71A] Other2
-		[0x722] Silver Legs
-		[0x72A] Gold Head
+		[0x6F2] Giant Pearl
+		[0x6FA] Colossal Diamond
+		[0x702] Center Dropping
+		[0x70A] Bottom-Right Dropping
+		[0x712] Top-Right Dropping
+		[0x71A] Bottom-Left Dropping
+		[0x722] Other
+		[0x72A] Other
 	Fossil Chip 2:
 		[0x772] Gaudry Single
 		[0x77A] Gaudry Single
@@ -8806,14 +8806,14 @@ Zone 02:
 		[0x81A] Plesio Body
 		[0x822] Plesio Arms
 		[0x82A] Plesio Legs
-		[0x832] Other1
-		[0x83A] Other1
-		[0x842] Other2
-		[0x84A] Other2
-		[0x852] Other2
-		[0x85A] Other2
-		[0x862] Silver Legs
-		[0x86A] Gold Head
+		[0x832] Giant Pearl
+		[0x83A] Colossal Diamond
+		[0x842] Center Dropping
+		[0x84A] Bottom-Right Dropping
+		[0x852] Top-Right Dropping
+		[0x85A] Bottom-Left Dropping
+		[0x862] Other
+		[0x86A] Other
 Zone 03:
 	Fossil Chip 0:
 		[0x8DA] Nychus Head
@@ -8839,32 +8839,32 @@ Zone 05:
 6202:
 Zone 01:
 	Fossil Chip 0:
-		[0x1F2] Other1
-		[0x1FA] Other1
-		[0x202] Other1
-		[0x20A] Other1
-		[0x212] Other2
-		[0x21A] Silver Legs
-		[0x222] Gold Head
+		[0x1F2] Small Pearl
+		[0x1FA] Double Pearl
+		[0x202] Giant Pearl
+		[0x20A] Colossal Diamond
+		[0x212] Top-Left Dropping
+		[0x21A] Other
+		[0x222] Other
 	Fossil Chip 1:
-		[0x26A] Other1
-		[0x272] Other1
-		[0x27A] Other1
-		[0x282] Other1
-		[0x28A] Other2
-		[0x292] Silver Legs
-		[0x29A] Gold Head
+		[0x26A] Small Pearl
+		[0x272] Double Pearl
+		[0x27A] Giant Pearl
+		[0x282] Colossal Diamond
+		[0x28A] Top-Left Dropping
+		[0x292] Other
+		[0x29A] Other
 	Fossil Chip 2:
-		[0x2E2] Other1
-		[0x2EA] Other1
-		[0x2F2] Other1
-		[0x2FA] Other1
-		[0x302] Other2
-		[0x30A] Other2
-		[0x312] Other2
-		[0x31A] Other2
-		[0x322] Silver Legs
-		[0x32A] Gold Head
+		[0x2E2] Small Pearl
+		[0x2EA] Double Pearl
+		[0x2F2] Giant Pearl
+		[0x2FA] Colossal Diamond
+		[0x302] Center Dropping
+		[0x30A] Bottom-Right Dropping
+		[0x312] Top-Right Dropping
+		[0x31A] Giant Dropping
+		[0x322] Other
+		[0x32A] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x39A] Siamo Head
@@ -8960,13 +8960,13 @@ Zone 01:
 		[0x3BE] Archaeo Body
 		[0x3C6] Archaeo Arms
 		[0x3CE] Archaeo Legs
-		[0x3D6] Other1
-		[0x3DE] Other1
-		[0x3E6] Other1
-		[0x3EE] Other1
-		[0x3F6] Other2
-		[0x3FE] Silver Head
-		[0x406] Gold Head
+		[0x3D6] Small Pearl
+		[0x3DE] Emerald
+		[0x3E6] Diamond
+		[0x3EE] Colossal Diamond
+		[0x3F6] Giant Dropping
+		[0x3FE] Other
+		[0x406] Other
 	Fossil Chip 1:
 		[0x43A] Cryo Head
 		[0x442] Cryo Body
@@ -9031,13 +9031,13 @@ Zone 01:
 		[0x61A] Archaeo Body
 		[0x622] Archaeo Arms
 		[0x62A] Archaeo Legs
-		[0x632] Other1
-		[0x63A] Other1
-		[0x642] Other1
-		[0x64A] Other1
-		[0x652] Other2
-		[0x65A] Silver Head
-		[0x662] Gold Head
+		[0x632] Small Pearl
+		[0x63A] Emerald
+		[0x642] Diamond
+		[0x64A] Colossal Diamond
+		[0x652] Giant Dropping
+		[0x65A] Other
+		[0x662] Other
 	Fossil Chip 2:
 		[0x696] Cryo Head
 		[0x69E] Cryo Body
@@ -9102,12 +9102,12 @@ Zone 01:
 		[0x876] Archaeo Body
 		[0x87E] Archaeo Arms
 		[0x886] Archaeo Legs
-		[0x88E] Other1
-		[0x896] Other1
-		[0x89E] Other1
-		[0x8A6] Other2
-		[0x8AE] Silver Head
-		[0x8B6] Gold Head
+		[0x88E] Emerald
+		[0x896] Diamond
+		[0x89E] Colossal Diamond
+		[0x8A6] Giant Dropping
+		[0x8AE] Other
+		[0x8B6] Other
 Zone 02:
 	Fossil Chip 0:
 		[0x912] Siamo Head
