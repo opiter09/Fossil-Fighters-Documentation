@@ -1,1775 +1,1775 @@
-0033 [greenhorn plains]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x2F4] V-Raptor: 50%
-	[0x314] Shanshan: 50%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x39C] Spinax: 50%
-	[0x3BC] Goyle: 50%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x444] Goyle: 50%
-	[0x464] V-Raptor: 50%
-Zone 04:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x4F4] V-Raptor: 25%
-	[0x514] Shanshan: 25%
-	[0x534] Goyle: 25%
-	[0x554] Spinax: 25%
-Zone 05:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x5DC] V-Raptor: 50%
-	[0x5FC] Shanshan: 50%
-Zone 06:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x684] Spinax: 50%
-	[0x6A4] Goyle: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x730] V-Raptor: 30%
-	[0x750] Shanshan: 30%
-	[0x770] Goyle: 40%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x7FC] V-Raptor: 35%
-	[0x81C] Shanshan: 35%
-	[0x83C] Spinax: 30%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x8C4] Goyle: 30%
-	[0x8E4] Spinax: 70%
-Zone 04:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x974] V-Raptor: 25%
-	[0x994] Shanshan: 25%
-	[0x9B4] Goyle: 25%
-	[0x9D4] Spinax: 25%
-Zone 05:
-	Fossil Chips Needed: 1
-	Max Spawns: 1
-	[0xA5C] V-Raptor: 50%
-	[0xA7C] Shanshan: 50%
-Zone 06:
-	Fossil Chips Needed: 1
-	Max Spawns: 1
-	[0xB04] Spinax: 50%
-	[0xB24] Goyle: 50%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0xBB0] V-Raptor: 35%
-	[0xBD0] Shanshan: 35%
-	[0xBF0] Goyle: 30%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0xC7C] V-Raptor: 30%
-	[0xC9C] Shanshan: 30%
-	[0xCBC] Spinax: 40%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0xD44] Goyle: 70%
-	[0xD64] Spinax: 30%
-Zone 04:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0xDF4] V-Raptor: 25%
-	[0xE14] Shanshan: 25%
-	[0xE34] Goyle: 25%
-	[0xE54] Spinax: 25%
-Zone 05:
-	Fossil Chips Needed: 2
-	Max Spawns: 1
-	[0xEDC] V-Raptor: 50%
-	[0xEFC] Shanshan: 50%
-Zone 06:
-	Fossil Chips Needed: 2
-	Max Spawns: 1
-	[0xF88] Spinax: 45%
-	[0xFA8] Goyle: 45%
-	[0xFC8] Tarbo: 10%
-Zone 07:
-	Fossil Chips Needed: 0x3070
-	Max Spawns: 15
-	[0x105C] Carchar: 20%
-	[0x107C] Neo: 20%
-	[0x109C] Carno: 20%
-	[0x10BC] Centro: 20%
-	[0x10DC] Andrarch: 20%
-Zone 08:
-	Fossil Chips Needed: 0x3070
-	Max Spawns: 15
-	[0x1170] Carchar: 20%
-	[0x1190] Neo: 20%
-	[0x11B0] Carno: 20%
-	[0x11D0] Centro: 20%
-	[0x11F0] Andrarch: 20%
-Zone 07:
-	Fossil Chips Needed: 0x3071
-	Max Spawns: 15
-	[0x1284] Carchar: 20%
-	[0x12A4] Neo: 20%
-	[0x12C4] Carno: 20%
-	[0x12E4] Centro: 20%
-	[0x1304] Andrarch: 20%
-Zone 08:
-	Fossil Chips Needed: 0x3071
-	Max Spawns: 15
-	[0x1398] Carchar: 20%
-	[0x13B8] Neo: 20%
-	[0x13D8] Carno: 20%
-	[0x13F8] Centro: 20%
-	[0x1418] Andrarch: 20%
-Zone 07:
-	Fossil Chips Needed: 0x3072
-	Max Spawns: 15
-	[0x14AC] Carchar: 20%
-	[0x14CC] Neo: 20%
-	[0x14EC] Carno: 20%
-	[0x150C] Centro: 20%
-	[0x152C] Andrarch: 20%
-Zone 08:
-	Fossil Chips Needed: 0x3072
-	Max Spawns: 15
-	[0x15C0] Carchar: 20%
-	[0x15E0] Neo: 20%
-	[0x1600] Carno: 20%
-	[0x1620] Centro: 20%
-	[0x1640] Andrarch: 20%
+0033 [Greenhorn Plains]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x2F4] V-Raptor: 50%
+		[0x314] Shanshan: 50%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x39C] Spinax: 50%
+		[0x3BC] Goyle: 50%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x444] Goyle: 50%
+		[0x464] V-Raptor: 50%
+	Zone 04:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x4F4] V-Raptor: 25%
+		[0x514] Shanshan: 25%
+		[0x534] Goyle: 25%
+		[0x554] Spinax: 25%
+	Zone 05:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x5DC] V-Raptor: 50%
+		[0x5FC] Shanshan: 50%
+	Zone 06:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x684] Spinax: 50%
+		[0x6A4] Goyle: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x730] V-Raptor: 30%
+		[0x750] Shanshan: 30%
+		[0x770] Goyle: 40%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x7FC] V-Raptor: 35%
+		[0x81C] Shanshan: 35%
+		[0x83C] Spinax: 30%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x8C4] Goyle: 30%
+		[0x8E4] Spinax: 70%
+	Zone 04:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x974] V-Raptor: 25%
+		[0x994] Shanshan: 25%
+		[0x9B4] Goyle: 25%
+		[0x9D4] Spinax: 25%
+	Zone 05:
+		Fossil Chips Needed: 1
+		Max Spawns: 1
+		[0xA5C] V-Raptor: 50%
+		[0xA7C] Shanshan: 50%
+	Zone 06:
+		Fossil Chips Needed: 1
+		Max Spawns: 1
+		[0xB04] Spinax: 50%
+		[0xB24] Goyle: 50%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0xBB0] V-Raptor: 35%
+		[0xBD0] Shanshan: 35%
+		[0xBF0] Goyle: 30%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0xC7C] V-Raptor: 30%
+		[0xC9C] Shanshan: 30%
+		[0xCBC] Spinax: 40%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0xD44] Goyle: 70%
+		[0xD64] Spinax: 30%
+	Zone 04:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0xDF4] V-Raptor: 25%
+		[0xE14] Shanshan: 25%
+		[0xE34] Goyle: 25%
+		[0xE54] Spinax: 25%
+	Zone 05:
+		Fossil Chips Needed: 2
+		Max Spawns: 1
+		[0xEDC] V-Raptor: 50%
+		[0xEFC] Shanshan: 50%
+	Zone 06:
+		Fossil Chips Needed: 2
+		Max Spawns: 1
+		[0xF88] Spinax: 45%
+		[0xFA8] Goyle: 45%
+		[0xFC8] Tarbo: 10%
+	Zone 07:
+		Fossil Chips Needed: 0x3070
+		Max Spawns: 15
+		[0x105C] Carchar: 20%
+		[0x107C] Neo: 20%
+		[0x109C] Carno: 20%
+		[0x10BC] Centro: 20%
+		[0x10DC] Andrarch: 20%
+	Zone 08:
+		Fossil Chips Needed: 0x3070
+		Max Spawns: 15
+		[0x1170] Carchar: 20%
+		[0x1190] Neo: 20%
+		[0x11B0] Carno: 20%
+		[0x11D0] Centro: 20%
+		[0x11F0] Andrarch: 20%
+	Zone 07:
+		Fossil Chips Needed: 0x3071
+		Max Spawns: 15
+		[0x1284] Carchar: 20%
+		[0x12A4] Neo: 20%
+		[0x12C4] Carno: 20%
+		[0x12E4] Centro: 20%
+		[0x1304] Andrarch: 20%
+	Zone 08:
+		Fossil Chips Needed: 0x3071
+		Max Spawns: 15
+		[0x1398] Carchar: 20%
+		[0x13B8] Neo: 20%
+		[0x13D8] Carno: 20%
+		[0x13F8] Centro: 20%
+		[0x1418] Andrarch: 20%
+	Zone 07:
+		Fossil Chips Needed: 0x3072
+		Max Spawns: 15
+		[0x14AC] Carchar: 20%
+		[0x14CC] Neo: 20%
+		[0x14EC] Carno: 20%
+		[0x150C] Centro: 20%
+		[0x152C] Andrarch: 20%
+	Zone 08:
+		Fossil Chips Needed: 0x3072
+		Max Spawns: 15
+		[0x15C0] Carchar: 20%
+		[0x15E0] Neo: 20%
+		[0x1600] Carno: 20%
+		[0x1620] Centro: 20%
+		[0x1640] Andrarch: 20%
 
-0034 [beta knotwood forest]:
-Zone 01:
-	Fossil Chips Needed: 0x0
-	Max Spawns: 2
-	[0x17C] Siamo: 25%
-	[0x19C] Nychus: 25%
-	[0x1BC] Andrarch: 25%
-	[0x1DC] Goyle: 25%
-Zone 02:
-	Fossil Chips Needed: 0x0
-	Max Spawns: 3
-	[0x270] Siamo: 20%
-	[0x290] Nychus: 20%
-	[0x2B0] Andrarch: 20%
-	[0x2D0] Goyle: 20%
-	[0x2F0] Lexo: 20%
-Zone 03:
-	Fossil Chips Needed: 0x0
-	Max Spawns: 3
-	[0x388] Siamo: 15%
-	[0x3A8] Nychus: 15%
-	[0x3C8] Andrarch: 15%
-	[0x3E8] Goyle: 20%
-	[0x408] Lexo: 20%
-	[0x428] Alectro: 15%
+0034 [Beta Knotwood Forest]:
+	Zone 01:
+		Fossil Chips Needed: 0x0
+		Max Spawns: 2
+		[0x17C] Siamo: 25%
+		[0x19C] Nychus: 25%
+		[0x1BC] Andrarch: 25%
+		[0x1DC] Goyle: 25%
+	Zone 02:
+		Fossil Chips Needed: 0x0
+		Max Spawns: 3
+		[0x270] Siamo: 20%
+		[0x290] Nychus: 20%
+		[0x2B0] Andrarch: 20%
+		[0x2D0] Goyle: 20%
+		[0x2F0] Lexo: 20%
+	Zone 03:
+		Fossil Chips Needed: 0x0
+		Max Spawns: 3
+		[0x388] Siamo: 15%
+		[0x3A8] Nychus: 15%
+		[0x3C8] Andrarch: 15%
+		[0x3E8] Goyle: 20%
+		[0x408] Lexo: 20%
+		[0x428] Alectro: 15%
 
-0036 [digadiagamid 1F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x354] Lexo: 50%
-	[0x374] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x3FC] Lexo: 50%
-	[0x41C] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x4A4] Lexo: 50%
-	[0x4C4] Pachy: 50%
+0036 [Digadigamid 1F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x354] Lexo: 50%
+		[0x374] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x3FC] Lexo: 50%
+		[0x41C] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x4A4] Lexo: 50%
+		[0x4C4] Pachy: 50%
 
-0037 [keymonite room]:
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 0
-	[0x1D4] Nasaur: 20%
-	[0x1F4] Ourano: 15%
-	[0x214] V-Raptor: 15%
-	[0x234] Pachy: 15%
-	[0x254] Centro: 20%
-	[0x274] Alectro: 5%
-	[0x294] Coatlus: 5%
-	[0x2B4] M-Raptor: 5%
+0037 [Digadigamid 1F Keymonite Room]:
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 0
+		[0x1D4] Nasaur: 20%
+		[0x1F4] Ourano: 15%
+		[0x214] V-Raptor: 15%
+		[0x234] Pachy: 15%
+		[0x254] Centro: 20%
+		[0x274] Alectro: 5%
+		[0x294] Coatlus: 5%
+		[0x2B4] M-Raptor: 5%
 
-0038 [digadiagamid 2F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x28C] Lexo: 50%
-	[0x2AC] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x334] Lexo: 50%
-	[0x354] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x3DC] Lexo: 50%
-	[0x3FC] Pachy: 50%
+0038 [Digadigamid 2F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x28C] Lexo: 50%
+		[0x2AC] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x334] Lexo: 50%
+		[0x354] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x3DC] Lexo: 50%
+		[0x3FC] Pachy: 50%
 
-0039 [digadiagamid 3F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x188] Lexo: 50%
-	[0x1A8] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x230] Lexo: 50%
-	[0x250] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 3
-	[0x2D8] Lexo: 50%
-	[0x2F8] Pachy: 50%
+0039 [Digadigamid 3F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x188] Lexo: 50%
+		[0x1A8] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x230] Lexo: 50%
+		[0x250] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 3
+		[0x2D8] Lexo: 50%
+		[0x2F8] Pachy: 50%
 
-0040 [digadiagamid 4F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x2F0] Lexo: 50%
-	[0x310] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x398] Lexo: 50%
-	[0x3B8] Pachy: 50%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x440] Lexo: 50%
-	[0x460] Pachy: 50%
+0040 [Digadigamid 4F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x2F0] Lexo: 50%
+		[0x310] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x398] Lexo: 50%
+		[0x3B8] Pachy: 50%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x440] Lexo: 50%
+		[0x460] Pachy: 50%
 
-0042 [rivet ravine]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x234] Alectro: 33%
-	[0x254] Megalo: 34%
-	[0x274] Coatlus: 33%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x300] Alectro: 34%
-	[0x320] Megalo: 33%
-	[0x340] Coatlus: 33%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 8
-	[0x3D0] Siamo: 25%
-	[0x3F0] Metria: 25%
-	[0x410] Hypsi: 25%
-	[0x430] Goyo: 25%
-Zone 04:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x4BC] Alectro: 33%
-	[0x4DC] Megalo: 33%
-	[0x4FC] Coatlus: 34%
-Zone 05:
-	Fossil Chips Needed: 0
-	Max Spawns: 8
-	[0x58C] Alio: 25%
-	[0x5AC] Cerato: 25%
-	[0x5CC] Igua: 25%
-	[0x5EC] Lambeo: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x678] Alectro: 33%
-	[0x698] Megalo: 34%
-	[0x6B8] Coatlus: 33%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x744] Alectro: 34%
-	[0x764] Megalo: 33%
-	[0x784] Coatlus: 33%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 10
-	[0x814] Siamo: 25%
-	[0x834] Metria: 25%
-	[0x854] Hypsi: 25%
-	[0x874] Goyo: 25%
-Zone 04:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x900] Alectro: 33%
-	[0x920] Megalo: 33%
-	[0x940] Coatlus: 34%
-Zone 05:
-	Fossil Chips Needed: 1
-	Max Spawns: 10
-	[0x9D0] Alio: 25%
-	[0x9F0] Cerato: 25%
-	[0xA10] Igua: 25%
-	[0xA30] Lambeo: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0xABC] Alectro: 34%
-	[0xADC] Megalo: 33%
-	[0xAFC] Coatlus: 33%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0xB88] Alectro: 33%
-	[0xBA8] Megalo: 34%
-	[0xBC8] Coatlus: 33%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 12
-	[0xC58] Siamo: 25%
-	[0xC78] Metria: 25%
-	[0xC98] Hypsi: 25%
-	[0xCB8] Goyo: 25%
-Zone 04:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0xD44] Alectro: 33%
-	[0xD64] Megalo: 33%
-	[0xD84] Coatlus: 34%
-Zone 05:
-	Fossil Chips Needed: 2
-	Max Spawns: 12
-	[0xE14] Alio: 25%
-	[0xE34] Cerato: 25%
-	[0xE54] Igua: 25%
-	[0xE74] Lambeo: 25%
+0042 [Rivet Ravine]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x234] Alectro: 33%
+		[0x254] Megalo: 34%
+		[0x274] Coatlus: 33%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x300] Alectro: 34%
+		[0x320] Megalo: 33%
+		[0x340] Coatlus: 33%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 8
+		[0x3D0] Siamo: 25%
+		[0x3F0] Metria: 25%
+		[0x410] Hypsi: 25%
+		[0x430] Goyo: 25%
+	Zone 04:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x4BC] Alectro: 33%
+		[0x4DC] Megalo: 33%
+		[0x4FC] Coatlus: 34%
+	Zone 05:
+		Fossil Chips Needed: 0
+		Max Spawns: 8
+		[0x58C] Alio: 25%
+		[0x5AC] Cerato: 25%
+		[0x5CC] Igua: 25%
+		[0x5EC] Lambeo: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x678] Alectro: 33%
+		[0x698] Megalo: 34%
+		[0x6B8] Coatlus: 33%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x744] Alectro: 34%
+		[0x764] Megalo: 33%
+		[0x784] Coatlus: 33%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 10
+		[0x814] Siamo: 25%
+		[0x834] Metria: 25%
+		[0x854] Hypsi: 25%
+		[0x874] Goyo: 25%
+	Zone 04:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x900] Alectro: 33%
+		[0x920] Megalo: 33%
+		[0x940] Coatlus: 34%
+	Zone 05:
+		Fossil Chips Needed: 1
+		Max Spawns: 10
+		[0x9D0] Alio: 25%
+		[0x9F0] Cerato: 25%
+		[0xA10] Igua: 25%
+		[0xA30] Lambeo: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0xABC] Alectro: 34%
+		[0xADC] Megalo: 33%
+		[0xAFC] Coatlus: 33%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0xB88] Alectro: 33%
+		[0xBA8] Megalo: 34%
+		[0xBC8] Coatlus: 33%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 12
+		[0xC58] Siamo: 25%
+		[0xC78] Metria: 25%
+		[0xC98] Hypsi: 25%
+		[0xCB8] Goyo: 25%
+	Zone 04:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0xD44] Alectro: 33%
+		[0xD64] Megalo: 33%
+		[0xD84] Coatlus: 34%
+	Zone 05:
+		Fossil Chips Needed: 2
+		Max Spawns: 12
+		[0xE14] Alio: 25%
+		[0xE34] Cerato: 25%
+		[0xE54] Igua: 25%
+		[0xE74] Lambeo: 25%
 
-0043 [RR tunnel 1 (ptd area)]:
-Zone 01:
-	Fossil Chips Needed: 0x3073
-	Max Spawns: 20
-	[0x1A0] Acro: 10%
-	[0x1C0] Angato: 10%
-	[0x1E0] Paraloph: 10%
-	[0x200] Pachrino: 10%
-	[0x220] Dimorph: 10%
-	[0x240] Acro: 10%
-	[0x260] Angato: 10%
-	[0x280] Paraloph: 10%
-	[0x2A0] Pachrino: 10%
-	[0x2C0] Dimorph: 10%
-Zone 01:
-	Fossil Chips Needed: 0x3074
-	Max Spawns: 20
-	[0x338] Acro: 10%
-	[0x358] Angato: 10%
-	[0x378] Paraloph: 10%
-	[0x398] Pachrino: 10%
-	[0x3B8] Dimorph: 10%
-	[0x3D8] Acro: 10%
-	[0x3F8] Angato: 10%
-	[0x418] Paraloph: 10%
-	[0x438] Pachrino: 10%
-	[0x458] Dimorph: 10%
-Zone 01:
-	Fossil Chips Needed: 0x3075
-	Max Spawns: 20
-	[0x4D0] Acro: 10%
-	[0x4F0] Angato: 10%
-	[0x510] Paraloph: 10%
-	[0x530] Pachrino: 10%
-	[0x550] Dimorph: 10%
-	[0x570] Acro: 10%
-	[0x590] Angato: 10%
-	[0x5B0] Paraloph: 10%
-	[0x5D0] Pachrino: 10%
-	[0x5F0] Dimorph: 10%
+0043 [Tunnel #1]:
+	Zone 01:
+		Fossil Chips Needed: 0x3073
+		Max Spawns: 20
+		[0x1A0] Acro: 10%
+		[0x1C0] Angato: 10%
+		[0x1E0] Paraloph: 10%
+		[0x200] Pachrino: 10%
+		[0x220] Dimorph: 10%
+		[0x240] Acro: 10%
+		[0x260] Angato: 10%
+		[0x280] Paraloph: 10%
+		[0x2A0] Pachrino: 10%
+		[0x2C0] Dimorph: 10%
+	Zone 01:
+		Fossil Chips Needed: 0x3074
+		Max Spawns: 20
+		[0x338] Acro: 10%
+		[0x358] Angato: 10%
+		[0x378] Paraloph: 10%
+		[0x398] Pachrino: 10%
+		[0x3B8] Dimorph: 10%
+		[0x3D8] Acro: 10%
+		[0x3F8] Angato: 10%
+		[0x418] Paraloph: 10%
+		[0x438] Pachrino: 10%
+		[0x458] Dimorph: 10%
+	Zone 01:
+		Fossil Chips Needed: 0x3075
+		Max Spawns: 20
+		[0x4D0] Acro: 10%
+		[0x4F0] Angato: 10%
+		[0x510] Paraloph: 10%
+		[0x530] Pachrino: 10%
+		[0x550] Dimorph: 10%
+		[0x570] Acro: 10%
+		[0x590] Angato: 10%
+		[0x5B0] Paraloph: 10%
+		[0x5D0] Pachrino: 10%
+		[0x5F0] Dimorph: 10%
 
-0044 [RR tunnels 2-4]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x198] Nasaur: 40%
-	[0x1B8] Stygi: 20%
-	[0x1D8] Coatlus: 40%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x264] Alectro: 33%
-	[0x284] Nasaur: 34%
-	[0x2A4] Stygi: 33%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x330] Nasaur: 30%
-	[0x350] Stygi: 30%
-	[0x370] Coatlus: 40%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 1
-	[0x3FC] Alectro: 34%
-	[0x41C] Nasaur: 33%
-	[0x43C] Stygi: 33%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x4CC] Nasaur: 40%
-	[0x4EC] Stygi: 20%
-	[0x50C] Coatlus: 30%
-	[0x52C] Sucho: 10%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x5BC] Alectro: 30%
-	[0x5DC] Nasaur: 30%
-	[0x5FC] Stygi: 30%
-	[0x61C] Sucho: 10%
+0044 [Tunnel #2]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x198] Nasaur: 40%
+		[0x1B8] Stygi: 20%
+		[0x1D8] Coatlus: 40%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x264] Alectro: 33%
+		[0x284] Nasaur: 34%
+		[0x2A4] Stygi: 33%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x330] Nasaur: 30%
+		[0x350] Stygi: 30%
+		[0x370] Coatlus: 40%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 1
+		[0x3FC] Alectro: 34%
+		[0x41C] Nasaur: 33%
+		[0x43C] Stygi: 33%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x4CC] Nasaur: 40%
+		[0x4EC] Stygi: 20%
+		[0x50C] Coatlus: 30%
+		[0x52C] Sucho: 10%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x5BC] Alectro: 30%
+		[0x5DC] Nasaur: 30%
+		[0x5FC] Stygi: 30%
+		[0x61C] Sucho: 10%
 
-0045 [RR tunnels 2-4]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x178] Nasaur: 30%
-	[0x198] Stygi: 30%
-	[0x1B8] Elasmoth: 40%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x244] Nasaur: 30%
-	[0x264] Stygi: 30%
-	[0x284] Elasmoth: 40%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x310] Nasaur: 30%
-	[0x330] Stygi: 30%
-	[0x350] Elasmoth: 40%
+0045 [Tunnel #3]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x178] Nasaur: 30%
+		[0x198] Stygi: 30%
+		[0x1B8] Elasmoth: 40%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x244] Nasaur: 30%
+		[0x264] Stygi: 30%
+		[0x284] Elasmoth: 40%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x310] Nasaur: 30%
+		[0x330] Stygi: 30%
+		[0x350] Elasmoth: 40%
 
-0046 [RR tunnels 2-4]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 6
-	[0x1A4] Stygi: 20%
-	[0x1C4] Coatlus: 40%
-	[0x1E4] Elasmoth: 40%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x274] Alectro: 25%
-	[0x294] Megalo: 25%
-	[0x2B4] Coatlus: 25%
-	[0x2D4] Elasmoth: 25%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x360] Megalo: 33%
-	[0x380] Nasaur: 33%
-	[0x3A0] Stygi: 34%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 6
-	[0x42C] Stygi: 40%
-	[0x44C] Coatlus: 30%
-	[0x46C] Elasmoth: 30%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 1
-	[0x4FC] Alectro: 25%
-	[0x51C] Megalo: 25%
-	[0x53C] Coatlus: 25%
-	[0x55C] Elasmoth: 25%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 1
-	[0x5E8] Megalo: 33%
-	[0x608] Nasaur: 33%
-	[0x628] Stygi: 34%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 7
-	[0x6B8] Stygi: 20%
-	[0x6D8] Coatlus: 30%
-	[0x6F8] Elasmoth: 40%
-	[0x718] Giganto: 10%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x7A8] Alectro: 25%
-	[0x7C8] Megalo: 25%
-	[0x7E8] Coatlus: 25%
-	[0x808] Elasmoth: 25%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x898] Megalo: 30%
-	[0x8B8] Nasaur: 30%
-	[0x8D8] Stygi: 30%
-	[0x8F8] Giganto: 10%
+0046 [Tunnel #4]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 6
+		[0x1A4] Stygi: 20%
+		[0x1C4] Coatlus: 40%
+		[0x1E4] Elasmoth: 40%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x274] Alectro: 25%
+		[0x294] Megalo: 25%
+		[0x2B4] Coatlus: 25%
+		[0x2D4] Elasmoth: 25%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x360] Megalo: 33%
+		[0x380] Nasaur: 33%
+		[0x3A0] Stygi: 34%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 6
+		[0x42C] Stygi: 40%
+		[0x44C] Coatlus: 30%
+		[0x46C] Elasmoth: 30%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 1
+		[0x4FC] Alectro: 25%
+		[0x51C] Megalo: 25%
+		[0x53C] Coatlus: 25%
+		[0x55C] Elasmoth: 25%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 1
+		[0x5E8] Megalo: 33%
+		[0x608] Nasaur: 33%
+		[0x628] Stygi: 34%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 7
+		[0x6B8] Stygi: 20%
+		[0x6D8] Coatlus: 30%
+		[0x6F8] Elasmoth: 40%
+		[0x718] Giganto: 10%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x7A8] Alectro: 25%
+		[0x7C8] Megalo: 25%
+		[0x7E8] Coatlus: 25%
+		[0x808] Elasmoth: 25%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x898] Megalo: 30%
+		[0x8B8] Nasaur: 30%
+		[0x8D8] Stygi: 30%
+		[0x8F8] Giganto: 10%
 
-0047 [RR tunnel 5]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x348] U-Raptor: 25%
-	[0x368] U-Raptor: 25%
-	[0x388] Ourano: 25%
-	[0x3A8] Ourano: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 6
-	[0x440] U-Raptor: 15%
-	[0x460] U-Raptor: 15%
-	[0x480] U-Raptor: 20%
-	[0x4A0] Ourano: 15%
-	[0x4C0] Ourano: 15%
-	[0x4E0] Ourano: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 8
-	[0x578] U-Raptor: 25%
-	[0x598] U-Raptor: 15%
-	[0x5B8] U-Raptor: 10%
-	[0x5D8] Ourano: 25%
-	[0x5F8] Ourano: 15%
-	[0x618] Ourano: 10%
+0047 [Tunnel #5]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x348] U-Raptor: 25%
+		[0x368] U-Raptor: 25%
+		[0x388] Ourano: 25%
+		[0x3A8] Ourano: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 6
+		[0x440] U-Raptor: 15%
+		[0x460] U-Raptor: 15%
+		[0x480] U-Raptor: 20%
+		[0x4A0] Ourano: 15%
+		[0x4C0] Ourano: 15%
+		[0x4E0] Ourano: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 8
+		[0x578] U-Raptor: 25%
+		[0x598] U-Raptor: 15%
+		[0x5B8] U-Raptor: 10%
+		[0x5D8] Ourano: 25%
+		[0x5F8] Ourano: 15%
+		[0x618] Ourano: 10%
 
-0049 [parchment desert]:
-Zone 01:
-	Fossil Chips Needed: 0x3079
-	Max Spawns: 5
-	[0x250] Gorgo: 20%
-	[0x270] Giganto: 20%
-	[0x290] Arsith: 20%
-	[0x2B0] Smilo: 20%
-	[0x2D0] Orno: 20%
-Zone 02:
-	Fossil Chips Needed: 0x307C
-	Max Spawns: 5
-	[0x378] Gorgo: 14%
-	[0x398] Allo: 15%
-	[0x3B8] Giganto: 14%
-	[0x3D8] Aopteryx: 15%
-	[0x3F8] Arsith: 14%
-	[0x418] Smilo: 14%
-	[0x438] Orno: 14%
-Zone 03:
-	Fossil Chips Needed: 0x307F
-	Max Spawns: 5
-	[0x4E4] Gorgo: 12%
-	[0x504] Allo: 12%
-	[0x524] Giganto: 12%
-	[0x544] Aopteryx: 13%
-	[0x564] Perso: 15%
-	[0x584] Arsith: 12%
-	[0x5A4] Smilo: 12%
-	[0x5C4] Orno: 12%
-Zone 04:
-	Fossil Chips Needed: 0x3082
-	Max Spawns: 5
-	[0x678] T-Rex: 10%
-	[0x698] Gorgo: 10%
-	[0x6B8] Allo: 10%
-	[0x6D8] Giganto: 10%
-	[0x6F8] Aopteryx: 10%
-	[0x718] Perso: 10%
-	[0x738] Mihu: 10%
-	[0x758] Arsith: 10%
-	[0x778] Smilo: 10%
-	[0x798] Orno: 10%
-Zone 01:
-	Fossil Chips Needed: 0x307A
-	Max Spawns: 6
-	[0x838] Gorgo: 20%
-	[0x858] Giganto: 20%
-	[0x878] Arsith: 20%
-	[0x898] Smilo: 20%
-	[0x8B8] Orno: 20%
-Zone 02:
-	Fossil Chips Needed: 0x307D
-	Max Spawns: 6
-	[0x960] Gorgo: 14%
-	[0x980] Allo: 15%
-	[0x9A0] Giganto: 14%
-	[0x9C0] Aopteryx: 15%
-	[0x9E0] Arsith: 14%
-	[0xA00] Smilo: 14%
-	[0xA20] Orno: 14%
-Zone 03:
-	Fossil Chips Needed: 0x3080
-	Max Spawns: 6
-	[0xACC] Gorgo: 12%
-	[0xAEC] Allo: 12%
-	[0xB0C] Giganto: 12%
-	[0xB2C] Aopteryx: 13%
-	[0xB4C] Perso: 15%
-	[0xB6C] Arsith: 12%
-	[0xB8C] Smilo: 12%
-	[0xBAC] Orno: 12%
-Zone 04:
-	Fossil Chips Needed: 0x3083
-	Max Spawns: 6
-	[0xC60] T-Rex: 10%
-	[0xC80] Gorgo: 10%
-	[0xCA0] Allo: 10%
-	[0xCC0] Giganto: 10%
-	[0xCE0] Aopteryx: 10%
-	[0xD00] Perso: 10%
-	[0xD20] Mihu: 10%
-	[0xD40] Arsith: 10%
-	[0xD60] Smilo: 10%
-	[0xD80] Orno: 10%
-Zone 01:
-	Fossil Chips Needed: 0x307B
-	Max Spawns: 6
-	[0xE20] Gorgo: 20%
-	[0xE40] Giganto: 20%
-	[0xE60] Arsith: 20%
-	[0xE80] Smilo: 20%
-	[0xEA0] Orno: 20%
-Zone 02:
-	Fossil Chips Needed: 0x307E
-	Max Spawns: 6
-	[0xF48] Gorgo: 14%
-	[0xF68] Allo: 15%
-	[0xF88] Giganto: 14%
-	[0xFA8] Aopteryx: 15%
-	[0xFC8] Arsith: 14%
-	[0xFE8] Smilo: 14%
-	[0x1008] Orno: 14%
-Zone 03:
-	Fossil Chips Needed: 0x3081
-	Max Spawns: 6
-	[0x10B4] Gorgo: 12%
-	[0x10D4] Allo: 12%
-	[0x10F4] Giganto: 12%
-	[0x1114] Aopteryx: 13%
-	[0x1134] Perso: 15%
-	[0x1154] Arsith: 12%
-	[0x1174] Smilo: 12%
-	[0x1194] Orno: 12%
-Zone 04:
-	Fossil Chips Needed: 0x3084
-	Max Spawns: 6
-	[0x1248] T-Rex: 10%
-	[0x1268] Gorgo: 10%
-	[0x1288] Allo: 10%
-	[0x12A8] Giganto: 10%
-	[0x12C8] Aopteryx: 10%
-	[0x12E8] Perso: 10%
-	[0x1308] Mihu: 10%
-	[0x1328] Arsith: 10%
-	[0x1348] Smilo: 10%
-	[0x1368] Orno: 10%
+0049 [Parchment Desert]:
+	Zone 01:
+		Fossil Chips Needed: 0x3079
+		Max Spawns: 5
+		[0x250] Gorgo: 20%
+		[0x270] Giganto: 20%
+		[0x290] Arsith: 20%
+		[0x2B0] Smilo: 20%
+		[0x2D0] Orno: 20%
+	Zone 02:
+		Fossil Chips Needed: 0x307C
+		Max Spawns: 5
+		[0x378] Gorgo: 14%
+		[0x398] Allo: 15%
+		[0x3B8] Giganto: 14%
+		[0x3D8] Aopteryx: 15%
+		[0x3F8] Arsith: 14%
+		[0x418] Smilo: 14%
+		[0x438] Orno: 14%
+	Zone 03:
+		Fossil Chips Needed: 0x307F
+		Max Spawns: 5
+		[0x4E4] Gorgo: 12%
+		[0x504] Allo: 12%
+		[0x524] Giganto: 12%
+		[0x544] Aopteryx: 13%
+		[0x564] Perso: 15%
+		[0x584] Arsith: 12%
+		[0x5A4] Smilo: 12%
+		[0x5C4] Orno: 12%
+	Zone 04:
+		Fossil Chips Needed: 0x3082
+		Max Spawns: 5
+		[0x678] T-Rex: 10%
+		[0x698] Gorgo: 10%
+		[0x6B8] Allo: 10%
+		[0x6D8] Giganto: 10%
+		[0x6F8] Aopteryx: 10%
+		[0x718] Perso: 10%
+		[0x738] Mihu: 10%
+		[0x758] Arsith: 10%
+		[0x778] Smilo: 10%
+		[0x798] Orno: 10%
+	Zone 01:
+		Fossil Chips Needed: 0x307A
+		Max Spawns: 6
+		[0x838] Gorgo: 20%
+		[0x858] Giganto: 20%
+		[0x878] Arsith: 20%
+		[0x898] Smilo: 20%
+		[0x8B8] Orno: 20%
+	Zone 02:
+		Fossil Chips Needed: 0x307D
+		Max Spawns: 6
+		[0x960] Gorgo: 14%
+		[0x980] Allo: 15%
+		[0x9A0] Giganto: 14%
+		[0x9C0] Aopteryx: 15%
+		[0x9E0] Arsith: 14%
+		[0xA00] Smilo: 14%
+		[0xA20] Orno: 14%
+	Zone 03:
+		Fossil Chips Needed: 0x3080
+		Max Spawns: 6
+		[0xACC] Gorgo: 12%
+		[0xAEC] Allo: 12%
+		[0xB0C] Giganto: 12%
+		[0xB2C] Aopteryx: 13%
+		[0xB4C] Perso: 15%
+		[0xB6C] Arsith: 12%
+		[0xB8C] Smilo: 12%
+		[0xBAC] Orno: 12%
+	Zone 04:
+		Fossil Chips Needed: 0x3083
+		Max Spawns: 6
+		[0xC60] T-Rex: 10%
+		[0xC80] Gorgo: 10%
+		[0xCA0] Allo: 10%
+		[0xCC0] Giganto: 10%
+		[0xCE0] Aopteryx: 10%
+		[0xD00] Perso: 10%
+		[0xD20] Mihu: 10%
+		[0xD40] Arsith: 10%
+		[0xD60] Smilo: 10%
+		[0xD80] Orno: 10%
+	Zone 01:
+		Fossil Chips Needed: 0x307B
+		Max Spawns: 6
+		[0xE20] Gorgo: 20%
+		[0xE40] Giganto: 20%
+		[0xE60] Arsith: 20%
+		[0xE80] Smilo: 20%
+		[0xEA0] Orno: 20%
+	Zone 02:
+		Fossil Chips Needed: 0x307E
+		Max Spawns: 6
+		[0xF48] Gorgo: 14%
+		[0xF68] Allo: 15%
+		[0xF88] Giganto: 14%
+		[0xFA8] Aopteryx: 15%
+		[0xFC8] Arsith: 14%
+		[0xFE8] Smilo: 14%
+		[0x1008] Orno: 14%
+	Zone 03:
+		Fossil Chips Needed: 0x3081
+		Max Spawns: 6
+		[0x10B4] Gorgo: 12%
+		[0x10D4] Allo: 12%
+		[0x10F4] Giganto: 12%
+		[0x1114] Aopteryx: 13%
+		[0x1134] Perso: 15%
+		[0x1154] Arsith: 12%
+		[0x1174] Smilo: 12%
+		[0x1194] Orno: 12%
+	Zone 04:
+		Fossil Chips Needed: 0x3084
+		Max Spawns: 6
+		[0x1248] T-Rex: 10%
+		[0x1268] Gorgo: 10%
+		[0x1288] Allo: 10%
+		[0x12A8] Giganto: 10%
+		[0x12C8] Aopteryx: 10%
+		[0x12E8] Perso: 10%
+		[0x1308] Mihu: 10%
+		[0x1328] Arsith: 10%
+		[0x1348] Smilo: 10%
+		[0x1368] Orno: 10%
 
-0050 [bottomsup bay]:
-Zone 01:
-	Fossil Chips Needed: 0x3076
-	Max Spawns: 5
-	[0x2E8] Krona: 10%
-	[0x308] Elasmo: 30%
-	[0x328] Plesio: 30%
-	[0x348] Shoni: 30%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x3D8] Krona: 10%
-	[0x3F8] Elasmo: 30%
-	[0x418] Plesio: 30%
-	[0x438] Shoni: 30%
-Zone 01:
-	Fossil Chips Needed: 0x3077
-	Max Spawns: 6
-	[0x4C8] Krona: 25%
-	[0x4E8] Elasmo: 25%
-	[0x508] Plesio: 25%
-	[0x528] Shoni: 25%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 6
-	[0x5B8] Krona: 25%
-	[0x5D8] Elasmo: 25%
-	[0x5F8] Plesio: 25%
-	[0x618] Shoni: 25%
-Zone 01:
-	Fossil Chips Needed: 0x3078
-	Max Spawns: 6
-	[0x6A8] Krona: 25%
-	[0x6C8] Elasmo: 25%
-	[0x6E8] Plesio: 25%
-	[0x708] Shoni: 25%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x798] Krona: 25%
-	[0x7B8] Elasmo: 25%
-	[0x7D8] Plesio: 25%
-	[0x7F8] Shoni: 25%
+0050 [Bottomsup Bay]:
+	Zone 01:
+		Fossil Chips Needed: 0x3076
+		Max Spawns: 5
+		[0x2E8] Krona: 10%
+		[0x308] Elasmo: 30%
+		[0x328] Plesio: 30%
+		[0x348] Shoni: 30%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x3D8] Krona: 10%
+		[0x3F8] Elasmo: 30%
+		[0x418] Plesio: 30%
+		[0x438] Shoni: 30%
+	Zone 01:
+		Fossil Chips Needed: 0x3077
+		Max Spawns: 6
+		[0x4C8] Krona: 25%
+		[0x4E8] Elasmo: 25%
+		[0x508] Plesio: 25%
+		[0x528] Shoni: 25%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 6
+		[0x5B8] Krona: 25%
+		[0x5D8] Elasmo: 25%
+		[0x5F8] Plesio: 25%
+		[0x618] Shoni: 25%
+	Zone 01:
+		Fossil Chips Needed: 0x3078
+		Max Spawns: 6
+		[0x6A8] Krona: 25%
+		[0x6C8] Elasmo: 25%
+		[0x6E8] Plesio: 25%
+		[0x708] Shoni: 25%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x798] Krona: 25%
+		[0x7B8] Elasmo: 25%
+		[0x7D8] Plesio: 25%
+		[0x7F8] Shoni: 25%
 
-0051 [woolbeards room]:
-Zone 01:
-	Fossil Chips Needed: 0x13A6
-	Max Spawns: 0
-	[0x1C0] Futabi: 34%
-	[0x1E0] Elasmo: 33%
-	[0x200] Plesio: 33%
+0051 [Woolbeard's Room]:
+	Zone 01:
+		Fossil Chips Needed: 0x13A6
+		Max Spawns: 0
+		[0x1C0] Futabi: 34%
+		[0x1E0] Elasmo: 33%
+		[0x200] Plesio: 33%
 
-0052 [outside pirate ship]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x190] Krona: 10%
-	[0x1B0] Elasmo: 30%
-	[0x1D0] Plesio: 30%
-	[0x1F0] Shoni: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x280] Krona: 25%
-	[0x2A0] Elasmo: 25%
-	[0x2C0] Plesio: 25%
-	[0x2E0] Shoni: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x370] Krona: 25%
-	[0x390] Elasmo: 25%
-	[0x3B0] Plesio: 25%
-	[0x3D0] Shoni: 25%
+0052 [Bottomsup Bay Left Hole]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x190] Krona: 10%
+		[0x1B0] Elasmo: 30%
+		[0x1D0] Plesio: 30%
+		[0x1F0] Shoni: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x280] Krona: 25%
+		[0x2A0] Elasmo: 25%
+		[0x2C0] Plesio: 25%
+		[0x2E0] Shoni: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x370] Krona: 25%
+		[0x390] Elasmo: 25%
+		[0x3B0] Plesio: 25%
+		[0x3D0] Shoni: 25%
 
-0053 [BBay misc. holes]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1B8] Krona: 10%
-	[0x1D8] Elasmo: 30%
-	[0x1F8] Plesio: 30%
-	[0x218] Shoni: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2A8] Krona: 25%
-	[0x2C8] Elasmo: 25%
-	[0x2E8] Plesio: 25%
-	[0x308] Shoni: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x398] Krona: 25%
-	[0x3B8] Elasmo: 25%
-	[0x3D8] Plesio: 25%
-	[0x3F8] Shoni: 25%
+0053 [Bottomsup Bay Middle Hole]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1B8] Krona: 10%
+		[0x1D8] Elasmo: 30%
+		[0x1F8] Plesio: 30%
+		[0x218] Shoni: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2A8] Krona: 25%
+		[0x2C8] Elasmo: 25%
+		[0x2E8] Plesio: 25%
+		[0x308] Shoni: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x398] Krona: 25%
+		[0x3B8] Elasmo: 25%
+		[0x3D8] Plesio: 25%
+		[0x3F8] Shoni: 25%
 
-0054 [BBay misc. holes]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1A4] Krona: 25%
-	[0x1C4] Elasmo: 25%
-	[0x1E4] Plesio: 25%
-	[0x204] Shoni: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x298] Krona: 20%
-	[0x2B8] Elasmo: 25%
-	[0x2D8] Plesio: 25%
-	[0x2F8] Shoni: 20%
-	[0x318] Delta: 10%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x3AC] Krona: 20%
-	[0x3CC] Elasmo: 25%
-	[0x3EC] Plesio: 25%
-	[0x40C] Shoni: 20%
-	[0x42C] Delta: 10%
+0054 [Bottomsup Bay Right Hole]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1A4] Krona: 25%
+		[0x1C4] Elasmo: 25%
+		[0x1E4] Plesio: 25%
+		[0x204] Shoni: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x298] Krona: 20%
+		[0x2B8] Elasmo: 25%
+		[0x2D8] Plesio: 25%
+		[0x2F8] Shoni: 20%
+		[0x318] Delta: 10%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x3AC] Krona: 20%
+		[0x3CC] Elasmo: 25%
+		[0x3EC] Plesio: 25%
+		[0x40C] Shoni: 20%
+		[0x42C] Delta: 10%
 
-0055 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1B8] M-Raptor: 10%
-	[0x1D8] Onyx: 30%
-	[0x1F8] Jiango: 30%
-	[0x218] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2A8] M-Raptor: 25%
-	[0x2C8] Onyx: 25%
-	[0x2E8] Jiango: 25%
-	[0x308] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x398] M-Raptor: 25%
-	[0x3B8] Onyx: 25%
-	[0x3D8] Jiango: 25%
-	[0x3F8] Futabi: 25%
+0055 [Pirate Ship 1F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1B8] M-Raptor: 10%
+		[0x1D8] Onyx: 30%
+		[0x1F8] Jiango: 30%
+		[0x218] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2A8] M-Raptor: 25%
+		[0x2C8] Onyx: 25%
+		[0x2E8] Jiango: 25%
+		[0x308] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x398] M-Raptor: 25%
+		[0x3B8] Onyx: 25%
+		[0x3D8] Jiango: 25%
+		[0x3F8] Futabi: 25%
 
-0056 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1E0] M-Raptor: 10%
-	[0x200] Onyx: 30%
-	[0x220] Jiango: 30%
-	[0x240] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2D0] M-Raptor: 25%
-	[0x2F0] Onyx: 25%
-	[0x310] Jiango: 25%
-	[0x330] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x3C0] M-Raptor: 25%
-	[0x3E0] Onyx: 25%
-	[0x400] Jiango: 25%
-	[0x420] Futabi: 25%
+0056 [Pirate Ship 2F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1E0] M-Raptor: 10%
+		[0x200] Onyx: 30%
+		[0x220] Jiango: 30%
+		[0x240] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2D0] M-Raptor: 25%
+		[0x2F0] Onyx: 25%
+		[0x310] Jiango: 25%
+		[0x330] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x3C0] M-Raptor: 25%
+		[0x3E0] Onyx: 25%
+		[0x400] Jiango: 25%
+		[0x420] Futabi: 25%
 
-0057 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1E0] M-Raptor: 10%
-	[0x200] Onyx: 30%
-	[0x220] Jiango: 30%
-	[0x240] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2D0] M-Raptor: 25%
-	[0x2F0] Onyx: 25%
-	[0x310] Jiango: 25%
-	[0x330] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x3C0] M-Raptor: 25%
-	[0x3E0] Onyx: 25%
-	[0x400] Jiango: 25%
-	[0x420] Futabi: 25%
+0057 [Pirate Ship 3F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1E0] M-Raptor: 10%
+		[0x200] Onyx: 30%
+		[0x220] Jiango: 30%
+		[0x240] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2D0] M-Raptor: 25%
+		[0x2F0] Onyx: 25%
+		[0x310] Jiango: 25%
+		[0x330] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x3C0] M-Raptor: 25%
+		[0x3E0] Onyx: 25%
+		[0x400] Jiango: 25%
+		[0x420] Futabi: 25%
 
-0058 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x17C] M-Raptor: 10%
-	[0x19C] Onyx: 30%
-	[0x1BC] Jiango: 30%
-	[0x1DC] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x26C] M-Raptor: 25%
-	[0x28C] Onyx: 25%
-	[0x2AC] Jiango: 25%
-	[0x2CC] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x35C] M-Raptor: 25%
-	[0x37C] Onyx: 25%
-	[0x39C] Jiango: 25%
-	[0x3BC] Futabi: 25%
+0058 [Pirate Ship 1F Chest Room]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x17C] M-Raptor: 10%
+		[0x19C] Onyx: 30%
+		[0x1BC] Jiango: 30%
+		[0x1DC] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x26C] M-Raptor: 25%
+		[0x28C] Onyx: 25%
+		[0x2AC] Jiango: 25%
+		[0x2CC] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x35C] M-Raptor: 25%
+		[0x37C] Onyx: 25%
+		[0x39C] Jiango: 25%
+		[0x3BC] Futabi: 25%
 
-0059 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x17C] M-Raptor: 10%
-	[0x19C] Onyx: 30%
-	[0x1BC] Jiango: 30%
-	[0x1DC] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x270] M-Raptor: 20%
-	[0x290] Onyx: 20%
-	[0x2B0] Jiango: 25%
-	[0x2D0] Futabi: 25%
-	[0x2F0] Seismo: 10%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 3
-	[0x384] M-Raptor: 20%
-	[0x3A4] Onyx: 20%
-	[0x3C4] Jiango: 25%
-	[0x3E4] Futabi: 25%
-	[0x404] Seismo: 10%
+0059 [Pirate Ship 1F Misc Room]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x17C] M-Raptor: 10%
+		[0x19C] Onyx: 30%
+		[0x1BC] Jiango: 30%
+		[0x1DC] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x270] M-Raptor: 20%
+		[0x290] Onyx: 20%
+		[0x2B0] Jiango: 25%
+		[0x2D0] Futabi: 25%
+		[0x2F0] Seismo: 10%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 3
+		[0x384] M-Raptor: 20%
+		[0x3A4] Onyx: 20%
+		[0x3C4] Jiango: 25%
+		[0x3E4] Futabi: 25%
+		[0x404] Seismo: 10%
 
-0060 [bb base (outside/1F)]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x21C] Daspleto: 5%
-	[0x23C] Delta: 5%
-	[0x25C] Coelo: 5%
-	[0x27C] Salto: 30%
-	[0x29C] Kentro: 30%
-	[0x2BC] Pelto: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x364] Daspleto: 10%
-	[0x384] Delta: 10%
-	[0x3A4] Coelo: 15%
-	[0x3C4] Salto: 15%
-	[0x3E4] Kentro: 15%
-	[0x404] Pelto: 15%
-	[0x424] Styraco: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x4CC] Daspleto: 10%
-	[0x4EC] Delta: 10%
-	[0x50C] Coelo: 15%
-	[0x52C] Salto: 15%
-	[0x54C] Kentro: 15%
-	[0x56C] Pelto: 15%
-	[0x58C] Styraco: 20%
+0060 [BB Base 1F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x21C] Daspleto: 5%
+		[0x23C] Delta: 5%
+		[0x25C] Coelo: 5%
+		[0x27C] Salto: 30%
+		[0x29C] Kentro: 30%
+		[0x2BC] Pelto: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x364] Daspleto: 10%
+		[0x384] Delta: 10%
+		[0x3A4] Coelo: 15%
+		[0x3C4] Salto: 15%
+		[0x3E4] Kentro: 15%
+		[0x404] Pelto: 15%
+		[0x424] Styraco: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x4CC] Daspleto: 10%
+		[0x4EC] Delta: 10%
+		[0x50C] Coelo: 15%
+		[0x52C] Salto: 15%
+		[0x54C] Kentro: 15%
+		[0x56C] Pelto: 15%
+		[0x58C] Styraco: 20%
 
-0061 [bb base floors 2F-5F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1A0] Daspleto: 10%
-	[0x1C0] Delta: 10%
-	[0x1E0] Salto: 25%
-	[0x200] Kentro: 25%
-	[0x220] Pelto: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2C0] Daspleto: 15%
-	[0x2E0] Salto: 20%
-	[0x300] Kentro: 20%
-	[0x320] Pelto: 20%
-	[0x340] Styraco: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x3E0] Daspleto: 15%
-	[0x400] Salto: 20%
-	[0x420] Kentro: 20%
-	[0x440] Pelto: 20%
-	[0x460] Styraco: 25%
+0061 [BB Base 2F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1A0] Daspleto: 10%
+		[0x1C0] Delta: 10%
+		[0x1E0] Salto: 25%
+		[0x200] Kentro: 25%
+		[0x220] Pelto: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2C0] Daspleto: 15%
+		[0x2E0] Salto: 20%
+		[0x300] Kentro: 20%
+		[0x320] Pelto: 20%
+		[0x340] Styraco: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x3E0] Daspleto: 15%
+		[0x400] Salto: 20%
+		[0x420] Kentro: 20%
+		[0x440] Pelto: 20%
+		[0x460] Styraco: 25%
 
-0063 [coldfeet glacier]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x21C] Cryo: 20%
-	[0x23C] Spino: 20%
-	[0x25C] Sucho: 20%
-	[0x27C] Apato: 20%
-	[0x29C] Guera: 20%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x338] Sucho: 25%
-	[0x358] Apato: 25%
-	[0x378] Guera: 25%
-	[0x398] Paki: 25%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x434] Tarbo: 25%
-	[0x454] Ankylo: 25%
-	[0x474] Brontoth: 25%
-	[0x494] Mammoth: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x534] Cryo: 20%
-	[0x554] Spino: 20%
-	[0x574] Sucho: 20%
-	[0x594] Apato: 20%
-	[0x5B4] Guera: 20%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x654] Cryo: 20%
-	[0x674] Spino: 20%
-	[0x694] Ankylo: 20%
-	[0x6B4] Brontoth: 20%
-	[0x6D4] Paki: 20%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x770] Tarbo: 25%
-	[0x790] Ankylo: 25%
-	[0x7B0] Brontoth: 25%
-	[0x7D0] Mammoth: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 7
-	[0x870] Cryo: 20%
-	[0x890] Spino: 20%
-	[0x8B0] Sucho: 20%
-	[0x8D0] Apato: 20%
-	[0x8F0] Guera: 20%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 7
-	[0x9A0] Tarbo: 11%
-	[0x9C0] Cryo: 11%
-	[0x9E0] Spino: 11%
-	[0xA00] Sucho: 11%
-	[0xA20] Apato: 11%
-	[0xA40] Ankylo: 11%
-	[0xA60] Guera: 12%
-	[0xA80] Brontoth: 11%
-	[0xAA0] Paki: 11%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 7
-	[0xB3C] Tarbo: 25%
-	[0xB5C] Ankylo: 25%
-	[0xB7C] Brontoth: 25%
-	[0xB9C] Mammoth: 25%
+0063 [Coldfeet Glacier]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x21C] Cryo: 20%
+		[0x23C] Spino: 20%
+		[0x25C] Sucho: 20%
+		[0x27C] Apato: 20%
+		[0x29C] Guera: 20%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x338] Sucho: 25%
+		[0x358] Apato: 25%
+		[0x378] Guera: 25%
+		[0x398] Paki: 25%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x434] Tarbo: 25%
+		[0x454] Ankylo: 25%
+		[0x474] Brontoth: 25%
+		[0x494] Mammoth: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x534] Cryo: 20%
+		[0x554] Spino: 20%
+		[0x574] Sucho: 20%
+		[0x594] Apato: 20%
+		[0x5B4] Guera: 20%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x654] Cryo: 20%
+		[0x674] Spino: 20%
+		[0x694] Ankylo: 20%
+		[0x6B4] Brontoth: 20%
+		[0x6D4] Paki: 20%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x770] Tarbo: 25%
+		[0x790] Ankylo: 25%
+		[0x7B0] Brontoth: 25%
+		[0x7D0] Mammoth: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 7
+		[0x870] Cryo: 20%
+		[0x890] Spino: 20%
+		[0x8B0] Sucho: 20%
+		[0x8D0] Apato: 20%
+		[0x8F0] Guera: 20%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 7
+		[0x9A0] Tarbo: 11%
+		[0x9C0] Cryo: 11%
+		[0x9E0] Spino: 11%
+		[0xA00] Sucho: 11%
+		[0xA20] Apato: 11%
+		[0xA40] Ankylo: 11%
+		[0xA60] Guera: 12%
+		[0xA80] Brontoth: 11%
+		[0xAA0] Paki: 11%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 7
+		[0xB3C] Tarbo: 25%
+		[0xB5C] Ankylo: 25%
+		[0xB7C] Brontoth: 25%
+		[0xB9C] Mammoth: 25%
 
-0064 [ML main room, lava raised]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x290] Amargo: 50%
-	[0x2B0] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x34C] Shuno: 25%
-	[0x36C] Amargo: 25%
-	[0x38C] Saichan: 25%
-	[0x3AC] Jara: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x440] Amargo: 50%
-	[0x460] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 6
-	[0x4FC] Shuno: 30%
-	[0x51C] Amargo: 20%
-	[0x53C] Saichan: 20%
-	[0x55C] Jara: 30%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x5F0] Amargo: 50%
-	[0x610] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x6AC] Shuno: 30%
-	[0x6CC] Amargo: 20%
-	[0x6EC] Saichan: 20%
-	[0x70C] Jara: 30%
+0064 [Mt. Lavaflow (Lava Raised)]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x290] Amargo: 50%
+		[0x2B0] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x34C] Shuno: 25%
+		[0x36C] Amargo: 25%
+		[0x38C] Saichan: 25%
+		[0x3AC] Jara: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x440] Amargo: 50%
+		[0x460] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 6
+		[0x4FC] Shuno: 30%
+		[0x51C] Amargo: 20%
+		[0x53C] Saichan: 20%
+		[0x55C] Jara: 30%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x5F0] Amargo: 50%
+		[0x610] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x6AC] Shuno: 30%
+		[0x6CC] Amargo: 20%
+		[0x6EC] Saichan: 20%
+		[0x70C] Jara: 30%
 
-0065 [ML north room, lava raised]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x200] Shuno: 40%
-	[0x220] Amargo: 20%
-	[0x240] Saichan: 20%
-	[0x260] Jara: 20%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x2FC] Shuno: 20%
-	[0x31C] Amargo: 30%
-	[0x33C] Saichan: 30%
-	[0x35C] Jara: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x3F8] Shuno: 20%
-	[0x418] Amargo: 30%
-	[0x438] Saichan: 30%
-	[0x458] Jara: 20%
+0065 [Mt. Lavaflow N (Lava Raised)]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x200] Shuno: 40%
+		[0x220] Amargo: 20%
+		[0x240] Saichan: 20%
+		[0x260] Jara: 20%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x2FC] Shuno: 20%
+		[0x31C] Amargo: 30%
+		[0x33C] Saichan: 30%
+		[0x35C] Jara: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x3F8] Shuno: 20%
+		[0x418] Amargo: 30%
+		[0x438] Saichan: 30%
+		[0x458] Jara: 20%
 
-0066 [ML northeast room]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x20C] Shuno: 20%
-	[0x22C] Amargo: 20%
-	[0x24C] Saichan: 20%
-	[0x26C] Jara: 40%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x318] Tro: 5%
-	[0x338] Shuno: 20%
-	[0x358] Amargo: 20%
-	[0x378] Yango: 5%
-	[0x398] Saichan: 20%
-	[0x3B8] Einio: 5%
-	[0x3D8] Penta: 5%
-	[0x3F8] Jara: 20%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x494] Shuno: 30%
-	[0x4B4] Amargo: 20%
-	[0x4D4] Saichan: 20%
-	[0x4F4] Jara: 30%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x5A0] Tro: 10%
-	[0x5C0] Shuno: 15%
-	[0x5E0] Amargo: 15%
-	[0x600] Yango: 10%
-	[0x620] Saichan: 15%
-	[0x640] Einio: 10%
-	[0x660] Penta: 10%
-	[0x680] Jara: 15%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x71C] Shuno: 30%
-	[0x73C] Amargo: 20%
-	[0x75C] Saichan: 20%
-	[0x77C] Jara: 30%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x828] Tro: 10%
-	[0x848] Shuno: 15%
-	[0x868] Amargo: 15%
-	[0x888] Yango: 10%
-	[0x8A8] Saichan: 15%
-	[0x8C8] Einio: 10%
-	[0x8E8] Penta: 10%
-	[0x908] Jara: 15%
+0066 [Mt. Lavaflow NE (Lava Raised)]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x20C] Shuno: 20%
+		[0x22C] Amargo: 20%
+		[0x24C] Saichan: 20%
+		[0x26C] Jara: 40%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x318] Tro: 5%
+		[0x338] Shuno: 20%
+		[0x358] Amargo: 20%
+		[0x378] Yango: 5%
+		[0x398] Saichan: 20%
+		[0x3B8] Einio: 5%
+		[0x3D8] Penta: 5%
+		[0x3F8] Jara: 20%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x494] Shuno: 30%
+		[0x4B4] Amargo: 20%
+		[0x4D4] Saichan: 20%
+		[0x4F4] Jara: 30%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x5A0] Tro: 10%
+		[0x5C0] Shuno: 15%
+		[0x5E0] Amargo: 15%
+		[0x600] Yango: 10%
+		[0x620] Saichan: 15%
+		[0x640] Einio: 10%
+		[0x660] Penta: 10%
+		[0x680] Jara: 15%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x71C] Shuno: 30%
+		[0x73C] Amargo: 20%
+		[0x75C] Saichan: 20%
+		[0x77C] Jara: 30%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x828] Tro: 10%
+		[0x848] Shuno: 15%
+		[0x868] Amargo: 15%
+		[0x888] Yango: 10%
+		[0x8A8] Saichan: 15%
+		[0x8C8] Einio: 10%
+		[0x8E8] Penta: 10%
+		[0x908] Jara: 15%
 
-0067 [ML main room, no lava]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x238] Amargo: 50%
-	[0x258] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 5
-	[0x2F4] Shuno: 25%
-	[0x314] Amargo: 25%
-	[0x334] Saichan: 25%
-	[0x354] Jara: 25%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 7
-	[0x3F0] Tro: 25%
-	[0x410] Yango: 25%
-	[0x430] Einio: 25%
-	[0x450] Penta: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x4E4] Amargo: 50%
-	[0x504] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 6
-	[0x5A0] Shuno: 30%
-	[0x5C0] Amargo: 20%
-	[0x5E0] Saichan: 20%
-	[0x600] Jara: 30%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 7
-	[0x6A0] Guan: 20%
-	[0x6C0] Tro: 20%
-	[0x6E0] Yango: 20%
-	[0x700] Einio: 20%
-	[0x720] Penta: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x7B4] Amargo: 50%
-	[0x7D4] Saichan: 50%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x870] Shuno: 30%
-	[0x890] Amargo: 20%
-	[0x8B0] Saichan: 20%
-	[0x8D0] Jara: 30%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 7
-	[0x970] Guan: 20%
-	[0x990] Tro: 20%
-	[0x9B0] Yango: 20%
-	[0x9D0] Einio: 20%
-	[0x9F0] Penta: 20%
+0067 [Mt. Lavaflow (No Lava)]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x238] Amargo: 50%
+		[0x258] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 5
+		[0x2F4] Shuno: 25%
+		[0x314] Amargo: 25%
+		[0x334] Saichan: 25%
+		[0x354] Jara: 25%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 7
+		[0x3F0] Tro: 25%
+		[0x410] Yango: 25%
+		[0x430] Einio: 25%
+		[0x450] Penta: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x4E4] Amargo: 50%
+		[0x504] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 6
+		[0x5A0] Shuno: 30%
+		[0x5C0] Amargo: 20%
+		[0x5E0] Saichan: 20%
+		[0x600] Jara: 30%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 7
+		[0x6A0] Guan: 20%
+		[0x6C0] Tro: 20%
+		[0x6E0] Yango: 20%
+		[0x700] Einio: 20%
+		[0x720] Penta: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x7B4] Amargo: 50%
+		[0x7D4] Saichan: 50%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x870] Shuno: 30%
+		[0x890] Amargo: 20%
+		[0x8B0] Saichan: 20%
+		[0x8D0] Jara: 30%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 7
+		[0x970] Guan: 20%
+		[0x990] Tro: 20%
+		[0x9B0] Yango: 20%
+		[0x9D0] Einio: 20%
+		[0x9F0] Penta: 20%
 
-0068 [ML north room, no lava]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x194] Shuno: 40%
-	[0x1B4] Amargo: 20%
-	[0x1D4] Saichan: 20%
-	[0x1F4] Jara: 20%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x290] Tro: 25%
-	[0x2B0] Yango: 25%
-	[0x2D0] Einio: 25%
-	[0x2F0] Penta: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x38C] Shuno: 20%
-	[0x3AC] Amargo: 30%
-	[0x3CC] Saichan: 30%
-	[0x3EC] Jara: 20%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x48C] Guan: 20%
-	[0x4AC] Tro: 20%
-	[0x4CC] Yango: 20%
-	[0x4EC] Einio: 20%
-	[0x50C] Penta: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x5A8] Shuno: 20%
-	[0x5C8] Amargo: 30%
-	[0x5E8] Saichan: 30%
-	[0x608] Jara: 20%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x6A8] Guan: 20%
-	[0x6C8] Tro: 20%
-	[0x6E8] Yango: 20%
-	[0x708] Einio: 20%
-	[0x728] Penta: 20%
+0068 [Mt. Lavaflow N (No Lava)]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x194] Shuno: 40%
+		[0x1B4] Amargo: 20%
+		[0x1D4] Saichan: 20%
+		[0x1F4] Jara: 20%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x290] Tro: 25%
+		[0x2B0] Yango: 25%
+		[0x2D0] Einio: 25%
+		[0x2F0] Penta: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x38C] Shuno: 20%
+		[0x3AC] Amargo: 30%
+		[0x3CC] Saichan: 30%
+		[0x3EC] Jara: 20%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x48C] Guan: 20%
+		[0x4AC] Tro: 20%
+		[0x4CC] Yango: 20%
+		[0x4EC] Einio: 20%
+		[0x50C] Penta: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x5A8] Shuno: 20%
+		[0x5C8] Amargo: 30%
+		[0x5E8] Saichan: 30%
+		[0x608] Jara: 20%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x6A8] Guan: 20%
+		[0x6C8] Tro: 20%
+		[0x6E8] Yango: 20%
+		[0x708] Einio: 20%
+		[0x728] Penta: 20%
 
-0069 [ML northwest room]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x214] Tro: 25%
-	[0x234] Yango: 25%
-	[0x254] Einio: 25%
-	[0x274] Penta: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x314] Guan: 20%
-	[0x334] Tro: 20%
-	[0x354] Yango: 20%
-	[0x374] Einio: 20%
-	[0x394] Penta: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x434] Guan: 20%
-	[0x454] Tro: 20%
-	[0x474] Yango: 20%
-	[0x494] Einio: 20%
-	[0x4B4] Penta: 20%
+0069 [Mt. Lavaflow NW]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x214] Tro: 25%
+		[0x234] Yango: 25%
+		[0x254] Einio: 25%
+		[0x274] Penta: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x314] Guan: 20%
+		[0x334] Tro: 20%
+		[0x354] Yango: 20%
+		[0x374] Einio: 20%
+		[0x394] Penta: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x434] Guan: 20%
+		[0x454] Tro: 20%
+		[0x474] Yango: 20%
+		[0x494] Einio: 20%
+		[0x4B4] Penta: 20%
 
-0075 [secret island/crashed starship]:
-Zone 01:
-	Fossil Chips Needed: 0x0
-	Max Spawns: 0
-	[0x1C4] Compso: 10%
-	[0x1E4] Sopteryx: 10%
-	[0x204] Breme: 10%
-	[0x224] Cheirus: 10%
-	[0x244] O-Raptor: 10%
-	[0x264] Seismo: 10%
-	[0x284] Nodo: 10%
-	[0x2A4] Saichan: 10%
-	[0x2C4] Maia: 10%
-	[0x2E4] Proto: 10%
+0075 [Secret Island]:
+	Zone 01:
+		Fossil Chips Needed: 0x0
+		Max Spawns: 0
+		[0x1C4] Compso: 10%
+		[0x1E4] Sopteryx: 10%
+		[0x204] Breme: 10%
+		[0x224] Cheirus: 10%
+		[0x244] O-Raptor: 10%
+		[0x264] Seismo: 10%
+		[0x284] Nodo: 10%
+		[0x2A4] Saichan: 10%
+		[0x2C4] Maia: 10%
+		[0x2E4] Proto: 10%
 
-0076 [SI misc. hallways]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1B4] Cheirus: 20%
-	[0x1D4] Seismo: 20%
-	[0x1F4] Maia: 20%
-	[0x214] Anato: 20%
-	[0x234] Hoplo: 20%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2D4] Cheirus: 20%
-	[0x2F4] Seismo: 20%
-	[0x314] Maia: 20%
-	[0x334] Anato: 20%
-	[0x354] Hoplo: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x3F4] Cheirus: 20%
-	[0x414] Seismo: 20%
-	[0x434] Maia: 20%
-	[0x454] Anato: 20%
-	[0x474] Hoplo: 20%
+0076 [Crashed Starship 1]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1B4] Cheirus: 20%
+		[0x1D4] Seismo: 20%
+		[0x1F4] Maia: 20%
+		[0x214] Anato: 20%
+		[0x234] Hoplo: 20%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2D4] Cheirus: 20%
+		[0x2F4] Seismo: 20%
+		[0x314] Maia: 20%
+		[0x334] Anato: 20%
+		[0x354] Hoplo: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x3F4] Cheirus: 20%
+		[0x414] Seismo: 20%
+		[0x434] Maia: 20%
+		[0x454] Anato: 20%
+		[0x474] Hoplo: 20%
 
-0077 [SI misc. hallways]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1C8] Cheirus: 20%
-	[0x1E8] Seismo: 20%
-	[0x208] Maia: 20%
-	[0x228] Anato: 20%
-	[0x248] Hoplo: 20%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2E8] Cheirus: 20%
-	[0x308] Seismo: 20%
-	[0x328] Maia: 20%
-	[0x348] Anato: 20%
-	[0x368] Hoplo: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x408] Cheirus: 20%
-	[0x428] Seismo: 20%
-	[0x448] Maia: 20%
-	[0x468] Anato: 20%
-	[0x488] Hoplo: 20%
+0077 [Crashed Starship 2]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1C8] Cheirus: 20%
+		[0x1E8] Seismo: 20%
+		[0x208] Maia: 20%
+		[0x228] Anato: 20%
+		[0x248] Hoplo: 20%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2E8] Cheirus: 20%
+		[0x308] Seismo: 20%
+		[0x328] Maia: 20%
+		[0x348] Anato: 20%
+		[0x368] Hoplo: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x408] Cheirus: 20%
+		[0x428] Seismo: 20%
+		[0x448] Maia: 20%
+		[0x468] Anato: 20%
+		[0x488] Hoplo: 20%
 
-0078 [SI misc. hallways]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x1B0] Sopteryx: 10%
-	[0x1D0] Breme: 12%
-	[0x1F0] Cheirus: 10%
-	[0x210] O-Raptor: 10%
-	[0x230] Seismo: 12%
-	[0x250] Maia: 12%
-	[0x270] Anato: 12%
-	[0x290] Proto: 12%
-	[0x2B0] Hoplo: 10%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x360] Sopteryx: 10%
-	[0x380] Breme: 12%
-	[0x3A0] Cheirus: 10%
-	[0x3C0] O-Raptor: 10%
-	[0x3E0] Seismo: 12%
-	[0x400] Maia: 12%
-	[0x420] Anato: 12%
-	[0x440] Proto: 12%
-	[0x460] Hoplo: 10%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x510] Sopteryx: 10%
-	[0x530] Breme: 12%
-	[0x550] Cheirus: 10%
-	[0x570] O-Raptor: 10%
-	[0x590] Seismo: 12%
-	[0x5B0] Maia: 12%
-	[0x5D0] Anato: 12%
-	[0x5F0] Proto: 12%
-	[0x610] Hoplo: 10%
+0078 [Crashed Starship 3]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x1B0] Sopteryx: 10%
+		[0x1D0] Breme: 12%
+		[0x1F0] Cheirus: 10%
+		[0x210] O-Raptor: 10%
+		[0x230] Seismo: 12%
+		[0x250] Maia: 12%
+		[0x270] Anato: 12%
+		[0x290] Proto: 12%
+		[0x2B0] Hoplo: 10%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x360] Sopteryx: 10%
+		[0x380] Breme: 12%
+		[0x3A0] Cheirus: 10%
+		[0x3C0] O-Raptor: 10%
+		[0x3E0] Seismo: 12%
+		[0x400] Maia: 12%
+		[0x420] Anato: 12%
+		[0x440] Proto: 12%
+		[0x460] Hoplo: 10%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x510] Sopteryx: 10%
+		[0x530] Breme: 12%
+		[0x550] Cheirus: 10%
+		[0x570] O-Raptor: 10%
+		[0x590] Seismo: 12%
+		[0x5B0] Maia: 12%
+		[0x5D0] Anato: 12%
+		[0x5F0] Proto: 12%
+		[0x610] Hoplo: 10%
 
-0079 [SI misc. hallways]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1C4] Sopteryx: 20%
-	[0x1E4] Breme: 20%
-	[0x204] O-Raptor: 30%
-	[0x224] Proto: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2C0] Sopteryx: 20%
-	[0x2E0] Breme: 20%
-	[0x300] O-Raptor: 30%
-	[0x320] Proto: 30%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x3BC] Sopteryx: 20%
-	[0x3DC] Breme: 20%
-	[0x3FC] O-Raptor: 30%
-	[0x41C] Proto: 30%
+0079 [Crashed Starship 5]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1C4] Sopteryx: 20%
+		[0x1E4] Breme: 20%
+		[0x204] O-Raptor: 30%
+		[0x224] Proto: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2C0] Sopteryx: 20%
+		[0x2E0] Breme: 20%
+		[0x300] O-Raptor: 30%
+		[0x320] Proto: 30%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x3BC] Sopteryx: 20%
+		[0x3DC] Breme: 20%
+		[0x3FC] O-Raptor: 30%
+		[0x41C] Proto: 30%
 
-0080 [raptin battle room]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x19C] Sopteryx: 12%
-	[0x1BC] Breme: 10%
-	[0x1DC] Cheirus: 12%
-	[0x1FC] O-Raptor: 12%
-	[0x21C] Seismo: 10%
-	[0x23C] Maia: 10%
-	[0x25C] Anato: 12%
-	[0x27C] Proto: 10%
-	[0x29C] Hoplo: 12%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x34C] Sopteryx: 12%
-	[0x36C] Breme: 10%
-	[0x38C] Cheirus: 12%
-	[0x3AC] O-Raptor: 12%
-	[0x3CC] Seismo: 10%
-	[0x3EC] Maia: 10%
-	[0x40C] Anato: 12%
-	[0x42C] Proto: 10%
-	[0x44C] Hoplo: 12%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x4FC] Sopteryx: 12%
-	[0x51C] Breme: 10%
-	[0x53C] Cheirus: 12%
-	[0x55C] O-Raptor: 12%
-	[0x57C] Seismo: 10%
-	[0x59C] Maia: 10%
-	[0x5BC] Anato: 12%
-	[0x5DC] Proto: 10%
-	[0x5FC] Hoplo: 12%
+0080 [Crashed Starship 6]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x19C] Sopteryx: 12%
+		[0x1BC] Breme: 10%
+		[0x1DC] Cheirus: 12%
+		[0x1FC] O-Raptor: 12%
+		[0x21C] Seismo: 10%
+		[0x23C] Maia: 10%
+		[0x25C] Anato: 12%
+		[0x27C] Proto: 10%
+		[0x29C] Hoplo: 12%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x34C] Sopteryx: 12%
+		[0x36C] Breme: 10%
+		[0x38C] Cheirus: 12%
+		[0x3AC] O-Raptor: 12%
+		[0x3CC] Seismo: 10%
+		[0x3EC] Maia: 10%
+		[0x40C] Anato: 12%
+		[0x42C] Proto: 10%
+		[0x44C] Hoplo: 12%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x4FC] Sopteryx: 12%
+		[0x51C] Breme: 10%
+		[0x53C] Cheirus: 12%
+		[0x55C] O-Raptor: 12%
+		[0x57C] Seismo: 10%
+		[0x59C] Maia: 10%
+		[0x5BC] Anato: 12%
+		[0x5DC] Proto: 10%
+		[0x5FC] Hoplo: 12%
 
-0086 [bb base floors 2F-5F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1C8] Daspleto: 15%
-	[0x1E8] Coelo: 10%
-	[0x208] Salto: 25%
-	[0x228] Kentro: 25%
-	[0x248] Pelto: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2E8] Daspleto: 15%
-	[0x308] Coelo: 10%
-	[0x328] Salto: 25%
-	[0x348] Kentro: 25%
-	[0x368] Pelto: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x408] Coelo: 10%
-	[0x428] Salto: 25%
-	[0x448] Kentro: 25%
-	[0x468] Pelto: 25%
-	[0x488] Styraco: 20%
+0086 [BB Base 3F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1C8] Daspleto: 15%
+		[0x1E8] Coelo: 10%
+		[0x208] Salto: 25%
+		[0x228] Kentro: 25%
+		[0x248] Pelto: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2E8] Daspleto: 15%
+		[0x308] Coelo: 10%
+		[0x328] Salto: 25%
+		[0x348] Kentro: 25%
+		[0x368] Pelto: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x408] Coelo: 10%
+		[0x428] Salto: 25%
+		[0x448] Kentro: 25%
+		[0x468] Pelto: 25%
+		[0x488] Styraco: 20%
 
-0087 [bb base floors 2F-5F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1B4] Delta: 15%
-	[0x1D4] Coelo: 10%
-	[0x1F4] Salto: 25%
-	[0x214] Kentro: 25%
-	[0x234] Pelto: 25%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2D8] Delta: 15%
-	[0x2F8] Coelo: 15%
-	[0x318] Salto: 15%
-	[0x338] Kentro: 20%
-	[0x358] Pelto: 15%
-	[0x378] Dilopho: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x41C] Delta: 15%
-	[0x43C] Coelo: 15%
-	[0x45C] Salto: 15%
-	[0x47C] Kentro: 20%
-	[0x49C] Pelto: 15%
-	[0x4BC] Dilopho: 20%
+0087 [BB Base 4F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1B4] Delta: 15%
+		[0x1D4] Coelo: 10%
+		[0x1F4] Salto: 25%
+		[0x214] Kentro: 25%
+		[0x234] Pelto: 25%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2D8] Delta: 15%
+		[0x2F8] Coelo: 15%
+		[0x318] Salto: 15%
+		[0x338] Kentro: 20%
+		[0x358] Pelto: 15%
+		[0x378] Dilopho: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x41C] Delta: 15%
+		[0x43C] Coelo: 15%
+		[0x45C] Salto: 15%
+		[0x47C] Kentro: 20%
+		[0x49C] Pelto: 15%
+		[0x4BC] Dilopho: 20%
 
-0088 [bb base floors 2F-5F]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x1C4] Daspleto: 30%
-	[0x1E4] Delta: 30%
-	[0x204] Coelo: 30%
-	[0x224] Dilopho: 10%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x2C4] Daspleto: 20%
-	[0x2E4] Delta: 20%
-	[0x304] Coelo: 25%
-	[0x324] Dilopho: 25%
-	[0x344] Saichan: 10%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x3E4] Daspleto: 20%
-	[0x404] Delta: 20%
-	[0x424] Coelo: 25%
-	[0x444] Dilopho: 25%
-	[0x464] Saichan: 10%
+0088 [BB Base 5F]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x1C4] Daspleto: 30%
+		[0x1E4] Delta: 30%
+		[0x204] Coelo: 30%
+		[0x224] Dilopho: 10%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x2C4] Daspleto: 20%
+		[0x2E4] Delta: 20%
+		[0x304] Coelo: 25%
+		[0x324] Dilopho: 25%
+		[0x344] Saichan: 10%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x3E4] Daspleto: 20%
+		[0x404] Delta: 20%
+		[0x424] Coelo: 25%
+		[0x444] Dilopho: 25%
+		[0x464] Saichan: 10%
 
-0089 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x17C] M-Raptor: 10%
-	[0x19C] Onyx: 30%
-	[0x1BC] Jiango: 30%
-	[0x1DC] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x26C] M-Raptor: 25%
-	[0x28C] Onyx: 25%
-	[0x2AC] Jiango: 25%
-	[0x2CC] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x35C] M-Raptor: 25%
-	[0x37C] Onyx: 25%
-	[0x39C] Jiango: 25%
-	[0x3BC] Futabi: 25%
+0089 [Pirate Ship 2F Chest Room]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x17C] M-Raptor: 10%
+		[0x19C] Onyx: 30%
+		[0x1BC] Jiango: 30%
+		[0x1DC] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x26C] M-Raptor: 25%
+		[0x28C] Onyx: 25%
+		[0x2AC] Jiango: 25%
+		[0x2CC] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x35C] M-Raptor: 25%
+		[0x37C] Onyx: 25%
+		[0x39C] Jiango: 25%
+		[0x3BC] Futabi: 25%
 
-0090 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 1
-	[0x17C] M-Raptor: 10%
-	[0x19C] Onyx: 30%
-	[0x1BC] Jiango: 30%
-	[0x1DC] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 2
-	[0x26C] M-Raptor: 25%
-	[0x28C] Onyx: 25%
-	[0x2AC] Jiango: 25%
-	[0x2CC] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 2
-	[0x35C] M-Raptor: 25%
-	[0x37C] Onyx: 25%
-	[0x39C] Jiango: 25%
-	[0x3BC] Futabi: 25%
+0090 [Pirate Ship 3F Chest Room]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 1
+		[0x17C] M-Raptor: 10%
+		[0x19C] Onyx: 30%
+		[0x1BC] Jiango: 30%
+		[0x1DC] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 2
+		[0x26C] M-Raptor: 25%
+		[0x28C] Onyx: 25%
+		[0x2AC] Jiango: 25%
+		[0x2CC] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 2
+		[0x35C] M-Raptor: 25%
+		[0x37C] Onyx: 25%
+		[0x39C] Jiango: 25%
+		[0x3BC] Futabi: 25%
 
-0091 [pirate ship misc. rooms]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x17C] M-Raptor: 10%
-	[0x19C] Onyx: 30%
-	[0x1BC] Jiango: 30%
-	[0x1DC] Futabi: 30%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x26C] M-Raptor: 25%
-	[0x28C] Onyx: 25%
-	[0x2AC] Jiango: 25%
-	[0x2CC] Futabi: 25%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 3
-	[0x35C] M-Raptor: 25%
-	[0x37C] Onyx: 25%
-	[0x39C] Jiango: 25%
-	[0x3BC] Futabi: 25%
+0091 [Pirate Ship 2F Misc Room]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x17C] M-Raptor: 10%
+		[0x19C] Onyx: 30%
+		[0x1BC] Jiango: 30%
+		[0x1DC] Futabi: 30%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x26C] M-Raptor: 25%
+		[0x28C] Onyx: 25%
+		[0x2AC] Jiango: 25%
+		[0x2CC] Futabi: 25%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 3
+		[0x35C] M-Raptor: 25%
+		[0x37C] Onyx: 25%
+		[0x39C] Jiango: 25%
+		[0x3BC] Futabi: 25%
 
-0093 [SI misc. hallways]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x1C4] Sopteryx: 30%
-	[0x1E4] Breme: 30%
-	[0x204] O-Raptor: 20%
-	[0x224] Proto: 20%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x2C0] Sopteryx: 30%
-	[0x2E0] Breme: 30%
-	[0x300] O-Raptor: 20%
-	[0x320] Proto: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x3BC] Sopteryx: 30%
-	[0x3DC] Breme: 30%
-	[0x3FC] O-Raptor: 20%
-	[0x41C] Proto: 20%
+0093 [Crashed Starship 4]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x1C4] Sopteryx: 30%
+		[0x1E4] Breme: 30%
+		[0x204] O-Raptor: 20%
+		[0x224] Proto: 20%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x2C0] Sopteryx: 30%
+		[0x2E0] Breme: 30%
+		[0x300] O-Raptor: 20%
+		[0x320] Proto: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x3BC] Sopteryx: 30%
+		[0x3DC] Breme: 30%
+		[0x3FC] O-Raptor: 20%
+		[0x41C] Proto: 20%
 
-0103 [RR mole tunnels]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x1B8] Nodo: 50%
-	[0x1D8] Megath: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x268] Nodo: 20%
-	[0x288] Nodo: 30%
-	[0x2A8] Megath: 20%
-	[0x2C8] Megath: 30%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x360] Nodo: 20%
-	[0x380] Nodo: 15%
-	[0x3A0] Nodo: 15%
-	[0x3C0] Megath: 20%
-	[0x3E0] Megath: 15%
-	[0x400] Megath: 15%
+0103 [Secret Tunnel 2]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x1B8] Nodo: 50%
+		[0x1D8] Megath: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x268] Nodo: 20%
+		[0x288] Nodo: 30%
+		[0x2A8] Megath: 20%
+		[0x2C8] Megath: 30%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x360] Nodo: 20%
+		[0x380] Nodo: 15%
+		[0x3A0] Nodo: 15%
+		[0x3C0] Megath: 20%
+		[0x3E0] Megath: 15%
+		[0x400] Megath: 15%
 
-0105 [RR mole tunnels]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x1A4] Zino: 50%
-	[0x1C4] Chelon: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x254] Zino: 20%
-	[0x274] Zino: 30%
-	[0x294] Chelon: 20%
-	[0x2B4] Chelon: 30%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x34C] Zino: 20%
-	[0x36C] Zino: 15%
-	[0x38C] Zino: 15%
-	[0x3AC] Chelon: 20%
-	[0x3CC] Chelon: 15%
-	[0x3EC] Chelon: 15%
+0105 [Secret Tunnel 3]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x1A4] Zino: 50%
+		[0x1C4] Chelon: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x254] Zino: 20%
+		[0x274] Zino: 30%
+		[0x294] Chelon: 20%
+		[0x2B4] Chelon: 30%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x34C] Zino: 20%
+		[0x36C] Zino: 15%
+		[0x38C] Zino: 15%
+		[0x3AC] Chelon: 20%
+		[0x3CC] Chelon: 15%
+		[0x3EC] Chelon: 15%
 
-0106 [RR mole tunnels]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 2
-	[0x190] Brachio: 50%
-	[0x1B0] Tricera: 50%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x240] Brachio: 20%
-	[0x260] Brachio: 30%
-	[0x280] Tricera: 20%
-	[0x2A0] Tricera: 30%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x338] Brachio: 20%
-	[0x358] Brachio: 15%
-	[0x378] Brachio: 15%
-	[0x398] Tricera: 20%
-	[0x3B8] Tricera: 15%
-	[0x3D8] Tricera: 15%
+0106 [Secret Tunnel 4]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 2
+		[0x190] Brachio: 50%
+		[0x1B0] Tricera: 50%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x240] Brachio: 20%
+		[0x260] Brachio: 30%
+		[0x280] Tricera: 20%
+		[0x2A0] Tricera: 30%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x338] Brachio: 20%
+		[0x358] Brachio: 15%
+		[0x378] Brachio: 15%
+		[0x398] Tricera: 20%
+		[0x3B8] Tricera: 15%
+		[0x3D8] Tricera: 15%
 
-0116 [real knotwood forest]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x33C] Venator: 34%
-	[0x35C] S-Raptor: 33%
-	[0x37C] Nychus: 33%
-Zone 02:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x408] Venator: 33%
-	[0x428] S-Raptor: 34%
-	[0x448] Nychus: 33%
-Zone 03:
-	Fossil Chips Needed: 0
-	Max Spawns: 4
-	[0x4D4] Venator: 33%
-	[0x4F4] S-Raptor: 33%
-	[0x514] Nychus: 34%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x5A0] Venator: 34%
-	[0x5C0] S-Raptor: 33%
-	[0x5E0] Nychus: 33%
-Zone 02:
-	Fossil Chips Needed: 1
-	Max Spawns: 4
-	[0x66C] Venator: 33%
-	[0x68C] S-Raptor: 34%
-	[0x6AC] Nychus: 33%
-Zone 03:
-	Fossil Chips Needed: 1
-	Max Spawns: 5
-	[0x738] Venator: 33%
-	[0x758] S-Raptor: 33%
-	[0x778] Nychus: 34%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x804] Venator: 34%
-	[0x824] S-Raptor: 33%
-	[0x844] Nychus: 33%
-Zone 02:
-	Fossil Chips Needed: 2
-	Max Spawns: 5
-	[0x8D0] Venator: 33%
-	[0x8F0] S-Raptor: 34%
-	[0x910] Nychus: 33%
-Zone 03:
-	Fossil Chips Needed: 2
-	Max Spawns: 6
-	[0x99C] Venator: 33%
-	[0x9BC] S-Raptor: 33%
-	[0x9DC] Nychus: 34%
+0116 [Knotwood Forest]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x33C] Venator: 34%
+		[0x35C] S-Raptor: 33%
+		[0x37C] Nychus: 33%
+	Zone 02:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x408] Venator: 33%
+		[0x428] S-Raptor: 34%
+		[0x448] Nychus: 33%
+	Zone 03:
+		Fossil Chips Needed: 0
+		Max Spawns: 4
+		[0x4D4] Venator: 33%
+		[0x4F4] S-Raptor: 33%
+		[0x514] Nychus: 34%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x5A0] Venator: 34%
+		[0x5C0] S-Raptor: 33%
+		[0x5E0] Nychus: 33%
+	Zone 02:
+		Fossil Chips Needed: 1
+		Max Spawns: 4
+		[0x66C] Venator: 33%
+		[0x68C] S-Raptor: 34%
+		[0x6AC] Nychus: 33%
+	Zone 03:
+		Fossil Chips Needed: 1
+		Max Spawns: 5
+		[0x738] Venator: 33%
+		[0x758] S-Raptor: 33%
+		[0x778] Nychus: 34%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x804] Venator: 34%
+		[0x824] S-Raptor: 33%
+		[0x844] Nychus: 33%
+	Zone 02:
+		Fossil Chips Needed: 2
+		Max Spawns: 5
+		[0x8D0] Venator: 33%
+		[0x8F0] S-Raptor: 34%
+		[0x910] Nychus: 33%
+	Zone 03:
+		Fossil Chips Needed: 2
+		Max Spawns: 6
+		[0x99C] Venator: 33%
+		[0x9BC] S-Raptor: 33%
+		[0x9DC] Nychus: 34%
 
-0121 [trial dig site]:
-Zone 01:
-	Fossil Chips Needed: 0
-	Max Spawns: 3
-	[0x178] Shanshan: 100%
-Zone 01:
-	Fossil Chips Needed: 1
-	Max Spawns: 3
-	[0x1D8] Spinax: 20%
-	[0x1F8] Spinax: 30%
-	[0x218] Shanshan: 30%
-	[0x238] Shanshan: 20%
-Zone 01:
-	Fossil Chips Needed: 2
-	Max Spawns: 4
-	[0x298] Spinax: 20%
-	[0x2B8] Spinax: 30%
-	[0x2D8] Shanshan: 30%
-	[0x2F8] Shanshan: 20%
+0121 [Trial Dig Site ]:
+	Zone 01:
+		Fossil Chips Needed: 0
+		Max Spawns: 3
+		[0x178] Shanshan: 100%
+	Zone 01:
+		Fossil Chips Needed: 1
+		Max Spawns: 3
+		[0x1D8] Spinax: 20%
+		[0x1F8] Spinax: 30%
+		[0x218] Shanshan: 30%
+		[0x238] Shanshan: 20%
+	Zone 01:
+		Fossil Chips Needed: 2
+		Max Spawns: 4
+		[0x298] Spinax: 20%
+		[0x2B8] Spinax: 30%
+		[0x2D8] Shanshan: 30%
+		[0x2F8] Shanshan: 20%
 
