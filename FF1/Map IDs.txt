@@ -60,4 +60,4 @@
 0106: Secret Tunnel 4
 0116: Knotwood Forest
 0117: Digadig Village
-0121: Trial Dig Site 
+0121: Trial Dig Site

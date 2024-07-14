@@ -1753,7 +1753,7 @@
 		[0x9BC] S-Raptor: 33%
 		[0x9DC] Nychus: 34%
 
-0121 [Trial Dig Site ]:
+0121 [Trial Dig Site]:
 	Zone 01:
 		Fossil Chips Needed: 0
 		Max Spawns: 3
