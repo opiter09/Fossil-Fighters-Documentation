@@ -10,10 +10,21 @@ If you would just like to see all of that information, I have made a human-reada
 form of the file "Battle Files Teams.txt." I have also included the python script I used to generate it,
 namely ff1_teamsOutput.py. However, if you would like to actually edit that file, here is what I found:
 
+0x0C-0x0D is the music used by the battle. Presumably, this correlates to IDs in etc/snd_data.sdat or
+something. The list for them is as follows (courtesy of EchoSpaceZ):
+- 6B 00: Tutorial
+- 6C 00: Captain Travers
+- 6D 00: Level-Up (Preliminary)
+- 6E 00: Level-Up (Master)
+- 6F 00: Normal Enemies
+- 70 00: Bosses
+- 71 00: Guhnash
+- 17 05: Bullwort
+- 18 05: Dynal
 
 0x30 is the value for which 3D arena model the battle is fought in. The list for them is as follows
-(courtesy of EchoSpaceZ):
-- 01: Level Up Arena
+(also courtesy of EchoSpaceZ):
+- 01: Level-Up Arena
 - 02: Guhnash 
 - 03: Hotel/Outside
 - 04: Greenhorn/Knotwood
