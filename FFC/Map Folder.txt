@@ -28,6 +28,8 @@ M is a little different, and its full purpose has not yet been divined. However,
 	- They also get their own headers? Like, what the fuck, man. We're up to like triple-relative here, but here goes (starting from the pointer):
 		- 0x0C-0x0F is some sort of pointer to something in here. The main thing to know is that if this value is not 0x14, you need to adjust the locations below
 		  accordingly.
+		- 0x18-0x1B is the maximum number of spawns of this zone that can occur in this map (as far as I can tell, it just always spawns this many, but I don't want
+		  to just say that)
 		- 0x1C-0x1F is how many weird gigantic numbers that increment we get starting at 0x2C, while the amount of space they take up is also at 0x20-0x23.
 		  However, these values seem to be constant, so one or both of them might really be something else
 		- Then, at 0x24-0x27, we get how many actual fossil entries there are (usually, but I can't guarantee this, starting at 0x40)
