@@ -1,6 +1,7 @@
 3000:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x22E] Pacro Head (Normal, Normal)
 			[0x236] Pacro Head (Normal, Normal)
 			[0x23E] Pacro Body (Normal, Normal)
@@ -38,6 +39,7 @@
 			[0x33E] Other (Normal, Normal)
 			[0x346] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x392] Pacro Head (Normal, Normal)
 			[0x39A] Pacro Head (Normal, Normal)
 			[0x3A2] Pacro Body (Normal, Normal)
@@ -77,6 +79,7 @@
 			[0x4B2] Other (Normal, Normal)
 			[0x4BA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x506] Other (Normal, Normal)
 			[0x50E] Other (Normal, Normal)
 			[0x516] Other (Normal, Normal)
@@ -113,6 +116,7 @@
 			[0x60E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x67E] Goyle Head (Normal, Normal)
 			[0x686] Goyle Head (Normal, Normal)
 			[0x68E] Goyle Body (Normal, Normal)
@@ -150,6 +154,7 @@
 			[0x78E] Other (Normal, Normal)
 			[0x796] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x7DE] Goyle Head (Normal, Normal)
 			[0x7E6] Goyle Head (Normal, Normal)
 			[0x7EE] Goyle Body (Normal, Normal)
@@ -189,6 +194,7 @@
 			[0x8FE] Other (Normal, Normal)
 			[0x906] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x94E] Pacro Head (Normal, Normal)
 			[0x956] Pacro Body (Normal, Normal)
 			[0x95E] Pacro Arms (Normal, Normal)
@@ -237,6 +243,7 @@
 			[0xAB6] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0xB26] Tricera Head (Normal, Normal)
 			[0xB2E] Tricera Head (Normal, Normal)
 			[0xB36] Tricera Body (Normal, Normal)
@@ -275,6 +282,7 @@
 			[0xC3E] Other (Normal, Normal)
 			[0xC46] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC8E] Tricera Head (Normal, Normal)
 			[0xC96] Tricera Head (Normal, Normal)
 			[0xC9E] Tricera Body (Normal, Normal)
@@ -315,6 +323,7 @@
 			[0xDB6] Other (Normal, Normal)
 			[0xDBE] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0xE06] Tricera Head (Normal, Normal)
 			[0xE0E] Tricera Body (Normal, Normal)
 			[0xE16] Tricera Arms (Normal, Normal)
@@ -368,6 +377,7 @@
 			[0xF96] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x1006] Other (Normal, Normal)
 			[0x100E] Other (Normal, Normal)
 			[0x1016] Other (Normal, Normal)
@@ -406,6 +416,7 @@
 			[0x111E] Other (Normal, Normal)
 			[0x1126] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x116E] Other (Normal, Normal)
 			[0x1176] Other (Normal, Normal)
 			[0x117E] Other (Normal, Normal)
@@ -446,6 +457,7 @@
 			[0x1296] Other (Normal, Normal)
 			[0x129E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x12E6] Other (Normal, Normal)
 			[0x12EE] Other (Normal, Normal)
 			[0x12F6] Other (Normal, Normal)
@@ -508,6 +520,7 @@
 			[0x14BE] Other (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x152E] Menchi Head (Normal, Normal)
 			[0x1536] Menchi Head (Normal, Normal)
 			[0x153E] Menchi Body (Normal, Normal)
@@ -546,6 +559,7 @@
 			[0x1646] Other (Normal, Normal)
 			[0x164E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x1696] Menchi Head (Normal, Normal)
 			[0x169E] Menchi Head (Normal, Normal)
 			[0x16A6] Menchi Body (Normal, Normal)
@@ -586,6 +600,7 @@
 			[0x17BE] Other (Normal, Normal)
 			[0x17C6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x180E] Menchi Head (Normal, Normal)
 			[0x1816] Menchi Body (Normal, Normal)
 			[0x181E] Menchi Arms (Normal, Normal)
@@ -626,6 +641,7 @@
 3001:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 20
 			[0x1BA] Perso Head (Normal, Normal)
 			[0x1C2] Perso Head (Normal, Normal)
 			[0x1CA] Perso Body (Normal, Normal)
@@ -681,6 +697,7 @@
 			[0x35A] Other (Normal, Normal)
 			[0x362] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 30
 			[0x396] Perso Head (Normal, Normal)
 			[0x39E] Perso Head (Normal, Normal)
 			[0x3A6] Perso Body (Normal, Normal)
@@ -739,6 +756,7 @@
 			[0x54E] Other (Normal, Normal)
 			[0x556] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 40
 			[0x58A] Perso Head (Normal, Normal)
 			[0x592] Perso Body (Normal, Normal)
 			[0x59A] Perso Arms (Normal, Normal)
@@ -788,36 +806,49 @@
 			[0x6FA] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x756] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x78A] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x7BE] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x81A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x84E] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x882] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8DE] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x912] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x946] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x9A2] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x9D6] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA0A] Sucho Arms (Normal, Normal)
 
 3002:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 10
 			[0x1C6] Radox Single (Normal, Normal)
 			[0x1CE] Tarbo Head (Normal, Normal)
 			[0x1D6] Tarbo Body (Normal, Normal)
@@ -889,6 +920,7 @@
 			[0x3E6] Other (Normal, Normal)
 			[0x3EE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 15
 			[0x422] Radox Single (Normal, Normal)
 			[0x42A] Tarbo Head (Normal, Normal)
 			[0x432] Tarbo Body (Normal, Normal)
@@ -960,6 +992,7 @@
 			[0x642] Other (Normal, Normal)
 			[0x64A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 20
 			[0x67E] Radox Single (Normal, Normal)
 			[0x686] Tarbo Head (Normal, Normal)
 			[0x68E] Tarbo Body (Normal, Normal)
@@ -1033,33 +1066,46 @@
 			[0x8AE] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x90A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x93E] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x972] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 		Fossil Chip 1:
+			Max Spawns: 0
 		Fossil Chip 2:
+			Max Spawns: 0
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA7A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xAAE] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xAE2] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xB3E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB72] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xBA6] Sucho Arms (Normal, Normal)
 
 3003:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x1CE] Chasmo Head (Normal, Normal)
 			[0x1D6] Chasmo Body (Normal, Normal)
 			[0x1DE] Chasmo Arms (Normal, Normal)
@@ -1087,6 +1133,7 @@
 			[0x28E] Other (Normal, Normal)
 			[0x296] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x2DE] Chasmo Head (Normal, Normal)
 			[0x2E6] Chasmo Body (Normal, Normal)
 			[0x2EE] Chasmo Arms (Normal, Normal)
@@ -1114,6 +1161,7 @@
 			[0x39E] Other (Normal, Normal)
 			[0x3A6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 2
 			[0x3EE] Cryo Head (Normal, Normal)
 			[0x3F6] Goyo Head (Normal, Normal)
 			[0x3FE] Cryo Head (Normal, Rare)
@@ -1138,36 +1186,49 @@
 			[0x496] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x506] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x54E] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x596] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x606] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x64E] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x696] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x706] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x74E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x796] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x806] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x84E] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x896] Sucho Arms (Normal, Normal)
 
 3100:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x20A] Krypto Head (Normal, Normal)
 			[0x212] Krypto Head (Normal, Normal)
 			[0x21A] Krypto Body (Normal, Normal)
@@ -1196,6 +1257,7 @@
 			[0x2D2] Other (Normal, Normal)
 			[0x2DA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x322] Krypto Head (Normal, Normal)
 			[0x32A] Krypto Head (Normal, Normal)
 			[0x332] Krypto Body (Normal, Normal)
@@ -1225,6 +1287,7 @@
 			[0x3F2] Other (Normal, Normal)
 			[0x3FA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x442] Krypto Head (Normal, Normal)
 			[0x44A] Krypto Body (Normal, Normal)
 			[0x452] Krypto Arms (Normal, Normal)
@@ -1250,36 +1313,49 @@
 			[0x4F2] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x562] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5AA] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x5F2] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x662] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6AA] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x6F2] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x762] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7AA] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x7F2] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x862] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8AA] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x8F2] Sucho Arms (Normal, Normal)
 
 3101:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x1F6] Coatlus Head (Normal, Normal)
 			[0x1FE] Coatlus Head (Normal, Normal)
 			[0x206] Coatlus Body (Normal, Normal)
@@ -1331,6 +1407,7 @@
 			[0x376] Other (Normal, Normal)
 			[0x37E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x3C6] Coatlus Head (Normal, Normal)
 			[0x3CE] Coatlus Head (Normal, Normal)
 			[0x3D6] Coatlus Body (Normal, Normal)
@@ -1385,6 +1462,7 @@
 			[0x55E] Other (Normal, Normal)
 			[0x566] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x5AE] Coatlus Head (Normal, Normal)
 			[0x5B6] Coatlus Body (Normal, Normal)
 			[0x5BE] Coatlus Arms (Normal, Normal)
@@ -1430,36 +1508,49 @@
 			[0x6FE] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x76E] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7B6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x7FE] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x86E] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8B6] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x8FE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x96E] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x9B6] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x9FE] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA6E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xAB6] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xAFE] Sucho Arms (Normal, Normal)
 
 3102:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x1F6] Parapu Single (Normal, Normal)
 			[0x1FE] Parapu Single (Normal, Normal)
 			[0x206] Nycto Head (Normal, Normal)
@@ -1502,6 +1593,7 @@
 			[0x32E] Other (Normal, Normal)
 			[0x336] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x37E] Parapu Single (Normal, Normal)
 			[0x386] Parapu Single (Normal, Normal)
 			[0x38E] Nycto Head (Normal, Normal)
@@ -1546,6 +1638,7 @@
 			[0x4C6] Other (Normal, Normal)
 			[0x4CE] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x516] Parapu Single (Normal, Normal)
 			[0x51E] Nycto Head (Normal, Normal)
 			[0x526] Nycto Body (Normal, Normal)
@@ -1583,36 +1676,49 @@
 			[0x626] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x696] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6DE] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x726] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x796] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7DE] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x826] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x896] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8DE] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x926] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x996] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x9DE] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA26] Sucho Arms (Normal, Normal)
 
 3103:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1F6] Nycto Head (Normal, Normal)
 			[0x1FE] Nycto Head (Normal, Normal)
 			[0x206] Nycto Body (Normal, Normal)
@@ -1650,6 +1756,7 @@
 			[0x306] Other (Normal, Normal)
 			[0x30E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x356] Nycto Head (Normal, Normal)
 			[0x35E] Nycto Head (Normal, Normal)
 			[0x366] Nycto Body (Normal, Normal)
@@ -1689,6 +1796,7 @@
 			[0x476] Other (Normal, Normal)
 			[0x47E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x4C6] Nycto Head (Normal, Normal)
 			[0x4CE] Nycto Body (Normal, Normal)
 			[0x4D6] Nycto Arms (Normal, Normal)
@@ -1722,36 +1830,49 @@
 			[0x5B6] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x626] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x66E] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x6B6] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x726] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x76E] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x7B6] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x826] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x86E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x8B6] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x926] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x96E] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x9B6] Sucho Arms (Normal, Normal)
 
 3104:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x206] Delta Head (Normal, Normal)
 			[0x20E] Delta Body (Normal, Normal)
 			[0x216] Delta Arms (Normal, Normal)
@@ -1782,6 +1903,7 @@
 			[0x2DE] Other (Normal, Normal)
 			[0x2E6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 6
 			[0x32E] Delta Head (Normal, Normal)
 			[0x336] Delta Body (Normal, Normal)
 			[0x33E] Delta Arms (Normal, Normal)
@@ -1812,6 +1934,7 @@
 			[0x406] Other (Normal, Normal)
 			[0x40E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x456] Delta Head (Normal, Normal)
 			[0x45E] Delta Body (Normal, Normal)
 			[0x466] Delta Arms (Normal, Normal)
@@ -1843,36 +1966,49 @@
 			[0x536] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x5A6] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5EE] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x636] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x6A6] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6EE] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x736] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x7A6] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7EE] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x836] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8A6] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8EE] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x936] Sucho Arms (Normal, Normal)
 
 3200:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x2A2] Hypsi Head (Normal, Normal)
 			[0x2AA] Hypsi Head (Normal, Normal)
 			[0x2B2] Hypsi Body (Normal, Normal)
@@ -1925,6 +2061,7 @@
 			[0x42A] Other (Normal, Normal)
 			[0x432] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x47A] Hypsi Head (Normal, Normal)
 			[0x482] Hypsi Head (Normal, Normal)
 			[0x48A] Hypsi Body (Normal, Normal)
@@ -1980,6 +2117,7 @@
 			[0x61A] Other (Normal, Normal)
 			[0x622] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x66A] Hypsi Head (Normal, Normal)
 			[0x672] Hypsi Body (Normal, Normal)
 			[0x67A] Hypsi Arms (Normal, Normal)
@@ -2027,6 +2165,7 @@
 			[0x7CA] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x83A] Ceros Single (Normal, Normal)
 			[0x842] Ceros Single (Normal, Normal)
 			[0x84A] Nodo Head (Normal, Normal)
@@ -2070,6 +2209,7 @@
 			[0x97A] Other (Normal, Normal)
 			[0x982] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 6
 			[0x9CA] Ceros Single (Normal, Normal)
 			[0x9D2] Ceros Single (Normal, Normal)
 			[0x9DA] Nodo Head (Normal, Normal)
@@ -2115,6 +2255,7 @@
 			[0xB1A] Other (Normal, Normal)
 			[0xB22] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 7
 			[0xB6A] Ceros Single (Normal, Normal)
 			[0xB72] Nodo Head (Normal, Normal)
 			[0xB7A] Nodo Body (Normal, Normal)
@@ -2154,6 +2295,7 @@
 			[0xC8A] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 3
 			[0xCFA] Megath Head (Normal, Normal)
 			[0xD02] Megath Head (Normal, Normal)
 			[0xD0A] Megath Body (Normal, Normal)
@@ -2183,6 +2325,7 @@
 			[0xDCA] Other (Normal, Normal)
 			[0xDD2] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 4
 			[0xE1A] Megath Head (Normal, Normal)
 			[0xE22] Megath Head (Normal, Normal)
 			[0xE2A] Megath Body (Normal, Normal)
@@ -2213,6 +2356,7 @@
 			[0xEF2] Other (Normal, Normal)
 			[0xEFA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xF42] Tarbo Head (Normal, Normal)
 			[0xF4A] Megath Head (Normal, Normal)
 			[0xF52] Megath Body (Normal, Normal)
@@ -2241,22 +2385,29 @@
 			[0x100A] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x107A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x10C2] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x110A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x117A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x11C2] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x120A] Sucho Arms (Normal, Normal)
 
 3201:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 1
 			[0x1E2] Quad Diamond (Dark, Normal)
 			[0x1EA] Double Diamond (Normal, Normal)
 			[0x1F2] Diamond (Normal, Normal)
@@ -2267,6 +2418,7 @@
 			[0x21A] Other (Normal, Normal)
 			[0x222] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 1
 			[0x26A] Quad Diamond (Dark, Normal)
 			[0x272] Double Diamond (Normal, Normal)
 			[0x27A] Diamond (Normal, Normal)
@@ -2277,6 +2429,7 @@
 			[0x2A2] Other (Normal, Normal)
 			[0x2AA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 2
 			[0x2F2] Quad Diamond (Dark, Normal)
 			[0x2FA] Double Diamond (Normal, Normal)
 			[0x302] Diamond (Normal, Normal)
@@ -2288,36 +2441,49 @@
 			[0x332] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x3A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x3EA] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x432] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x4A2] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x4EA] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x532] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x5A2] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5EA] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x632] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x6A2] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6EA] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x732] Sucho Arms (Normal, Normal)
 
 3202:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 1
 			[0x1E2] Aopteryx Head (Normal, Normal)
 			[0x1EA] Aopteryx Body (Normal, Normal)
 			[0x1F2] Aopteryx Arms (Normal, Normal)
@@ -2412,6 +2578,7 @@
 			[0x4BA] Other (Normal, Normal)
 			[0x4C2] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 2
 			[0x50A] Aopteryx Head (Normal, Normal)
 			[0x512] Aopteryx Body (Normal, Normal)
 			[0x51A] Aopteryx Arms (Normal, Normal)
@@ -2506,6 +2673,7 @@
 			[0x7E2] Other (Normal, Normal)
 			[0x7EA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x832] Shanshan Head (Normal, Normal)
 			[0x83A] Aopteryx Head (Normal, Normal)
 			[0x842] Aopteryx Body (Normal, Normal)
@@ -2602,36 +2770,49 @@
 			[0xB1A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xB8A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xBD2] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xC1A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xC8A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xCD2] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xD1A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xD8A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xDD2] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xE1A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xE8A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xED2] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xF1A] Sucho Arms (Normal, Normal)
 
 3400:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x1E2] Breme Head (Normal, Normal)
 			[0x1EA] Breme Body (Normal, Normal)
 			[0x1F2] Breme Arms (Normal, Normal)
@@ -2651,6 +2832,7 @@
 			[0x262] Other (Normal, Normal)
 			[0x26A] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x2B2] Breme Head (Normal, Normal)
 			[0x2BA] Breme Body (Normal, Normal)
 			[0x2C2] Breme Arms (Normal, Normal)
@@ -2670,6 +2852,7 @@
 			[0x332] Other (Normal, Normal)
 			[0x33A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x382] Breme Head (Normal, Normal)
 			[0x38A] Breme Body (Normal, Normal)
 			[0x392] Breme Arms (Normal, Normal)
@@ -2690,36 +2873,49 @@
 			[0x40A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x47A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x4C2] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x50A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x57A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5C2] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x60A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x67A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6C2] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x70A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x77A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7C2] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x80A] Sucho Arms (Normal, Normal)
 
 3401:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1CE] Breme Head (Normal, Normal)
 			[0x1D6] Breme Body (Normal, Normal)
 			[0x1DE] Breme Arms (Normal, Normal)
@@ -2751,6 +2947,7 @@
 			[0x2AE] Other (Normal, Normal)
 			[0x2B6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x2FE] Breme Head (Normal, Normal)
 			[0x306] Breme Body (Normal, Normal)
 			[0x30E] Breme Arms (Normal, Normal)
@@ -2782,6 +2979,7 @@
 			[0x3DE] Other (Normal, Normal)
 			[0x3E6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x42E] Breme Head (Normal, Normal)
 			[0x436] Breme Body (Normal, Normal)
 			[0x43E] Breme Arms (Normal, Normal)
@@ -2814,36 +3012,49 @@
 			[0x516] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x586] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5CE] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x616] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x686] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6CE] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x716] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x786] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7CE] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x816] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x886] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8CE] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x916] Sucho Arms (Normal, Normal)
 
 4000:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1EE] Tryma Head (Normal, Normal)
 			[0x1F6] Tryma Body (Normal, Normal)
 			[0x1FE] Tryma Arms (Normal, Normal)
@@ -2875,6 +3086,7 @@
 			[0x2CE] Other (Normal, Normal)
 			[0x2D6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x31E] Tryma Head (Normal, Normal)
 			[0x326] Tryma Body (Normal, Normal)
 			[0x32E] Tryma Arms (Normal, Normal)
@@ -2906,6 +3118,7 @@
 			[0x3FE] Other (Normal, Normal)
 			[0x406] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x44E] Tryma Head (Normal, Normal)
 			[0x456] Tryma Body (Normal, Normal)
 			[0x45E] Tryma Arms (Normal, Normal)
@@ -2937,6 +3150,7 @@
 			[0x52E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x59E] Sungari Head (Normal, Normal)
 			[0x5A6] Sungari Head (Normal, Normal)
 			[0x5AE] Sungari Body (Normal, Normal)
@@ -2986,6 +3200,7 @@
 			[0x70E] Other (Normal, Normal)
 			[0x716] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x75E] Sungari Head (Normal, Normal)
 			[0x766] Sungari Head (Normal, Normal)
 			[0x76E] Sungari Body (Normal, Normal)
@@ -3038,6 +3253,7 @@
 			[0x8E6] Other (Normal, Normal)
 			[0x8EE] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x936] Siamo Head (Normal, Normal)
 			[0x93E] Sungari Head (Normal, Normal)
 			[0x946] Sungari Body (Normal, Normal)
@@ -3082,29 +3298,39 @@
 			[0xA7E] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xAEE] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB36] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xB7E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xBEE] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC36] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xC7E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xCEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xD36] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xD7E] Sucho Arms (Normal, Normal)
 
 4001:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 3
 			[0x1E2] Machai Head (Normal, Normal)
 			[0x1EA] Machai Head (Normal, Normal)
 			[0x1F2] Machai Body (Normal, Normal)
@@ -3131,6 +3357,7 @@
 			[0x29A] Other (Normal, Normal)
 			[0x2A2] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 4
 			[0x2EA] Machai Head (Normal, Normal)
 			[0x2F2] Machai Head (Normal, Normal)
 			[0x2FA] Machai Body (Normal, Normal)
@@ -3158,6 +3385,7 @@
 			[0x3AA] Other (Normal, Normal)
 			[0x3B2] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x3FA] Machai Head (Normal, Normal)
 			[0x402] Machai Body (Normal, Normal)
 			[0x40A] Machai Arms (Normal, Normal)
@@ -3181,6 +3409,7 @@
 			[0x49A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 3
 			[0x50A] Compso Head (Normal, Normal)
 			[0x512] Compso Head (Normal, Normal)
 			[0x51A] Compso Body (Normal, Normal)
@@ -3207,6 +3436,7 @@
 			[0x5C2] Other (Normal, Normal)
 			[0x5CA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 4
 			[0x612] Compso Head (Normal, Normal)
 			[0x61A] Compso Head (Normal, Normal)
 			[0x622] Compso Body (Normal, Normal)
@@ -3234,6 +3464,7 @@
 			[0x6D2] Other (Normal, Normal)
 			[0x6DA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x722] Compso Head (Normal, Normal)
 			[0x72A] Compso Body (Normal, Normal)
 			[0x732] Compso Arms (Normal, Normal)
@@ -3257,6 +3488,7 @@
 			[0x7C2] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 3
 			[0x832] Yango Head (Normal, Normal)
 			[0x83A] Yango Head (Normal, Normal)
 			[0x842] Yango Body (Normal, Normal)
@@ -3293,6 +3525,7 @@
 			[0x93A] Other (Normal, Normal)
 			[0x942] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 4
 			[0x98A] Yango Head (Normal, Normal)
 			[0x992] Yango Head (Normal, Normal)
 			[0x99A] Yango Body (Normal, Normal)
@@ -3331,6 +3564,7 @@
 			[0xAA2] Other (Normal, Normal)
 			[0xAAA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xAF2] Yango Head (Normal, Normal)
 			[0xAFA] Yango Body (Normal, Normal)
 			[0xB02] Yango Arms (Normal, Normal)
@@ -3363,22 +3597,29 @@
 			[0xBDA] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xC4A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC92] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xCDA] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xD4A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xD92] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xDDA] Sucho Arms (Normal, Normal)
 
 4002:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x1EE] Shuno Head (Normal, Normal)
 			[0x1F6] Shuno Head (Normal, Normal)
 			[0x1FE] Shuno Body (Normal, Normal)
@@ -3415,6 +3656,7 @@
 			[0x2F6] Other (Normal, Normal)
 			[0x2FE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 6
 			[0x346] Shuno Head (Normal, Normal)
 			[0x34E] Shuno Head (Normal, Normal)
 			[0x356] Shuno Body (Normal, Normal)
@@ -3453,6 +3695,7 @@
 			[0x45E] Other (Normal, Normal)
 			[0x466] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 7
 			[0x4AE] Shuno Head (Normal, Normal)
 			[0x4B6] Shuno Body (Normal, Normal)
 			[0x4BE] Shuno Arms (Normal, Normal)
@@ -3486,36 +3729,49 @@
 			[0x59E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x60E] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x656] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x69E] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x70E] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x756] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x79E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x80E] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x856] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x89E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x90E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x956] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x99E] Sucho Arms (Normal, Normal)
 
 4003:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1F2] T-Rex Head (Normal, Normal)
 			[0x1FA] T-Rex Head (Normal, Normal)
 			[0x202] T-Rex Body (Normal, Normal)
@@ -3552,6 +3808,7 @@
 			[0x2FA] Other (Normal, Normal)
 			[0x302] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x34A] T-Rex Head (Normal, Normal)
 			[0x352] T-Rex Head (Normal, Normal)
 			[0x35A] T-Rex Body (Normal, Normal)
@@ -3590,6 +3847,7 @@
 			[0x462] Other (Normal, Normal)
 			[0x46A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x4B2] T-Rex Head (Normal, Normal)
 			[0x4BA] T-Rex Body (Normal, Normal)
 			[0x4C2] T-Rex Arms (Normal, Normal)
@@ -3623,6 +3881,7 @@
 			[0x5A2] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x612] Dacerus Head (Normal, Normal)
 			[0x61A] Dacerus Head (Normal, Normal)
 			[0x622] Dacerus Body (Normal, Normal)
@@ -3650,6 +3909,7 @@
 			[0x6D2] Other (Normal, Normal)
 			[0x6DA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x722] Dacerus Head (Normal, Normal)
 			[0x72A] Dacerus Head (Normal, Normal)
 			[0x732] Dacerus Body (Normal, Normal)
@@ -3678,6 +3938,7 @@
 			[0x7EA] Other (Normal, Normal)
 			[0x7F2] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x83A] Andrarch Head (Normal, Normal)
 			[0x842] Dacerus Head (Normal, Normal)
 			[0x84A] Dacerus Body (Normal, Normal)
@@ -3704,6 +3965,7 @@
 			[0x8F2] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x962] Shuno Head (Normal, Normal)
 			[0x96A] Shuno Head (Normal, Normal)
 			[0x972] Shuno Body (Normal, Normal)
@@ -3745,6 +4007,7 @@
 			[0xA92] Other (Normal, Normal)
 			[0xA9A] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xAE2] Shuno Head (Normal, Normal)
 			[0xAEA] Shuno Head (Normal, Normal)
 			[0xAF2] Shuno Body (Normal, Normal)
@@ -3788,6 +4051,7 @@
 			[0xC22] Other (Normal, Normal)
 			[0xC2A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0xC72] Shuno Head (Normal, Normal)
 			[0xC7A] Shuno Body (Normal, Normal)
 			[0xC82] Shuno Arms (Normal, Normal)
@@ -3825,22 +4089,29 @@
 			[0xD82] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xDF2] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xE3A] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xE82] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xEF2] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xF3A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xF82] Sucho Arms (Normal, Normal)
 
 4100:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x23A] Hopter Head (Normal, Normal)
 			[0x242] Hopter Head (Normal, Normal)
 			[0x24A] Hopter Body (Normal, Normal)
@@ -3864,6 +4135,7 @@
 			[0x2DA] Other (Normal, Normal)
 			[0x2E2] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x32A] Hopter Head (Normal, Normal)
 			[0x332] Hopter Head (Normal, Normal)
 			[0x33A] Hopter Body (Normal, Normal)
@@ -3887,6 +4159,7 @@
 			[0x3CA] Other (Normal, Normal)
 			[0x3D2] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 3
 			[0x41A] Hopter Head (Normal, Normal)
 			[0x422] Hopter Body (Normal, Normal)
 			[0x42A] Hopter Arms (Normal, Normal)
@@ -3909,6 +4182,7 @@
 			[0x4B2] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x522] Cerato Head (Normal, Normal)
 			[0x52A] Cerato Head (Normal, Normal)
 			[0x532] Cerato Body (Normal, Normal)
@@ -3932,6 +4206,7 @@
 			[0x5C2] Other (Normal, Normal)
 			[0x5CA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x612] Cerato Head (Normal, Normal)
 			[0x61A] Cerato Head (Normal, Normal)
 			[0x622] Cerato Body (Normal, Normal)
@@ -3955,6 +4230,7 @@
 			[0x6B2] Other (Normal, Normal)
 			[0x6BA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x702] Cerato Head (Normal, Normal)
 			[0x70A] Cerato Body (Normal, Normal)
 			[0x712] Cerato Arms (Normal, Normal)
@@ -3977,29 +4253,39 @@
 			[0x79A] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x80A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x852] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x89A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x90A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x952] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x99A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA0A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA52] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA9A] Sucho Arms (Normal, Normal)
 
 4101:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1EE] Carchar Head (Normal, Normal)
 			[0x1F6] Carchar Head (Normal, Normal)
 			[0x1FE] Carchar Body (Normal, Normal)
@@ -4056,6 +4342,7 @@
 			[0x396] Other (Normal, Normal)
 			[0x39E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 23
 			[0x3E6] Carchar Head (Normal, Normal)
 			[0x3EE] Carchar Head (Normal, Normal)
 			[0x3F6] Carchar Body (Normal, Normal)
@@ -4114,6 +4401,7 @@
 			[0x59E] Other (Normal, Normal)
 			[0x5A6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 31
 			[0x5EE] Kentro Head (Normal, Normal)
 			[0x5F6] Carchar Head (Normal, Normal)
 			[0x5FE] Carchar Body (Normal, Normal)
@@ -4165,36 +4453,49 @@
 			[0x76E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x7DE] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x826] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x86E] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8DE] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x926] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x96E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x9DE] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA26] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA6E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xADE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB26] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xB6E] Sucho Arms (Normal, Normal)
 
 4102:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1CE] Giganto Head (Normal, Normal)
 			[0x1D6] Giganto Head (Normal, Normal)
 			[0x1DE] Giganto Body (Normal, Normal)
@@ -4232,6 +4533,7 @@
 			[0x2DE] Other (Normal, Normal)
 			[0x2E6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x32E] Giganto Head (Normal, Normal)
 			[0x336] Giganto Head (Normal, Normal)
 			[0x33E] Giganto Body (Normal, Normal)
@@ -4270,6 +4572,7 @@
 			[0x446] Other (Normal, Normal)
 			[0x44E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x496] Giganto Head (Normal, Normal)
 			[0x49E] Giganto Body (Normal, Normal)
 			[0x4A6] Giganto Arms (Normal, Normal)
@@ -4304,36 +4607,49 @@
 			[0x58E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x5FE] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x646] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x68E] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x6FE] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x746] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x78E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x7FE] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x846] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x88E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8FE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x946] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x98E] Sucho Arms (Normal, Normal)
 
 4103:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x20A] Allo Head (Normal, Normal)
 			[0x212] Allo Head (Normal, Normal)
 			[0x21A] Allo Body (Normal, Normal)
@@ -4373,6 +4689,7 @@
 			[0x32A] Other (Normal, Normal)
 			[0x332] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 6
 			[0x37A] Allo Head (Normal, Normal)
 			[0x382] Allo Head (Normal, Normal)
 			[0x38A] Allo Body (Normal, Normal)
@@ -4413,6 +4730,7 @@
 			[0x4A2] Other (Normal, Normal)
 			[0x4AA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x4F2] E-Raptor Head (Normal, Normal)
 			[0x4FA] Allo Head (Normal, Normal)
 			[0x502] Allo Body (Normal, Normal)
@@ -4449,36 +4767,49 @@
 			[0x5FA] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x66A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6B2] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x6FA] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x76A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7B2] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x7FA] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x86A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8B2] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x8FA] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x96A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x9B2] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x9FA] Sucho Arms (Normal, Normal)
 
 4104:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1C6] Gorgo Head (Normal, Normal)
 			[0x1CE] Gorgo Body (Normal, Normal)
 			[0x1D6] Gorgo Arms (Normal, Normal)
@@ -4546,6 +4877,7 @@
 			[0x3C6] Other (Normal, Normal)
 			[0x3CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 20
 			[0x402] Gorgo Head (Normal, Normal)
 			[0x40A] Gorgo Body (Normal, Normal)
 			[0x412] Gorgo Arms (Normal, Normal)
@@ -4613,6 +4945,7 @@
 			[0x602] Other (Normal, Normal)
 			[0x60A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 25
 			[0x63E] Gorgo Head (Normal, Normal)
 			[0x646] Gorgo Body (Normal, Normal)
 			[0x64E] Gorgo Arms (Normal, Normal)
@@ -4681,36 +5014,49 @@
 			[0x846] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x8A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x8D6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x90A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x966] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x99A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x9CE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xA2A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xA5E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xA92] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xAEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal)
 
 4105:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1C6] Alio Head (Normal, Normal)
 			[0x1CE] Alio Body (Normal, Normal)
 			[0x1D6] Alio Arms (Normal, Normal)
@@ -4778,6 +5124,7 @@
 			[0x3C6] Other (Normal, Normal)
 			[0x3CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 20
 			[0x402] Alio Head (Normal, Normal)
 			[0x40A] Alio Body (Normal, Normal)
 			[0x412] Alio Arms (Normal, Normal)
@@ -4845,6 +5192,7 @@
 			[0x602] Other (Normal, Normal)
 			[0x60A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 25
 			[0x63E] Alio Head (Normal, Normal)
 			[0x646] Alio Body (Normal, Normal)
 			[0x64E] Alio Arms (Normal, Normal)
@@ -4913,36 +5261,49 @@
 			[0x846] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x8A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x8D6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x90A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x966] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x99A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x9CE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xA2A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xA5E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xA92] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xAEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal)
 
 4106:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1C6] M-Raptor Head (Normal, Normal)
 			[0x1CE] M-Raptor Body (Normal, Normal)
 			[0x1D6] M-Raptor Arms (Normal, Normal)
@@ -5010,6 +5371,7 @@
 			[0x3C6] Other (Normal, Normal)
 			[0x3CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 20
 			[0x402] M-Raptor Head (Normal, Normal)
 			[0x40A] M-Raptor Body (Normal, Normal)
 			[0x412] M-Raptor Arms (Normal, Normal)
@@ -5077,6 +5439,7 @@
 			[0x602] Other (Normal, Normal)
 			[0x60A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 25
 			[0x63E] M-Raptor Head (Normal, Normal)
 			[0x646] M-Raptor Body (Normal, Normal)
 			[0x64E] M-Raptor Arms (Normal, Normal)
@@ -5145,36 +5508,49 @@
 			[0x846] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x8A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x8D6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x90A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x966] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x99A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x9CE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xA2A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xA5E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xA92] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xAEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal)
 
 4107:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1C6] Salto Head (Normal, Normal)
 			[0x1CE] Salto Body (Normal, Normal)
 			[0x1D6] Salto Arms (Normal, Normal)
@@ -5242,6 +5618,7 @@
 			[0x3C6] Other (Normal, Normal)
 			[0x3CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 20
 			[0x402] Salto Head (Normal, Normal)
 			[0x40A] Salto Body (Normal, Normal)
 			[0x412] Salto Arms (Normal, Normal)
@@ -5309,6 +5686,7 @@
 			[0x602] Other (Normal, Normal)
 			[0x60A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 25
 			[0x63E] Salto Head (Normal, Normal)
 			[0x646] Salto Body (Normal, Normal)
 			[0x64E] Salto Arms (Normal, Normal)
@@ -5377,36 +5755,49 @@
 			[0x846] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x8A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x8D6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x90A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x966] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x99A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x9CE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xA2A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xA5E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xA92] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xAEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal)
 
 4108:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 15
 			[0x1C6] Neo Head (Normal, Normal)
 			[0x1CE] Neo Body (Normal, Normal)
 			[0x1D6] Neo Arms (Normal, Normal)
@@ -5474,6 +5865,7 @@
 			[0x3C6] Other (Normal, Normal)
 			[0x3CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 20
 			[0x402] Neo Head (Normal, Normal)
 			[0x40A] Neo Body (Normal, Normal)
 			[0x412] Neo Arms (Normal, Normal)
@@ -5541,6 +5933,7 @@
 			[0x602] Other (Normal, Normal)
 			[0x60A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 25
 			[0x63E] Neo Head (Normal, Normal)
 			[0x646] Neo Body (Normal, Normal)
 			[0x64E] Neo Arms (Normal, Normal)
@@ -5609,36 +6002,49 @@
 			[0x846] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x8A2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x8D6] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x90A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x966] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x99A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x9CE] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xA2A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xA5E] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xA92] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0xAEE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal)
 
 4300:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x1EE] Venator Head (Normal, Normal)
 			[0x1F6] Venator Head (Normal, Normal)
 			[0x1FE] Venator Body (Normal, Normal)
@@ -5691,6 +6097,7 @@
 			[0x376] Other (Normal, Normal)
 			[0x37E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x3C6] Venator Head (Normal, Normal)
 			[0x3CE] Venator Head (Normal, Normal)
 			[0x3D6] Venator Body (Normal, Normal)
@@ -5746,6 +6153,7 @@
 			[0x566] Other (Normal, Normal)
 			[0x56E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x5B6] Guan Head (Normal, Normal)
 			[0x5BE] Venator Head (Normal, Normal)
 			[0x5C6] Venator Body (Normal, Normal)
@@ -5794,6 +6202,7 @@
 			[0x71E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x78E] Dikelo Single (Normal, Normal)
 			[0x796] Dikelo Single (Normal, Normal)
 			[0x79E] S-Raptor Head (Normal, Normal)
@@ -5836,6 +6245,7 @@
 			[0x8C6] Other (Normal, Normal)
 			[0x8CE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x916] Dikelo Single (Normal, Normal)
 			[0x91E] Dikelo Single (Normal, Normal)
 			[0x926] S-Raptor Head (Normal, Normal)
@@ -5880,6 +6290,7 @@
 			[0xA5E] Other (Normal, Normal)
 			[0xA66] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0xAAE] Argento Head (Normal, Normal)
 			[0xAB6] Dikelo Single (Normal, Normal)
 			[0xABE] S-Raptor Head (Normal, Normal)
@@ -5919,6 +6330,7 @@
 			[0xBCE] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0xC3E] Stygi Head (Normal, Normal)
 			[0xC46] Stygi Head (Normal, Normal)
 			[0xC4E] Stygi Body (Normal, Normal)
@@ -5971,6 +6383,7 @@
 			[0xDC6] Other (Normal, Normal)
 			[0xDCE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0xE16] Stygi Head (Normal, Normal)
 			[0xE1E] Stygi Head (Normal, Normal)
 			[0xE26] Stygi Body (Normal, Normal)
@@ -6026,6 +6439,7 @@
 			[0xFB6] Other (Normal, Normal)
 			[0xFBE] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x1006] Centro Head (Normal, Normal)
 			[0x100E] Stygi Head (Normal, Normal)
 			[0x1016] Stygi Body (Normal, Normal)
@@ -6074,22 +6488,29 @@
 			[0x116E] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x11DE] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x1226] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x126E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x12DE] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x1326] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x136E] Sucho Arms (Normal, Normal)
 
 4301:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 10
 			[0x1DA] Siamo Head (Normal, Normal)
 			[0x1E2] Siamo Body (Normal, Normal)
 			[0x1EA] Siamo Arms (Normal, Normal)
@@ -6171,6 +6592,7 @@
 			[0x44A] Other (Normal, Normal)
 			[0x452] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 15
 			[0x49A] Siamo Head (Normal, Normal)
 			[0x4A2] Siamo Body (Normal, Normal)
 			[0x4AA] Siamo Arms (Normal, Normal)
@@ -6252,6 +6674,7 @@
 			[0x70A] Other (Normal, Normal)
 			[0x712] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 20
 			[0x75A] Siamo Head (Normal, Normal)
 			[0x762] Siamo Body (Normal, Normal)
 			[0x76A] Siamo Arms (Normal, Normal)
@@ -6334,36 +6757,49 @@
 			[0x9D2] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA42] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA8A] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xAD2] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xB42] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB8A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xBD2] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xC42] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC8A] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xCD2] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xD42] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xD8A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xDD2] Sucho Arms (Normal, Normal)
 
 5000:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x26E] Dimetro Head (Normal, Normal)
 			[0x276] Dimetro Head (Normal, Normal)
 			[0x27E] Dimetro Body (Normal, Normal)
@@ -6401,6 +6837,7 @@
 			[0x37E] Other (Normal, Normal)
 			[0x386] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x3CE] Dimetro Head (Normal, Normal)
 			[0x3D6] Dimetro Head (Normal, Normal)
 			[0x3DE] Dimetro Body (Normal, Normal)
@@ -6440,6 +6877,7 @@
 			[0x4EE] Other (Normal, Normal)
 			[0x4F6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x53E] Smilo Head (Normal, Normal)
 			[0x546] Dimetro Head (Normal, Normal)
 			[0x54E] Dimetro Body (Normal, Normal)
@@ -6475,6 +6913,7 @@
 			[0x63E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x6AE] Seismo Head (Normal, Normal)
 			[0x6B6] Seismo Head (Normal, Normal)
 			[0x6BE] Seismo Body (Normal, Normal)
@@ -6512,6 +6951,7 @@
 			[0x7BE] Other (Normal, Normal)
 			[0x7C6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x80E] Seismo Head (Normal, Normal)
 			[0x816] Seismo Head (Normal, Normal)
 			[0x81E] Seismo Body (Normal, Normal)
@@ -6551,6 +6991,7 @@
 			[0x92E] Other (Normal, Normal)
 			[0x936] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x97E] Seismo Head (Normal, Normal)
 			[0x986] Seismo Body (Normal, Normal)
 			[0x98E] Seismo Arms (Normal, Normal)
@@ -6585,6 +7026,7 @@
 			[0xA76] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0xAE6] Toba Head (Normal, Normal)
 			[0xAEE] Toba Head (Normal, Normal)
 			[0xAF6] Toba Body (Normal, Normal)
@@ -6622,6 +7064,7 @@
 			[0xBF6] Other (Normal, Normal)
 			[0xBFE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC46] Toba Head (Normal, Normal)
 			[0xC4E] Toba Head (Normal, Normal)
 			[0xC56] Toba Body (Normal, Normal)
@@ -6661,6 +7104,7 @@
 			[0xD66] Other (Normal, Normal)
 			[0xD6E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0xDB6] Toba Head (Normal, Normal)
 			[0xDBE] Toba Body (Normal, Normal)
 			[0xDC6] Toba Arms (Normal, Normal)
@@ -6695,6 +7139,7 @@
 			[0xEAE] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0xF1E] Dacerus Head (Normal, Normal)
 			[0xF26] Dacerus Head (Normal, Normal)
 			[0xF2E] Dacerus Body (Normal, Normal)
@@ -6732,6 +7177,7 @@
 			[0x102E] Other (Normal, Normal)
 			[0x1036] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x107E] Dacerus Head (Normal, Normal)
 			[0x1086] Dacerus Head (Normal, Normal)
 			[0x108E] Dacerus Body (Normal, Normal)
@@ -6771,6 +7217,7 @@
 			[0x119E] Other (Normal, Normal)
 			[0x11A6] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x11EE] Dacerus Head (Normal, Normal)
 			[0x11F6] Dacerus Body (Normal, Normal)
 			[0x11FE] Dacerus Arms (Normal, Normal)
@@ -6805,15 +7252,19 @@
 			[0x12E6] Other (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x1356] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x139E] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x13E6] Sucho Arms (Normal, Normal)
 
 5001:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x1E2] Coelo Head (Normal, Normal)
 			[0x1EA] Coelo Head (Normal, Normal)
 			[0x1F2] Coelo Body (Normal, Normal)
@@ -6836,6 +7287,7 @@
 			[0x27A] Other (Normal, Normal)
 			[0x282] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x2CA] Coelo Head (Normal, Normal)
 			[0x2D2] Coelo Head (Normal, Normal)
 			[0x2DA] Coelo Body (Normal, Normal)
@@ -6859,6 +7311,7 @@
 			[0x36A] Other (Normal, Normal)
 			[0x372] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x3BA] Terata Single (Normal, Normal)
 			[0x3C2] Coelo Head (Normal, Normal)
 			[0x3CA] Coelo Body (Normal, Normal)
@@ -6881,36 +7334,49 @@
 			[0x452] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x4C2] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x50A] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x552] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x5C2] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x60A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x652] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x6C2] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x70A] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x752] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x7C2] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x80A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x852] Sucho Arms (Normal, Normal)
 
 5002:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x216] Alectro Head (Normal, Normal)
 			[0x21E] Alectro Head (Normal, Normal)
 			[0x226] Alectro Body (Normal, Normal)
@@ -6946,6 +7412,7 @@
 			[0x316] Other (Normal, Normal)
 			[0x31E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x366] Alectro Head (Normal, Normal)
 			[0x36E] Alectro Head (Normal, Normal)
 			[0x376] Alectro Body (Normal, Normal)
@@ -6983,6 +7450,7 @@
 			[0x476] Other (Normal, Normal)
 			[0x47E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x4C6] Alectro Head (Normal, Normal)
 			[0x4CE] Alectro Body (Normal, Normal)
 			[0x4D6] Alectro Arms (Normal, Normal)
@@ -7015,6 +7483,7 @@
 			[0x5AE] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 16
 			[0x60A] Metria Head (Normal, Normal)
 			[0x612] Metria Body (Normal, Normal)
 			[0x61A] Metria Arms (Normal, Normal)
@@ -7070,6 +7539,7 @@
 			[0x7AA] Other (Normal, Normal)
 			[0x7B2] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 24
 			[0x7E6] Metria Head (Normal, Normal)
 			[0x7EE] Metria Body (Normal, Normal)
 			[0x7F6] Metria Arms (Normal, Normal)
@@ -7125,6 +7595,7 @@
 			[0x986] Other (Normal, Normal)
 			[0x98E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 36
 			[0x9C2] Radox Single (Normal, Normal)
 			[0x9CA] Metria Head (Normal, Normal)
 			[0x9D2] Metria Body (Normal, Normal)
@@ -7182,29 +7653,39 @@
 			[0xB72] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xBCE] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC02] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xC36] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xC92] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xCC6] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xCFA] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xD56] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xD8A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xDBE] Sucho Arms (Normal, Normal)
 
 5003:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x1DE] Siamo Head (Normal, Normal)
 			[0x1E6] Siamo Head (Dark, Rare)
 			[0x1EE] Siamo Body (Normal, Normal)
@@ -7214,6 +7695,7 @@
 			[0x20E] Siamo Legs (Normal, Normal)
 			[0x216] Siamo Legs (Dark, Rare)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x24A] Cryo Head (Normal, Normal)
 			[0x252] Cryo Head (Dark, Rare)
 			[0x25A] Cryo Body (Normal, Normal)
@@ -7223,6 +7705,7 @@
 			[0x27A] Cryo Legs (Normal, Normal)
 			[0x282] Cryo Legs (Dark, Rare)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x2B6] Nychus Head (Normal, Normal)
 			[0x2BE] Nychus Head (Dark, Rare)
 			[0x2C6] Nychus Body (Normal, Normal)
@@ -7241,36 +7724,49 @@
 			[0x32E] Sucho Legs (Dark, Rare)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x38A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x3BE] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x3F2] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x44E] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x482] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x4B6] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x512] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x546] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x57A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x5D6] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x60A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x63E] Sucho Arms (Normal, Normal)
 
 5100:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x226] Futabi Head (Normal, Normal)
 			[0x22E] Futabi Head (Normal, Normal)
 			[0x236] Futabi Body (Normal, Normal)
@@ -7320,6 +7816,7 @@
 			[0x396] Other (Normal, Normal)
 			[0x39E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 8
 			[0x3E6] Futabi Head (Normal, Normal)
 			[0x3EE] Futabi Head (Normal, Normal)
 			[0x3F6] Futabi Body (Normal, Normal)
@@ -7372,6 +7869,7 @@
 			[0x56E] Other (Normal, Normal)
 			[0x576] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 10
 			[0x5BE] Angato Head (Normal, Normal)
 			[0x5C6] Futabi Head (Normal, Normal)
 			[0x5CE] Futabi Body (Normal, Normal)
@@ -7417,6 +7915,7 @@
 			[0x70E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x77E] Krona Head (Normal, Normal)
 			[0x786] Krona Head (Normal, Normal)
 			[0x78E] Krona Body (Normal, Normal)
@@ -7457,6 +7956,7 @@
 			[0x8A6] Other (Normal, Normal)
 			[0x8AE] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x8F6] Krona Head (Normal, Normal)
 			[0x8FE] Krona Head (Normal, Normal)
 			[0x906] Krona Body (Normal, Normal)
@@ -7499,6 +7999,7 @@
 			[0xA2E] Other (Normal, Normal)
 			[0xA36] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0xA7E] Krona Head (Normal, Normal)
 			[0xA86] Krona Body (Normal, Normal)
 			[0xA8E] Krona Arms (Normal, Normal)
@@ -7535,6 +8036,7 @@
 			[0xB86] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0xBF6] Pachy Head (Normal, Normal)
 			[0xBFE] Pachy Head (Normal, Normal)
 			[0xC06] Pachy Body (Normal, Normal)
@@ -7584,6 +8086,7 @@
 			[0xD66] Other (Normal, Normal)
 			[0xD6E] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0xDB6] Pachy Head (Normal, Normal)
 			[0xDBE] Pachy Head (Normal, Normal)
 			[0xDC6] Pachy Body (Normal, Normal)
@@ -7636,6 +8139,7 @@
 			[0xF3E] Other (Normal, Normal)
 			[0xF46] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0xF8E] Igua Head (Normal, Normal)
 			[0xF96] Pachy Head (Normal, Normal)
 			[0xF9E] Pachy Body (Normal, Normal)
@@ -7681,6 +8185,7 @@
 			[0x10DE] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x114E] F-Raptor Head (Normal, Normal)
 			[0x1156] F-Raptor Head (Normal, Normal)
 			[0x115E] F-Raptor Body (Normal, Normal)
@@ -7730,6 +8235,7 @@
 			[0x12BE] Other (Normal, Normal)
 			[0x12C6] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 8
 			[0x130E] F-Raptor Head (Normal, Normal)
 			[0x1316] F-Raptor Head (Normal, Normal)
 			[0x131E] F-Raptor Body (Normal, Normal)
@@ -7782,6 +8288,7 @@
 			[0x1496] Other (Normal, Normal)
 			[0x149E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 10
 			[0x14E6] F-Raptor Head (Normal, Normal)
 			[0x14EE] F-Raptor Body (Normal, Normal)
 			[0x14F6] F-Raptor Arms (Normal, Normal)
@@ -7826,15 +8333,19 @@
 			[0x162E] Other (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x169E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x16E6] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x172E] Sucho Arms (Normal, Normal)
 
 5101:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x1CE] Mihu Head (Normal, Normal)
 			[0x1D6] Mihu Head (Normal, Normal)
 			[0x1DE] Mihu Body (Normal, Normal)
@@ -7856,6 +8367,7 @@
 			[0x25E] Other (Normal, Normal)
 			[0x266] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x2AE] Mihu Head (Normal, Normal)
 			[0x2B6] Mihu Head (Normal, Normal)
 			[0x2BE] Mihu Body (Normal, Normal)
@@ -7878,6 +8390,7 @@
 			[0x346] Other (Normal, Normal)
 			[0x34E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x396] Megalo Head (Normal, Normal)
 			[0x39E] Megalo Body (Normal, Normal)
 			[0x3A6] Megalo Arms (Normal, Normal)
@@ -7902,6 +8415,7 @@
 			[0x43E] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x4AE] Seidon Head (Normal, Normal)
 			[0x4B6] Seidon Head (Normal, Normal)
 			[0x4BE] Seidon Body (Normal, Normal)
@@ -7923,6 +8437,7 @@
 			[0x53E] Other (Normal, Normal)
 			[0x546] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x58E] Seidon Head (Normal, Normal)
 			[0x596] Seidon Head (Normal, Normal)
 			[0x59E] Seidon Body (Normal, Normal)
@@ -7945,6 +8460,7 @@
 			[0x626] Other (Normal, Normal)
 			[0x62E] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x676] Megalo Head (Normal, Normal)
 			[0x67E] Megalo Body (Normal, Normal)
 			[0x686] Megalo Arms (Normal, Normal)
@@ -7969,29 +8485,39 @@
 			[0x71E] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x78E] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x7D6] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x81E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x88E] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x8D6] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x91E] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x98E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x9D6] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA1E] Sucho Arms (Normal, Normal)
 
 6000:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 6
 			[0x212] Tro Head (Normal, Normal)
 			[0x21A] Tro Head (Normal, Normal)
 			[0x222] Tro Body (Normal, Normal)
@@ -8045,6 +8571,7 @@
 			[0x3A2] Other (Normal, Normal)
 			[0x3AA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 7
 			[0x3F2] Tro Head (Normal, Normal)
 			[0x3FA] Tro Head (Normal, Normal)
 			[0x402] Tro Body (Normal, Normal)
@@ -8101,6 +8628,7 @@
 			[0x59A] Other (Normal, Normal)
 			[0x5A2] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 8
 			[0x5EA] Archaeo Head (Normal, Normal)
 			[0x5F2] Tro Head (Normal, Normal)
 			[0x5FA] Tro Body (Normal, Normal)
@@ -8150,36 +8678,49 @@
 			[0x75A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x7CA] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x812] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x85A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8CA] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x912] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x95A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x9CA] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA12] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA5A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xACA] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB12] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xB5A] Sucho Arms (Normal, Normal)
 
 6100:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x1F2] Cryo Head (Normal, Normal)
 			[0x1FA] Cryo Body (Normal, Normal)
 			[0x202] Cryo Arms (Normal, Normal)
@@ -8239,6 +8780,7 @@
 			[0x3B2] Other (Normal, Normal)
 			[0x3BA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x402] Cryo Head (Normal, Normal)
 			[0x40A] Cryo Body (Normal, Normal)
 			[0x412] Cryo Arms (Normal, Normal)
@@ -8298,6 +8840,7 @@
 			[0x5C2] Other (Normal, Normal)
 			[0x5CA] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x612] Cryo Head (Normal, Normal)
 			[0x61A] Cryo Body (Normal, Normal)
 			[0x622] Cryo Arms (Normal, Normal)
@@ -8357,36 +8900,49 @@
 			[0x7D2] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x842] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x88A] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x8D2] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x942] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x98A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x9D2] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA42] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA8A] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xAD2] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xB42] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB8A] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xBD2] Sucho Arms (Normal, Normal)
 
 6200:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 0
 			[0x212] Chasmo Head (Normal, Normal)
 			[0x21A] Chasmo Body (Normal, Normal)
 			[0x222] Chasmo Arms (Normal, Normal)
@@ -8408,6 +8964,7 @@
 			[0x2A2] Other (Normal, Normal)
 			[0x2AA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 0
 			[0x2F2] Chasmo Head (Normal, Normal)
 			[0x2FA] Chasmo Body (Normal, Normal)
 			[0x302] Chasmo Arms (Normal, Normal)
@@ -8429,6 +8986,7 @@
 			[0x382] Other (Normal, Normal)
 			[0x38A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 0
 			[0x3D2] Chasmo Head (Normal, Normal)
 			[0x3DA] Chasmo Body (Normal, Normal)
 			[0x3E2] Chasmo Arms (Normal, Normal)
@@ -8451,6 +9009,7 @@
 			[0x46A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x4DA] Chelon Head (Normal, Normal)
 			[0x4E2] Chelon Body (Normal, Normal)
 			[0x4EA] Chelon Arms (Normal, Normal)
@@ -8475,6 +9034,7 @@
 			[0x582] Other (Normal, Normal)
 			[0x58A] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5D2] Chelon Head (Normal, Normal)
 			[0x5DA] Chelon Body (Normal, Normal)
 			[0x5E2] Chelon Arms (Normal, Normal)
@@ -8499,6 +9059,7 @@
 			[0x67A] Other (Normal, Normal)
 			[0x682] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x6CA] Chelon Head (Normal, Normal)
 			[0x6D2] Chelon Body (Normal, Normal)
 			[0x6DA] Chelon Arms (Normal, Normal)
@@ -8524,6 +9085,7 @@
 			[0x77A] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x7EA] Chasmo Head (Normal, Normal)
 			[0x7F2] Chasmo Body (Normal, Normal)
 			[0x7FA] Chasmo Arms (Normal, Normal)
@@ -8558,6 +9120,7 @@
 			[0x8E2] Other (Normal, Normal)
 			[0x8EA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x932] Chasmo Head (Normal, Normal)
 			[0x93A] Chasmo Body (Normal, Normal)
 			[0x942] Chasmo Arms (Normal, Normal)
@@ -8592,6 +9155,7 @@
 			[0xA2A] Other (Normal, Normal)
 			[0xA32] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0xA7A] Chasmo Head (Normal, Normal)
 			[0xA82] Chasmo Body (Normal, Normal)
 			[0xA8A] Chasmo Arms (Normal, Normal)
@@ -8627,22 +9191,29 @@
 			[0xB7A] Other (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xBEA] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xC32] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xC7A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xCEA] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xD32] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xD7A] Sucho Arms (Normal, Normal)
 
 6201:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x1E2] Nychus Head (Normal, Normal)
 			[0x1EA] Nychus Body (Normal, Normal)
 			[0x1F2] Nychus Arms (Normal, Normal)
@@ -8667,6 +9238,7 @@
 			[0x28A] Other (Normal, Normal)
 			[0x292] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x2DA] Nychus Head (Normal, Normal)
 			[0x2E2] Nychus Body (Normal, Normal)
 			[0x2EA] Nychus Arms (Normal, Normal)
@@ -8691,6 +9263,7 @@
 			[0x382] Other (Normal, Normal)
 			[0x38A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x3D2] Nychus Head (Normal, Normal)
 			[0x3DA] Nychus Body (Normal, Normal)
 			[0x3E2] Nychus Arms (Normal, Normal)
@@ -8716,6 +9289,7 @@
 			[0x482] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 4
 			[0x4F2] Gaudry Single (Normal, Normal)
 			[0x4FA] Gaudry Single (Normal, Normal)
 			[0x502] Gaudry Single (Normal, Normal)
@@ -8749,6 +9323,7 @@
 			[0x5E2] Other (Normal, Normal)
 			[0x5EA] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x632] Gaudry Single (Normal, Normal)
 			[0x63A] Gaudry Single (Normal, Normal)
 			[0x642] Gaudry Single (Normal, Normal)
@@ -8782,6 +9357,7 @@
 			[0x722] Other (Normal, Normal)
 			[0x72A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 6
 			[0x772] Gaudry Single (Normal, Normal)
 			[0x77A] Gaudry Single (Normal, Normal)
 			[0x782] Gaudry Single (Normal, Normal)
@@ -8816,29 +9392,39 @@
 			[0x86A] Other (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x8DA] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x922] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x96A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x9DA] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA22] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA6A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xADA] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB22] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xB6A] Sucho Arms (Normal, Normal)
 
 6202:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 2
 			[0x1F2] Small Pearl (Normal, Normal)
 			[0x1FA] Double Pearl (Normal, Normal)
 			[0x202] Giant Pearl (Dark, Normal)
@@ -8847,6 +9433,7 @@
 			[0x21A] Other (Normal, Normal)
 			[0x222] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 3
 			[0x26A] Small Pearl (Normal, Normal)
 			[0x272] Double Pearl (Normal, Normal)
 			[0x27A] Giant Pearl (Dark, Normal)
@@ -8855,6 +9442,7 @@
 			[0x292] Other (Normal, Normal)
 			[0x29A] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 4
 			[0x2E2] Small Pearl (Normal, Normal)
 			[0x2EA] Double Pearl (Normal, Normal)
 			[0x2F2] Giant Pearl (Dark, Normal)
@@ -8867,36 +9455,49 @@
 			[0x32A] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x39A] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x3E2] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x42A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x49A] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x4E2] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x52A] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x59A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x5E2] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x62A] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x69A] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x6E2] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x72A] Sucho Arms (Normal, Normal)
 
 6400:
 	Zone 01:
 		Fossil Chip 0:
+			Max Spawns: 8
 			[0x1DE] Cryo Head (Normal, Normal)
 			[0x1E6] Cryo Body (Normal, Normal)
 			[0x1EE] Cryo Arms (Normal, Normal)
@@ -8968,6 +9569,7 @@
 			[0x3FE] Other (Normal, Normal)
 			[0x406] Other (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 16
 			[0x43A] Cryo Head (Normal, Normal)
 			[0x442] Cryo Body (Normal, Normal)
 			[0x44A] Cryo Arms (Normal, Normal)
@@ -9039,6 +9641,7 @@
 			[0x65A] Other (Normal, Normal)
 			[0x662] Other (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 24
 			[0x696] Cryo Head (Normal, Normal)
 			[0x69E] Cryo Body (Normal, Normal)
 			[0x6A6] Cryo Arms (Normal, Normal)
@@ -9110,30 +9713,42 @@
 			[0x8B6] Other (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x912] Siamo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0x946] Siamo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0x97A] Siamo Arms (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0x9D6] Nychus Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xA0A] Nychus Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xA3E] Nychus Arms (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xA9A] Cryo Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xACE] Cryo Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xB02] Cryo Arms (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
+			Max Spawns: 5
 			[0xB5E] Sucho Head (Normal, Normal)
 		Fossil Chip 1:
+			Max Spawns: 5
 			[0xB92] Sucho Body (Normal, Normal)
 		Fossil Chip 2:
+			Max Spawns: 5
 			[0xBC6] Sucho Arms (Normal, Normal)
 
