@@ -36,8 +36,8 @@
 			[0x326] Top-Right Dropping (Dark, Normal)
 			[0x32E] Bottom-Left Dropping (Dark, Normal)
 			[0x336] Top-Left Dropping (Dark, Normal)
-			[0x33E] Other (Normal, Normal)
-			[0x346] Other (Normal, Normal)
+			[0x33E] Silver Head (Normal, Normal)
+			[0x346] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x392] Pacro Head (Normal, Normal)
@@ -76,8 +76,8 @@
 			[0x49A] Top-Right Dropping (Dark, Normal)
 			[0x4A2] Bottom-Left Dropping (Dark, Normal)
 			[0x4AA] Top-Left Dropping (Dark, Normal)
-			[0x4B2] Other (Normal, Normal)
-			[0x4BA] Other (Normal, Normal)
+			[0x4B2] Silver Head (Normal, Normal)
+			[0x4BA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x506] [Starter] Head (Normal, Normal)
@@ -112,8 +112,8 @@
 			[0x5EE] Top-Right Dropping (Dark, Normal)
 			[0x5F6] Bottom-Left Dropping (Dark, Normal)
 			[0x5FE] Top-Left Dropping (Dark, Normal)
-			[0x606] Other (Normal, Normal)
-			[0x60E] Other (Normal, Normal)
+			[0x606] Silver Head (Normal, Normal)
+			[0x60E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -151,8 +151,8 @@
 			[0x776] Top-Right Dropping (Dark, Normal)
 			[0x77E] Bottom-Left Dropping (Dark, Normal)
 			[0x786] Top-Left Dropping (Dark, Normal)
-			[0x78E] Other (Normal, Normal)
-			[0x796] Other (Normal, Normal)
+			[0x78E] Silver Head (Normal, Normal)
+			[0x796] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x7DE] Goyle Head (Normal, Normal)
@@ -191,8 +191,8 @@
 			[0x8E6] Top-Right Dropping (Dark, Normal)
 			[0x8EE] Bottom-Left Dropping (Dark, Normal)
 			[0x8F6] Top-Left Dropping (Dark, Normal)
-			[0x8FE] Other (Normal, Normal)
-			[0x906] Other (Normal, Normal)
+			[0x8FE] Silver Head (Normal, Normal)
+			[0x906] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x94E] Pacro Head (Normal, Normal)
@@ -239,8 +239,8 @@
 			[0xA96] Top-Right Dropping (Dark, Normal)
 			[0xA9E] Bottom-Left Dropping (Dark, Normal)
 			[0xAA6] Top-Left Dropping (Dark, Normal)
-			[0xAAE] Other (Normal, Normal)
-			[0xAB6] Other (Normal, Normal)
+			[0xAAE] Silver Head (Normal, Normal)
+			[0xAB6] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -279,8 +279,8 @@
 			[0xC26] Top-Right Dropping (Dark, Normal)
 			[0xC2E] Bottom-Left Dropping (Dark, Normal)
 			[0xC36] Top-Left Dropping (Dark, Normal)
-			[0xC3E] Other (Normal, Normal)
-			[0xC46] Other (Normal, Normal)
+			[0xC3E] Silver Head (Normal, Normal)
+			[0xC46] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0xC8E] Tricera Head (Normal, Normal)
@@ -320,8 +320,8 @@
 			[0xD9E] Top-Right Dropping (Dark, Normal)
 			[0xDA6] Bottom-Left Dropping (Dark, Normal)
 			[0xDAE] Top-Left Dropping (Dark, Normal)
-			[0xDB6] Other (Normal, Normal)
-			[0xDBE] Other (Normal, Normal)
+			[0xDB6] Silver Head (Normal, Normal)
+			[0xDBE] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0xE06] Tricera Head (Normal, Normal)
@@ -373,8 +373,8 @@
 			[0xF76] Top-Right Dropping (Dark, Normal)
 			[0xF7E] Bottom-Left Dropping (Dark, Normal)
 			[0xF86] Top-Left Dropping (Dark, Normal)
-			[0xF8E] Other (Normal, Normal)
-			[0xF96] Other (Normal, Normal)
+			[0xF8E] Silver Head (Normal, Normal)
+			[0xF96] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -413,8 +413,8 @@
 			[0x1106] Top-Right Dropping (Dark, Normal)
 			[0x110E] Bottom-Left Dropping (Dark, Normal)
 			[0x1116] Top-Left Dropping (Dark, Normal)
-			[0x111E] Other (Normal, Normal)
-			[0x1126] Other (Normal, Normal)
+			[0x111E] Silver Head (Normal, Normal)
+			[0x1126] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x116E] [Starter] Head (Normal, Normal)
@@ -454,8 +454,8 @@
 			[0x127E] Top-Right Dropping (Dark, Normal)
 			[0x1286] Bottom-Left Dropping (Dark, Normal)
 			[0x128E] Top-Left Dropping (Dark, Normal)
-			[0x1296] Other (Normal, Normal)
-			[0x129E] Other (Normal, Normal)
+			[0x1296] Silver Head (Normal, Normal)
+			[0x129E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x12E6] [Starter] Head (Normal, Normal)
@@ -516,8 +516,8 @@
 			[0x149E] Top-Right Dropping (Dark, Normal)
 			[0x14A6] Bottom-Left Dropping (Dark, Normal)
 			[0x14AE] Top-Left Dropping (Dark, Normal)
-			[0x14B6] Other (Normal, Normal)
-			[0x14BE] Other (Normal, Normal)
+			[0x14B6] Silver Head (Normal, Normal)
+			[0x14BE] Gold Head (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -556,8 +556,8 @@
 			[0x162E] Top-Right Dropping (Dark, Normal)
 			[0x1636] Bottom-Left Dropping (Dark, Normal)
 			[0x163E] Top-Left Dropping (Dark, Normal)
-			[0x1646] Other (Normal, Normal)
-			[0x164E] Other (Normal, Normal)
+			[0x1646] Silver Head (Normal, Normal)
+			[0x164E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x1696] Menchi Head (Normal, Normal)
@@ -597,8 +597,8 @@
 			[0x17A6] Top-Right Dropping (Dark, Normal)
 			[0x17AE] Bottom-Left Dropping (Dark, Normal)
 			[0x17B6] Top-Left Dropping (Dark, Normal)
-			[0x17BE] Other (Normal, Normal)
-			[0x17C6] Other (Normal, Normal)
+			[0x17BE] Silver Head (Normal, Normal)
+			[0x17C6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x180E] Menchi Head (Normal, Normal)
@@ -635,8 +635,8 @@
 			[0x1906] Top-Right Dropping (Dark, Normal)
 			[0x190E] Bottom-Left Dropping (Dark, Normal)
 			[0x1916] Top-Left Dropping (Dark, Normal)
-			[0x191E] Other (Normal, Normal)
-			[0x1926] Other (Normal, Normal)
+			[0x191E] Silver Head (Normal, Normal)
+			[0x1926] Gold Head (Normal, Normal)
 
 3001:
 	Zone 01:
@@ -694,8 +694,8 @@
 			[0x342] Colossal Diamond (Dark, Normal)
 			[0x34A] Top-Right Dropping (Dark, Normal)
 			[0x352] Weird Giant Dropping 1 (Dark, Normal)
-			[0x35A] Other (Normal, Normal)
-			[0x362] Other (Normal, Normal)
+			[0x35A] Silver Arms (Normal, Normal)
+			[0x362] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 30
 			[0x396] Perso Head (Normal, Normal)
@@ -753,8 +753,8 @@
 			[0x536] Colossal Diamond (Dark, Normal)
 			[0x53E] Top-Right Dropping (Dark, Normal)
 			[0x546] Weird Giant Dropping 1 (Dark, Normal)
-			[0x54E] Other (Normal, Normal)
-			[0x556] Other (Normal, Normal)
+			[0x54E] Silver Arms (Normal, Normal)
+			[0x556] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 40
 			[0x58A] Perso Head (Normal, Normal)
@@ -802,8 +802,8 @@
 			[0x6DA] Colossal Diamond (Dark, Normal)
 			[0x6E2] Top-Right Dropping (Dark, Normal)
 			[0x6EA] Weird Giant Dropping 1 (Dark, Normal)
-			[0x6F2] Other (Normal, Normal)
-			[0x6FA] Other (Normal, Normal)
+			[0x6F2] Silver Arms (Normal, Normal)
+			[0x6FA] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -917,8 +917,8 @@
 			[0x3CE] Colossal Diamond (Dark, Normal)
 			[0x3D6] Bottom-Left Dropping (Dark, Normal)
 			[0x3DE] Weird Giant Dropping 2 (Dark, Normal)
-			[0x3E6] Other (Normal, Normal)
-			[0x3EE] Other (Normal, Normal)
+			[0x3E6] Silver Legs (Normal, Normal)
+			[0x3EE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 15
 			[0x422] Radox Single (Normal, Normal)
@@ -989,8 +989,8 @@
 			[0x62A] Colossal Diamond (Dark, Normal)
 			[0x632] Bottom-Left Dropping (Dark, Normal)
 			[0x63A] Weird Giant Dropping 2 (Dark, Normal)
-			[0x642] Other (Normal, Normal)
-			[0x64A] Other (Normal, Normal)
+			[0x642] Silver Legs (Normal, Normal)
+			[0x64A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 20
 			[0x67E] Radox Single (Normal, Normal)
@@ -1062,8 +1062,8 @@
 			[0x88E] Colossal Diamond (Dark, Normal)
 			[0x896] Bottom-Left Dropping (Dark, Normal)
 			[0x89E] Weird Giant Dropping 2 (Dark, Normal)
-			[0x8A6] Other (Normal, Normal)
-			[0x8AE] Other (Normal, Normal)
+			[0x8A6] Silver Legs (Normal, Normal)
+			[0x8AE] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1130,8 +1130,8 @@
 			[0x276] Triangle Dropping (Dark, Normal)
 			[0x27E] Triple Dropping (Dark, Normal)
 			[0x286] Double Dropping (Dark, Normal)
-			[0x28E] Other (Normal, Normal)
-			[0x296] Other (Normal, Normal)
+			[0x28E] Silver Head (Normal, Normal)
+			[0x296] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 0
 			[0x2DE] Chasmo Head (Normal, Normal)
@@ -1158,8 +1158,8 @@
 			[0x386] Triangle Dropping (Dark, Normal)
 			[0x38E] Triple Dropping (Dark, Normal)
 			[0x396] Double Dropping (Dark, Normal)
-			[0x39E] Other (Normal, Normal)
-			[0x3A6] Other (Normal, Normal)
+			[0x39E] Silver Head (Normal, Normal)
+			[0x3A6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 2
 			[0x3EE] Cryo Head (Normal, Normal)
@@ -1182,8 +1182,8 @@
 			[0x476] Triangle Dropping (Dark, Normal)
 			[0x47E] Triple Dropping (Dark, Normal)
 			[0x486] Double Dropping (Dark, Normal)
-			[0x48E] Other (Normal, Normal)
-			[0x496] Other (Normal, Normal)
+			[0x48E] Silver Head (Normal, Normal)
+			[0x496] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1254,8 +1254,8 @@
 			[0x2BA] Top-Right Dropping (Dark, Normal)
 			[0x2C2] Bottom-Left Dropping (Dark, Normal)
 			[0x2CA] Weird Giant Dropping 2 (Dark, Normal)
-			[0x2D2] Other (Normal, Normal)
-			[0x2DA] Other (Normal, Normal)
+			[0x2D2] Silver Body (Normal, Normal)
+			[0x2DA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x322] Krypto Head (Normal, Normal)
@@ -1284,8 +1284,8 @@
 			[0x3DA] Top-Right Dropping (Dark, Normal)
 			[0x3E2] Bottom-Left Dropping (Dark, Normal)
 			[0x3EA] Weird Giant Dropping 2 (Dark, Normal)
-			[0x3F2] Other (Normal, Normal)
-			[0x3FA] Other (Normal, Normal)
+			[0x3F2] Silver Body (Normal, Normal)
+			[0x3FA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x442] Krypto Head (Normal, Normal)
@@ -1309,8 +1309,8 @@
 			[0x4D2] Top-Right Dropping (Dark, Normal)
 			[0x4DA] Bottom-Left Dropping (Dark, Normal)
 			[0x4E2] Weird Giant Dropping 2 (Dark, Normal)
-			[0x4EA] Other (Normal, Normal)
-			[0x4F2] Other (Normal, Normal)
+			[0x4EA] Silver Body (Normal, Normal)
+			[0x4F2] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1404,8 +1404,8 @@
 			[0x35E] Bottom-Right Dropping (Dark, Normal)
 			[0x366] Top-Right Dropping (Dark, Normal)
 			[0x36E] Bottom-Left Dropping (Dark, Normal)
-			[0x376] Other (Normal, Normal)
-			[0x37E] Other (Normal, Normal)
+			[0x376] Silver Body (Normal, Normal)
+			[0x37E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x3C6] Coatlus Head (Normal, Normal)
@@ -1459,8 +1459,8 @@
 			[0x546] Bottom-Right Dropping (Dark, Normal)
 			[0x54E] Top-Right Dropping (Dark, Normal)
 			[0x556] Bottom-Left Dropping (Dark, Normal)
-			[0x55E] Other (Normal, Normal)
-			[0x566] Other (Normal, Normal)
+			[0x55E] Silver Body (Normal, Normal)
+			[0x566] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x5AE] Coatlus Head (Normal, Normal)
@@ -1504,8 +1504,8 @@
 			[0x6DE] Bottom-Right Dropping (Dark, Normal)
 			[0x6E6] Top-Right Dropping (Dark, Normal)
 			[0x6EE] Bottom-Left Dropping (Dark, Normal)
-			[0x6F6] Other (Normal, Normal)
-			[0x6FE] Other (Normal, Normal)
+			[0x6F6] Silver Body (Normal, Normal)
+			[0x6FE] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1590,8 +1590,8 @@
 			[0x316] Top-Right Dropping (Dark, Normal)
 			[0x31E] Bottom-Left Dropping (Dark, Normal)
 			[0x326] Weird Giant Dropping 2 (Dark, Normal)
-			[0x32E] Other (Normal, Normal)
-			[0x336] Other (Normal, Normal)
+			[0x32E] Silver Body (Normal, Normal)
+			[0x336] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x37E] Parapu Single (Normal, Normal)
@@ -1635,8 +1635,8 @@
 			[0x4AE] Top-Right Dropping (Dark, Normal)
 			[0x4B6] Bottom-Left Dropping (Dark, Normal)
 			[0x4BE] Weird Giant Dropping 2 (Dark, Normal)
-			[0x4C6] Other (Normal, Normal)
-			[0x4CE] Other (Normal, Normal)
+			[0x4C6] Silver Body (Normal, Normal)
+			[0x4CE] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x516] Parapu Single (Normal, Normal)
@@ -1672,8 +1672,8 @@
 			[0x606] Top-Right Dropping (Dark, Normal)
 			[0x60E] Bottom-Left Dropping (Dark, Normal)
 			[0x616] Weird Giant Dropping 2 (Dark, Normal)
-			[0x61E] Other (Normal, Normal)
-			[0x626] Other (Normal, Normal)
+			[0x61E] Silver Body (Normal, Normal)
+			[0x626] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1753,8 +1753,8 @@
 			[0x2EE] Bottom-Right Dropping (Dark, Normal)
 			[0x2F6] Top-Right Dropping (Dark, Normal)
 			[0x2FE] Bottom-Left Dropping (Dark, Normal)
-			[0x306] Other (Normal, Normal)
-			[0x30E] Other (Normal, Normal)
+			[0x306] Silver Body (Normal, Normal)
+			[0x30E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x356] Nycto Head (Normal, Normal)
@@ -1793,8 +1793,8 @@
 			[0x45E] Bottom-Right Dropping (Dark, Normal)
 			[0x466] Top-Right Dropping (Dark, Normal)
 			[0x46E] Bottom-Left Dropping (Dark, Normal)
-			[0x476] Other (Normal, Normal)
-			[0x47E] Other (Normal, Normal)
+			[0x476] Silver Body (Normal, Normal)
+			[0x47E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x4C6] Nycto Head (Normal, Normal)
@@ -1826,8 +1826,8 @@
 			[0x596] Bottom-Right Dropping (Dark, Normal)
 			[0x59E] Top-Right Dropping (Dark, Normal)
 			[0x5A6] Bottom-Left Dropping (Dark, Normal)
-			[0x5AE] Other (Normal, Normal)
-			[0x5B6] Other (Normal, Normal)
+			[0x5AE] Silver Body (Normal, Normal)
+			[0x5B6] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -1900,8 +1900,8 @@
 			[0x2C6] Sapphire (Normal, Normal)
 			[0x2CE] Colossal Diamond (Dark, Normal)
 			[0x2D6] Double Giant Dropping (Normal, Normal)
-			[0x2DE] Other (Normal, Normal)
-			[0x2E6] Other (Normal, Normal)
+			[0x2DE] Silver Body (Normal, Normal)
+			[0x2E6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 6
 			[0x32E] Delta Head (Normal, Normal)
@@ -1931,8 +1931,8 @@
 			[0x3EE] Sapphire (Normal, Normal)
 			[0x3F6] Colossal Diamond (Dark, Normal)
 			[0x3FE] Double Giant Dropping (Normal, Normal)
-			[0x406] Other (Normal, Normal)
-			[0x40E] Other (Normal, Normal)
+			[0x406] Silver Body (Normal, Normal)
+			[0x40E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x456] Delta Head (Normal, Normal)
@@ -1962,8 +1962,8 @@
 			[0x516] Sapphire (Normal, Normal)
 			[0x51E] Colossal Diamond (Dark, Normal)
 			[0x526] Double Giant Dropping (Normal, Normal)
-			[0x52E] Other (Normal, Normal)
-			[0x536] Other (Normal, Normal)
+			[0x52E] Silver Body (Normal, Normal)
+			[0x536] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2058,8 +2058,8 @@
 			[0x412] Center Dropping (Dark, Normal)
 			[0x41A] Bottom-Right Dropping (Dark, Normal)
 			[0x422] Top-Right Dropping (Dark, Normal)
-			[0x42A] Other (Normal, Normal)
-			[0x432] Other (Normal, Normal)
+			[0x42A] Silver Body (Normal, Normal)
+			[0x432] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x47A] Hypsi Head (Normal, Normal)
@@ -2114,8 +2114,8 @@
 			[0x602] Center Dropping (Dark, Normal)
 			[0x60A] Bottom-Right Dropping (Dark, Normal)
 			[0x612] Top-Right Dropping (Dark, Normal)
-			[0x61A] Other (Normal, Normal)
-			[0x622] Other (Normal, Normal)
+			[0x61A] Silver Body (Normal, Normal)
+			[0x622] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x66A] Hypsi Head (Normal, Normal)
@@ -2161,8 +2161,8 @@
 			[0x7AA] Center Dropping (Dark, Normal)
 			[0x7B2] Bottom-Right Dropping (Dark, Normal)
 			[0x7BA] Top-Right Dropping (Dark, Normal)
-			[0x7C2] Other (Normal, Normal)
-			[0x7CA] Other (Normal, Normal)
+			[0x7C2] Silver Body (Normal, Normal)
+			[0x7CA] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2206,8 +2206,8 @@
 			[0x962] Bottom-Right Dropping (Dark, Normal)
 			[0x96A] Top-Right Dropping (Dark, Normal)
 			[0x972] Weird Giant Dropping 1 (Dark, Normal)
-			[0x97A] Other (Normal, Normal)
-			[0x982] Other (Normal, Normal)
+			[0x97A] Silver Body (Normal, Normal)
+			[0x982] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 6
 			[0x9CA] Ceros Single (Normal, Normal)
@@ -2252,8 +2252,8 @@
 			[0xB02] Bottom-Right Dropping (Dark, Normal)
 			[0xB0A] Top-Right Dropping (Dark, Normal)
 			[0xB12] Weird Giant Dropping 1 (Dark, Normal)
-			[0xB1A] Other (Normal, Normal)
-			[0xB22] Other (Normal, Normal)
+			[0xB1A] Silver Body (Normal, Normal)
+			[0xB22] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 7
 			[0xB6A] Ceros Single (Normal, Normal)
@@ -2291,8 +2291,8 @@
 			[0xC6A] Bottom-Right Dropping (Dark, Normal)
 			[0xC72] Top-Right Dropping (Dark, Normal)
 			[0xC7A] Weird Giant Dropping 1 (Dark, Normal)
-			[0xC82] Other (Normal, Normal)
-			[0xC8A] Other (Normal, Normal)
+			[0xC82] Silver Body (Normal, Normal)
+			[0xC8A] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 3
@@ -2322,8 +2322,8 @@
 			[0xDB2] Bottom-Right Dropping (Dark, Normal)
 			[0xDBA] Top-Right Dropping (Dark, Normal)
 			[0xDC2] Weird Giant Dropping 1 (Dark, Normal)
-			[0xDCA] Other (Normal, Normal)
-			[0xDD2] Other (Normal, Normal)
+			[0xDCA] Silver Body (Normal, Normal)
+			[0xDD2] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 4
 			[0xE1A] Megath Head (Normal, Normal)
@@ -2353,8 +2353,8 @@
 			[0xEDA] Bottom-Right Dropping (Dark, Normal)
 			[0xEE2] Top-Right Dropping (Dark, Normal)
 			[0xEEA] Weird Giant Dropping 1 (Dark, Normal)
-			[0xEF2] Other (Normal, Normal)
-			[0xEFA] Other (Normal, Normal)
+			[0xEF2] Silver Body (Normal, Normal)
+			[0xEFA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 5
 			[0xF42] Tarbo Head (Normal, Normal)
@@ -2381,8 +2381,8 @@
 			[0xFEA] Bottom-Right Dropping (Dark, Normal)
 			[0xFF2] Top-Right Dropping (Dark, Normal)
 			[0xFFA] Weird Giant Dropping 1 (Dark, Normal)
-			[0x1002] Other (Normal, Normal)
-			[0x100A] Other (Normal, Normal)
+			[0x1002] Silver Body (Normal, Normal)
+			[0x100A] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2415,8 +2415,8 @@
 			[0x202] Center Dropping (Dark, Normal)
 			[0x20A] Bottom-Right Dropping (Dark, Normal)
 			[0x212] Top-Right Dropping (Dark, Normal)
-			[0x21A] Other (Normal, Normal)
-			[0x222] Other (Normal, Normal)
+			[0x21A] Silver Arms (Normal, Normal)
+			[0x222] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 1
 			[0x26A] Quad Diamond (Dark, Normal)
@@ -2426,8 +2426,8 @@
 			[0x28A] Center Dropping (Dark, Normal)
 			[0x292] Bottom-Right Dropping (Dark, Normal)
 			[0x29A] Top-Right Dropping (Dark, Normal)
-			[0x2A2] Other (Normal, Normal)
-			[0x2AA] Other (Normal, Normal)
+			[0x2A2] Silver Arms (Normal, Normal)
+			[0x2AA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 2
 			[0x2F2] Quad Diamond (Dark, Normal)
@@ -2437,8 +2437,8 @@
 			[0x312] Center Dropping (Dark, Normal)
 			[0x31A] Bottom-Right Dropping (Dark, Normal)
 			[0x322] Top-Right Dropping (Dark, Normal)
-			[0x32A] Other (Normal, Normal)
-			[0x332] Other (Normal, Normal)
+			[0x32A] Silver Arms (Normal, Normal)
+			[0x332] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2575,8 +2575,8 @@
 			[0x4A2] Center Dropping (Dark, Normal)
 			[0x4AA] Bottom-Right Dropping (Dark, Normal)
 			[0x4B2] Top-Right Dropping (Dark, Normal)
-			[0x4BA] Other (Normal, Normal)
-			[0x4C2] Other (Normal, Normal)
+			[0x4BA] Silver Legs (Normal, Normal)
+			[0x4C2] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 2
 			[0x50A] Aopteryx Head (Normal, Normal)
@@ -2670,8 +2670,8 @@
 			[0x7CA] Center Dropping (Dark, Normal)
 			[0x7D2] Bottom-Right Dropping (Dark, Normal)
 			[0x7DA] Top-Right Dropping (Dark, Normal)
-			[0x7E2] Other (Normal, Normal)
-			[0x7EA] Other (Normal, Normal)
+			[0x7E2] Silver Legs (Normal, Normal)
+			[0x7EA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x832] Shanshan Head (Normal, Normal)
@@ -2766,8 +2766,8 @@
 			[0xAFA] Center Dropping (Dark, Normal)
 			[0xB02] Bottom-Right Dropping (Dark, Normal)
 			[0xB0A] Top-Right Dropping (Dark, Normal)
-			[0xB12] Other (Normal, Normal)
-			[0xB1A] Other (Normal, Normal)
+			[0xB12] Silver Legs (Normal, Normal)
+			[0xB1A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2829,8 +2829,8 @@
 			[0x24A] Double Diamond (Normal, Normal)
 			[0x252] Colossal Diamond (Dark, Normal)
 			[0x25A] Giant Dropping (Dark, Normal)
-			[0x262] Other (Normal, Normal)
-			[0x26A] Other (Normal, Normal)
+			[0x262] Silver Head (Normal, Normal)
+			[0x26A] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x2B2] Breme Head (Normal, Normal)
@@ -2849,8 +2849,8 @@
 			[0x31A] Double Diamond (Normal, Normal)
 			[0x322] Colossal Diamond (Dark, Normal)
 			[0x32A] Giant Dropping (Dark, Normal)
-			[0x332] Other (Normal, Normal)
-			[0x33A] Other (Normal, Normal)
+			[0x332] Silver Head (Normal, Normal)
+			[0x33A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x382] Breme Head (Normal, Normal)
@@ -2869,8 +2869,8 @@
 			[0x3EA] Double Diamond (Normal, Normal)
 			[0x3F2] Colossal Diamond (Dark, Normal)
 			[0x3FA] Giant Dropping (Dark, Normal)
-			[0x402] Other (Normal, Normal)
-			[0x40A] Other (Normal, Normal)
+			[0x402] Silver Head (Normal, Normal)
+			[0x40A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -2944,8 +2944,8 @@
 			[0x296] Double Diamond (Normal, Normal)
 			[0x29E] Colossal Diamond (Dark, Normal)
 			[0x2A6] Giant Dropping (Dark, Normal)
-			[0x2AE] Other (Normal, Normal)
-			[0x2B6] Other (Normal, Normal)
+			[0x2AE] Silver Head (Normal, Normal)
+			[0x2B6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x2FE] Breme Head (Normal, Normal)
@@ -2976,8 +2976,8 @@
 			[0x3C6] Double Diamond (Normal, Normal)
 			[0x3CE] Colossal Diamond (Dark, Normal)
 			[0x3D6] Giant Dropping (Dark, Normal)
-			[0x3DE] Other (Normal, Normal)
-			[0x3E6] Other (Normal, Normal)
+			[0x3DE] Silver Head (Normal, Normal)
+			[0x3E6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x42E] Breme Head (Normal, Normal)
@@ -3008,8 +3008,8 @@
 			[0x4F6] Double Diamond (Normal, Normal)
 			[0x4FE] Colossal Diamond (Dark, Normal)
 			[0x506] Giant Dropping (Dark, Normal)
-			[0x50E] Other (Normal, Normal)
-			[0x516] Other (Normal, Normal)
+			[0x50E] Silver Head (Normal, Normal)
+			[0x516] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -3083,8 +3083,8 @@
 			[0x2B6] Double Pearl (Normal, Normal)
 			[0x2BE] Colossal Diamond (Dark, Normal)
 			[0x2C6] Center Dropping (Dark, Normal)
-			[0x2CE] Other (Normal, Normal)
-			[0x2D6] Other (Normal, Normal)
+			[0x2CE] Silver Arms (Normal, Normal)
+			[0x2D6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x31E] Tryma Head (Normal, Normal)
@@ -3115,8 +3115,8 @@
 			[0x3E6] Sapphire (Normal, Normal)
 			[0x3EE] Colossal Diamond (Dark, Normal)
 			[0x3F6] Center Dropping (Dark, Normal)
-			[0x3FE] Other (Normal, Normal)
-			[0x406] Other (Normal, Normal)
+			[0x3FE] Silver Arms (Normal, Normal)
+			[0x406] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x44E] Tryma Head (Normal, Normal)
@@ -3146,8 +3146,8 @@
 			[0x50E] Sapphire (Normal, Normal)
 			[0x516] Colossal Diamond (Dark, Normal)
 			[0x51E] Center Dropping (Dark, Normal)
-			[0x526] Other (Normal, Normal)
-			[0x52E] Other (Normal, Normal)
+			[0x526] Silver Arms (Normal, Normal)
+			[0x52E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -3197,8 +3197,8 @@
 			[0x6F6] Double Pearl (Normal, Normal)
 			[0x6FE] Colossal Diamond (Dark, Normal)
 			[0x706] Center Dropping (Dark, Normal)
-			[0x70E] Other (Normal, Normal)
-			[0x716] Other (Normal, Normal)
+			[0x70E] Silver Arms (Normal, Normal)
+			[0x716] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x75E] Sungari Head (Normal, Normal)
@@ -3250,8 +3250,8 @@
 			[0x8CE] Sapphire (Normal, Normal)
 			[0x8D6] Colossal Diamond (Dark, Normal)
 			[0x8DE] Center Dropping (Dark, Normal)
-			[0x8E6] Other (Normal, Normal)
-			[0x8EE] Other (Normal, Normal)
+			[0x8E6] Silver Arms (Normal, Normal)
+			[0x8EE] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x936] Siamo Head (Normal, Normal)
@@ -3294,8 +3294,8 @@
 			[0xA5E] Sapphire (Normal, Normal)
 			[0xA66] Colossal Diamond (Dark, Normal)
 			[0xA6E] Center Dropping (Dark, Normal)
-			[0xA76] Other (Normal, Normal)
-			[0xA7E] Other (Normal, Normal)
+			[0xA76] Silver Arms (Normal, Normal)
+			[0xA7E] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -3354,8 +3354,8 @@
 			[0x282] Colossal Diamond (Dark, Normal)
 			[0x28A] Bottom-Right Dropping (Dark, Normal)
 			[0x292] Weird Giant Dropping 2 (Dark, Normal)
-			[0x29A] Other (Normal, Normal)
-			[0x2A2] Other (Normal, Normal)
+			[0x29A] Silver Arms (Normal, Normal)
+			[0x2A2] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 4
 			[0x2EA] Machai Head (Normal, Normal)
@@ -3382,8 +3382,8 @@
 			[0x392] Colossal Diamond (Dark, Normal)
 			[0x39A] Bottom-Right Dropping (Dark, Normal)
 			[0x3A2] Weird Giant Dropping 2 (Dark, Normal)
-			[0x3AA] Other (Normal, Normal)
-			[0x3B2] Other (Normal, Normal)
+			[0x3AA] Silver Arms (Normal, Normal)
+			[0x3B2] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 5
 			[0x3FA] Machai Head (Normal, Normal)
@@ -3405,8 +3405,8 @@
 			[0x47A] Colossal Diamond (Dark, Normal)
 			[0x482] Bottom-Right Dropping (Dark, Normal)
 			[0x48A] Weird Giant Dropping 2 (Dark, Normal)
-			[0x492] Other (Normal, Normal)
-			[0x49A] Other (Normal, Normal)
+			[0x492] Silver Arms (Normal, Normal)
+			[0x49A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 3
@@ -3433,8 +3433,8 @@
 			[0x5AA] Colossal Diamond (Dark, Normal)
 			[0x5B2] Bottom-Right Dropping (Dark, Normal)
 			[0x5BA] Weird Giant Dropping 2 (Dark, Normal)
-			[0x5C2] Other (Normal, Normal)
-			[0x5CA] Other (Normal, Normal)
+			[0x5C2] Silver Arms (Normal, Normal)
+			[0x5CA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 4
 			[0x612] Compso Head (Normal, Normal)
@@ -3461,8 +3461,8 @@
 			[0x6BA] Colossal Diamond (Dark, Normal)
 			[0x6C2] Bottom-Right Dropping (Dark, Normal)
 			[0x6CA] Weird Giant Dropping 2 (Dark, Normal)
-			[0x6D2] Other (Normal, Normal)
-			[0x6DA] Other (Normal, Normal)
+			[0x6D2] Silver Arms (Normal, Normal)
+			[0x6DA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 5
 			[0x722] Compso Head (Normal, Normal)
@@ -3484,8 +3484,8 @@
 			[0x7A2] Colossal Diamond (Dark, Normal)
 			[0x7AA] Bottom-Right Dropping (Dark, Normal)
 			[0x7B2] Weird Giant Dropping 2 (Dark, Normal)
-			[0x7BA] Other (Normal, Normal)
-			[0x7C2] Other (Normal, Normal)
+			[0x7BA] Silver Arms (Normal, Normal)
+			[0x7C2] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 3
@@ -3522,8 +3522,8 @@
 			[0x922] Colossal Diamond (Dark, Normal)
 			[0x92A] Bottom-Right Dropping (Dark, Normal)
 			[0x932] Weird Giant Dropping 2 (Dark, Normal)
-			[0x93A] Other (Normal, Normal)
-			[0x942] Other (Normal, Normal)
+			[0x93A] Silver Arms (Normal, Normal)
+			[0x942] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 4
 			[0x98A] Yango Head (Normal, Normal)
@@ -3561,8 +3561,8 @@
 			[0xA8A] Colossal Diamond (Dark, Normal)
 			[0xA92] Bottom-Right Dropping (Dark, Normal)
 			[0xA9A] Weird Giant Dropping 2 (Dark, Normal)
-			[0xAA2] Other (Normal, Normal)
-			[0xAAA] Other (Normal, Normal)
+			[0xAA2] Silver Arms (Normal, Normal)
+			[0xAAA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 5
 			[0xAF2] Yango Head (Normal, Normal)
@@ -3593,8 +3593,8 @@
 			[0xBBA] Colossal Diamond (Dark, Normal)
 			[0xBC2] Bottom-Right Dropping (Dark, Normal)
 			[0xBCA] Weird Giant Dropping 2 (Dark, Normal)
-			[0xBD2] Other (Normal, Normal)
-			[0xBDA] Other (Normal, Normal)
+			[0xBD2] Silver Arms (Normal, Normal)
+			[0xBDA] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -3653,8 +3653,8 @@
 			[0x2DE] Center Dropping (Dark, Normal)
 			[0x2E6] Bottom-Right Dropping (Dark, Normal)
 			[0x2EE] Top-Left Dropping (Dark, Normal)
-			[0x2F6] Other (Normal, Normal)
-			[0x2FE] Other (Normal, Normal)
+			[0x2F6] Silver Legs (Normal, Normal)
+			[0x2FE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 6
 			[0x346] Shuno Head (Normal, Normal)
@@ -3692,8 +3692,8 @@
 			[0x446] Center Dropping (Dark, Normal)
 			[0x44E] Bottom-Right Dropping (Dark, Normal)
 			[0x456] Top-Left Dropping (Dark, Normal)
-			[0x45E] Other (Normal, Normal)
-			[0x466] Other (Normal, Normal)
+			[0x45E] Silver Legs (Normal, Normal)
+			[0x466] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 7
 			[0x4AE] Shuno Head (Normal, Normal)
@@ -3725,8 +3725,8 @@
 			[0x57E] Center Dropping (Dark, Normal)
 			[0x586] Bottom-Right Dropping (Dark, Normal)
 			[0x58E] Top-Left Dropping (Dark, Normal)
-			[0x596] Other (Normal, Normal)
-			[0x59E] Other (Normal, Normal)
+			[0x596] Silver Legs (Normal, Normal)
+			[0x59E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -3805,8 +3805,8 @@
 			[0x2E2] Center Dropping (Dark, Normal)
 			[0x2EA] Bottom-Right Dropping (Dark, Normal)
 			[0x2F2] Top-Left Dropping (Dark, Normal)
-			[0x2FA] Other (Normal, Normal)
-			[0x302] Other (Normal, Normal)
+			[0x2FA] Silver Legs (Normal, Normal)
+			[0x302] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x34A] T-Rex Head (Normal, Normal)
@@ -3844,8 +3844,8 @@
 			[0x44A] Center Dropping (Dark, Normal)
 			[0x452] Bottom-Right Dropping (Dark, Normal)
 			[0x45A] Top-Left Dropping (Dark, Normal)
-			[0x462] Other (Normal, Normal)
-			[0x46A] Other (Normal, Normal)
+			[0x462] Silver Legs (Normal, Normal)
+			[0x46A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x4B2] T-Rex Head (Normal, Normal)
@@ -3877,8 +3877,8 @@
 			[0x582] Center Dropping (Dark, Normal)
 			[0x58A] Bottom-Right Dropping (Dark, Normal)
 			[0x592] Top-Left Dropping (Dark, Normal)
-			[0x59A] Other (Normal, Normal)
-			[0x5A2] Other (Normal, Normal)
+			[0x59A] Silver Legs (Normal, Normal)
+			[0x5A2] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -3906,8 +3906,8 @@
 			[0x6BA] Bottom-Right Dropping (Dark, Normal)
 			[0x6C2] Top-Left Dropping (Dark, Normal)
 			[0x6CA] Weird Giant Dropping 1 (Dark, Normal)
-			[0x6D2] Other (Normal, Normal)
-			[0x6DA] Other (Normal, Normal)
+			[0x6D2] Silver Legs (Normal, Normal)
+			[0x6DA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x722] Dacerus Head (Normal, Normal)
@@ -3935,8 +3935,8 @@
 			[0x7D2] Bottom-Right Dropping (Dark, Normal)
 			[0x7DA] Top-Left Dropping (Dark, Normal)
 			[0x7E2] Weird Giant Dropping 1 (Dark, Normal)
-			[0x7EA] Other (Normal, Normal)
-			[0x7F2] Other (Normal, Normal)
+			[0x7EA] Silver Legs (Normal, Normal)
+			[0x7F2] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x83A] Andrarch Head (Normal, Normal)
@@ -3961,8 +3961,8 @@
 			[0x8D2] Bottom-Right Dropping (Dark, Normal)
 			[0x8DA] Top-Left Dropping (Dark, Normal)
 			[0x8E2] Weird Giant Dropping 1 (Dark, Normal)
-			[0x8EA] Other (Normal, Normal)
-			[0x8F2] Other (Normal, Normal)
+			[0x8EA] Silver Legs (Normal, Normal)
+			[0x8F2] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -4004,8 +4004,8 @@
 			[0xA7A] Bottom-Right Dropping (Dark, Normal)
 			[0xA82] Top-Left Dropping (Dark, Normal)
 			[0xA8A] Weird Giant Dropping 1 (Dark, Normal)
-			[0xA92] Other (Normal, Normal)
-			[0xA9A] Other (Normal, Normal)
+			[0xA92] Silver Legs (Normal, Normal)
+			[0xA9A] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0xAE2] Shuno Head (Normal, Normal)
@@ -4048,8 +4048,8 @@
 			[0xC0A] Bottom-Right Dropping (Dark, Normal)
 			[0xC12] Top-Left Dropping (Dark, Normal)
 			[0xC1A] Weird Giant Dropping 1 (Dark, Normal)
-			[0xC22] Other (Normal, Normal)
-			[0xC2A] Other (Normal, Normal)
+			[0xC22] Silver Legs (Normal, Normal)
+			[0xC2A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0xC72] Shuno Head (Normal, Normal)
@@ -4085,8 +4085,8 @@
 			[0xD62] Bottom-Right Dropping (Dark, Normal)
 			[0xD6A] Top-Left Dropping (Dark, Normal)
 			[0xD72] Weird Giant Dropping 1 (Dark, Normal)
-			[0xD7A] Other (Normal, Normal)
-			[0xD82] Other (Normal, Normal)
+			[0xD7A] Silver Legs (Normal, Normal)
+			[0xD82] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -4132,8 +4132,8 @@
 			[0x2C2] Center Dropping (Dark, Normal)
 			[0x2CA] Bottom-Left Dropping (Dark, Normal)
 			[0x2D2] Top-Left Dropping (Dark, Normal)
-			[0x2DA] Other (Normal, Normal)
-			[0x2E2] Other (Normal, Normal)
+			[0x2DA] Silver Head (Normal, Normal)
+			[0x2E2] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x32A] Hopter Head (Normal, Normal)
@@ -4156,8 +4156,8 @@
 			[0x3B2] Center Dropping (Dark, Normal)
 			[0x3BA] Bottom-Left Dropping (Dark, Normal)
 			[0x3C2] Top-Left Dropping (Dark, Normal)
-			[0x3CA] Other (Normal, Normal)
-			[0x3D2] Other (Normal, Normal)
+			[0x3CA] Silver Head (Normal, Normal)
+			[0x3D2] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 3
 			[0x41A] Hopter Head (Normal, Normal)
@@ -4178,8 +4178,8 @@
 			[0x492] Center Dropping (Dark, Normal)
 			[0x49A] Bottom-Left Dropping (Dark, Normal)
 			[0x4A2] Top-Left Dropping (Dark, Normal)
-			[0x4AA] Other (Normal, Normal)
-			[0x4B2] Other (Normal, Normal)
+			[0x4AA] Silver Head (Normal, Normal)
+			[0x4B2] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -4203,8 +4203,8 @@
 			[0x5AA] Center Dropping (Dark, Normal)
 			[0x5B2] Bottom-Left Dropping (Dark, Normal)
 			[0x5BA] Top-Left Dropping (Dark, Normal)
-			[0x5C2] Other (Normal, Normal)
-			[0x5CA] Other (Normal, Normal)
+			[0x5C2] Silver Head (Normal, Normal)
+			[0x5CA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x612] Cerato Head (Normal, Normal)
@@ -4227,8 +4227,8 @@
 			[0x69A] Center Dropping (Dark, Normal)
 			[0x6A2] Bottom-Left Dropping (Dark, Normal)
 			[0x6AA] Top-Left Dropping (Dark, Normal)
-			[0x6B2] Other (Normal, Normal)
-			[0x6BA] Other (Normal, Normal)
+			[0x6B2] Silver Head (Normal, Normal)
+			[0x6BA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x702] Cerato Head (Normal, Normal)
@@ -4249,8 +4249,8 @@
 			[0x77A] Center Dropping (Dark, Normal)
 			[0x782] Bottom-Left Dropping (Dark, Normal)
 			[0x78A] Top-Left Dropping (Dark, Normal)
-			[0x792] Other (Normal, Normal)
-			[0x79A] Other (Normal, Normal)
+			[0x792] Silver Head (Normal, Normal)
+			[0x79A] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -4339,8 +4339,8 @@
 			[0x37E] Bottom-Left Dropping (Dark, Normal)
 			[0x386] Top-Left Dropping (Dark, Normal)
 			[0x38E] Weird Giant Dropping 1 (Dark, Normal)
-			[0x396] Other (Normal, Normal)
-			[0x39E] Other (Normal, Normal)
+			[0x396] Silver Body (Normal, Normal)
+			[0x39E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 23
 			[0x3E6] Carchar Head (Normal, Normal)
@@ -4398,8 +4398,8 @@
 			[0x586] Bottom-Left Dropping (Dark, Normal)
 			[0x58E] Top-Left Dropping (Dark, Normal)
 			[0x596] Weird Giant Dropping 1 (Dark, Normal)
-			[0x59E] Other (Normal, Normal)
-			[0x5A6] Other (Normal, Normal)
+			[0x59E] Silver Body (Normal, Normal)
+			[0x5A6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 31
 			[0x5EE] Kentro Head (Normal, Normal)
@@ -4449,8 +4449,8 @@
 			[0x74E] Bottom-Left Dropping (Dark, Normal)
 			[0x756] Top-Left Dropping (Dark, Normal)
 			[0x75E] Weird Giant Dropping 1 (Dark, Normal)
-			[0x766] Other (Normal, Normal)
-			[0x76E] Other (Normal, Normal)
+			[0x766] Silver Body (Normal, Normal)
+			[0x76E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -4530,8 +4530,8 @@
 			[0x2C6] Bottom-Right Dropping (Dark, Normal)
 			[0x2CE] Top-Right Dropping (Dark, Normal)
 			[0x2D6] Top-Left Dropping (Dark, Normal)
-			[0x2DE] Other (Normal, Normal)
-			[0x2E6] Other (Normal, Normal)
+			[0x2DE] Silver Arms (Normal, Normal)
+			[0x2E6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x32E] Giganto Head (Normal, Normal)
@@ -4569,8 +4569,8 @@
 			[0x42E] Bottom-Right Dropping (Dark, Normal)
 			[0x436] Top-Right Dropping (Dark, Normal)
 			[0x43E] Top-Left Dropping (Dark, Normal)
-			[0x446] Other (Normal, Normal)
-			[0x44E] Other (Normal, Normal)
+			[0x446] Silver Arms (Normal, Normal)
+			[0x44E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x496] Giganto Head (Normal, Normal)
@@ -4603,8 +4603,8 @@
 			[0x56E] Bottom-Right Dropping (Dark, Normal)
 			[0x576] Top-Right Dropping (Dark, Normal)
 			[0x57E] Top-Left Dropping (Dark, Normal)
-			[0x586] Other (Normal, Normal)
-			[0x58E] Other (Normal, Normal)
+			[0x586] Silver Arms (Normal, Normal)
+			[0x58E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -4686,8 +4686,8 @@
 			[0x312] Diamond (Normal, Normal)
 			[0x31A] Colossal Diamond (Dark, Normal)
 			[0x322] Bottom-Right Dropping (Dark, Normal)
-			[0x32A] Other (Normal, Normal)
-			[0x332] Other (Normal, Normal)
+			[0x32A] Silver Legs (Normal, Normal)
+			[0x332] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 6
 			[0x37A] Allo Head (Normal, Normal)
@@ -4727,8 +4727,8 @@
 			[0x48A] Sapphire (Normal, Normal)
 			[0x492] Colossal Diamond (Dark, Normal)
 			[0x49A] Bottom-Right Dropping (Dark, Normal)
-			[0x4A2] Other (Normal, Normal)
-			[0x4AA] Other (Normal, Normal)
+			[0x4A2] Silver Legs (Normal, Normal)
+			[0x4AA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x4F2] E-Raptor Head (Normal, Normal)
@@ -4763,8 +4763,8 @@
 			[0x5DA] Sapphire (Normal, Normal)
 			[0x5E2] Colossal Diamond (Dark, Normal)
 			[0x5EA] Bottom-Right Dropping (Dark, Normal)
-			[0x5F2] Other (Normal, Normal)
-			[0x5FA] Other (Normal, Normal)
+			[0x5F2] Silver Legs (Normal, Normal)
+			[0x5FA] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -4874,8 +4874,8 @@
 			[0x3AE] Double Pearl (Normal, Normal)
 			[0x3B6] Colossal Diamond (Dark, Normal)
 			[0x3BE] Top-Right Dropping (Dark, Normal)
-			[0x3C6] Other (Normal, Normal)
-			[0x3CE] Other (Normal, Normal)
+			[0x3C6] Silver Head (Normal, Normal)
+			[0x3CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 20
 			[0x402] Gorgo Head (Normal, Normal)
@@ -4942,8 +4942,8 @@
 			[0x5EA] Double Pearl (Normal, Normal)
 			[0x5F2] Colossal Diamond (Dark, Normal)
 			[0x5FA] Top-Right Dropping (Dark, Normal)
-			[0x602] Other (Normal, Normal)
-			[0x60A] Other (Normal, Normal)
+			[0x602] Silver Head (Normal, Normal)
+			[0x60A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 25
 			[0x63E] Gorgo Head (Normal, Normal)
@@ -5010,8 +5010,8 @@
 			[0x826] Double Pearl (Normal, Normal)
 			[0x82E] Colossal Diamond (Dark, Normal)
 			[0x836] Top-Right Dropping (Dark, Normal)
-			[0x83E] Other (Normal, Normal)
-			[0x846] Other (Normal, Normal)
+			[0x83E] Silver Head (Normal, Normal)
+			[0x846] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -5121,8 +5121,8 @@
 			[0x3AE] Double Pearl (Normal, Normal)
 			[0x3B6] Colossal Diamond (Dark, Normal)
 			[0x3BE] Bottom-Left Dropping (Dark, Normal)
-			[0x3C6] Other (Normal, Normal)
-			[0x3CE] Other (Normal, Normal)
+			[0x3C6] Silver Body (Normal, Normal)
+			[0x3CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 20
 			[0x402] Alio Head (Normal, Normal)
@@ -5189,8 +5189,8 @@
 			[0x5EA] Double Pearl (Normal, Normal)
 			[0x5F2] Colossal Diamond (Dark, Normal)
 			[0x5FA] Bottom-Left Dropping (Dark, Normal)
-			[0x602] Other (Normal, Normal)
-			[0x60A] Other (Normal, Normal)
+			[0x602] Silver Body (Normal, Normal)
+			[0x60A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 25
 			[0x63E] Alio Head (Normal, Normal)
@@ -5257,8 +5257,8 @@
 			[0x826] Double Pearl (Normal, Normal)
 			[0x82E] Colossal Diamond (Dark, Normal)
 			[0x836] Bottom-Left Dropping (Dark, Normal)
-			[0x83E] Other (Normal, Normal)
-			[0x846] Other (Normal, Normal)
+			[0x83E] Silver Body (Normal, Normal)
+			[0x846] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -5368,8 +5368,8 @@
 			[0x3AE] Double Pearl (Normal, Normal)
 			[0x3B6] Colossal Diamond (Dark, Normal)
 			[0x3BE] Top-Left Dropping (Dark, Normal)
-			[0x3C6] Other (Normal, Normal)
-			[0x3CE] Other (Normal, Normal)
+			[0x3C6] Silver Arms (Normal, Normal)
+			[0x3CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 20
 			[0x402] M-Raptor Head (Normal, Normal)
@@ -5436,8 +5436,8 @@
 			[0x5EA] Double Pearl (Normal, Normal)
 			[0x5F2] Colossal Diamond (Dark, Normal)
 			[0x5FA] Top-Left Dropping (Dark, Normal)
-			[0x602] Other (Normal, Normal)
-			[0x60A] Other (Normal, Normal)
+			[0x602] Silver Arms (Normal, Normal)
+			[0x60A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 25
 			[0x63E] M-Raptor Head (Normal, Normal)
@@ -5504,8 +5504,8 @@
 			[0x826] Double Pearl (Normal, Normal)
 			[0x82E] Colossal Diamond (Dark, Normal)
 			[0x836] Top-Left Dropping (Dark, Normal)
-			[0x83E] Other (Normal, Normal)
-			[0x846] Other (Normal, Normal)
+			[0x83E] Silver Arms (Normal, Normal)
+			[0x846] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -5615,8 +5615,8 @@
 			[0x3AE] Double Pearl (Normal, Normal)
 			[0x3B6] Colossal Diamond (Dark, Normal)
 			[0x3BE] Center Dropping (Dark, Normal)
-			[0x3C6] Other (Normal, Normal)
-			[0x3CE] Other (Normal, Normal)
+			[0x3C6] Silver Legs (Normal, Normal)
+			[0x3CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 20
 			[0x402] Salto Head (Normal, Normal)
@@ -5683,8 +5683,8 @@
 			[0x5EA] Double Pearl (Normal, Normal)
 			[0x5F2] Colossal Diamond (Dark, Normal)
 			[0x5FA] Center Dropping (Dark, Normal)
-			[0x602] Other (Normal, Normal)
-			[0x60A] Other (Normal, Normal)
+			[0x602] Silver Legs (Normal, Normal)
+			[0x60A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 25
 			[0x63E] Salto Head (Normal, Normal)
@@ -5751,8 +5751,8 @@
 			[0x826] Double Pearl (Normal, Normal)
 			[0x82E] Colossal Diamond (Dark, Normal)
 			[0x836] Center Dropping (Dark, Normal)
-			[0x83E] Other (Normal, Normal)
-			[0x846] Other (Normal, Normal)
+			[0x83E] Silver Legs (Normal, Normal)
+			[0x846] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -5862,8 +5862,8 @@
 			[0x3AE] Double Pearl (Normal, Normal)
 			[0x3B6] Colossal Diamond (Dark, Normal)
 			[0x3BE] Bottom-Right Dropping (Dark, Normal)
-			[0x3C6] Other (Normal, Normal)
-			[0x3CE] Other (Normal, Normal)
+			[0x3C6] Silver Legs (Normal, Normal)
+			[0x3CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 20
 			[0x402] Neo Head (Normal, Normal)
@@ -5930,8 +5930,8 @@
 			[0x5EA] Double Pearl (Normal, Normal)
 			[0x5F2] Colossal Diamond (Dark, Normal)
 			[0x5FA] Bottom-Right Dropping (Dark, Normal)
-			[0x602] Other (Normal, Normal)
-			[0x60A] Other (Normal, Normal)
+			[0x602] Silver Legs (Normal, Normal)
+			[0x60A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 25
 			[0x63E] Neo Head (Normal, Normal)
@@ -5998,8 +5998,8 @@
 			[0x826] Double Pearl (Normal, Normal)
 			[0x82E] Colossal Diamond (Dark, Normal)
 			[0x836] Bottom-Right Dropping (Dark, Normal)
-			[0x83E] Other (Normal, Normal)
-			[0x846] Other (Normal, Normal)
+			[0x83E] Silver Legs (Normal, Normal)
+			[0x846] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -6094,8 +6094,8 @@
 			[0x35E] Center Dropping (Dark, Normal)
 			[0x366] Bottom-Left Dropping (Dark, Normal)
 			[0x36E] Bottom-Right Dropping (Dark, Normal)
-			[0x376] Other (Normal, Normal)
-			[0x37E] Other (Normal, Normal)
+			[0x376] Silver Head (Normal, Normal)
+			[0x37E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x3C6] Venator Head (Normal, Normal)
@@ -6150,8 +6150,8 @@
 			[0x54E] Center Dropping (Dark, Normal)
 			[0x556] Bottom-Left Dropping (Dark, Normal)
 			[0x55E] Bottom-Right Dropping (Dark, Normal)
-			[0x566] Other (Normal, Normal)
-			[0x56E] Other (Normal, Normal)
+			[0x566] Silver Head (Normal, Normal)
+			[0x56E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x5B6] Guan Head (Normal, Normal)
@@ -6198,8 +6198,8 @@
 			[0x6FE] Center Dropping (Dark, Normal)
 			[0x706] Bottom-Left Dropping (Dark, Normal)
 			[0x70E] Bottom-Right Dropping (Dark, Normal)
-			[0x716] Other (Normal, Normal)
-			[0x71E] Other (Normal, Normal)
+			[0x716] Silver Head (Normal, Normal)
+			[0x71E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -6242,8 +6242,8 @@
 			[0x8AE] Center Dropping (Dark, Normal)
 			[0x8B6] Bottom-Left Dropping (Dark, Normal)
 			[0x8BE] Bottom-Right Dropping (Dark, Normal)
-			[0x8C6] Other (Normal, Normal)
-			[0x8CE] Other (Normal, Normal)
+			[0x8C6] Silver Head (Normal, Normal)
+			[0x8CE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x916] Dikelo Single (Normal, Normal)
@@ -6287,8 +6287,8 @@
 			[0xA46] Center Dropping (Dark, Normal)
 			[0xA4E] Bottom-Left Dropping (Dark, Normal)
 			[0xA56] Bottom-Right Dropping (Dark, Normal)
-			[0xA5E] Other (Normal, Normal)
-			[0xA66] Other (Normal, Normal)
+			[0xA5E] Silver Head (Normal, Normal)
+			[0xA66] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0xAAE] Argento Head (Normal, Normal)
@@ -6326,8 +6326,8 @@
 			[0xBAE] Center Dropping (Dark, Normal)
 			[0xBB6] Bottom-Left Dropping (Dark, Normal)
 			[0xBBE] Bottom-Right Dropping (Dark, Normal)
-			[0xBC6] Other (Normal, Normal)
-			[0xBCE] Other (Normal, Normal)
+			[0xBC6] Silver Head (Normal, Normal)
+			[0xBCE] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -6380,8 +6380,8 @@
 			[0xDAE] Center Dropping (Dark, Normal)
 			[0xDB6] Bottom-Left Dropping (Dark, Normal)
 			[0xDBE] Bottom-Right Dropping (Dark, Normal)
-			[0xDC6] Other (Normal, Normal)
-			[0xDCE] Other (Normal, Normal)
+			[0xDC6] Silver Head (Normal, Normal)
+			[0xDCE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0xE16] Stygi Head (Normal, Normal)
@@ -6436,8 +6436,8 @@
 			[0xF9E] Center Dropping (Dark, Normal)
 			[0xFA6] Bottom-Left Dropping (Dark, Normal)
 			[0xFAE] Bottom-Right Dropping (Dark, Normal)
-			[0xFB6] Other (Normal, Normal)
-			[0xFBE] Other (Normal, Normal)
+			[0xFB6] Silver Head (Normal, Normal)
+			[0xFBE] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x1006] Centro Head (Normal, Normal)
@@ -6484,8 +6484,8 @@
 			[0x114E] Center Dropping (Dark, Normal)
 			[0x1156] Bottom-Left Dropping (Dark, Normal)
 			[0x115E] Bottom-Right Dropping (Dark, Normal)
-			[0x1166] Other (Normal, Normal)
-			[0x116E] Other (Normal, Normal)
+			[0x1166] Silver Head (Normal, Normal)
+			[0x116E] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -6589,8 +6589,8 @@
 			[0x432] Colossal Diamond (Dark, Normal)
 			[0x43A] Top-Right Dropping (Dark, Normal)
 			[0x442] Giant Dropping (Dark, Normal)
-			[0x44A] Other (Normal, Normal)
-			[0x452] Other (Normal, Normal)
+			[0x44A] Silver Arms (Normal, Normal)
+			[0x452] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 15
 			[0x49A] Siamo Head (Normal, Normal)
@@ -6671,8 +6671,8 @@
 			[0x6F2] Colossal Diamond (Dark, Normal)
 			[0x6FA] Top-Right Dropping (Dark, Normal)
 			[0x702] Giant Dropping (Dark, Normal)
-			[0x70A] Other (Normal, Normal)
-			[0x712] Other (Normal, Normal)
+			[0x70A] Silver Arms (Normal, Normal)
+			[0x712] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 20
 			[0x75A] Siamo Head (Normal, Normal)
@@ -6753,8 +6753,8 @@
 			[0x9B2] Colossal Diamond (Dark, Normal)
 			[0x9BA] Top-Right Dropping (Dark, Normal)
 			[0x9C2] Giant Dropping (Dark, Normal)
-			[0x9CA] Other (Normal, Normal)
-			[0x9D2] Other (Normal, Normal)
+			[0x9CA] Silver Arms (Normal, Normal)
+			[0x9D2] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -6834,8 +6834,8 @@
 			[0x366] Bottom-Right Dropping (Dark, Normal)
 			[0x36E] Bottom-Left Dropping (Dark, Normal)
 			[0x376] Top-Left Dropping (Dark, Normal)
-			[0x37E] Other (Normal, Normal)
-			[0x386] Other (Normal, Normal)
+			[0x37E] Silver Head (Normal, Normal)
+			[0x386] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x3CE] Dimetro Head (Normal, Normal)
@@ -6874,8 +6874,8 @@
 			[0x4D6] Bottom-Right Dropping (Dark, Normal)
 			[0x4DE] Bottom-Left Dropping (Dark, Normal)
 			[0x4E6] Top-Left Dropping (Dark, Normal)
-			[0x4EE] Other (Normal, Normal)
-			[0x4F6] Other (Normal, Normal)
+			[0x4EE] Silver Head (Normal, Normal)
+			[0x4F6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x53E] Smilo Head (Normal, Normal)
@@ -6909,8 +6909,8 @@
 			[0x61E] Bottom-Right Dropping (Dark, Normal)
 			[0x626] Bottom-Left Dropping (Dark, Normal)
 			[0x62E] Top-Left Dropping (Dark, Normal)
-			[0x636] Other (Normal, Normal)
-			[0x63E] Other (Normal, Normal)
+			[0x636] Silver Head (Normal, Normal)
+			[0x63E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -6948,8 +6948,8 @@
 			[0x7A6] Bottom-Right Dropping (Dark, Normal)
 			[0x7AE] Bottom-Left Dropping (Dark, Normal)
 			[0x7B6] Top-Left Dropping (Dark, Normal)
-			[0x7BE] Other (Normal, Normal)
-			[0x7C6] Other (Normal, Normal)
+			[0x7BE] Silver Body (Normal, Normal)
+			[0x7C6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x80E] Seismo Head (Normal, Normal)
@@ -6988,8 +6988,8 @@
 			[0x916] Bottom-Right Dropping (Dark, Normal)
 			[0x91E] Bottom-Left Dropping (Dark, Normal)
 			[0x926] Top-Left Dropping (Dark, Normal)
-			[0x92E] Other (Normal, Normal)
-			[0x936] Other (Normal, Normal)
+			[0x92E] Silver Body (Normal, Normal)
+			[0x936] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x97E] Seismo Head (Normal, Normal)
@@ -7022,8 +7022,8 @@
 			[0xA56] Bottom-Right Dropping (Dark, Normal)
 			[0xA5E] Bottom-Left Dropping (Dark, Normal)
 			[0xA66] Top-Left Dropping (Dark, Normal)
-			[0xA6E] Other (Normal, Normal)
-			[0xA76] Other (Normal, Normal)
+			[0xA6E] Silver Body (Normal, Normal)
+			[0xA76] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -7061,8 +7061,8 @@
 			[0xBDE] Bottom-Right Dropping (Dark, Normal)
 			[0xBE6] Bottom-Left Dropping (Dark, Normal)
 			[0xBEE] Top-Left Dropping (Dark, Normal)
-			[0xBF6] Other (Normal, Normal)
-			[0xBFE] Other (Normal, Normal)
+			[0xBF6] Silver Arms (Normal, Normal)
+			[0xBFE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0xC46] Toba Head (Normal, Normal)
@@ -7101,8 +7101,8 @@
 			[0xD4E] Bottom-Right Dropping (Dark, Normal)
 			[0xD56] Bottom-Left Dropping (Dark, Normal)
 			[0xD5E] Top-Left Dropping (Dark, Normal)
-			[0xD66] Other (Normal, Normal)
-			[0xD6E] Other (Normal, Normal)
+			[0xD66] Silver Arms (Normal, Normal)
+			[0xD6E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0xDB6] Toba Head (Normal, Normal)
@@ -7135,8 +7135,8 @@
 			[0xE8E] Bottom-Right Dropping (Dark, Normal)
 			[0xE96] Bottom-Left Dropping (Dark, Normal)
 			[0xE9E] Top-Left Dropping (Dark, Normal)
-			[0xEA6] Other (Normal, Normal)
-			[0xEAE] Other (Normal, Normal)
+			[0xEA6] Silver Arms (Normal, Normal)
+			[0xEAE] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -7174,8 +7174,8 @@
 			[0x1016] Bottom-Right Dropping (Dark, Normal)
 			[0x101E] Bottom-Left Dropping (Dark, Normal)
 			[0x1026] Top-Left Dropping (Dark, Normal)
-			[0x102E] Other (Normal, Normal)
-			[0x1036] Other (Normal, Normal)
+			[0x102E] Silver Head (Normal, Normal)
+			[0x1036] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x107E] Dacerus Head (Normal, Normal)
@@ -7214,8 +7214,8 @@
 			[0x1186] Bottom-Right Dropping (Dark, Normal)
 			[0x118E] Bottom-Left Dropping (Dark, Normal)
 			[0x1196] Top-Left Dropping (Dark, Normal)
-			[0x119E] Other (Normal, Normal)
-			[0x11A6] Other (Normal, Normal)
+			[0x119E] Silver Head (Normal, Normal)
+			[0x11A6] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x11EE] Dacerus Head (Normal, Normal)
@@ -7248,8 +7248,8 @@
 			[0x12C6] Bottom-Right Dropping (Dark, Normal)
 			[0x12CE] Bottom-Left Dropping (Dark, Normal)
 			[0x12D6] Top-Left Dropping (Dark, Normal)
-			[0x12DE] Other (Normal, Normal)
-			[0x12E6] Other (Normal, Normal)
+			[0x12DE] Silver Head (Normal, Normal)
+			[0x12E6] Gold Head (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -7284,8 +7284,8 @@
 			[0x262] Colossal Diamond (Dark, Normal)
 			[0x26A] Top-Right Dropping (Dark, Normal)
 			[0x272] Weird Giant Dropping 2 (Dark, Normal)
-			[0x27A] Other (Normal, Normal)
-			[0x282] Other (Normal, Normal)
+			[0x27A] Silver Head (Normal, Normal)
+			[0x282] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x2CA] Coelo Head (Normal, Normal)
@@ -7308,8 +7308,8 @@
 			[0x352] Colossal Diamond (Dark, Normal)
 			[0x35A] Top-Right Dropping (Dark, Normal)
 			[0x362] Weird Giant Dropping 2 (Dark, Normal)
-			[0x36A] Other (Normal, Normal)
-			[0x372] Other (Normal, Normal)
+			[0x36A] Silver Head (Normal, Normal)
+			[0x372] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x3BA] Terata Single (Normal, Normal)
@@ -7330,8 +7330,8 @@
 			[0x432] Colossal Diamond (Dark, Normal)
 			[0x43A] Top-Right Dropping (Dark, Normal)
 			[0x442] Weird Giant Dropping 2 (Dark, Normal)
-			[0x44A] Other (Normal, Normal)
-			[0x452] Other (Normal, Normal)
+			[0x44A] Silver Head (Normal, Normal)
+			[0x452] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -7409,8 +7409,8 @@
 			[0x2FE] Double Pearl (Normal, Normal)
 			[0x306] Colossal Diamond (Dark, Normal)
 			[0x30E] Top-Right Dropping (Dark, Normal)
-			[0x316] Other (Normal, Normal)
-			[0x31E] Other (Normal, Normal)
+			[0x316] Silver Legs (Normal, Normal)
+			[0x31E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x366] Alectro Head (Normal, Normal)
@@ -7447,8 +7447,8 @@
 			[0x45E] Double Pearl (Normal, Normal)
 			[0x466] Colossal Diamond (Dark, Normal)
 			[0x46E] Top-Right Dropping (Dark, Normal)
-			[0x476] Other (Normal, Normal)
-			[0x47E] Other (Normal, Normal)
+			[0x476] Silver Legs (Normal, Normal)
+			[0x47E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x4C6] Alectro Head (Normal, Normal)
@@ -7479,8 +7479,8 @@
 			[0x58E] Double Diamond (Normal, Normal)
 			[0x596] Colossal Diamond (Dark, Normal)
 			[0x59E] Top-Right Dropping (Dark, Normal)
-			[0x5A6] Other (Normal, Normal)
-			[0x5AE] Other (Normal, Normal)
+			[0x5A6] Silver Legs (Normal, Normal)
+			[0x5AE] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 16
@@ -7536,8 +7536,8 @@
 			[0x792] Diamond (Normal, Normal)
 			[0x79A] Colossal Diamond (Dark, Normal)
 			[0x7A2] Top-Right Dropping (Dark, Normal)
-			[0x7AA] Other (Normal, Normal)
-			[0x7B2] Other (Normal, Normal)
+			[0x7AA] Silver Body (Normal, Normal)
+			[0x7B2] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 24
 			[0x7E6] Metria Head (Normal, Normal)
@@ -7592,8 +7592,8 @@
 			[0x96E] Diamond (Normal, Normal)
 			[0x976] Colossal Diamond (Dark, Normal)
 			[0x97E] Top-Right Dropping (Dark, Normal)
-			[0x986] Other (Normal, Normal)
-			[0x98E] Other (Normal, Normal)
+			[0x986] Silver Body (Normal, Normal)
+			[0x98E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 36
 			[0x9C2] Radox Single (Normal, Normal)
@@ -7649,8 +7649,8 @@
 			[0xB52] Diamond (Normal, Normal)
 			[0xB5A] Colossal Diamond (Dark, Normal)
 			[0xB62] Top-Right Dropping (Dark, Normal)
-			[0xB6A] Other (Normal, Normal)
-			[0xB72] Other (Normal, Normal)
+			[0xB6A] Silver Body (Normal, Normal)
+			[0xB72] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -7813,8 +7813,8 @@
 			[0x37E] Double Diamond (Normal, Normal)
 			[0x386] Colossal Diamond (Dark, Normal)
 			[0x38E] Center Dropping (Dark, Normal)
-			[0x396] Other (Normal, Normal)
-			[0x39E] Other (Normal, Normal)
+			[0x396] Silver Head (Normal, Normal)
+			[0x39E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 8
 			[0x3E6] Futabi Head (Normal, Normal)
@@ -7866,8 +7866,8 @@
 			[0x556] Double Diamond (Normal, Normal)
 			[0x55E] Colossal Diamond (Dark, Normal)
 			[0x566] Center Dropping (Dark, Normal)
-			[0x56E] Other (Normal, Normal)
-			[0x576] Other (Normal, Normal)
+			[0x56E] Silver Head (Normal, Normal)
+			[0x576] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 10
 			[0x5BE] Angato Head (Normal, Normal)
@@ -7911,8 +7911,8 @@
 			[0x6EE] Double Diamond (Normal, Normal)
 			[0x6F6] Colossal Diamond (Dark, Normal)
 			[0x6FE] Center Dropping (Dark, Normal)
-			[0x706] Other (Normal, Normal)
-			[0x70E] Other (Normal, Normal)
+			[0x706] Silver Head (Normal, Normal)
+			[0x70E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -7953,8 +7953,8 @@
 			[0x88E] Colossal Diamond (Dark, Normal)
 			[0x896] Top-Right Dropping (Dark, Normal)
 			[0x89E] Weird Giant Dropping 1 (Dark, Normal)
-			[0x8A6] Other (Normal, Normal)
-			[0x8AE] Other (Normal, Normal)
+			[0x8A6] Silver Body (Normal, Normal)
+			[0x8AE] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x8F6] Krona Head (Normal, Normal)
@@ -7996,8 +7996,8 @@
 			[0xA16] Colossal Diamond (Dark, Normal)
 			[0xA1E] Top-Right Dropping (Dark, Normal)
 			[0xA26] Weird Giant Dropping 1 (Dark, Normal)
-			[0xA2E] Other (Normal, Normal)
-			[0xA36] Other (Normal, Normal)
+			[0xA2E] Silver Body (Normal, Normal)
+			[0xA36] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0xA7E] Krona Head (Normal, Normal)
@@ -8032,8 +8032,8 @@
 			[0xB66] Colossal Diamond (Dark, Normal)
 			[0xB6E] Top-Right Dropping (Dark, Normal)
 			[0xB76] Weird Giant Dropping 1 (Dark, Normal)
-			[0xB7E] Other (Normal, Normal)
-			[0xB86] Other (Normal, Normal)
+			[0xB7E] Silver Body (Normal, Normal)
+			[0xB86] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -8083,8 +8083,8 @@
 			[0xD4E] Double Diamond (Normal, Normal)
 			[0xD56] Colossal Diamond (Dark, Normal)
 			[0xD5E] Top-Right Dropping (Dark, Normal)
-			[0xD66] Other (Normal, Normal)
-			[0xD6E] Other (Normal, Normal)
+			[0xD66] Silver Arms (Normal, Normal)
+			[0xD6E] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0xDB6] Pachy Head (Normal, Normal)
@@ -8136,8 +8136,8 @@
 			[0xF26] Double Diamond (Normal, Normal)
 			[0xF2E] Colossal Diamond (Dark, Normal)
 			[0xF36] Top-Right Dropping (Dark, Normal)
-			[0xF3E] Other (Normal, Normal)
-			[0xF46] Other (Normal, Normal)
+			[0xF3E] Silver Arms (Normal, Normal)
+			[0xF46] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0xF8E] Igua Head (Normal, Normal)
@@ -8181,8 +8181,8 @@
 			[0x10BE] Double Diamond (Normal, Normal)
 			[0x10C6] Colossal Diamond (Dark, Normal)
 			[0x10CE] Top-Right Dropping (Dark, Normal)
-			[0x10D6] Other (Normal, Normal)
-			[0x10DE] Other (Normal, Normal)
+			[0x10D6] Silver Arms (Normal, Normal)
+			[0x10DE] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -8232,8 +8232,8 @@
 			[0x12A6] Double Diamond (Normal, Normal)
 			[0x12AE] Colossal Diamond (Dark, Normal)
 			[0x12B6] Bottom-Left Dropping (Dark, Normal)
-			[0x12BE] Other (Normal, Normal)
-			[0x12C6] Other (Normal, Normal)
+			[0x12BE] Silver Legs (Normal, Normal)
+			[0x12C6] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 8
 			[0x130E] F-Raptor Head (Normal, Normal)
@@ -8285,8 +8285,8 @@
 			[0x147E] Double Diamond (Normal, Normal)
 			[0x1486] Colossal Diamond (Dark, Normal)
 			[0x148E] Bottom-Left Dropping (Dark, Normal)
-			[0x1496] Other (Normal, Normal)
-			[0x149E] Other (Normal, Normal)
+			[0x1496] Silver Legs (Normal, Normal)
+			[0x149E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 10
 			[0x14E6] F-Raptor Head (Normal, Normal)
@@ -8329,8 +8329,8 @@
 			[0x160E] Double Diamond (Normal, Normal)
 			[0x1616] Colossal Diamond (Dark, Normal)
 			[0x161E] Bottom-Left Dropping (Dark, Normal)
-			[0x1626] Other (Normal, Normal)
-			[0x162E] Other (Normal, Normal)
+			[0x1626] Silver Legs (Normal, Normal)
+			[0x162E] Gold Head (Normal, Normal)
 	Zone 05:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -8364,8 +8364,8 @@
 			[0x246] Diamond (Normal, Normal)
 			[0x24E] Colossal Diamond (Dark, Normal)
 			[0x256] Top-Left Dropping (Dark, Normal)
-			[0x25E] Other (Normal, Normal)
-			[0x266] Other (Normal, Normal)
+			[0x25E] Silver Head (Normal, Normal)
+			[0x266] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x2AE] Mihu Head (Normal, Normal)
@@ -8387,8 +8387,8 @@
 			[0x32E] Diamond (Normal, Normal)
 			[0x336] Colossal Diamond (Dark, Normal)
 			[0x33E] Top-Left Dropping (Dark, Normal)
-			[0x346] Other (Normal, Normal)
-			[0x34E] Other (Normal, Normal)
+			[0x346] Silver Head (Normal, Normal)
+			[0x34E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x396] Megalo Head (Normal, Normal)
@@ -8411,8 +8411,8 @@
 			[0x41E] Diamond (Normal, Normal)
 			[0x426] Colossal Diamond (Dark, Normal)
 			[0x42E] Top-Left Dropping (Dark, Normal)
-			[0x436] Other (Normal, Normal)
-			[0x43E] Other (Normal, Normal)
+			[0x436] Silver Head (Normal, Normal)
+			[0x43E] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -8434,8 +8434,8 @@
 			[0x526] Diamond (Normal, Normal)
 			[0x52E] Colossal Diamond (Dark, Normal)
 			[0x536] Top-Left Dropping (Dark, Normal)
-			[0x53E] Other (Normal, Normal)
-			[0x546] Other (Normal, Normal)
+			[0x53E] Silver Body (Normal, Normal)
+			[0x546] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x58E] Seidon Head (Normal, Normal)
@@ -8457,8 +8457,8 @@
 			[0x60E] Diamond (Normal, Normal)
 			[0x616] Colossal Diamond (Dark, Normal)
 			[0x61E] Top-Left Dropping (Dark, Normal)
-			[0x626] Other (Normal, Normal)
-			[0x62E] Other (Normal, Normal)
+			[0x626] Silver Body (Normal, Normal)
+			[0x62E] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x676] Megalo Head (Normal, Normal)
@@ -8481,8 +8481,8 @@
 			[0x6FE] Diamond (Normal, Normal)
 			[0x706] Colossal Diamond (Dark, Normal)
 			[0x70E] Top-Left Dropping (Dark, Normal)
-			[0x716] Other (Normal, Normal)
-			[0x71E] Other (Normal, Normal)
+			[0x716] Silver Body (Normal, Normal)
+			[0x71E] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -8568,8 +8568,8 @@
 			[0x38A] Bottom-Right Dropping (Dark, Normal)
 			[0x392] Top-Right Dropping (Dark, Normal)
 			[0x39A] Bottom-Left Dropping (Dark, Normal)
-			[0x3A2] Other (Normal, Normal)
-			[0x3AA] Other (Normal, Normal)
+			[0x3A2] Silver Head (Normal, Normal)
+			[0x3AA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 7
 			[0x3F2] Tro Head (Normal, Normal)
@@ -8625,8 +8625,8 @@
 			[0x582] Bottom-Right Dropping (Dark, Normal)
 			[0x58A] Top-Right Dropping (Dark, Normal)
 			[0x592] Bottom-Left Dropping (Dark, Normal)
-			[0x59A] Other (Normal, Normal)
-			[0x5A2] Other (Normal, Normal)
+			[0x59A] Silver Head (Normal, Normal)
+			[0x5A2] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 8
 			[0x5EA] Archaeo Head (Normal, Normal)
@@ -8674,8 +8674,8 @@
 			[0x73A] Bottom-Right Dropping (Dark, Normal)
 			[0x742] Top-Right Dropping (Dark, Normal)
 			[0x74A] Bottom-Left Dropping (Dark, Normal)
-			[0x752] Other (Normal, Normal)
-			[0x75A] Other (Normal, Normal)
+			[0x752] Silver Head (Normal, Normal)
+			[0x75A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -8777,8 +8777,8 @@
 			[0x39A] Diamond (Normal, Normal)
 			[0x3A2] Colossal Diamond (Dark, Normal)
 			[0x3AA] Giant Dropping (Dark, Normal)
-			[0x3B2] Other (Normal, Normal)
-			[0x3BA] Other (Normal, Normal)
+			[0x3B2] Silver Head (Normal, Normal)
+			[0x3BA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 0
 			[0x402] Cryo Head (Normal, Normal)
@@ -8837,8 +8837,8 @@
 			[0x5AA] Diamond (Normal, Normal)
 			[0x5B2] Colossal Diamond (Dark, Normal)
 			[0x5BA] Giant Dropping (Dark, Normal)
-			[0x5C2] Other (Normal, Normal)
-			[0x5CA] Other (Normal, Normal)
+			[0x5C2] Silver Head (Normal, Normal)
+			[0x5CA] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 0
 			[0x612] Cryo Head (Normal, Normal)
@@ -8896,8 +8896,8 @@
 			[0x7B2] Diamond (Normal, Normal)
 			[0x7BA] Colossal Diamond (Dark, Normal)
 			[0x7C2] Giant Dropping (Dark, Normal)
-			[0x7CA] Other (Normal, Normal)
-			[0x7D2] Other (Normal, Normal)
+			[0x7CA] Silver Head (Normal, Normal)
+			[0x7D2] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -8961,8 +8961,8 @@
 			[0x28A] Bottom-Right Dropping (Dark, Normal)
 			[0x292] Top-Right Dropping (Dark, Normal)
 			[0x29A] Bottom-Left Dropping (Dark, Normal)
-			[0x2A2] Other (Normal, Normal)
-			[0x2AA] Other (Normal, Normal)
+			[0x2A2] Silver Arms (Normal, Normal)
+			[0x2AA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 0
 			[0x2F2] Chasmo Head (Normal, Normal)
@@ -8983,8 +8983,8 @@
 			[0x36A] Bottom-Right Dropping (Dark, Normal)
 			[0x372] Top-Right Dropping (Dark, Normal)
 			[0x37A] Bottom-Left Dropping (Dark, Normal)
-			[0x382] Other (Normal, Normal)
-			[0x38A] Other (Normal, Normal)
+			[0x382] Silver Arms (Normal, Normal)
+			[0x38A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 0
 			[0x3D2] Chasmo Head (Normal, Normal)
@@ -9005,8 +9005,8 @@
 			[0x44A] Bottom-Right Dropping (Dark, Normal)
 			[0x452] Top-Right Dropping (Dark, Normal)
 			[0x45A] Bottom-Left Dropping (Dark, Normal)
-			[0x462] Other (Normal, Normal)
-			[0x46A] Other (Normal, Normal)
+			[0x462] Silver Arms (Normal, Normal)
+			[0x46A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -9031,8 +9031,8 @@
 			[0x56A] Bottom-Right Dropping (Dark, Normal)
 			[0x572] Top-Right Dropping (Dark, Normal)
 			[0x57A] Bottom-Left Dropping (Dark, Normal)
-			[0x582] Other (Normal, Normal)
-			[0x58A] Other (Normal, Normal)
+			[0x582] Silver Arms (Normal, Normal)
+			[0x58A] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x5D2] Chelon Head (Normal, Normal)
@@ -9056,8 +9056,8 @@
 			[0x662] Bottom-Right Dropping (Dark, Normal)
 			[0x66A] Top-Right Dropping (Dark, Normal)
 			[0x672] Bottom-Left Dropping (Dark, Normal)
-			[0x67A] Other (Normal, Normal)
-			[0x682] Other (Normal, Normal)
+			[0x67A] Silver Arms (Normal, Normal)
+			[0x682] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x6CA] Chelon Head (Normal, Normal)
@@ -9081,8 +9081,8 @@
 			[0x75A] Bottom-Right Dropping (Dark, Normal)
 			[0x762] Top-Right Dropping (Dark, Normal)
 			[0x76A] Bottom-Left Dropping (Dark, Normal)
-			[0x772] Other (Normal, Normal)
-			[0x77A] Other (Normal, Normal)
+			[0x772] Silver Arms (Normal, Normal)
+			[0x77A] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -9117,8 +9117,8 @@
 			[0x8CA] Bottom-Right Dropping (Dark, Normal)
 			[0x8D2] Top-Right Dropping (Dark, Normal)
 			[0x8DA] Bottom-Left Dropping (Dark, Normal)
-			[0x8E2] Other (Normal, Normal)
-			[0x8EA] Other (Normal, Normal)
+			[0x8E2] Silver Arms (Normal, Normal)
+			[0x8EA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x932] Chasmo Head (Normal, Normal)
@@ -9152,8 +9152,8 @@
 			[0xA12] Bottom-Right Dropping (Dark, Normal)
 			[0xA1A] Top-Right Dropping (Dark, Normal)
 			[0xA22] Bottom-Left Dropping (Dark, Normal)
-			[0xA2A] Other (Normal, Normal)
-			[0xA32] Other (Normal, Normal)
+			[0xA2A] Silver Arms (Normal, Normal)
+			[0xA32] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0xA7A] Chasmo Head (Normal, Normal)
@@ -9187,8 +9187,8 @@
 			[0xB5A] Bottom-Right Dropping (Dark, Normal)
 			[0xB62] Top-Right Dropping (Dark, Normal)
 			[0xB6A] Bottom-Left Dropping (Dark, Normal)
-			[0xB72] Other (Normal, Normal)
-			[0xB7A] Other (Normal, Normal)
+			[0xB72] Silver Arms (Normal, Normal)
+			[0xB7A] Gold Head (Normal, Normal)
 	Zone 04:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -9235,8 +9235,8 @@
 			[0x272] Bottom-Right Dropping (Dark, Normal)
 			[0x27A] Top-Right Dropping (Dark, Normal)
 			[0x282] Bottom-Left Dropping (Dark, Normal)
-			[0x28A] Other (Normal, Normal)
-			[0x292] Other (Normal, Normal)
+			[0x28A] Silver Legs (Normal, Normal)
+			[0x292] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x2DA] Nychus Head (Normal, Normal)
@@ -9260,8 +9260,8 @@
 			[0x36A] Bottom-Right Dropping (Dark, Normal)
 			[0x372] Top-Right Dropping (Dark, Normal)
 			[0x37A] Bottom-Left Dropping (Dark, Normal)
-			[0x382] Other (Normal, Normal)
-			[0x38A] Other (Normal, Normal)
+			[0x382] Silver Legs (Normal, Normal)
+			[0x38A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x3D2] Nychus Head (Normal, Normal)
@@ -9285,8 +9285,8 @@
 			[0x462] Bottom-Right Dropping (Dark, Normal)
 			[0x46A] Top-Right Dropping (Dark, Normal)
 			[0x472] Bottom-Left Dropping (Dark, Normal)
-			[0x47A] Other (Normal, Normal)
-			[0x482] Other (Normal, Normal)
+			[0x47A] Silver Legs (Normal, Normal)
+			[0x482] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -9320,8 +9320,8 @@
 			[0x5CA] Bottom-Right Dropping (Dark, Normal)
 			[0x5D2] Top-Right Dropping (Dark, Normal)
 			[0x5DA] Bottom-Left Dropping (Dark, Normal)
-			[0x5E2] Other (Normal, Normal)
-			[0x5EA] Other (Normal, Normal)
+			[0x5E2] Silver Legs (Normal, Normal)
+			[0x5EA] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 5
 			[0x632] Gaudry Single (Normal, Normal)
@@ -9354,8 +9354,8 @@
 			[0x70A] Bottom-Right Dropping (Dark, Normal)
 			[0x712] Top-Right Dropping (Dark, Normal)
 			[0x71A] Bottom-Left Dropping (Dark, Normal)
-			[0x722] Other (Normal, Normal)
-			[0x72A] Other (Normal, Normal)
+			[0x722] Silver Legs (Normal, Normal)
+			[0x72A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 6
 			[0x772] Gaudry Single (Normal, Normal)
@@ -9388,8 +9388,8 @@
 			[0x84A] Bottom-Right Dropping (Dark, Normal)
 			[0x852] Top-Right Dropping (Dark, Normal)
 			[0x85A] Bottom-Left Dropping (Dark, Normal)
-			[0x862] Other (Normal, Normal)
-			[0x86A] Other (Normal, Normal)
+			[0x862] Silver Legs (Normal, Normal)
+			[0x86A] Gold Head (Normal, Normal)
 	Zone 03:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -9430,8 +9430,8 @@
 			[0x202] Giant Pearl (Dark, Normal)
 			[0x20A] Colossal Diamond (Dark, Normal)
 			[0x212] Top-Left Dropping (Normal, Normal)
-			[0x21A] Other (Normal, Normal)
-			[0x222] Other (Normal, Normal)
+			[0x21A] Silver Legs (Normal, Normal)
+			[0x222] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 3
 			[0x26A] Small Pearl (Normal, Normal)
@@ -9439,8 +9439,8 @@
 			[0x27A] Giant Pearl (Dark, Normal)
 			[0x282] Colossal Diamond (Dark, Normal)
 			[0x28A] Top-Left Dropping (Dark, Normal)
-			[0x292] Other (Normal, Normal)
-			[0x29A] Other (Normal, Normal)
+			[0x292] Silver Legs (Normal, Normal)
+			[0x29A] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 4
 			[0x2E2] Small Pearl (Normal, Normal)
@@ -9451,8 +9451,8 @@
 			[0x30A] Bottom-Right Dropping (Dark, Normal)
 			[0x312] Top-Right Dropping (Dark, Normal)
 			[0x31A] Giant Dropping (Dark, Normal)
-			[0x322] Other (Normal, Normal)
-			[0x32A] Other (Normal, Normal)
+			[0x322] Silver Legs (Normal, Normal)
+			[0x32A] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -9566,8 +9566,8 @@
 			[0x3E6] Diamond (Normal, Normal)
 			[0x3EE] Colossal Diamond (Dark, Normal)
 			[0x3F6] Giant Dropping (Dark, Normal)
-			[0x3FE] Other (Normal, Normal)
-			[0x406] Other (Normal, Normal)
+			[0x3FE] Silver Head (Normal, Normal)
+			[0x406] Gold Head (Normal, Normal)
 		Fossil Chip 1:
 			Max Spawns: 16
 			[0x43A] Cryo Head (Normal, Normal)
@@ -9638,8 +9638,8 @@
 			[0x642] Diamond (Normal, Normal)
 			[0x64A] Colossal Diamond (Dark, Normal)
 			[0x652] Giant Dropping (Dark, Normal)
-			[0x65A] Other (Normal, Normal)
-			[0x662] Other (Normal, Normal)
+			[0x65A] Silver Head (Normal, Normal)
+			[0x662] Gold Head (Normal, Normal)
 		Fossil Chip 2:
 			Max Spawns: 24
 			[0x696] Cryo Head (Normal, Normal)
@@ -9709,8 +9709,8 @@
 			[0x896] Diamond (Normal, Normal)
 			[0x89E] Colossal Diamond (Dark, Normal)
 			[0x8A6] Giant Dropping (Dark, Normal)
-			[0x8AE] Other (Normal, Normal)
-			[0x8B6] Other (Normal, Normal)
+			[0x8AE] Silver Head (Normal, Normal)
+			[0x8B6] Gold Head (Normal, Normal)
 	Zone 02:
 		Fossil Chip 0:
 			Max Spawns: 5
