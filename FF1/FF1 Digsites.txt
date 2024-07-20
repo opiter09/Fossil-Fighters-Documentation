@@ -1628,7 +1628,7 @@
 		[0x3FC] O-Raptor: 20%
 		[0x41C] Proto: 20%
 
-0103 [Secret Tunnel 2]:
+0103 [Secret Tunnel 2] [Minecart Cutscene Maps]:
 	Zone 01:
 		Fossil Chips Needed: 0
 		Max Spawns: 2
@@ -1651,7 +1651,7 @@
 		[0x3E0] Megath: 15%
 		[0x400] Megath: 15%
 
-0105 [Secret Tunnel 3]:
+0105 [Secret Tunnel 3] [Minecart Cutscene Maps]:
 	Zone 01:
 		Fossil Chips Needed: 0
 		Max Spawns: 2
@@ -1674,7 +1674,7 @@
 		[0x3CC] Chelon: 15%
 		[0x3EC] Chelon: 15%
 
-0106 [Secret Tunnel 4]:
+0106 [Secret Tunnel 4] [Minecart Cutscene Maps]:
 	Zone 01:
 		Fossil Chips Needed: 0
 		Max Spawns: 2
