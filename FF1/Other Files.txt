@@ -19,6 +19,7 @@ revival. This will make it appear that you revived the wrong person, but trust m
 you what you cleaned.
 
 The file shop/0002 controls all of the fossils in the Guild shop. The total number of fossils is at
-0x0C-0x0F, and then the IDs (from kaseki_defs, naturally) start at 0x14--four bytes of ID, then four bytes
-of 00 for some reason. You need at least six unique IDs in here or else the game will crash, but other
-than that you are free to put in duplicates in order to increase the odds of that fossil appearing.
+0x0C-0x0F, and then the chunks start at 0x14--first four bytes of 00 for some reason, then four bytes
+of ID (from kaseki_defs, naturally). You need at least six unique IDs in here or else the game will
+crash, but other than that you are free to put in duplicates in order to increase the odds of that
+fossil appearing.
