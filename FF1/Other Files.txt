@@ -17,3 +17,8 @@ actually formulaic as well: ((Number - 1) * 4) + 1. Do note that for vivosaurs t
 fossils, you will need to set the vivosaur ID to someone who does, or else the game will freeze upon
 revival. This will make it appear that you revived the wrong person, but trust me, it actually gives
 you what you cleaned.
+
+The file shop/0002 controls all of the fossils in the Guild shop. The total number of fossils is at
+0x0C-0x0F, and then the IDs (from kaseki_defs, naturally) start at 0x14--four bytes of ID, then four bytes
+of 00 for some reason. You need at least six unique IDs in here or else the game will crash, but other
+than that you are free to put in duplicates in order to increase the odds of that fossil appearing.
