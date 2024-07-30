@@ -7,7 +7,7 @@ If you somehow got here without going through Chunk Manager, please do check it 
 https://github.com/opiter09/FF1-FFC-Chunk-Manager. Additionally, I have made the following Graphial User
 Interface (GUI) file editing tools:
 - Spawns: https://github.com/opiter09/Fossil-Fighters-Spawn-Editor
-- Teams: https://github.com/opiter09/Fossil-Fighters-Teams-Editor.
+- Teams: https://github.com/opiter09/Fossil-Fighters-Teams-Editor
 
 
 A note on general terminology (since I have nowhere else to put it):
