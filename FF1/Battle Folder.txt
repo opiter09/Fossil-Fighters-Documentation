@@ -98,6 +98,7 @@ For the Battle folder, you can tell by if 0x04 is not 0. In this case, we must s
 - However, do note that the file size values are still in the same spot even with the weird data
 
 But, to make this worse, some of them have weird data at the *end*! In this case, 0x38 is not the file size,
-but rather where the extra data at the end begins (but also there are like five fights where both size values
-are too small and 0x3C is [extra data / 4], because why not?). Thus, if you add/remove vivos, make sure to
-change 0x38 by the same amount you changed 0x40.
+but rather where the extra data at the end begins. There are also like five fights where both size values
+are too small and 0x3C is [extra data / 4], in which case the extra data represents the vivosaurs you are
+required to have on your team. Thus, if you add/remove vivos, make sure to change 0x38 by the same amount
+you changed 0x40.
