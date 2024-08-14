@@ -16,7 +16,8 @@ head, you can have a new starter in FF1! The vivosaur ID is just their Number, b
 actually formulaic as well: ((Number - 1) * 4) + 1. Do note that for vivosaurs that normally do not have
 fossils, you will need to set the vivosaur ID to someone who does, or else the game will freeze upon
 revival. This will make it appear that you revived the wrong person, but trust me, it actually gives
-you what you cleaned.
+you what you cleaned. Also, if you want to make the vivosaur you get for failing match, you'll have to
+edit the value at 0xB18, although currently the game freezes either way for unknown reasons.
 
 The file shop/0002 controls all of the fossils in the Guild shop. The total number of fossils is at
 0x0C-0x0F, and then the chunks start at 0x14--first four bytes of 00 for some reason, then four bytes
