@@ -6,7 +6,6 @@ per turn. Or, put another way, starting at 0x0C each level has a 16-byte chunk, 
 max recharge, and bytes 7-8 and 11-12 being the recharge per turn. Presumably, one of these is for you,
 and the other is for enemies. Or not, I don't know, because they're always the same in vanilla.
 
-
 This one is certainly a mouthful: etc/creature_evolution_abilityup_param_defs controls the stat boosts of
 Gold and Silver fossils. The first 16 bytes are a header thing, then each set of 12 bytes are the fossil's
 data: two bytes for ID, two bytes for Health boost, two bytes for Attack boost, two bytes for Defense boost,
@@ -14,14 +13,12 @@ two bytes for Accuracy boost, and two bytes for Speed boost. All values are what
 cleaned to a full 100 points. In terms of order, it starts with the Gold fossil, then the Silver Head, then
 the Body, then the Arms, and finally the Legs.
 
-
 etc/donate_kaseki_defs defines each of the fossils you can buy using Donation Points. Each fossil has an
 8-byte chunk, with the first one starting at 0x1C. The chunk's first two bytes are the fossil ID, then the
 next two bytes are its DP cost. The next three bytes are flags (i.e. always 0 or 1). These almost match up
 to whether the rock is Dark or not, but for some reason in Vanilla the non-Dark legs have all three set
 to one, the same as the Dark fossils. However, it is known that if you set the first two to 0 and the
 third to 1, it is guaranteed not to be Dark.
-
 
 etc/creature_palet_defs defines each of the Silver Fossil color sets. Starting from 0x0C, each ID is
 12 bytes long, consisting of two bytes of incrementing index, two bytes of the palette, and then
@@ -32,3 +29,17 @@ https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4e
 etc/horider_experience_defs controls how much XP each quest gives. The first 16 bytes are the header,
 then we have four bytes per quest: two of ID, and two of XP amount. Currently, which quest is which
 is unknown, and cannot be easily derived from this file alone.
+
+episode/e0012 controls the four starters Joe gives you to pick from. Each starter has its ID at
+three locations; it is unknown what each does individually, but just edit them all and you'll be
+fine. Specifically, the starter locations are:
+- Aeros: 0x1B28, 0x1B48, 0x1B60
+- Toba: 0x1DD8, 0x1DF8, 0x1E10
+- Tsintao: 0x2088, 0x20A8, 0x20C0
+- Dimetro: 0x2338, 0x2358, 0x2370
+
+episode/e0022 controls the Tricera tutorial fossil and revival. Like in FF1, the fossil and
+vivosaur are separate, but only in a cosmetic sense. However, unlike in FF1, legendaries et al.
+have no fossils at all, so you cannot use them for this. The fossil value is at 0x1780, while the
+vivosaur ID value is at 0x1C74 for success, and 0x244C for failure (see ffc_vivoNames.txt for the
+values, since the internal IDs and external Numbers are occasionally mismatched for unknown reasons)
