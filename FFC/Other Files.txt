@@ -42,4 +42,6 @@ episode/e0022 controls the Tricera tutorial fossil and revival. Like in FF1, the
 vivosaur are separate, but only in a cosmetic sense. However, unlike in FF1, legendaries et al.
 have no fossils at all, so you cannot use them for this. The fossil value is at 0x1780, while the
 vivosaur ID value is at 0x1C74 for success, and 0x244C for failure (see ffc_vivoNames.txt for the
-values, since the internal IDs and external Numbers are occasionally mismatched for unknown reasons)
+values, since the internal IDs and external Numbers are occasionally mismatched for unknown reasons).
+Also, to be clear, the failure vivo is not cosmetic, that actually determines what you get (and
+you could, if you really wanted to, make that one into a special vivo and it would work)
