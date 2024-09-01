@@ -52,7 +52,7 @@ The vivosaurs start at 0x94. We get four bytes of ID, then four bytes of Level, 
 always 00 00 00 00. If there are less than three vivosaurs on the team, their bytes simply do not exist, and
 we skip on to the next bit.
 
-After the vivosaur/level data are four bytes per vivosaur which are, mostly likely, the AI Set used. Due to
+After the vivosaur/level data are four bytes per vivosaur which are confirmed to be the AI Set used. Due to
 how high the Guhnash values are, these must be in the btl_aiset folder, not btl_ai. Rather, it appears that
 each btl_aiset file in turn calls various btl_ai files at various times, as little snippets of code or
 something.
