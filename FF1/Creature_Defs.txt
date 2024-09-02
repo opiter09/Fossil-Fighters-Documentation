@@ -60,7 +60,7 @@ so this has the potential to cause some unusual results depending on what move y
 
 0x61 represents a vivosaur's passive "Ability" ID (the blue skill in FFC). The table for that is shown
 below, with names taken from FFC:
-- 01: nothing
+- 01: Nothing
 - 02: Japanese for "View enemy details during battle"
 - 03: Japanese for "Dinosaur placement randomization"
 - 04: FP Plus
@@ -78,7 +78,7 @@ is presumably why he gets no support effects.
 
 0x62 is then some value associated with that Ability (0x63 is probably also technically part of the value,
 but it's always 00 so who cares). We thus are in need of another table for those:
-- nothing: Always 00
+- Nothing: Always 00
 - FP Plus: (+Percent + 100) / 10
 - Parting Blow: Percent / 10
 - Auto LP Recovery: Percent
@@ -121,15 +121,15 @@ Finally, like with FFC, the last 24 bytes of a chunk is devoted to the health of
 
 So after all that, maybe you still want to give someone a fourth move. Well, I actually glossed over quite a
 few things you will need to change in order to make that happen:
-- 0x28: number of moves
-- 0x38: number of moves
-- 0x3C: location of beginning of first 1, 2, 3, 4 (the long one) in the chunk
-- 0x54: location of first ally support effect (A4 for 3-movers, AC for 4-movers)
-- 0x58: location of first enemy support effect
-- 0x68: location of beginning of status chances
-- 0x74: number of moves
-- 0x78: location of beginning of second 1, 2, 3, 4 (the short one)
-- 0x80: location of the beginning of the health data
+- 0x28: Number of moves
+- 0x38: Number of moves
+- 0x3C: Location of beginning of first 1, 2, 3, 4 (the long one) in the chunk
+- 0x54: Location of first ally support effect (A4 for 3-movers, AC for 4-movers)
+- 0x58: Location of first enemy support effect
+- 0x68: Location of beginning of status chances
+- 0x74: Number of moves
+- 0x78: Location of beginning of second 1, 2, 3, 4 (the short one)
+- 0x80: Location of the beginning of the health data
 Good luck!
 
 Also, due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and

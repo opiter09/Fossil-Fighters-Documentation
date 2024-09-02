@@ -6,7 +6,7 @@ icon in the game. If you change this, the icon near the move will change, but no
 status ID, while the second is the percent to trigger.
 
 The table for this can be found below:
-- 01: nothing
+- 01: Nothing
 - 02: Normal Poison
 - 03: Gold Poison
 - 04: Venom (U-Raptor)
@@ -56,7 +56,7 @@ not have an icon--can be found at 0x20 to 0x21. Again, the first byte is the ID,
 percent to hit.
 
 Here is the table for those:
-- 01: nothing (everything is 00)
+- 01: Nothing (everything is 00)
 - 02: Transformation (bytes after percent are 07 00, extra value is always 01 00)
 - 03: All-zone attack (always 0%, bytes after percent are 07 00, no extra value. Can hit your team if
   used with a support effect like Harden, and can actually deal damage unlike with single-targeting.)

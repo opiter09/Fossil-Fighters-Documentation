@@ -28,7 +28,7 @@ meaning depends on the effect. Note that changing this does not in any way chang
 there is one hardcoded description for each move (in text/japanese).
 
 Here is the table for Primary Status effects:
-- 01: nothing
+- 01: Nothing
 - 02: Poison
 - 03: Sleep
 - 04: Scare
@@ -62,7 +62,7 @@ is at 0x30, then the percent to it, and then immediately after we have the secon
 assumed to be a single two-byte number).
 
 Here is another table for Secondary IDs:
-- 01: nothing
+- 01: Nothing
 - 02: Transformation
 - 03: All-zone attack
 - 04: Steal LP equal to damage
