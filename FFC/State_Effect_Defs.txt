@@ -2,7 +2,7 @@ EVERYTHING IS LITTLE-ENDIAN
 
 This file defines the various values hardcoded for each status effect (which are assigned to each
 individual move in FF1). 0x08-0x0B tells you how many statuses there are (24 in vanilla), and then
-0x0C-0x0F is an unknown value (since each chunk is 12 bytes long, not 16).
+0x0C-0x0F is where the actual data starts (i.e. right after it lol).
 
 Since it seems to line up nicely, here is the Status Effect table from Attack_Defs, along with each one's starting byte:
 - 01: nothing [0x10]
