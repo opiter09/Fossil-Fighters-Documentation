@@ -32,7 +32,7 @@ backwards through time:
 A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, and 03 being Long-Range.
 Again, the text for this is stored separately, in text/text_dino_kind.
 
-Strangely, the range multipliers are not stored somewhere else per class, but are hardcoded for each
+Strangely, the range multipliers are not stored somewhere else per class, but are spelled out for each
 vivo, at 0x1B-0x2B. Only the first 8 seem to be used (with the rest being 00) and each value is the
 multiplier percentage. As for which values go where, well we have determined that you can only be 1-7
 tiles alway from another vivo, and the first two values here are always the same, ergo, we can assume
