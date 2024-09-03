@@ -101,7 +101,8 @@ for four-movers).
 From 0xAC to 0xB3 are a vivosaur's support effects. The first four bytes are for your AZ, and the second four
 are for theirs. The stats go in order: Attack, Defense, Accuracy, and then Evasion. Also, if you see some
 weirdly high number thats way more than 100, then that's actually a negative support effect. So just use
-(256 - the number) to get what it really is.
+(256 - the number) to get what it really is. Ironically, unlike in FFC the support effects exist and are all
+00's if the vivo has none.
 
 0xB4 to 0xBD are really the highlight of FF1's creature_defs for me. You see, as you may know, Dinomaton is
 immune to all statuses except confusion. In order to implement this, despite Dinomation having no other
@@ -130,6 +131,8 @@ few things you will need to change in order to make that happen:
 - 0x74: Number of moves
 - 0x78: Location of beginning of second 1, 2, 3, 4 (the short one)
 - 0x80: Location of the beginning of the health data
+Along with, to be clear, the main stuff you need to add in--four bytes of move ID after 0x97, and then
+04 00 00 00 after what is now 0x107--and changing the 00 at what is now 0xC3 to 04.
 Good luck!
 
 Also, due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and

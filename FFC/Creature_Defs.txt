@@ -180,24 +180,31 @@ is missing, then make sure to change the C4 in this area to CC.
 vivosaur in FFC has only three moves, they will have a 00 00 here, so you don't have to worry about
 adjusting locations based on that.
 
-0xC4 to 0xCB are the levels each move is learned at (two bytes each).
+0xC4 to 0xCB are the levels each move is learned at (two bytes each). Again, missing moves have a 00 00,
+it's really nice.
 
 Rank 20 support effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
 Vivosaurs with no support effects at all simply have four less bytes in their chunk, and what is here is
 how many moves a vivo has.
 
-On that point: after support effects if they are there is usually 01 02 03 04. This means that a vivosaur
-has four non-team skills. For vivosaurs like Cheirus with only three, there is 01 02 03 00 there instead.
-
-That block mostly seems redundant to me, especially since 0x94, 0x9C, AND 0xAC also contain the number of
-moves (so make sure to change all of these when appropriate). However, it is important for one thing and
-one thing only: the beginning and ending bytes of this block are pointed to at 0xB0 and 0xB8, respectively.
-You HAVE to change these if you want to add or remove support effects entirely, i.e. when you add or
-delete bytes.
+On that point: after support effects if they are there is usually 01 02 03 04, for the four moves. Missing
+moves also get a 00 here.
 
 A vivosaur's health for each level takes up the last 40 bytes of a chunk. Obviously, each health amount is
 thus two bytes each (for Ranks 1 to 20).
 
-Final word of warning: as with all things, if the file size is different, make sure to change my locations
-accordingly. Every value from vanilla should be known, so just look for it.
+Okay, time for a nice roundup on how to add a move:
+- Change the 00 00 at 0xC2-0xC3 to the move ID
+- Change the 01 02 03 00 after the support effects (or at 0xCC itself if there are none) to 01 02 03 04
+- Change the number of moves from 03 to 04 at 0x94, 0x9C, and 0xAC
+- Change the 00 00 at 0xCA to 07 00
+And... that should be it! no bytes are added or deleted, nice and easy.
+
+However, since support effects hate me here, let's write out what you need to change for those:
+- Add in the actual support effects, after 0xCB (or before wherever the 01 02 03 04 is)
+- Change 0xA4 to CC (or wherever you put the support effects) if you want them to affect your team,
+  or change 0xA8 to CC if you want them to affect the enemy
+- Add 4 to 0xB0 and 0xB8 (the pointers to the 01 02 03 04 block and the 20 LP values, respectively)
+Oh, that's it, huh. Good thing these are near the end I guess.
+
