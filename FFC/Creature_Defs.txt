@@ -201,7 +201,7 @@ Okay, time for a nice roundup on how to add a move:
 - Change the 00 00 at 0xCA to 07 00
 And... that should be it! no bytes are added or deleted, nice and easy.
 
-However, since support effects hate me here, let's write out what you need to change to add those:
+However, since support effects hate me here, let's write out what you need to change to add them in entirely:
 - Add in the actual support effects, after 0xCB (or before wherever the 01 02 03 04 is)
 - Change 0xA4 to CC (or wherever you put the support effects) if you want them to affect your team,
   or change 0xA8 to CC if you want them to affect the enemy
