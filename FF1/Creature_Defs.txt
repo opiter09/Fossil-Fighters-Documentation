@@ -131,8 +131,8 @@ few things you will need to change in order to make that happen:
 - 0x74: Number of moves
 - 0x78: Location of beginning of second 1, 2, 3, 4 (the short one)
 - 0x80: Location of the beginning of the health data
-Along with, to be clear, the main stuff you need to add in--four bytes of move ID after 0x97, and then
-04 00 00 00 after what is now 0x107--and changing the 00 at what is now 0xC3 to 04.
+Along with, to be clear, the main stuff you need to insert--four bytes of move ID after 0x97, and
+04 00 00 00 after what is now 0xA7--and changing the 00 at what is now 0xC3 to 04.
 Good luck!
 
 Also, due to not being mechanically significant (unlike their counterparts in FFC), a vivosaur's Class and

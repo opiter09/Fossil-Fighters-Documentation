@@ -205,6 +205,7 @@ However, since support effects hate me here, let's write out what you need to ch
 - Add in the actual support effects, after 0xCB (or before wherever the 01 02 03 04 is)
 - Change 0xA4 to CC (or wherever you put the support effects) if you want them to affect your team,
   or change 0xA8 to CC if you want them to affect the enemy
-- Add 4 to 0xB0 and 0xB8 (the pointers to the 01 02 03 04 block and the 20 LP values, respectively)
+- Add 4 to the values at 0xB0 and 0xB8 (the pointers to the 01 02 03 04 block and the 20 LP values,
+  respectively)
 Oh, that's it, huh. Good thing these are near the end I guess.
 
