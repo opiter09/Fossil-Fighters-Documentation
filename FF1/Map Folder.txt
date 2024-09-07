@@ -29,7 +29,8 @@ M is a little different, and its full purpose has not yet been divined. However,
 	- Heading there, each pointer is four bytes. As far as I can tell, however, all vivosaur entries seem to be 32 bytes long, so why
       there are pointers for it is unknown
 	- After that, we finally get the vivosaur entries. For each entry, the first four bytes is the vivosaur ID, then the next four are the chance
-      of the spawn being that entry. Everything else is unknown
+      of the spawn being that entry. After that are eight unknown bytes, then 16 bytes representing the chance of each individual part spawning once the vivo is
+	  decided--four for Head, Body, Arms, and Legs
 
 If you find all that confusing, not to fear. There is a file named "FF1 Digsites" in this folder that dumps all that data from every digsite. Additionally, the
 Python source code is provided, if that helps you understand it better.
