@@ -24,6 +24,7 @@ something. The list for them is as follows (courtesy of EchoSpaceZ):
 
 0x30 is the value for which 3D arena model the battle is fought in. The list for them is as follows
 (also courtesy of EchoSpaceZ):
+- 00: Unused Temple
 - 01: Level-Up Arena
 - 02: Guhnash 
 - 03: Hotel/Outside
