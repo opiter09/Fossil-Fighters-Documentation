@@ -26,8 +26,9 @@ A note on general terminology (since I have nowhere else to put it):
 Finally, here's a spot to credit those other than me who have figured stuff out:
 - APOPHENIA
 - aquaanimo
-- Megalo-vania
 - EchoSpaceZ
+- Megalo-vania
+- Skittle Skitty
 
 I used to list individual contributions, but that was getting rather unwieldy, so just know that everything
 is ultimately a community effort.
