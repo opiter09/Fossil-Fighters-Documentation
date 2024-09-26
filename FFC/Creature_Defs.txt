@@ -80,13 +80,19 @@ the orders found in Attack_Defs, but with the Silver and Gold versions combined 
 - Infection
 - Instant KO
 
-0x30 to 0x31 is the vivosaur's name text (from text/text_dino_short_name). 0x34 to 0x35 represent a vivo's ID Number,
-the thing you see in the top left of their VMM page. 0x3A to 0x3B is the vivosaur's model (presumably from inside of
-model/arcdin, but I can't seem to find their index files). 0x40 to 0x41 is the vivosaur's medal sprite (from
-motion/battle_creature/creature_NNN_XX). Note that this whole set of values from 0x2C to 0x44 match up with the
-vivosaurs' internal IDs (i.e. the number in the chunk file name), except for the ID Number value since there are cases
-where that does not match the internal ID. Oh and the debugs are also weird, since except for their ID Number they use
-the value of the vivosaur they are based on.
+0x30 to 0x31 is the vivosaur's name text (from text/text_dino_short_name). 0x34 to 0x35 represent a
+vivo's ID Number, the thing you see in the top left of their VMM page. 0x36 to 0x37 is the ID of the
+vivosaur this one super evolves into, while 0x38 to 0x39 is the ID of the vivosaur it super evolves
+from (both are 0 if not applicable). However, changing these two values alone does not seem to actually work.
+0x3A to 0x3B is the vivosaur's model (presumably from inside of model/arcdin, but I can't seem to find their
+index files). 0x40 to 0x41 is the vivosaur's medal sprite (from motion/battle_creature/creature_NNN_XX).
+0x42 to 0x43 controls the vivosaur's attack's particle effects and camera positions (but not their
+movements).
+
+Note that this whole set of values from 0x2C to 0x43 match up with the vivosaurs' internal IDs (i.e. the
+number in the chunk file name), except for the ID Number value since there are cases where that does not
+match the internal ID. Oh and the debugs are also weird, since except for their ID Number they use the
+value of the vivosaur they are based on.
 
 0x46 to 0x4D represent the color IDs for a vivosaur's head, body, arm, and legs Silver Fossil
 recolorings (two bytes each). You can match these up to etc/creature_palet_defs to get the palette and
