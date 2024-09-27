@@ -89,8 +89,8 @@ index files). 0x40 to 0x41 is the vivosaur's medal sprite (from motion/battle_cr
 
 0x42 to 0x43 controls what EchoSpaceZ calls the "animation pack"--it defines, for all four moves together,
 the particle effects, camera positions, and how many damage values are shown (but see 0x08 of attack_defs for
-how many damage values a move has internally). The one thing this does not change is how the vivosaur itself
-moves around, which is instead tied to the model.
+how many damage values a move has internally). The one thing this does not change is how the motions of the
+vivosaur itself, which is instead tied to the model.
 
 Note that this whole set of values from 0x2C to 0x43 match up with the vivosaurs' internal IDs (i.e. the
 number in the chunk file name), except for the ID Number value (since there are cases where that does not
