@@ -93,9 +93,10 @@ how many damage values a move has internally). The one thing this does not chang
 moves around, which is instead tied to the model.
 
 Note that this whole set of values from 0x2C to 0x43 match up with the vivosaurs' internal IDs (i.e. the
-number in the chunk file name), except for the ID Number value since there are cases where that does not
-match the internal ID. Oh and the debugs are also weird, since except for their ID Number they use the
-value of the vivosaur they are based on.
+number in the chunk file name), except for the ID Number value (since there are cases where that does not
+match the internal ID), and of course who the vivosaur revives into/from. Oh and the debugs are also weird,
+since except for their ID Number they use the value of the vivosaur they are based on, which in turn means
+that the vivosaurs after them use their internal ID minus 6 for their animation pack and a few other values.
 
 0x46 to 0x4D represent the color IDs for a vivosaur's head, body, arm, and legs Silver Fossil
 recolorings (two bytes each). You can match these up to etc/creature_palet_defs to get the palette and
