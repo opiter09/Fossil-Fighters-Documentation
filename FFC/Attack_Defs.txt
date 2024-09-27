@@ -34,7 +34,10 @@ The table for this can be found below:
 If a move is "counter proof," the third byte of its chunk will be 0x00. If not, that byte will be 0x03.
 
 0x08 tells you how many "hits" a move has. That is, it says how many separate damage values will appear
-on screen if you let the animation play out.
+on screen if you let the animation play out. Well... sort of, you see, although you need to change this
+if you want to change the number of damage values listed here, the actual number of hits shown in an
+animation are based on the "animation pack" value in creature_defs (0x42 to 0x43). It does help to
+have them match though, otherwise you'll end up with "the extra animation hit does 1 damage" and the like.
 
 0x0C is a pointer to where the damage of the first hit begins, while 0x10 is a pointer to where the
 total damage begins (see below). 0x14 is then a pointer to where the Secondary Status data begins (see

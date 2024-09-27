@@ -86,8 +86,11 @@ vivosaur this one super evolves into, while 0x38 to 0x39 is the ID of the vivosa
 from (both are 0 if not applicable). However, changing these two values alone does not seem to actually work.
 0x3A to 0x3B is the vivosaur's model (presumably from inside of model/arcdin, but I can't seem to find their
 index files). 0x40 to 0x41 is the vivosaur's medal sprite (from motion/battle_creature/creature_NNN_XX).
-0x42 to 0x43 controls the vivosaur's attack's particle effects and camera positions (but not their
-movements).
+
+0x42 to 0x43 controls what EchoSpaceZ calls the "animation pack"--it defines, for all four moves together,
+the particle effects, camera positions, and how many damage values are shown (but see 0x08 of attack_defs for
+how many damage values a move has internally). The one thing this does not change is how the vivosaur itself
+moves around, which is instead tied to the model.
 
 Note that this whole set of values from 0x2C to 0x43 match up with the vivosaurs' internal IDs (i.e. the
 number in the chunk file name), except for the ID Number value since there are cases where that does not
