@@ -139,9 +139,6 @@ end of text/text_ui, that vivosaur will show a completely tetxless blue box when
 anywhere. The statuses that have move names are the regular and Gold ("S") versions of Enflame, Harden,
 Quicken, and Counter, along with Gold Sleep (for Nigo's "Sleepy").
 
-0x56 is the position the vivosaur is at when sorting alphabetically. That seems random, but it probably
-made going from Japanese to English way easier.
-
 The team compatibility of a vivosaur can be found from 0x5C to 0x5F. It is stored not in hex, but in
 binary, with each 1 of this 32-bit integer denoting a team it is in, and each 0 denoting a team it is
 not in. When converting, do not swap the bytes around or anything, type them in exactly as you see them
