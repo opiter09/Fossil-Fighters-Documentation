@@ -25,8 +25,9 @@ simply not exist, and we move on.
 After the vivosaur data is four bytes per vivo which I know nothing about. Thankfully, unlike FF1 these
 always seem to be the same as each other, so you should be able to just add more of them and be fine.
 
-After that, there are two bytes per vivo which should be the number of fossils they have (not that
-you can see this in-game).
+After that, there are two bytes per vivo which are the number of fossils they have (not that you can see
+them, but still). Because FFC, if the number of fossils a vivosaur have does not match the number of moves,
+it will show as being level 0 on the Formation screen (but work completely fine in battle).
 
 Finally, the last six bytes (or sometimes four, without the 00 00 after the fossil numbers) are entirely
 unknown. Don't even look at them, honestly.

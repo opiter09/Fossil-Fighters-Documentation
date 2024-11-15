@@ -197,11 +197,10 @@ it's really nice.
 
 Rank 20 support effects can be found at 0xCC to 0xCF. They go in the usual Attack, Defense, Accuracy,
 and Speed order, and each are one byte. For negative effects, the support % equals 255 - number + 1.
-Vivosaurs with no support effects at all simply have four less bytes in their chunk, and what is here is
-how many moves a vivo has.
+Vivosaurs with no support effects at all simply have four less bytes in their chunk.
 
-On that point: after support effects if they are there is usually 01 02 03 04, for the four moves. Missing
-moves also get a 00 here.
+After support effects if they are there is usually 01 02 03 04, for the four moves. Missing moves also get
+a 00 here.
 
 A vivosaur's health for each level takes up the last 40 bytes of a chunk. Obviously, each health amount is
 thus two bytes each (for Ranks 1 to 20).
@@ -210,7 +209,7 @@ Okay, time for a nice roundup on how to add a move:
 - Change the 00 00 at 0xC2-0xC3 to the move ID
 - Change the 01 02 03 00 after the support effects (or at 0xCC itself if there are none) to 01 02 03 04
 - Change the number of moves from 03 to 04 at 0x94, 0x9C, and 0xAC
-- Change the 00 00 at 0xCA to 07 00
+- Change the 00 00 at 0xCA to 07 00 (or whatever level you want the move to unlock at)
 And... that should be it! no bytes are added or deleted, nice and easy.
 
 However, since support effects hate me here, let's write out what you need to change to add them in entirely:
