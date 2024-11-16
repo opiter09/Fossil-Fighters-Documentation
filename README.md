@@ -9,6 +9,7 @@ Interface (GUI) file editing tools:
 - Spawns: https://github.com/opiter09/Fossil-Fighters-Spawn-Editor
 - Teams: https://github.com/opiter09/Fossil-Fighters-Teams-Editor
 
+To download this, if you are confused, press the Green "Code" button in the top right, then choose "Download ZIP".
 
 A note on general terminology (since I have nowhere else to put it):
 - The prefix "0x" means that it is a value in hexadecimal notation, i.e in base 16 instead of base 10.
