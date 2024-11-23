@@ -29,6 +29,35 @@ backwards through time:
 - 0B = Paleozoic Ordovician
 - 0C = Paleozoic Cambrian
 
+0x17 is the vivosaur's position when you sort by LP. This is entirely separate from the actual LP
+values, because of course it is.
+
+0x18 is theoretically the vivosaur's digsite for Fossilary ordering purposes. Like the Eras above, this
+list is backwards and does not affect the text, but it also seems to skip a value (0x0C), so here's a table:
+- 01: Bonus data (and the debugs)
+- 02: Zongazonga rematch
+- 03: Lola fight
+- 04: Lester fight
+- 05: Cole fight
+- 06: Robinson fight
+- 07: Side mission
+- 08: Super revival
+- 09: Donation Points vivosaur
+- 0A: Seabed Cavern
+- 0B: BB Brigade Base
+- 0C: Unused
+- 0D: The Bonehemoth
+- 0E: Icegrip Plateau
+- 0F: Hot Spring Heights
+- 10: Dusty Dunes
+- 11: Rainbow Canyon
+- 12: Mt. Krakanak
+- 13: Petrified Woods
+- 14: Stone Pyramid
+- 15: Jungle Labyrinth
+- 16: Treasure Lake
+However, changing this value alone does not work, for reasons currently unknown.
+
 A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, and 03 being Long-Range.
 Again, the text for this is stored separately, in text/text_dino_kind.
 
@@ -181,6 +210,10 @@ skip over it):
 
 Note: these Groups come from the Wiki. See
 https://fossilfighters.fandom.com/wiki/List_of_Compatible_Vivosaurs for more information.
+
+0x98 to 0x9B is a pointer to where the vivosaur's list of moves begins. You shouldn't ever need to
+change this, but it's still good to know. Similarly, 0xA0 to 0xA3 is a pointer to where the vivosaur's
+list of move-learning levels begins.
 
 0xA4 to 0xAB tells you what side the vivosaur's support effects apply to. CC 00 00 00 00 00 00 00
 means your side, 00 00 00 00 CC 00 00 00 means their side, and all zeroes means the vivosaur has no
