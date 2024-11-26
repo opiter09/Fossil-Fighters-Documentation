@@ -6,6 +6,7 @@ newFile.close()
 newFile = open("FFC Teams.txt", "at")
 names = open("ffc_vivoNames.txt", "rt").read()
 enemyNamesF = list(open("ffc_enemyNames.txt", "rt").read().split("\n"))
+enemyNamesF[60] = "キザック"
 
 order = []
 for file in glob.glob("./battle_param/bin/**/0.bin", recursive = True):
