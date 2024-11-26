@@ -11,7 +11,7 @@ form of the file "Battle Files Teams.txt." I have also included the python scrip
 namely ff1_teamsOutput.py. However, if you would like to actually edit that file, here is what I found:
 
 0x0C-0x0D is the music used by the battle. Presumably, this correlates to IDs in etc/snd_data.sdat or
-something. The list for them is as follows (courtesy of EchoSpaceZ):
+something. The list of songs used by fights is as follows (courtesy of EchoSpaceZ):
 - 6B 00: Tutorial
 - 6C 00: Captain Travers
 - 6D 00: Level-Up (Preliminary)
@@ -21,6 +21,7 @@ something. The list for them is as follows (courtesy of EchoSpaceZ):
 - 71 00: Guhnash
 - 17 05: Bullwort
 - 18 05: Dynal
+Do note, however, that other values do work and can be used to play non-battle music.
 
 0x30 is the value for which 3D arena model the battle is fought in. The list for them is as follows
 (also courtesy of EchoSpaceZ):

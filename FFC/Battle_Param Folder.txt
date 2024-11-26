@@ -3,6 +3,27 @@ EVERYTHING IS LITTLE-ENDIAN
 FFC's Battle_Param folder is the equivalent of FF1's Battle folder: it holds data for each enemy team
 in the game. The format is also pretty similar, although in my opinion much easier to work with.
 
+0x12 represents the music that plays during the fight. The values used by fights (along with 0x3C and
+0x3D, to fill the gap) are as follows (courtesy of EchoSpaceZ):
+- 32: Tutorial
+- 33: Cup Battles
+- 34: Cup Final (Rupert)
+- 35: Normal Enemies
+- 36: Bosses
+- 37: BareBones Brigade
+- 38: Don Boneyard
+- 39: Pauleen and 2nd Todd
+- 3A: Zongazonga (First)
+- 3B: Zongazonga (Second)
+- 3C: Unused Theme
+- 3D: Super Revival
+- 3E: Dynal
+Do note, however, that other values do work and can be used to play non-battle music.
+
+0x14 is a value that is not well-understood, but it goes with the music somehow. This value should be
+set to 0x26 for all of the above except for Don Boneyard (where it should be 0x2B), Pauleen and 2nd Todd
+(where it should be 0x2C), and the two Zongazonga themes (where it should be 0x2D).
+
 The very first thing of note is the amount of BP won, from 0x30 to 0x31. Like in FF1, if this value
 is FF FF, you get nothing.
 
