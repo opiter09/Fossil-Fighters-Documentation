@@ -56,7 +56,7 @@ doubt be tricky given FFC's small number of general AI files.
 - 10: The Bonehemoth
 - 11: Spinal Pillar
 - 12: Mt. Krakanak Lava Room
-- 13: Test Room
+- 13: Move Viewing Room
 - 14: Empty Ribular Stadium
 - 15: Empty Cranial Stadium
 - 16: Empty Ilium Stadium
