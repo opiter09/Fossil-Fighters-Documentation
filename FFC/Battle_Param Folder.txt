@@ -20,12 +20,48 @@ in the game. The format is also pretty similar, although in my opinion much easi
 - 3E: Dynal
 Do note, however, that other values do work and can be used to play non-battle music.
 
-0x14 is a value that is not well-understood, but it goes with the music somehow. This value should be
-set to 0x26 for all of the above except for Don Boneyard (where it should be 0x2B), Pauleen and 2nd Todd
-(where it should be 0x2C), and the two Zongazonga themes (where it should be 0x2D).
+0x14 is a value that is not well-understood, but it goes with the music somehow. Since it maps
+one-to-one (with one exception), here's another table for what you should use:
+- Tutorial: 0x25
+- Cup Battles: 0x26
+- Cup Final (Rupert): 0x27
+- Normal Enemies: 0x28
+- Bosses: 0x29
+- BareBones Brigade: 0x2A
+- Don Boneyard: 0x2B
+- Pauleen and 2nd Todd: 0x2C
+- Zongazonga (First): 0x2D
+- Zongazonga (Second): 0x2D
+- Dynal: 0x30
 
-The very first thing of note is the amount of BP won, from 0x30 to 0x31. Like in FF1, if this value
-is FF FF, you get nothing.
+0x20 to 0x21 is a value relating to enemy AI. This is very poorly understood currently, and will no
+doubt be tricky given FFC's small number of general AI files.
+
+0x22 is the arena a fight takes place in. Here's the list of them (again, courtesy of EchoSpaceZ):
+- 01: Ribular Stadium 
+- 02: Cranial Stadium 
+- 03: Ilium Stadium 
+- 04: Treasure Lake
+- 05: Jungle Labyrinth
+- 06: Petrified Woods
+- 07: Stone Pyramid
+- 08: Mt. Krakanak 
+- 09: Rainbow Canyon 
+- 0A: Dusty Dunes
+- 0B: Hot Spring Heights
+- 0C: Icegrip Plateau 
+- 0D: BB Brigade Base (Story)
+- 0E: BB Brigade Base (Postgame)
+- 0F: Zongazonga's Castle
+- 10: The Bonehemoth
+- 11: Spinal Pillar
+- 12: Mt. Krakanak Lava Room
+- 13: Test Room
+- 14: Empty Ribular Stadium
+- 15: Empty Cranial Stadium
+- 16: Empty Ilium Stadium
+
+The amount of BP won is from 0x30 to 0x31. Like in FF1, if this value is FF FF, you get nothing.
 
 The size of the file is at 0x40. Unlike FF1, it only appears once.
 
