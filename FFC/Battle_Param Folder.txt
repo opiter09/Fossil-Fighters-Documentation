@@ -24,7 +24,7 @@ Do note, however, that other values do work and can be used to play non-battle m
 one-to-one (with one exception), here's another table for what you should use:
 - Tutorial: 0x25
 - Cup Battles: 0x26
-- Cup Final (Rupert): 0x27
+- Cup Final (Rupert): 0x27 [except in the case of Joe Wildwest's fight, which uses 0x28]
 - Normal Enemies: 0x28
 - Bosses: 0x29
 - BareBones Brigade: 0x2A
@@ -33,23 +33,26 @@ one-to-one (with one exception), here's another table for what you should use:
 - Zongazonga (First): 0x2D
 - Zongazonga (Second): 0x2D
 - Dynal: 0x30
+For non-battle music, a value of 0x26 is recommended, since that is known to work for at least the
+Unused Theme and Super Revival. If that freezes the game, however, you'll have to test things out
+until you find something that doesn't.
 
 0x20 to 0x21 is a value relating to enemy AI. This is very poorly understood currently, and will no
 doubt be tricky given FFC's small number of general AI files.
 
 0x22 is the arena a fight takes place in. Here's the list of them (again, courtesy of EchoSpaceZ):
-- 01: Ribular Stadium 
-- 02: Cranial Stadium 
-- 03: Ilium Stadium 
+- 01: Ribular Stadium
+- 02: Cranial Stadium
+- 03: Ilium Stadium
 - 04: Treasure Lake
 - 05: Jungle Labyrinth
 - 06: Petrified Woods
 - 07: Stone Pyramid
-- 08: Mt. Krakanak 
-- 09: Rainbow Canyon 
+- 08: Mt. Krakanak
+- 09: Rainbow Canyon
 - 0A: Dusty Dunes
 - 0B: Hot Spring Heights
-- 0C: Icegrip Plateau 
+- 0C: Icegrip Plateau
 - 0D: BB Brigade Base (Story)
 - 0E: BB Brigade Base (Postgame)
 - 0F: Zongazonga's Castle
@@ -60,6 +63,7 @@ doubt be tricky given FFC's small number of general AI files.
 - 14: Empty Ribular Stadium
 - 15: Empty Cranial Stadium
 - 16: Empty Ilium Stadium
+Unlke in FF1, 00 does not have an arena, and just crashes the game.
 
 The amount of BP won is from 0x30 to 0x31. Like in FF1, if this value is FF FF, you get nothing.
 
