@@ -42,4 +42,14 @@ for file in glob.glob("./battle/bin/**/0.bin", recursive = True):
         newFile.write(res)
         newFile.write("\n")
     data.close()
+
+f = open("FF1 Teams.txt", "rb")
+r = f.read()
+f.close()
+if ((r[0] == 0x0D) and (r[1] == 0x0A)):
+    f = open("FF1 Teams.txt", "wb")
+    f.close()
+    f = open("FF1 Teams.txt", "ab")
+    f.write(r[2:])
+    f.close()
     
