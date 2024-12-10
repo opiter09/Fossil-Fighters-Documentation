@@ -63,7 +63,8 @@ doubt be tricky given FFC's small number of general AI files.
 - 14: Empty Ribular Stadium
 - 15: Empty Cranial Stadium
 - 16: Empty Ilium Stadium
-Unlke in FF1, 00 does not have an arena, and just crashes the game.
+Unlke in FF1, 00 does not have an arena, and just crashes the game. Also, changing this does not
+affect special "arena" effects like Slippery Ice.
 
 The amount of BP won is from 0x30 to 0x31. Like in FF1, if this value is FF FF, you get nothing.
 
