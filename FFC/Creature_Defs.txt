@@ -112,7 +112,9 @@ the orders found in Attack_Defs, but with the Silver and Gold versions combined 
 0x30 to 0x31 is the vivosaur's name text (from text/text_dino_short_name). 0x34 to 0x35 represent a
 vivo's ID Number, the thing you see in the top left of their VMM page. 0x36 to 0x37 is the ID of the
 vivosaur this one super evolves into, while 0x38 to 0x39 is the ID of the vivosaur it super evolves from (both
-are 0 if not applicable). If you want to change this, make sure to edit ALL related into/from values together.
+are 0 if not applicable). If you want to change this, make sure to edit ALL related into/from values together,
+so there aren't two vivosaurs that share a value (that confuses the game and makes the relevant evolution crash).
+
 0x3A to 0x3B is the vivosaur's model (presumably from inside of model/arcdin, but I can't seem to find their
 index files). 0x40 to 0x41 controls both the vivosaur's medal sprite (from motion/ui_reviver_medal/reviver_NNN_XX)
 and its battle sprite (from motion/battle_creature/creature_NNN_XX).
