@@ -12,7 +12,7 @@ for root, dirs, files in os.walk("m/bin"):
             point = int.from_bytes(r[0x6C:0x70], "little")
             mapN = os.path.join(root, file).split("\\")[-2]
             f = open("ffc_kasekiNames.txt", "rt")
-            vivoNames = list(f.read().split("\n")).copy()
+            fossilNames = list(f.read().split("\n")).copy()
             f.close()
             realP = [ int.from_bytes(r[point:(point + 4)], "little") ]
             loc = point + 4
@@ -45,10 +45,10 @@ for root, dirs, files in os.walk("m/bin"):
                         thisStart = startSpawns + (j * 8)
                         dark = (["N/A", "Normal", "Dark"])[r[thisStart]]
                         rare = (["N/A", "Normal", "Rare"])[r[thisStart + 1]]
-                        vivoNum = int.from_bytes(r[(thisStart + 2):(thisStart + 4)], "little")
+                        fossilNum = int.from_bytes(r[(thisStart + 2):(thisStart + 4)], "little")
                         chance = int.from_bytes(r[(thisStart + 4):(thisStart + 6)], "little")
                         enemy = int.from_bytes(r[(thisStart + 6):(thisStart + 8)], "little")
-                        s = "\t\t\t" + "[0x" + hex(thisStart + 2).upper()[2:] + "] " + vivoNames[vivoNum]
+                        s = "\t\t\t" + "[0x" + hex(thisStart + 2).upper()[2:] + "] " + fossilNames[fossilNum]
                         s = s + " (" + dark + ", " + rare + ")"
                         s = s + ": " + str(chance) + "%"
                         s = s + " (Battle: " + str(enemy) + "%)" + "\n"
