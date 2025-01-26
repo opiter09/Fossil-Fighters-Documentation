@@ -33,8 +33,13 @@ M is a little different, and its full purpose has not yet been divined. However,
 		- 0x1C-0x1F is how many weird gigantic numbers that increment we get starting at 0x2C, while the amount of space they take up is also at 0x20-0x23.
 		  However, these values seem to be constant, so one or both of them might really be something else
 		- Then, at 0x24-0x27, we get how many actual fossil entries there are (usually, but I can't guarantee this, starting at 0x40)
-		- Each fossil entry is 8 bytes long. The first byte is for being a dark fossil (01 = no, 02 = yes). The second byte is for being rare (again, 01 = no, 02 = yes).
-          From there, the third and fourth bytes are the fossil IDs, and the last four bytes are unknown.
+		- Each fossil entry is 8 bytes long:
+			- The first byte is for being a dark fossil (01 = no, 02 = yes)
+			- The second byte is for being rare (again, 01 = no, 02 = yes)
+			- The third and fourth bytes are the fossil ID
+			- The fifth and sixth bytes are maybe something like spawn chance? If you set this to 0 the fossil won't show up, but they very much do not add up to 100,
+			  so IDK at this point
+			- The seventh and eight bytes are the % chance that it will make you fight a random fighter
 It appears that FFC is known to lock fossils behind sonar upgrades like FF1, so that is a handy explanation for the whole "everything has three tables" situation.
 Also, if you find ridiculously tiny tables, it's because those zones aren't actually used on the map (as you can see in the FFC-E-Maps-Color files).
 
