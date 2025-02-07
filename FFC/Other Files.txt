@@ -49,8 +49,8 @@ you could, if you really wanted to, make that one into a special vivo and it wou
 Do note that, as with all things, editing the data for the starters or Tricera does not change the
 relevant text. Fortunately, FFC has an easy naming scheme here, so you can just edit msg/msg_0012 and
 msg/msg_0022. Unfortunately, Carbonizer can be (at time of writing) rather finicky with FFC, so before
-running it you will need to open up the file "config.json" in Notepad and replace the 9th line with
-the following line exactly:
+running it you will need to open up the file "config.json" in Notepad and replace the "fileTypes" line
+with the following line exactly:
 	"fileTypes": ["DMG", "DTX", "MAR", "NDS"],
 
 Interestingly, the first Pacro Head you dig up in the tutorial is not simply fetched from Treasure
