@@ -53,7 +53,7 @@ If you set the rank above 9 (the highest that file goes to), the enemy will get 
 
 0x6C-0x6F is the fighter's icon. This corresponds to the sprites in a somewhat weird way, but basically if you
 drag the motion folder onto FFTool, then go into the folder motion/battle_character/bin/r_character.bin/, the
-relevant icon will be XX_0.png, where XX is this value plus 90.
+relevant icon will be X_0.png, where X is this value plus 90.
 
 0x70-0x73 is the minimum health each vivosaur in the fight can get to. This is used exactly once, in the OP
 Frigi fight, to ensure that its health cannot drop below 1.
