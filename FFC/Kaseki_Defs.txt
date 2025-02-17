@@ -5,7 +5,7 @@ This file determines the data for the various fossils. For you see, "kaseki" is 
 (Egg, Curious, etc.).
 
 0x0E-0x0F is the ID of the image used by the fossil. This ID corresponds to the name of certain files
-inside the image folder, namely ones that begin with "kaseki." The format is kaseki_*ID*_XXX. Within that
+inside the image folder, namely ones that begin with "kaseki". The format is kaseki_*ID*_XXX. Within that
 ID, there is itself a logic, in that the 0YY's are heads, the 1YY's are bodies, the 2YY's are arms,
 the 3YY's are legs, etc.
 
@@ -13,7 +13,7 @@ the 3YY's are legs, etc.
 no fossils, one of all four parts, or a Single one, or the game will break.
 
 0x12-0x13 is the ID of the image used by the rock. This ID corresponds to the name of certain files
-inside the image folder, namely ones that begin with "chips." The format is chips_*ID*_XXX.
+inside the image folder, namely ones that begin with "chips". The format is chips_*ID*_XXX.
 
 0x1C-0x1F is the buying price of the fossil, while 0x20-0x23 is the selling price.
 

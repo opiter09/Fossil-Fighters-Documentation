@@ -76,6 +76,12 @@ match it to a file in enemyNameFiles (the folder from splitting text_battle_enem
 Right after it, at 0x48, is the enemy's fighter rank. You can go check etc/btl_kp_defs to get the
 FP values for that rank.
 
+0x4A-0x4B is the fighter's icon. This value corresponds to the name of certain files
+inside the image folder, namely ones that begin with "symbolicon". The format is symbolicon_*ID*_l.
+Note that these icons also have "_s" versions (i.e. large vs. small), but those are all placeholders
+in the case of enemy icons. Also just as a fun fact, the file that the icons are stored in for FF1
+(battle/battle_character/r_character.bin) also exists in FFC, but it is also all placeholders.
+
 0x4C is what formation the team is in. 00 means that it is in the Cambrian (<) formation, while
 01 means that it is in the Jurassic (>) formation.
 
