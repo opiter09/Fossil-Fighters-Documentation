@@ -51,11 +51,11 @@ with this number in textFiles.
 0x68-0x6B is the fighter rank of this enemy. You can go check etc/btl_kp_defs to see how much FP this rank gets.
 If you set the rank above 9 (the highest that file goes to), the enemy will get 999 FP each turn.
 
-0x6C-0x6F is the fighter's icon. This corresponds to the sprites in a somewhat weird way, but basically if you
+0x8C-0x8F is the fighter's icon. This corresponds to the sprites in a somewhat weird way, but basically if you
 drag the motion folder onto FFTool, then go into the folder motion/battle_character/bin/r_character.bin/, the
 relevant icon will be X_0.png, where X is this value plus 90.
 
-0x70-0x73 is the minimum health each vivosaur in the fight can get to. This is used exactly once, in the OP
+0x90-0x93 is the minimum health each vivosaur in the fight can get to. This is used exactly once, in the OP
 Frigi fight, to ensure that its health cannot drop below 1.
 
 The vivosaurs start at 0x94. We get four bytes of ID, then four bytes of Level, and then four bytes that are
