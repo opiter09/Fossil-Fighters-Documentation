@@ -44,7 +44,7 @@ Do note, however, that other values do work and can be used to play non-battle m
 0x54-0x57 represent the BP you get for winning the fight (as, per usual, a 4-byte little-endian integer).
 If this value is FF FF FF FF, e.g. for Captain Travers, you will get no BP at all at the end.
 
-0x64-0x67 are the name of the fighter in question. This value corresponds to a certain chunk in
+0x64-0x67 is the name of the fighter in question. This value corresponds to a certain chunk in
 text/japanese; if you split it apart with my editor, you can simply look for the file whose name begins
 with this number in textFiles.
 
