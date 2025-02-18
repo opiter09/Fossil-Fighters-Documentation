@@ -29,6 +29,7 @@ Finally, here's a spot to credit those other than me who have figured stuff out:
 - aquaanimo
 - EchoSpaceZ
 - Megalo-vania
+- simonomi
 - Skittle Skitty
 
 I used to list individual contributions, but that was getting rather unwieldy, so just know that everything
