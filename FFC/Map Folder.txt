@@ -10,7 +10,7 @@ Within them, all files are numbered, according to map ID. Unlike FF1, no-one has
 should be able to get a good idea which is which.
 
 All the folders except m are of the type GRD, i.e. "grid." Thus, if you remove the first 20 bytes of the file, then set HxD to display a number of bytes per row equal to
-bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, FFC-E-Maps-Color.zip in this folder shows renditions of that
+bytes 4-8, you end up with a picture of the map telling you where everything is. For excavation, specifically, "FFC-E-Maps-Color.zip" in this folder shows renditions of that
 made using Python.
 
 M is a little different, and its full purpose has not yet been divined. However, for fossils specifically, the following set-up is known:

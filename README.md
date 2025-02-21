@@ -28,6 +28,7 @@ Finally, here's a spot to credit those other than me who have figured stuff out:
 - APOPHENIA
 - aquaanimo
 - EchoSpaceZ
+- jianmingyong
 - Megalo-vania
 - simonomi
 - Skittle Skitty
