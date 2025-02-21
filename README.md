@@ -6,7 +6,7 @@ documentation in it, and take the opportunity to clean some stuff up too.
 If you somehow got here without going through Chunk Manager, please do check it out! It can be found at
 https://github.com/opiter09/FF1-FFC-Chunk-Manager. Additionally, I have made the following Graphial User
 Interface (GUI) file editing tools:
-- Spawns: https://github.com/opiter09/Fossil-Fighters-Spawn-Editor
+- Spawns: https://github.com/opiter09/Fossil-Fighters-Spawns-Editor
 - Teams: https://github.com/opiter09/Fossil-Fighters-Teams-Editor
 
 To download this, if you are confused, press the Green "Code" button in the top right, then choose "Download ZIP".
