@@ -14,6 +14,11 @@ for root, dirs, files in os.walk("m/bin"):
             f = open("ffc_kasekiNames.txt", "rt")
             fossilNames = list(f.read().split("\n")).copy()
             f.close()
+            f = open("ffc_mapNames.txt", "rt")
+            mapNames = {}
+            for l in (f.read().split("\n")):
+                mapNames[l.split(": ")[0]] = l.split(": ")[1]
+            f.close()
             realP = [ int.from_bytes(r[point:(point + 4)], "little") ]
             loc = point + 4
             while (realP[-1] > 0):
@@ -28,7 +33,7 @@ for root, dirs, files in os.walk("m/bin"):
                 else:
                     if (check == 0):
                         check = 1
-                        text.write(mapN + ":\n")
+                        text.write(mapN + " [" + mapNames[mapN] + "]:\n")
                 text.write("\tZone " + str(index).zfill(2) + ":\n")
                 numTables = int.from_bytes(r[(val + 12):(val + 16)], "little")
                 point3 = int.from_bytes(r[(val + 16):(val + 20)], "little")

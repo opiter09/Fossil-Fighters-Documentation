@@ -1,4 +1,4 @@
-3000:
+3000 [Treasure Lake]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -638,7 +638,7 @@
 			[0x191E] Silver Head (Normal, Normal): ~1.99% (Battle: 100%)
 			[0x1926] Gold Head (Normal, Normal): ~0.30% (Battle: 100%)
 
-3001:
+3001 [Treasure Lake Pay-to-Dig]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 20
@@ -845,7 +845,7 @@
 			Max Spawns: 5
 			[0xA0A] Sucho Arms (Normal, Normal): 0% (Battle: 0%)
 
-3002:
+3002 [Treasure Lake DLC Area]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 10
@@ -1102,7 +1102,7 @@
 			Max Spawns: 5
 			[0xBA6] Sucho Arms (Normal, Normal): 0% (Battle: 0%)
 
-3003:
+3003 [Bonehead Hollow]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -1225,7 +1225,7 @@
 			Max Spawns: 5
 			[0x896] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3100:
+3100 [Jungle Labyrinth Bottom]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -1352,7 +1352,7 @@
 			Max Spawns: 5
 			[0x8F2] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3101:
+3101 [Jungle Labyrinth Left]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -1547,7 +1547,7 @@
 			Max Spawns: 5
 			[0xAFE] Sucho Arms (Normal, Normal): 0% (Battle: 25%)
 
-3102:
+3102 [Jungle Labyrinth Right]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -1715,7 +1715,7 @@
 			Max Spawns: 5
 			[0xA26] Sucho Arms (Normal, Normal): 0% (Battle: 25%)
 
-3103:
+3103 [Jungle Labyrinth Top]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -1869,7 +1869,7 @@
 			Max Spawns: 5
 			[0x9B6] Sucho Arms (Normal, Normal): 0% (Battle: 25%)
 
-3104:
+3104 [Stone Pyramid Exterior]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -2005,7 +2005,7 @@
 			Max Spawns: 5
 			[0x936] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3200:
+3200 [Petrified Woods]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -2404,7 +2404,7 @@
 			Max Spawns: 5
 			[0x120A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3201:
+3201 [Petrified Woods Cavern]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 1
@@ -2480,7 +2480,7 @@
 			Max Spawns: 5
 			[0x732] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3202:
+3202 [Petrified Woods Upper]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 1
@@ -2809,7 +2809,7 @@
 			Max Spawns: 5
 			[0xF1A] Sucho Arms (Normal, Normal): 0% (Battle: 25%)
 
-3400:
+3400 [Stone Pyramid Hallway]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -2912,7 +2912,7 @@
 			Max Spawns: 5
 			[0x80A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-3401:
+3401 [Stone Pyramid Chamber]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -3051,7 +3051,7 @@
 			Max Spawns: 5
 			[0x916] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4000:
+4000 [Mt. Krakanak Entrance]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -3327,7 +3327,7 @@
 			Max Spawns: 5
 			[0xD7E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4001:
+4001 [Mt. Krakanak Mountainside]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 3
@@ -3616,7 +3616,7 @@
 			Max Spawns: 5
 			[0xDDA] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4002:
+4002 [Mt. Krakanak Gondola]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 5
@@ -3768,7 +3768,7 @@
 			Max Spawns: 5
 			[0x99E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4003:
+4003 [Mt. Krakanak Crater]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -4108,7 +4108,7 @@
 			Max Spawns: 5
 			[0xF82] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4100:
+4100 [Rainbow Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -4282,7 +4282,7 @@
 			Max Spawns: 5
 			[0xA9A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4101:
+4101 [Rainbow Canyon Gondola]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -4492,7 +4492,7 @@
 			Max Spawns: 5
 			[0xB6E] Sucho Arms (Normal, Normal): 0% (Battle: 25%)
 
-4102:
+4102 [Rainbow Canyon Bottom]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -4646,7 +4646,7 @@
 			Max Spawns: 5
 			[0x98E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4103:
+4103 [BB Grotto]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -4806,7 +4806,7 @@
 			Max Spawns: 5
 			[0x9FA] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4104:
+4104 [Red Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -5053,7 +5053,7 @@
 			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-4105:
+4105 [Blue Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -5300,7 +5300,7 @@
 			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-4106:
+4106 [Green Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -5547,7 +5547,7 @@
 			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-4107:
+4107 [Yellow Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -5794,7 +5794,7 @@
 			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-4108:
+4108 [White Canyon]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 15
@@ -6041,7 +6041,7 @@
 			Max Spawns: 0
 			[0xB56] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-4300:
+4300 [Dusty Dunes]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -6507,7 +6507,7 @@
 			Max Spawns: 5
 			[0x136E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-4301:
+4301 [Dusty Dunes DLC Area]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 10
@@ -6796,7 +6796,7 @@
 			Max Spawns: 5
 			[0xDD2] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-5000:
+5000 [Hot Spring Heights]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -7261,7 +7261,7 @@
 			Max Spawns: 5
 			[0x13E6] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-5001:
+5001 [Hot Spring Heights Cavern]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -7373,7 +7373,7 @@
 			Max Spawns: 5
 			[0x852] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-5002:
+5002 [Hot Spring Heights Upper]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -7682,7 +7682,7 @@
 			Max Spawns: 5
 			[0xDBE] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-5003:
+5003 [Hot Spring]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -7763,7 +7763,7 @@
 			Max Spawns: 5
 			[0x63E] Sucho Arms (Normal, Normal): 0% (Battle: 0%)
 
-5100:
+5100 [Icegrip Plateau]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -8342,7 +8342,7 @@
 			Max Spawns: 5
 			[0x172E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-5101:
+5101 [Icegrip Plateau Cavern]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -8514,7 +8514,7 @@
 			Max Spawns: 5
 			[0xA1E] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-6000:
+6000 [BB Brigade Base]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 6
@@ -8717,7 +8717,7 @@
 			Max Spawns: 5
 			[0xB5A] Sucho Arms (Normal, Normal): 0% (Battle: 0%)
 
-6100:
+6100 [Zongazonga's Castle]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -8939,7 +8939,7 @@
 			Max Spawns: 5
 			[0xBD2] Sucho Arms (Normal, Normal): 100% (Battle: 0%)
 
-6200:
+6200 [Bonehemoth Bottom]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 0
@@ -9210,7 +9210,7 @@
 			Max Spawns: 5
 			[0xD7A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-6201:
+6201 [Bonehemoth Middle]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 4
@@ -9421,7 +9421,7 @@
 			Max Spawns: 5
 			[0xB6A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-6202:
+6202 [Bonehemoth Mouth]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 2
@@ -9494,7 +9494,7 @@
 			Max Spawns: 5
 			[0x72A] Sucho Arms (Normal, Normal): 100% (Battle: 25%)
 
-6400:
+6400 [Seabed Cavern]:
 	Zone 01:
 		Fossil Chip 0:
 			Max Spawns: 8

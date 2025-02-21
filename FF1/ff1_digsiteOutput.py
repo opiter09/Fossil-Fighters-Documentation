@@ -11,7 +11,7 @@ for root, dirs, files in os.walk("m/bin"):
             f.close()
             point = int.from_bytes(r[0x54:0x58], "little")
             mapN = os.path.join(root, file).split("\\")[-2]
-            mf = open("Map IDs.txt", "rt")
+            mf = open("ff1_mapNames.txt", "rt")
             lines = list(mf.read().split("\n")).copy()
             for t in lines:
                 if (t != ""):
