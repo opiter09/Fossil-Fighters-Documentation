@@ -23,8 +23,9 @@ third to 1, it is guaranteed not to be Dark.
 etc/creature_palet_defs defines each of the Silver Fossil color sets. Starting from 0x0C, each ID is
 12 bytes long, consisting of two bytes of incrementing index, two bytes of the palette, and then
 two bytes each for the seldom-used Red, Green, and Blue modifiers. The default for those is, as you'll
-quickly notice, 0x64. See also:
-https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
+quickly notice, 64 00. It also loops around after 0x7F, which makes it weird that some vanilla values
+are higher than this. Finally, after those ten bytes come two random bytes that seem to always be 00 00.
+See also: https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
 
 etc/horider_experience_defs controls how much XP each quest gives. The first 16 bytes are the header,
 then we have four bytes per quest: two of ID, and two of XP amount. Currently, which quest is which

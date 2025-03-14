@@ -132,8 +132,7 @@ that the vivosaurs after them use their internal ID minus 6 for their animation 
 
 0x46 to 0x4D represent the color IDs for a vivosaur's head, body, arm, and legs Silver Fossil
 recolorings (two bytes each). You can match these up to etc/creature_palet_defs to get the palette and
-RGB values. See also:
-https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
+RGB values. See also: https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
 
 0x4E to 0x4F is the move ID of the Team Skill. All skill IDs can be found by looking at the
 number at the end of their file in vivoFiles, or their line number in FFC files' vivoNames.txt (both of
