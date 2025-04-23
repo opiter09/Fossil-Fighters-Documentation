@@ -58,18 +58,6 @@ list is backwards and does not affect the text, but it also seems to skip a valu
 - 16: Treasure Lake
 However, changing this value alone does not work, for reasons currently unknown.
 
-A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, and 03 being Long-Range.
-Again, the text for this is stored separately, in text/text_dino_kind.
-
-Strangely, the range multipliers are not stored somewhere else per class, but are spelled out for each
-vivo, at 0x1B-0x2B. Only the first 8 seem to be used (with the rest being 00) and each value is the
-multiplier percentage. As for which values go where, well we have determined that you can only be 1-7
-tiles alway from another vivo, and the first two values here are always the same, ergo, we can assume
-that these go from 0 through 7 tiles away. Regarding calculating distance, Megalo-vania puts it like
-this: "The black line [between the two closest AZs] represents 1 tile away // then you move up or down
-on your side to get 2 tiles // then up or down on the opponents side to get 3 tiles // and so on // the
-backlines attacking each other make for 7 tiles of distance // then you go back down again"
-
 A vivosaur's static/blue move is at 0x19. Link is not one of them; you just have Link by having a
 non-zero chance. Here's the table for this:
 - 01: Nothing
@@ -96,6 +84,17 @@ non-zero chance. Here's the table for this:
 The "Japanese for" effects are, of course, unused, and they also seem to not do what they say, or indeed
 anything at all. Some may have only worked on debug builds, while others may only have worked in
 FF1 (looking at you, 09).
+
+A vivosaur's Range is at 0x1A, with 01 being Close-Range, 02 being Mid-Range, and 03 being Long-Range.
+Again, the text for this is stored separately, in text/text_dino_kind.
+
+Strangely, the range multipliers are not stored somewhere else per class, but are spelled out as percentages for
+each vivo at 0x1B-0x22. As for which values go where, well we have determined that you can only be 1-7 tiles away
+from another vivo, and the first two values here are always the same, ergo, we can assume that these go from 0
+through 7 tiles away. Regarding calculating distance, Megalo-vania puts it like this: "The black line [between the
+two closest AZs] represents 1 tile away // then you move up or down on your side to get 2 tiles // then up or down
+on the opponents side to get 3 tiles // and so on // the backlines attacking each other make for 7 tiles of
+distance // then you go back down again"
 
 0x23 to 0x2A are a series of "flag" bytes that determine immunity--01 means the vivo is immune to that
 status and will never receive it, and 00 means it is not. The order of statuses roughy corresponds to
