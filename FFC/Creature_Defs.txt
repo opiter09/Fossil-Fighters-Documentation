@@ -260,7 +260,7 @@ Okay, time for a nice roundup on how to add a move:
 - Change the 01 02 03 00 after the support effects (or at 0xCC itself if there are none) to 01 02 03 04
 - Change the number of moves from 03 to 04 at 0x94, 0x9C, and 0xAC
 - Change the 00 00 at 0xCA to 07 00 (or whatever level you want the move to unlock at)
-And... that should be it! no bytes are added or deleted, nice and easy.
+And... that should be it! No bytes are added or deleted, so it's nice and easy.
 
 However, since support effects hate me here, let's write out what you need to change to add them in entirely:
 - Add in the actual support effects, after 0xCB (or before wherever the 01 02 03 04 is)
