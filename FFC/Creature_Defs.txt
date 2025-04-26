@@ -211,6 +211,23 @@ skip over it):
 Note: these Groups come from the Wiki. See
 https://fossilfighters.fandom.com/wiki/List_of_Compatible_Vivosaurs for more information.
 
+0x60 to 0x90 are a series of values controlling the placement of the vivosaur's model in menus/battle.
+Each location gets 12 bytes: 4 for vertical placement, 4 for angle, and 4 for how "close" they are
+(i.e. z-axis placement). There are four such locations, going in the order of:
+0x60-0x6B: Holder/Battle
+0x6C-0x77: Post-Revival Stats Screen
+0x78-0x83: Fossilary
+0x64-0x8F: Revival Screen
+
+However! Just for funsies, 0x64-0x67 controls both the Holder/Battle *and* Fossilary angles, while
+0x7C-0x7F does literally nothing. Thanks devs!
+
+Regarding the actual values of these things, they're all really weird, so you should just steal them
+from existing vivosaurs to get what you want.
+
+0x90 to 0x94 controls how big a vivosaur's shadow is in battle, with smaller values making it smaller.
+Again, just look at existing values for this.
+
 0x98 to 0x9B is a pointer to where the vivosaur's list of moves begins. You shouldn't ever need to
 change this, but it's still good to know. Similarly, 0xA0 to 0xA3 is a pointer to where the vivosaur's
 list of move-learning levels begins.
