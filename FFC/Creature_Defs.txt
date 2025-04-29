@@ -112,7 +112,7 @@ the orders found in Attack_Defs, but with the Silver and Gold versions combined 
 the name shown when you hover over a dino medal, what the commetators refer to the vivosaur as during battle, and
 the names of its fossils. However, changing this (or the text itself) does not change what existing vivosaurs in a
 save are named (i.e. in terms of what you see at the top of their stats screens). This is because even vivosaurs
-you have not given a nickname are "nicknamed", they just set it to their normal names when you revived them.
+you have not given a nickname to are "nicknamed", they just set it to their normal names when you revived them.
 
 0x34 to 0x35 represent a vivo's ID Number, the thing you see in the top left of their VMM page. 0x36 to 0x37 is
 the ID of the vivosaur this one super evolves into, while 0x38 to 0x39 is the ID of the vivosaur it super evolves
