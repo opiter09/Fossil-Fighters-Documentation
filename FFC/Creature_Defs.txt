@@ -246,7 +246,8 @@ is missing, then make sure to change the C4 in this area to CC.
 
 0xBC to 0xC3 are the move IDs of the normal four (or three) moves, each two bytes. Do note that if a
 vivosaur in FFC has only three moves, they will have a 00 00 here, so you don't have to worry about
-adjusting locations based on that.
+adjusting locations based on that. Also, if this isn't clear, the IDs are the moves' chunk numbers in
+attack_defs.
 
 0xC4 to 0xCB are the levels each move is learned at (two bytes each). Again, missing moves have a 00 00,
 it's really nice.

@@ -96,7 +96,7 @@ Now we finally come to the normal four (or three) skill IDs. These are from 0x8C
 are 1, 2, 3, 4 each as four byte numbers. Both of these show off an important property of FF1: if a vivosaur
 has three moves, the fourth move's ID bytes and 04 00 00 00 literally just don't exist. This means you have
 to be careful when using any offsets given after this point on, say, Zino (for simplicity they will be given
-for four-movers).
+for four-movers). Also, if this isn't clear, the IDs are the moves' chunk numbers in attack_defs.
 
 From 0xAC to 0xB3 are a vivosaur's support effects. The first four bytes are for your AZ, and the second four
 are for theirs. The stats go in order: Attack, Defense, Accuracy, and then Evasion. Also, if you see some
