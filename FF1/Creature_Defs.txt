@@ -85,8 +85,13 @@ but it's always 00 so who cares). We thus are in need of another table for those
 - Auto Counter: Since it is always 0x64 here, this is most likely the chance to trigger
 - Frigi's 08: The value is 01 for some unknown reason
 
-Over at 0x6C is the multiplier for your damage to and from the SZ. Unusually for Fossil Fighters, this value is
-the multiplier times 100, not times 10. For example, the default one is 0x32 -> 50 -> 0.5.
+Over at 0x6C is the multiplier for the damage between an AZ vivo and an SZ vivo. Unusually for Fossil
+Fighters, this value is the multiplier times 100, not times 10. For example, the default one is
+0x32 -> 50 -> 0.5.
+
+0x70 is the multiplier for the damage between two SZs vivos; this is relevant for e.g. moves that hit all
+enemeis. Like with 0x6C, this value is the multiplier times 100; for example, the default one is
+0x28 -> 40 -> 0.4.
 
 0x84 represents what Number a vivo has, which is just their ID (except for postgame Frigi and Igno). 0x88
 is what position a vivo is at when you sort by alphabetical order (which is related since you can sort by
