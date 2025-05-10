@@ -139,9 +139,8 @@ that the vivosaurs after them use their internal ID minus 6 for their animation 
 recolorings (two bytes each). You can match these up to etc/creature_palet_defs to get the palette and
 RGB values. See also: https://docs.google.com/spreadsheets/d/15tZV5rMJejwdMHK2A3DZOAHsNPo-BfDxqWt6Ce4esaY/edit#gid=0
 
-0x4E to 0x4F is the move ID of the Team Skill. All skill IDs can be found by looking at the
-number at the end of their file in vivoFiles, or their line number in FFC files' vivoNames.txt (both of
-which are in my Chunk Editor).
+0x4E to 0x4F is the move ID of the Team Skill. All skill IDs can be found by looking at their line numbers
+in the file ffc_moveNames_Zero.txt in my Chunk Editor.
 
 0x50 to 0x51 are always the same value as that vivosaur's first move in vanilla, and has been shown to be the
 move a vivosaur uses with Link. Since Link always skips move animations in FFC, you can put anything you
