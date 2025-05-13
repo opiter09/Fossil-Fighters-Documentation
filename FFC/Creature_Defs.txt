@@ -241,12 +241,13 @@ list of move-learning levels begins.
 means your side, 00 00 00 00 CC 00 00 00 means their side, and all zeroes means the vivosaur has no
 support effects at all. Why CC? Tonzilla was able to help me figure that one out: it is a pointer to the
 beginning of the support effects block. So if you happen to be editing Tonzilla and add whatever it is he
-is missing, then make sure to change the C4 in this area to CC.
+is missing, then make sure to change the C4 in this area to CC. [For adding support effects, see the end
+of this document.]
 
 0xBC to 0xC3 are the move IDs of the normal four (or three) moves, each two bytes. Do note that if a
 vivosaur in FFC has only three moves, they will have a 00 00 here, so you don't have to worry about
 adjusting locations based on that. Also, if this isn't clear, the IDs are the moves' chunk numbers in
-attack_defs.
+attack_defs. [For adding moves, see the end of this document.]
 
 0xC4 to 0xCB are the levels each move is learned at (two bytes each). Again, missing moves have a 00 00,
 it's really nice.
