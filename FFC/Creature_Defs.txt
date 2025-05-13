@@ -98,7 +98,7 @@ distance // then you go back down again"
 
 0x23 to 0x2A are a series of "flag" bytes that determine immunity--01 means the vivo is immune to that
 status and will never receive it, and 00 means it is not. The order of statuses roughy corresponds to
-the orders found in Attack_Defs, but with the Silver and Gold versions combined together:
+the orders found in attack_defs, but with the Silver and Gold versions combined together:
 - Poison
 - Sleep
 - Scare
@@ -163,7 +163,7 @@ that another table is in order:
 - Berserker: This is the only ability where 0x55 may be something other than 00, since this is what move
   Hopter always uses when woozy. By default, it is E7 01, i.e. Beak Stab.
 - Enter with a Status: This represents the ID of the status. It matches up perfectly with the "primary"
-  effect table given below.
+  effect table given in the attack_defs docs.
 - Resurrect: Z-Rex has a 02 here, even though this ability activates after three turns. However, this is
   similar to how Infection has a 04 despite it taking 5 turns to kill (see below), so we can safely say
   that this controls how many turns it takes to come back.
