@@ -87,6 +87,10 @@ Here is the table for those:
 - 17: Instant KO (bytes after percent are 07 00, extra value is percent chance to work)
 - 18: Cure all statuses for the whole team (bytes after percent are 07 00, no extra value)
 
+Moves with an Extra Value, like healing, have theirs on the third and fourth bytes after the percent,
+as a two-byter. If there is no value, it's just 00 00 there. What exactly the Bytes After Percent do
+is currently unknown, so just stick with the numbers I pulled from vanilla moves.
+
 For transforming moves, 0x28 is the number of possible vivos to transform into. Then vivosaur IDs start
 at 0x30 and are each one byte. Once again, ID = vivoFiles file number.
 
@@ -96,6 +100,6 @@ moves are all correct; this is just a cosmetic issue. It is believed that this i
 ignoring Silver Fossil recolorings, and such super evolvers being all internally considered recolors
 of the same model.
 
-Moves with an Extra Value, like healing, have theirs on the third and fourth bytes after the percent,
-as a two-byter. If there is no value, it's just 00 00 there. What exactly the Bytes After Percent do
-is currently unknown, so just stick with the numbers I pulled from vanilla moves.
+Finally, moves may have extra 00's at the end. This is because moves are another one of those things that
+need to have a multiple of 4 bytes in their chunk. So, if you add or remove bytes, make sure to add or
+remove 00's according (but I would advise that if you would have no 00's at all, put in four instead).

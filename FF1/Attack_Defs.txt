@@ -98,5 +98,9 @@ And here is a table for secondary values:
 - Swap Zones: 00 00
 
 If this is a transforming move, after the Secondary value you have one byte of "number of vivosaurs you
-can transform into," then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one
-byte each), and then some number of 00's
+can transform into", then 00 00 00 0C 00 00 00, then the vivosaur IDs you can transform into (still one
+byte each).
+
+Finally, moves may have extra 00's at the end. This is because moves are another one of those things that
+need to have a multiple of 4 bytes in their chunk. So, if you add or remove bytes, make sure to add or
+remove 00's according (but I would advise that if you would have no 00's at all, put in four instead).
